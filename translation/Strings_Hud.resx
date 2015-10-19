@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Status_Revive_Trial" xml:space="preserve">
+    <value>Trial Second Chance!</value>
+  </data>
+  <data name="Fidget_AutoSaving" xml:space="preserve">
+    <value>Saving...</value>
+  </data>
+  <data name="Mini_QuestUpdated" xml:space="preserve">
+    <value>Quest Updated!</value>
+  </data>
+  <data name="Mini_NoteAdded" xml:space="preserve">
+    <value>Note Added!</value>
+  </data>
+  <data name="Status_ChainBreak" xml:space="preserve">
+    <value>Chain Broken!</value>
+  </data>
+  <data name="Fidget_Enter" xml:space="preserve">
+    <value>Enter</value>
+  </data>
+  <data name="Fidget_Score" xml:space="preserve">
+    <value>Check Score</value>
+  </data>
+  <data name="Mini_GoldAcquired" xml:space="preserve">
+    <value>Gold Acquired!</value>
+  </data>
+  <data name="Status_Critical" xml:space="preserve">
+    <value>Critical Hit!</value>
+  </data>
+  <data name="Mini_Rescued" xml:space="preserve">
+    <value>Friend Rescued!
++5% Health Bonus</value>
+  </data>
+  <data name="Mini_InvFull" xml:space="preserve">
+    <value>Inventory Full</value>
+  </data>
+  <data name="Gate_Rainbow" xml:space="preserve">
+    <value>Rainbow Gate</value>
+  </data>
+  <data name="Mini_QuestCompleted" xml:space="preserve">
+    <value>Quest Completed!</value>
+  </data>
+  <data name="Fidget_Collect" xml:space="preserve">
+    <value>Collect</value>
+  </data>
+  <data name="Gate_Green" xml:space="preserve">
+    <value>Green Gate</value>
+  </data>
+  <data name="Gate_White" xml:space="preserve">
+    <value>White Gate</value>
+  </data>
+  <data name="Status_LevelUp" xml:space="preserve">
+    <value>Level Up!</value>
+  </data>
+  <data name="Status_Upgraded" xml:space="preserve">
+    <value>New Ability Acquired!</value>
+  </data>
+  <data name="Mini_QuestReady" xml:space="preserve">
+    <value>Quest Ready!</value>
+  </data>
+  <data name="Status_Blinded" xml:space="preserve">
+    <value>Blinded!</value>
+  </data>
+  <data name="Mini_QuestAdded" xml:space="preserve">
+    <value>Quest Added!</value>
+  </data>
+  <data name="Mini_GoldRemoved" xml:space="preserve">
+    <value>Gold Removed</value>
+  </data>
+  <data name="Status_Frozen" xml:space="preserve">
+    <value>Frozen!</value>
+  </data>
+  <data name="Status_Silenced" xml:space="preserve">
+    <value>Silenced!</value>
+  </data>
+  <data name="Status_Burned" xml:space="preserve">
+    <value>Burned!</value>
+  </data>
+  <data name="Status_Haunted" xml:space="preserve">
+    <value>Haunted!</value>
+  </data>
+  <data name="Gate_Yellow" xml:space="preserve">
+    <value>Yellow Gate</value>
+  </data>
+  <data name="Gate_Blue" xml:space="preserve">
+    <value>Blue Gate</value>
+  </data>
+  <data name="Status_Poison" xml:space="preserve">
+    <value>Poisoned!</value>
+  </data>
+  <data name="Status_Revive" xml:space="preserve">
+    <value>Revival Stone Used!</value>
+  </data>
+  <data name="Gate_Purple" xml:space="preserve">
+    <value>Purple Gate</value>
+  </data>
+  <data name="Mini_RegionAdded" xml:space="preserve">
+    <value>A new region has been revealed!</value>
+  </data>
+  <data name="Fidget_NoEscape" xml:space="preserve">
+    <value>No Escape!</value>
+  </data>
+  <data name="Gate_Red" xml:space="preserve">
+    <value>Red Gate</value>
+  </data>
+  <data name="Fidget_OpenChest" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="Mini_XPAcquired" xml:space="preserve">
+    <value>XP Acquired!</value>
+  </data>
+  <data name="Mini_ShopRestock" xml:space="preserve">
+    <value>Shops Restocked!</value>
+  </data>
+  <data name="Mini_ItemsRemoved" xml:space="preserve">
+    <value>Items Removed</value>
+  </data>
+  <data name="Mini_SkillGem" xml:space="preserve">
+    <value>Skill Gem Available!</value>
+  </data>
+  <data name="Fidget_Save" xml:space="preserve">
+    <value>Save/Teleport</value>
+  </data>
+  <data name="Fidget_Shop" xml:space="preserve">
+    <value>Shop</value>
+  </data>
+</root>

@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="010_Option_2" xml:space="preserve">
+    <value>Nevermind.</value>
+  </data>
+  <data name="010_Option_1" xml:space="preserve">
+    <value>Let's talk.</value>
+  </data>
+  <data name="010_Option_0" xml:space="preserve">
+    <value>I'd like to craft an item.</value>
+  </data>
+  <data name="040_100" xml:space="preserve">
+    <value>Don't worry about her, Dust. Altitude sickness. Drives some creatures crazy.</value>
+  </data>
+  <data name="040_110" xml:space="preserve">
+    <value>Fidget was pretty crazy before. Maybe we should be on our way.</value>
+  </data>
+  <data name="040_080" xml:space="preserve">
+    <value>Uh, Fidget, I don't think that'd help-</value>
+  </data>
+  <data name="040_060" xml:space="preserve">
+    <value>Yeah, I hear what you're saying. I wish it was more accessible - we'd get more business, I'm sure of it. But it's not like we can just pick it up and move it.</value>
+  </data>
+  <data name="040_090" xml:space="preserve">
+    <value>You know! Smart, mutant rats! With MAGIC!</value>
+  </data>
+  <data name="040_040" xml:space="preserve">
+    <value>Sounds like this forge has a lot of history behind it, then. Even so...</value>
+  </data>
+  <data name="040_070" xml:space="preserve">
+    <value>I'll bet if you had an army of trained rats, you could move this place no problem!</value>
+  </data>
+  <data name="040_020" xml:space="preserve">
+    <value>It was built during the Battle of Archers' Pass, many hundreds of years ago. The archers were holding off their enemies from way up here, but they needed a forge to replenish their arrows.</value>
+  </data>
+  <data name="040_050" xml:space="preserve">
+    <value>Location, location, location.</value>
+  </data>
+  <data name="040_000" xml:space="preserve">
+    <value>Your forge is pretty far off the beaten path, Haley. Why set up shop so far outside Aurora?</value>
+  </data>
+  <data name="040_030" xml:space="preserve">
+    <value>So they built one right where they stood! It helped them take Archers' Pass, and from here, they were able to liberate the whole valley.</value>
+  </data>
+  <data name="040_010" xml:space="preserve">
+    <value>This forge is actually quite ancient! My father's father's father's father inherited it from his mother's grandfather on her father's side.</value>
+  </data>
+  <data name="001_090" xml:space="preserve">
+    <value>Now Dust, this doesn't mean I don't want you coming up to visit me in person. But at least I can keep an eye on you and help you out whenever you need me.</value>
+  </data>
+  <data name="001_020" xml:space="preserve">
+    <value>From beyoooond the graaaaave!</value>
+  </data>
+  <data name="001_030" xml:space="preserve">
+    <value>AAH! DEMON BLACKSMITH! That's the worst kind of blacksmith!</value>
+  </data>
+  <data name="001_000" xml:space="preserve">
+    <value>Hello? Hello? Can you hear me?</value>
+  </data>
+  <data name="001_010" xml:space="preserve">
+    <value>Haley? Is that you? Where are you calling from?</value>
+  </data>
+  <data name="001_060" xml:space="preserve">
+    <value>That's great! Now if you ever need to craft an item, you can do it directly from your Inventory.</value>
+  </data>
+  <data name="001_040" xml:space="preserve">
+    <value>Oh, would you calm down? I'm at home with Matti. I see you found my dad's lost receiver!</value>
+  </data>
+  <data name="001_050" xml:space="preserve">
+    <value>Yeah, and it seems to be working.</value>
+  </data>
+  <data name="001_100" xml:space="preserve">
+    <value>Sure, Haley. I really appreciate the help.</value>
+  </data>
+  <data name="000_300" xml:space="preserve">
+    <value>If I remember correctly, one of my dad's customers dropped one somewhere in Abadis Forest. If you were to find it, I could craft your items and send them to you through the receiver whenever you wanted!</value>
+  </data>
+  <data name="000_310" xml:space="preserve">
+    <value>Dad normally gives his customers a Blue Resonance Gem, so check for blue resonance gates in Abadis Forest.</value>
+  </data>
+  <data name="000_280" xml:space="preserve">
+    <value>Hmm. Well, my dad DID have these little receiver things he'd give to his regular customers to transport goods back and forth.</value>
+  </data>
+  <data name="000_290" xml:space="preserve">
+    <value>Unfortunately I don't have any of them to give you. Let me think...</value>
+  </data>
+  <data name="000_260" xml:space="preserve">
+    <value>Just inside the door is a teleporter that'll take you right up here! Makes return trips a lot easier, so you can come and visit any time you like.</value>
+  </data>
+  <data name="000_250" xml:space="preserve">
+    <value>And just because I like you, I'll give you a Blue Resonance Gem. Don't know if you caught it on your way up, but there's a big blue door at the foot of Archers' Pass that this'll open.</value>
+  </data>
+  <data name="000_270" xml:space="preserve">
+    <value>I'll be honest, even with a shortcut at the foot of the Pass I'm not sure I'll be able to make it up here too often...</value>
+  </data>
+  <data name="000_130" xml:space="preserve">
+    <value>Thanks, Haley.</value>
+  </data>
+  <data name="000_100" xml:space="preserve">
+    <value>Don't mind him. I see you've got a blueprint there, mind if I take a look?</value>
+  </data>
+  <data name="000_110" xml:space="preserve">
+    <value>Well... this doesn't look too hard. Tell you what, if you can find me the materials for it, I'll craft this item for you.</value>
+  </data>
+  <data name="000_080" xml:space="preserve">
+    <value>Nice to meet you. I'm Haley, and this is my brother, Matti.</value>
+  </data>
+  <data name="000_090" xml:space="preserve">
+    <value>*grumbles*</value>
+  </data>
+  <data name="000_020" xml:space="preserve">
+    <value>Ah! Easy there, chief!</value>
+  </data>
+  <data name="000_000" xml:space="preserve">
+    <value>Whoa! Ah... hello there!</value>
+  </data>
+  <data name="000_030" xml:space="preserve">
+    <value>Everyone, calm down, please! So! You were the ones making all that noise up there!</value>
+  </data>
+  <data name="000_060" xml:space="preserve">
+    <value>So, what brings you two this far outside Aurora? I'm assuming that's where you're from?</value>
+  </data>
+  <data name="000_010" xml:space="preserve">
+    <value>Grrr...</value>
+  </data>
+  <data name="000_040" xml:space="preserve">
+    <value>Not intentionally. By the way, do you know you have blombs in the attic?</value>
+  </data>
+  <data name="000_070" xml:space="preserve">
+    <value>I'm Dust, and this is my companion, Fidget. We're here to deliver these materials on Avgustin's behalf.</value>
+  </data>
+  <data name="000_050" xml:space="preserve">
+    <value>Oh those? They don't bother us, and they tend to keep the other monsters away. If I knew we were having company, I'd have cleared them out myself. Sorry about that, I guess.</value>
+  </data>
+  <data name="015_000" xml:space="preserve">
+    <value>So, let's talk.</value>
+  </data>
+  <data name="011_000" xml:space="preserve">
+    <value>Aw, maybe next time then.</value>
+  </data>
+  <data name="012_000" xml:space="preserve">
+    <value>Need anything else?</value>
+  </data>
+  <data name="010_000" xml:space="preserve">
+    <value>Ah, my favorite customer! What can I do for you?</value>
+  </data>
+  <data name="013_000" xml:space="preserve">
+    <value>Thanks, Dust.  Don't be long coming back!</value>
+  </data>
+  <data name="020_100" xml:space="preserve">
+    <value>Well, hope that answers your question!</value>
+  </data>
+  <data name="020_110" xml:space="preserve">
+    <value>Not really, but-</value>
+  </data>
+  <data name="020_120" xml:space="preserve">
+    <value>Let it go, Dust. Just let it go.</value>
+  </data>
+  <data name="020_080" xml:space="preserve">
+    <value>I really can't say, Dust. Matti, do you have anything to say?</value>
+  </data>
+  <data name="020_090" xml:space="preserve">
+    <value>Grrr...</value>
+  </data>
+  <data name="020_000" xml:space="preserve">
+    <value>I notice it's only you and Matti up here in the Pass. Is it just you two?</value>
+  </data>
+  <data name="020_020" xml:space="preserve">
+    <value>Sounds like he's always pretty busy.</value>
+  </data>
+  <data name="020_010" xml:space="preserve">
+    <value>Not all the time, no. My father still runs the forge, but he's usually away on business. Right now he's somewhere across the sea hunting down new minerals and ores. He's always trying to make better weapons and armor.</value>
+  </data>
+  <data name="020_040" xml:space="preserve">
+    <value>I meant to ask before... does Matti have a problem with me?</value>
+  </data>
+  <data name="020_030" xml:space="preserve">
+    <value>Yeah, but I get along fine by myself. And Matti, too, of course.</value>
+  </data>
+  <data name="020_060" xml:space="preserve">
+    <value>Well, it's just... he seems to grumble a lot around me.</value>
+  </data>
+  <data name="020_050" xml:space="preserve">
+    <value>What!?</value>
+  </data>
+  <data name="020_070" xml:space="preserve">
+    <value>I can attest to that! Lots of grumbling.</value>
+  </data>
+  <data name="030_010" xml:space="preserve">
+    <value>In a way, I guess. My father said I could be whatever I wanted, but when you grow up alongside a world-famous blacksmith your options are fairly limited.</value>
+  </data>
+  <data name="030_030" xml:space="preserve">
+    <value>So business is good?</value>
+  </data>
+  <data name="030_000" xml:space="preserve">
+    <value>So, is blacksmithing the official family trade, then?</value>
+  </data>
+  <data name="030_020" xml:space="preserve">
+    <value>Not that I mind, though! It's nice to have skills that are in demand these days. Everybody always needs something forged, whether it's amulets or armor.</value>
+  </data>
+  <data name="030_040" xml:space="preserve">
+    <value>It's... well, it's been better. Still, we make enough to keep things going, and that's the important thing.</value>
+  </data>
+  <data name="015_Option_2" xml:space="preserve">
+    <value>Why live in Archers' Pass?</value>
+  </data>
+  <data name="015_Option_0" xml:space="preserve">
+    <value>Is Matti your only family?</value>
+  </data>
+  <data name="015_Option_1" xml:space="preserve">
+    <value>How long have you been a blacksmith?</value>
+  </data>
+</root>

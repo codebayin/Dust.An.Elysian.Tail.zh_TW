@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ContentTitle" xml:space="preserve">
+    <value>Table of Contents</value>
+  </data>
+  <data name="Manual" xml:space="preserve">
+    <value>[BOOKMARK_-Controls-]
+[IMAGE_Controller1_0,0,450,312]
+
+Use the [LTHUMB] or [DPAD] to move Dust. Hold [DOWN] to crouch. Hold [UP] or [DOWN] to adjust the view accordingly.
+
+Press [A] to jump. Pressing [A] while crouching on a platform will drop down to platforms below.
+
+Press [X] to perform a melee attack. Successive attacks with [X] and [Y] yield a combo.
+
+Hold [X] while attacking to perform a Parry, which can counter an incoming enemy strike and possibly stun your opponent for increased damage.
+
+Hold [Y] to perform the DUST STORM. Note that Dust cannot maintain this move for more than a few seconds before taking damage.
+
+Hold [Y] in mid-air to perform an AERIAL DUST STORM and target foes from afar.
+
+Press [B] to command Fidget to throw a Projectile. This will consume a bit of the ENERGY METER. Complete melee combos to recharge the meter, with throws and parries being the most effective. Perform the DUST STORM on Fidget's projectiles for a more effective attack.
+
+Press [LB] to consume a healing item assigned to the QUICK ITEM SLOT.
+
+Press [RB] to cycle Fidget's available Projectile types.
+
+Press [LT] or [RT] or [RTHUMB] to perform an evasive dash and avoid enemy attacks. Evading uses a bit of your ENERGY METER.
+
+On occasion, Fidget will prompt you to perform context-sensitive actions, and alert you to treasure within the area.
+
+
+[BOOKMARK_-Advanced Move List-]
+
+From Whence It Came (Ground)
+[X],[X],[X],[X]
+
+Ash Bound (Ground Throw)
+[X],[X],[Y],[Y]
+
+Rising Phoenix (Ground)
+[X],[Y] 
+
+The Underling (Ground)
+[DOWN] + [A]
+
+The Undoing (Air Throw)
+[X],[X],[X],[Y]
+
+The Fallen (Air)
+[DOWN] + [Y]
+
+Dust Storm (Ground and Air)
+[Y] (Hold)
+
+Fidget Projectile Attack
+[B] (Consumes ENERGY METER)
+
+
+[BOOKMARK_-The HUD-]
+[IMAGE_HUD2_610,0,549,300]
+
+The onscreen Heads-Up Display (HUD) displays important information, such as your current Health, Gold, and Experience Level. The Experience Meter displays how much experience has been gained in the current Level, and the ENERGY METER will deplete as you throw Projectiles or perform evasive moves.
+
+
+[BOOKMARK_-The Inventory-]
+
+Your Inventory allows you to equip and consume items, upgrade your stats, and view maps and quests.
+
+Access your Inventory by pressing [BACK]. Keep note of the context-sensitive controls displayed at the bottom of each page for additional help.
+
+
+[BOOKMARK_-Experience and the HIT CHAIN-]
+
+Dust will gain experience as he defeats enemies. After striking an enemy, a HIT CHAIN timer begins. Each successive attack will increase the HIT CHAIN. When all the enemies are defeated, their accumulated experience will be added to a bonus based on the final value of the HIT CHAIN.
+
+Taking damage will break the HIT CHAIN, and Dust will lose any bonus experience.
+
+Remember, if an area seems particularly difficult, try leveling up to increase your stats. This is particularly useful when completing the various Challenge Arenas scattered throughout the world.
+
+
+[BOOKMARK_-Leveling Up-]
+
+When Dust receives enough experience, he will gain a level and acquire SKILL GEMS to spend on four attributes; Dust's (Health), (Attack) Power, (Defense) Ability, and (Fidget)'s Projectile attacks.
+
+Spend SKILL GEMS wisely, as they can drastically affect your ability to survive in the world. Your (Luck) automatically increases with each Level-Up, which slightly governs all of your actions.
+
+For those who wish to skip the entire upgrade process, you may enable (Auto Level-Up) from the (Options) within the (Pause Menu). (Auto Level-Up) is permanently enabled on (Casual) difficulty.
+
+
+[BOOKMARK_-Gold and Items-]
+
+Defeated enemies will drop gold, healing items, and random materials.
+
+Gold can be used to buy items in shops. 
+
+Healing items can replenish lost health, cure status ailments, or provide other special bonuses. When found, these items will be stored in the Inventory for later use (this behavior can be changed by enabling (Auto Heal) in the (Options) menu).
+
+Materials can be used in conjunction with blueprints and blacksmiths to construct items throughout the world
+
+
+[BOOKMARK_-Keys and Treasure-]
+
+Scattered throughout the world are Keys, Treasure Chests, and Cages to find. If there is hidden treasure nearby, Fidget will prompt you with a [ICON_364] upon entering a new area.
+
+Treasure Chests hold a variety of surprises. Any Key can open any Chest, but once a Key is used, it is gone forever. Press [UP] in front of a Treasure Chest to use a Key and begin the unlocking mini-game. If you fail the mini-game, your Key will be returned to you.
+
+Cages are similar to Treasure Chests. They require more Keys, but their contents are that much more special!
+
+
+[BOOKMARK_-Saving and Death-]
+
+When Dust travels through a Save Monument, your progress will be saved. Should Dust fall to his enemies, you will be brought back to the last Save Monument he passed through.
+
+If Dust possesses a Teleport Stone, he can return to the World Map from any Save Monument. Just remember, using a Teleport Stone is a one-way trip!
+
+
+[BOOKMARK_-Villagers and Quests-]
+
+Not every creature in Falana is hostile. Throughout his travels, Dust will meet many friendly faces. You can initiate dialogue by pressing [UP] in front of them. Take your time in the villages - you might learn something interesting, maybe even take up a sidequest or two! You will know quest-givers by the [ICON_360] over their head.
+
+
+[BOOKMARK_-Shops and Crafting-]
+
+You will come across merchants in villages and various other locations. This is your chance to spend your hard-earned money on healing items and special equipment.
+
+Should you climb to the top of Archers' Pass, you will also come across a talented blacksmith. With the proper blueprint and materials, she will craft special equipment for you (for a price).
+
+
+[BOOKMARK_-Challenge Arenas-]
+
+Hidden throughout the world are Challenge Arenas. Each arena holds a valuable item, and your performance will be based on how quickly you make it through each gauntlet, along with how many points you acquire by killing enemies and destroying point lanterns. Can you earn a perfect Four-Star in each arena?
+
+
+[BOOKMARK_-The Pause Menu-]
+
+Press [START] to pause the game. From the (Pause Menu) you can change (Options), (Load) a previous game, or (Exit) to the (Main Menu).
+
+From the (Help &amp; Options) Menu you can adjust the volume, controller layout, and various gameplay settings. You can also consult this manual at any time.
+
+From the (Adjust HUD) Menu you can adjust the size and location of the in-game HUD to better fit your display.</value>
+  </data>
+  <data name="Controls" xml:space="preserve">
+    <value>[LTHUMB] Scroll    [A] Contents    [B] Exit</value>
+  </data>
+  <data name="ContentControls" xml:space="preserve">
+    <value>[A] Select    [B] Cancel</value>
+  </data>
+</root>

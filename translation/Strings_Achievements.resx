@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Achievement_16_Title" xml:space="preserve">
+    <value>With Great Power...</value>
+  </data>
+  <data name="Achievement_05_Title" xml:space="preserve">
+    <value>Friend of Falana</value>
+  </data>
+  <data name="Achievement_27_Title" xml:space="preserve">
+    <value>Sad Way to Go</value>
+  </data>
+  <data name="Achievement_24_Title" xml:space="preserve">
+    <value>Bad Therapist</value>
+  </data>
+  <data name="Achievement_12_Title" xml:space="preserve">
+    <value>Wait, aren't you...?</value>
+  </data>
+  <data name="Achievement_27_Desc" xml:space="preserve">
+    <value>Kill an enemy with the slide attack</value>
+  </data>
+  <data name="Achievement_01_Title" xml:space="preserve">
+    <value>Defused</value>
+  </data>
+  <data name="Achievement_26_Desc" xml:space="preserve">
+    <value>Complete the Game on Tough or Hardcore setting</value>
+  </data>
+  <data name="Achievement_29_Desc" xml:space="preserve">
+    <value>Meet Haley</value>
+  </data>
+  <data name="Achievement_08_Title" xml:space="preserve">
+    <value>A Decent Start...</value>
+  </data>
+  <data name="Achievement_28_Desc" xml:space="preserve">
+    <value>Fulfill Bopo’s wish for snow</value>
+  </data>
+  <data name="Achievement_23_Desc" xml:space="preserve">
+    <value>Craft an item from a blueprint</value>
+  </data>
+  <data name="Achievement_22_Desc" xml:space="preserve">
+    <value>Successfully Parry with less than 10% health remaining</value>
+  </data>
+  <data name="Achievement_23_Title" xml:space="preserve">
+    <value>Tinkerer</value>
+  </data>
+  <data name="Achievement_25_Desc" xml:space="preserve">
+    <value>Complete all Fale Quests</value>
+  </data>
+  <data name="Achievement_20_Title" xml:space="preserve">
+    <value>Paragon</value>
+  </data>
+  <data name="Achievement_24_Desc" xml:space="preserve">
+    <value>Bug Matti</value>
+  </data>
+  <data name="Achievement_21_Desc" xml:space="preserve">
+    <value>Reign chaos by putting poison ivy into Gianni's laundry</value>
+  </data>
+  <data name="Achievement_20_Desc" xml:space="preserve">
+    <value>Opt out of putting poison ivy into Gianni's laundry</value>
+  </data>
+  <data name="Achievement_04_Title" xml:space="preserve">
+    <value>...And the Dust Settles</value>
+  </data>
+  <data name="Achievement_26_Title" xml:space="preserve">
+    <value>Above and Beyond the Call</value>
+  </data>
+  <data name="Achievement_07_Title" xml:space="preserve">
+    <value>Savior of Falana</value>
+  </data>
+  <data name="Achievement_17_Title" xml:space="preserve">
+    <value>An Impressive Display</value>
+  </data>
+  <data name="Achievement_22_Title" xml:space="preserve">
+    <value>Cutting It Close</value>
+  </data>
+  <data name="Achievement_18_Title" xml:space="preserve">
+    <value>The Stuff of Legends</value>
+  </data>
+  <data name="Achievement_30_Desc" xml:space="preserve">
+    <value>Destroy every enemy Cannon</value>
+  </data>
+  <data name="Achievement_03_Title" xml:space="preserve">
+    <value>High Spirits</value>
+  </data>
+  <data name="Achievement_09_Desc" xml:space="preserve">
+    <value>Successfully complete a 1000+ hit combo</value>
+  </data>
+  <data name="Achievement_08_Desc" xml:space="preserve">
+    <value>Successfully complete a 200+ hit combo</value>
+  </data>
+  <data name="Achievement_30_Title" xml:space="preserve">
+    <value>Silence Those Guns</value>
+  </data>
+  <data name="Achievement_07_Desc" xml:space="preserve">
+    <value>Complete 20 Sidequests</value>
+  </data>
+  <data name="Achievement_13_Title" xml:space="preserve">
+    <value>Baker's Dozen</value>
+  </data>
+  <data name="Achievement_06_Desc" xml:space="preserve">
+    <value>Complete 10 Sidequests</value>
+  </data>
+  <data name="Achievement_19_Title" xml:space="preserve">
+    <value>Blue Bomber</value>
+  </data>
+  <data name="Achievement_05_Desc" xml:space="preserve">
+    <value>Complete 5 Sidequests</value>
+  </data>
+  <data name="Achievement_14_Title" xml:space="preserve">
+    <value>Distant Thunder</value>
+  </data>
+  <data name="Achievement_04_Desc" xml:space="preserve">
+    <value>Defeat General Gaius</value>
+  </data>
+  <data name="Achievement_03_Desc" xml:space="preserve">
+    <value>Defeat Baron Kane</value>
+  </data>
+  <data name="Achievement_02_Desc" xml:space="preserve">
+    <value>Defeat Lady Tethys</value>
+  </data>
+  <data name="Achievement_01_Desc" xml:space="preserve">
+    <value>Defeat Fuse</value>
+  </data>
+  <data name="Achievement_29_Title" xml:space="preserve">
+    <value>The Blacksmith of Archers' Pass</value>
+  </data>
+  <data name="Achievement_06_Title" xml:space="preserve">
+    <value>Hero of Falana</value>
+  </data>
+  <data name="Achievement_15_Title" xml:space="preserve">
+    <value>Well on your Way</value>
+  </data>
+  <data name="Achievement_10_Title" xml:space="preserve">
+    <value>Bringer of Death</value>
+  </data>
+  <data name="Achievement_25_Title" xml:space="preserve">
+    <value>Opposite of Fail</value>
+  </data>
+  <data name="Achievement_19_Desc" xml:space="preserve">
+    <value>Simultaneously Kill 6 Enemies with a Single Bomb</value>
+  </data>
+  <data name="Achievement_02_Title" xml:space="preserve">
+    <value>Waters of Life</value>
+  </data>
+  <data name="Achievement_11_Title" xml:space="preserve">
+    <value>Push and Turn</value>
+  </data>
+  <data name="Achievement_18_Desc" xml:space="preserve">
+    <value>Earn a Four-Star Rating in EVERY Challenge Arena</value>
+  </data>
+  <data name="Achievement_15_Desc" xml:space="preserve">
+    <value>Pick Up an Ability Orb</value>
+  </data>
+  <data name="Achievement_16_Desc" xml:space="preserve">
+    <value>Level Up by Assigning Skill Gems</value>
+  </data>
+  <data name="Achievement_09_Title" xml:space="preserve">
+    <value>That's More Like It</value>
+  </data>
+  <data name="Achievement_14_Desc" xml:space="preserve">
+    <value>Use the DUST STORM on Fidget's Projectiles</value>
+  </data>
+  <data name="Achievement_11_Desc" xml:space="preserve">
+    <value>Unlock a Treasure Chest</value>
+  </data>
+  <data name="Achievement_12_Desc" xml:space="preserve">
+    <value>Unlock a Cage and Rescue a Friend</value>
+  </data>
+  <data name="Achievement_17_Desc" xml:space="preserve">
+    <value>Earn a Four-Star Rating in any Challenge Arena</value>
+  </data>
+  <data name="Achievement_21_Title" xml:space="preserve">
+    <value>Renegade</value>
+  </data>
+  <data name="Achievement_10_Desc" xml:space="preserve">
+    <value>Kill 500 Enemies</value>
+  </data>
+  <data name="Achievement_28_Title" xml:space="preserve">
+    <value>One Last Wish</value>
+  </data>
+  <data name="Achievement_13_Desc" xml:space="preserve">
+    <value>Hang out with Twelve Friends in the Sanctuary</value>
+  </data>
+</root>

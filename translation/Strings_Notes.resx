@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="005" xml:space="preserve">
+    <value>Leap of Faith</value>
+  </data>
+  <data name="004" xml:space="preserve">
+    <value>The Rose</value>
+  </data>
+  <data name="007" xml:space="preserve">
+    <value>Servant's Note 2</value>
+  </data>
+  <data name="006" xml:space="preserve">
+    <value>Servant's Note 1</value>
+  </data>
+  <data name="001" xml:space="preserve">
+    <value>Reed's Box</value>
+  </data>
+  <data name="000" xml:space="preserve">
+    <value>Treasure</value>
+  </data>
+  <data name="003" xml:space="preserve">
+    <value>Fire and Dust</value>
+  </data>
+  <data name="002" xml:space="preserve">
+    <value>A Word of Advice</value>
+  </data>
+  <data name="009" xml:space="preserve">
+    <value>Servant's Note 4</value>
+  </data>
+  <data name="008" xml:space="preserve">
+    <value>Servant's Note 3</value>
+  </data>
+  <data name="014" xml:space="preserve">
+    <value>Sarahi's Letter</value>
+  </data>
+  <data name="015" xml:space="preserve">
+    <value>The Cliff</value>
+  </data>
+  <data name="016" xml:space="preserve">
+    <value>The Girl</value>
+  </data>
+  <data name="017" xml:space="preserve">
+    <value>Mind Bend</value>
+  </data>
+  <data name="010" xml:space="preserve">
+    <value>Kier's Report</value>
+  </data>
+  <data name="011" xml:space="preserve">
+    <value>In Too Deep</value>
+  </data>
+  <data name="012" xml:space="preserve">
+    <value>The Cafe</value>
+  </data>
+  <data name="007_Desc" xml:space="preserve">
+    <value>"There was a terrible din coming from the neighbor's estate this morning. When I looked out the high window to see what was amiss, I saw that same officer out there! His soldiers were dragging our neighbors away, yelling something about Moonblood sympathizers. When I told Master Kane, he offered me an extra week of pay to never talk of it again."</value>
+  </data>
+  <data name="006_Desc" xml:space="preserve">
+    <value>"He took breakfast in his office today. I think he'd been there all night. Our guest left this morning as well - looked like some kind of officer, maybe a general? What would the king's army want with Master Kane?"</value>
+  </data>
+  <data name="005_Desc" xml:space="preserve">
+    <value>"... They chased, and I ran.  Five, maybe six of them, all armed to the teeth and closing in fast. I'd made it to Archers' Pass, but with an arrow in my leg they caught up with me at that headless statue.  Surrounded, desperate, and nowhere else to go, I climbed out to the hand and made a leap of faith..."</value>
+  </data>
+  <data name="004_Desc" xml:space="preserve">
+    <value>"Whenever I make it out to the graveyard in the Sorrowing Meadows, I never fail to kneel before her rose-laden grave. Someday, my devotion will be recognized."</value>
+  </data>
+  <data name="003_Desc" xml:space="preserve">
+    <value>"We've lost ten guards to this monster already! He keeps bombarding us with those green flames - they almost seem to have a mind of their own! But then, a sudden gust of wind blasted through the village and the flames disappeared! It stopped the creature's attack for but a moment - enough for me to escape. If only we could harness the power of a storm..."</value>
+  </data>
+  <data name="002_Desc" xml:space="preserve">
+    <value>"What is this thing? Some kind of cage? Whatever it is, it's making this awful, awful racket! Once in a while I hear words that sound like "fat" and "beets". What does that even MEAN? I'll hide it in the caves beneath Aurora until I've found the keys I need. I just need to remember to jump as far to the right as I can..."</value>
+  </data>
+  <data name="001_Desc" xml:space="preserve">
+    <value>"Box. That's what it is. It's a box. You can't open it. Don't look in the box. DO NOT OPEN THE BOX. You can LOOK at the box, but that's it. And only if it helps you bring it back. It fell into a hole near the storage cave in Aurora. No doubt found by whatever lives in the darkness deep below."</value>
+  </data>
+  <data name="000_Desc" xml:space="preserve">
+    <value>"In ancient times, our greatest possessions and staunchest allies were locked away using powerful magic beyond our comprehension. The only way to reclaim these lost treasures is to use the magically-attuned keys strewn about our world. I only hope there is enough time to free them all..."</value>
+  </data>
+  <data name="009_Desc" xml:space="preserve">
+    <value>"When Master Kane left his office this morning I snuck in to clean up his mess - it's my job, after all! But then I saw his desk, covered in papers, emblazoned with names! So many names! I could see the names of our neighbors - the ones who had been taken away - and then, at the very bottom of the list, my own name! I think I could be in terrible danger, but I-" (The note ends abruptly)</value>
+  </data>
+  <data name="008_Desc" xml:space="preserve">
+    <value>"The other three estates in the meadow have been emptied. Whether Master Kane and that general had anything to do with it I'll never know. The Master hardly even comes out of his office anymore. Sometimes I think I can hear him crying, other times I hear a mad shouting, things being smashed and knocked over, but he never lets me in. What's happening in this house?"</value>
+  </data>
+  <data name="015_Desc" xml:space="preserve">
+    <value>The words can barely be made out, but it seems to say: ʺTravel far to the north, away from this place. In the highest peaks of the Blackmoor Mountains, await the soul carrying a red crystal...ʺ</value>
+  </data>
+  <data name="016_Desc" xml:space="preserve">
+    <value>"Don't worry, I put her cage in a safe place. If you ever need to find her, just climb up high above the wooden bridge near Denham. And don't try doing that wall-jump move of yours to get to her - you'll fall and break your neck!"</value>
+  </data>
+  <data name="014_Desc" xml:space="preserve">
+    <value>"My dearest Moska, something terrible is happening here. The village is on fire, everyone is screaming. If you ever find this letter, I will be hiding in our secret place. Please, please hurry."</value>
+  </data>
+  <data name="011_Desc" xml:space="preserve">
+    <value>"What kind of spelunker in their right mind would travel all the way down here? Nothing but a bunch of a grumpy cave-dwellers, nasty monsters, and exploding pod-things! Also, I just discovered I love saying 'spelunker'!"</value>
+  </data>
+  <data name="012_Desc" xml:space="preserve">
+    <value>"If convenient, return to the Foghorn Cafe. Something about it being an unpleasant reunion. If inconvenient, go to the Foghorn Cafe anyway."</value>
+  </data>
+  <data name="017_Desc" xml:space="preserve">
+    <value>"I've only been able to make this climb once, but I'm not sure if I ever want to return to 'that' place. I think something was wrong with my eyes. It was so rocky and frigid... or was that blocky and rigid?"</value>
+  </data>
+  <data name="010_Desc" xml:space="preserve">
+    <value>"Dawn Report: As always, the local creatures are proving to be a continuous nuisance for us scouts. It would help if everything here wasn't perpetually on fire. I'm supposed to be on the watch for warmblood soldiers, but I haven't seen or heard a thing. I thought I heard voices coming from the east earlier, but I'm sure it was just my imagination..."</value>
+  </data>
+</root>

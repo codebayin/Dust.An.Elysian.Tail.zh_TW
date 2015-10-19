@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="007_Option_1" xml:space="preserve">
+    <value>On second thought...</value>
+  </data>
+  <data name="007_Option_0" xml:space="preserve">
+    <value>Yes.</value>
+  </data>
+  <data name="007_000" xml:space="preserve">
+    <value>Ah, excellent! You've brought all the materials! Would you like me to make the doll now?</value>
+  </data>
+  <data name="006_040" xml:space="preserve">
+    <value>I've gotta say, Dust.  I'm feeling a little uneasy about this whole thing!</value>
+  </data>
+  <data name="006_060" xml:space="preserve">
+    <value>I don't know you anymore.</value>
+  </data>
+  <data name="006_050" xml:space="preserve">
+    <value>What's to feel uneasy about, Fidget? You're adorable! I think I might have him make another Fidget doll that I'll just hang onto. Forever.</value>
+  </data>
+  <data name="006_000" xml:space="preserve">
+    <value>Do you sell children's toys? Or, more specifically, nimbat dolls?</value>
+  </data>
+  <data name="006_020" xml:space="preserve">
+    <value>But I aim to please! I'm certain I could craft one for you, assuming I had the proper materials!</value>
+  </data>
+  <data name="006_010" xml:space="preserve">
+    <value>A nimbat doll? You mean like your flying friend there? I don't believe we have anything like that in stock.</value>
+  </data>
+  <data name="006_030" xml:space="preserve">
+    <value>Let me see... with some cotton, fabric, and dye, I'm certain I could make a wonderful nimbat doll for you!</value>
+  </data>
+  <data name="005_000" xml:space="preserve">
+    <value>You honor us with your patronage!  Please tell your friends!  Your rich ones!</value>
+  </data>
+  <data name="004_000" xml:space="preserve">
+    <value>Thank you for coming in. I can almost guarantee your satisfaction, almost!</value>
+  </data>
+  <data name="002_000" xml:space="preserve">
+    <value>I have the best selection you'll ever find in this store at this moment in time! Please, look around!</value>
+  </data>
+  <data name="001_000" xml:space="preserve">
+    <value>Welcome back!</value>
+  </data>
+  <data name="000_000" xml:space="preserve">
+    <value>Ah, our famed savior! I had hoped you'd come. Welcome to my humble shop!</value>
+  </data>
+  <data name="000_030" xml:space="preserve">
+    <value>Thank you.</value>
+  </data>
+  <data name="008_120" xml:space="preserve">
+    <value>Oh. I wasn't expecting to actually get one. I guess I'll just have to carry it around. Forever. I actually feel bad giving one of these ugly things to SmoBop, but here we go.</value>
+  </data>
+  <data name="008_130" xml:space="preserve">
+    <value>I'm not talking to you anymore.</value>
+  </data>
+  <data name="008_100" xml:space="preserve">
+    <value>Uh, maybe a little more cotton, up there in the head area. I don't think you're accurately capturing the pure size of Fidget's head.</value>
+  </data>
+  <data name="008_105" xml:space="preserve">
+    <value>My head is just fine! You're the ones wearing those stupid hats! Maybe you two could form a STUPID HAT CLUB!</value>
+  </data>
+  <data name="008_110" xml:space="preserve">
+    <value>And viola! Another happy customer! And I even had enough material to make an extra one!</value>
+  </data>
+  <data name="008_020" xml:space="preserve">
+    <value>Oh, well, I do need some sort of measurement. We don't see many nimbats around here.</value>
+  </data>
+  <data name="008_000" xml:space="preserve">
+    <value>Wonderful! Now if your companion will just lie down on this fabric...</value>
+  </data>
+  <data name="008_030" xml:space="preserve">
+    <value>Here, give me a pen.  I'll draw it myself.</value>
+  </data>
+  <data name="008_060" xml:space="preserve">
+    <value>See? You can use this to measure your doll. It's perfect!</value>
+  </data>
+  <data name="008_010" xml:space="preserve">
+    <value>Hey, you're not tracing me!</value>
+  </data>
+  <data name="008_040" xml:space="preserve">
+    <value>Ok, there, done. See how well I've captured every nuanced curve?</value>
+  </data>
+  <data name="008_070" xml:space="preserve">
+    <value>Ha! No, it really isn't! Actually, that's the worst drawing I've ever seen.</value>
+  </data>
+  <data name="008_050" xml:space="preserve">
+    <value>Uh...</value>
+  </data>
+  <data name="008_080" xml:space="preserve">
+    <value>Just shut up and make the stupid doll.</value>
+  </data>
+  <data name="008_090" xml:space="preserve">
+    <value>Okay, okay. Just give me a moment... some cotton here, a few stitches there...</value>
+  </data>
+  <data name="000_Option_2" xml:space="preserve">
+    <value>Never mind.</value>
+  </data>
+  <data name="000_Option_3" xml:space="preserve">
+    <value>About that doll...</value>
+  </data>
+  <data name="000_Option_0" xml:space="preserve">
+    <value>What's for sale?</value>
+  </data>
+  <data name="000_Option_1" xml:space="preserve">
+    <value>Do you have any children's toys?</value>
+  </data>
+</root>

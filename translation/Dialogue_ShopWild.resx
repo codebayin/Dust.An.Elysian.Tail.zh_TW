@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="390_010" xml:space="preserve">
+    <value>The great traitor? You're talking about Kane?</value>
+  </data>
+  <data name="390_000" xml:space="preserve">
+    <value>So, the great traitor has finally found everlasting peace.</value>
+  </data>
+  <data name="390_030" xml:space="preserve">
+    <value>He seemed truly remorseful for his actions.</value>
+  </data>
+  <data name="390_020" xml:space="preserve">
+    <value>My kind does not utter his name. His actions ended many innocent lives, and while his spirit may be absolved now, we remember only his life and the tragedy it wrought.</value>
+  </data>
+  <data name="390_050" xml:space="preserve">
+    <value>Very well.</value>
+  </data>
+  <data name="390_040" xml:space="preserve">
+    <value>Perhaps he was. Perhaps we were to accept his remorse. This would not bring my family back. Let us not dwell on his wicked actions any more than we must.</value>
+  </data>
+  <data name="002_000" xml:space="preserve">
+    <value>The materials you've sold me will be quite useful. I'll attempt to restock them as time goes on.</value>
+  </data>
+  <data name="002_010" xml:space="preserve">
+    <value>I also share my stock with other merchants. With our help, you will save valuable time collecting rarer materials.</value>
+  </data>
+  <data name="001_080" xml:space="preserve">
+    <value>Your transaction is most appreciated.</value>
+  </data>
+  <data name="001_020" xml:space="preserve">
+    <value>If I may be so bold, you are not prepared for the journey ahead. I, however, can offer assistance.</value>
+  </data>
+  <data name="001_030" xml:space="preserve">
+    <value>Please, accept this blueprint as a gift. Should you find a blacksmith and the necessary materials, they may be able to craft the item for you.</value>
+  </data>
+  <data name="001_000" xml:space="preserve">
+    <value>Before you leave, might I propose an offer?</value>
+  </data>
+  <data name="001_010" xml:space="preserve">
+    <value>That would depend on the offer.</value>
+  </data>
+  <data name="001_060" xml:space="preserve">
+    <value>Aaah, he'll buy them at a high price!</value>
+  </data>
+  <data name="001_070" xml:space="preserve">
+    <value>I... well, yes. Yes I will.</value>
+  </data>
+  <data name="001_040" xml:space="preserve">
+    <value>I can offer you materials as well, though I am not entirely sure what materials this land deems of value. I am... not from around here, as I'm sure you've guessed by now.</value>
+  </data>
+  <data name="001_050" xml:space="preserve">
+    <value>Once you've sold me a new material type, I will be able to restock my store with it. As for your reward, I will pay you a bonus for the first new material you sell me.</value>
+  </data>
+  <data name="000_020" xml:space="preserve">
+    <value>Merely a friend with many wares for sale. Shall we conduct business?</value>
+  </data>
+  <data name="000_000" xml:space="preserve">
+    <value>I've been expecting you, stranger.</value>
+  </data>
+  <data name="000_030" xml:space="preserve">
+    <value>Ah, hello again, my friend. I suspected you would return.</value>
+  </data>
+  <data name="000_060" xml:space="preserve">
+    <value>Thank you.</value>
+  </data>
+  <data name="000_010" xml:space="preserve">
+    <value>Who are you?</value>
+  </data>
+  <data name="000_040" xml:space="preserve">
+    <value>I am here to serve.</value>
+  </data>
+  <data name="000_050" xml:space="preserve">
+    <value>Watch your back, my friend.</value>
+  </data>
+  <data name="520_040" xml:space="preserve">
+    <value>Well, we appreciate the help.</value>
+  </data>
+  <data name="520_050" xml:space="preserve">
+    <value>I am glad, my friend. Anything you need, you just let me know.</value>
+  </data>
+  <data name="520_000" xml:space="preserve">
+    <value>It seems my secret is out, yes?</value>
+  </data>
+  <data name="520_010" xml:space="preserve">
+    <value>It honestly wasn't that much of a secret.</value>
+  </data>
+  <data name="520_020" xml:space="preserve">
+    <value>So, you were keeping watch on us this whole time?</value>
+  </data>
+  <data name="520_030" xml:space="preserve">
+    <value>In a manner of speaking. Just making sure you were well-supplied for the journey.</value>
+  </data>
+  <data name="100_020" xml:space="preserve">
+    <value>I am not judging, friend. His death was sad, but necessary.</value>
+  </data>
+  <data name="100_030" xml:space="preserve">
+    <value>Forgive me for asking, but are you a Moonblood?</value>
+  </data>
+  <data name="100_000" xml:space="preserve">
+    <value>So, you have slain the one known as Fuse.</value>
+  </data>
+  <data name="100_010" xml:space="preserve">
+    <value>I had no choice. He'd lost his mind, murdered many innocents-</value>
+  </data>
+  <data name="100_060" xml:space="preserve">
+    <value>I believe you do not, my friend, but I will not press the matter if you do not.</value>
+  </data>
+  <data name="100_040" xml:space="preserve">
+    <value>The Moonbloods... they are an ancient race, and their presence is not tolerated in these lands. One would be at a disadvantage among so many warm-blooded creatures.</value>
+  </data>
+  <data name="100_050" xml:space="preserve">
+    <value>I understand.</value>
+  </data>
+  <data name="240_040" xml:space="preserve">
+    <value>As must we all, my friend. What did you find down there, if you don't mind my asking?</value>
+  </data>
+  <data name="240_060" xml:space="preserve">
+    <value>And for that, this world is grateful. Take care, my friend.</value>
+  </data>
+  <data name="240_050" xml:space="preserve">
+    <value>A powerful creature who was misled by her own rage. Fortunately, we were able to knock some sense into her.</value>
+  </data>
+  <data name="240_000" xml:space="preserve">
+    <value>I've noticed the waters in the valley have resumed flowing. It would be ignorant of me to believe you didn't have a part in that.</value>
+  </data>
+  <data name="240_020" xml:space="preserve">
+    <value>The waters did not resume flowing of their own accord, of that I am certain.</value>
+  </data>
+  <data name="240_010" xml:space="preserve">
+    <value>What makes you say that?</value>
+  </data>
+  <data name="240_030" xml:space="preserve">
+    <value>Yes, well... We did what needed to be done.</value>
+  </data>
+</root>

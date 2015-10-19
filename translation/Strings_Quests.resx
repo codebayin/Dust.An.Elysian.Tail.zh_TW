@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="021_Title" xml:space="preserve">
+    <value>Snowflakes</value>
+  </data>
+  <data name="018_Title" xml:space="preserve">
+    <value>Freedom of Movement</value>
+  </data>
+  <data name="016_Title" xml:space="preserve">
+    <value>Pearly Whites</value>
+  </data>
+  <data name="005_Title" xml:space="preserve">
+    <value>A New Venture</value>
+  </data>
+  <data name="019_Title" xml:space="preserve">
+    <value>Find the Sparklies</value>
+  </data>
+  <data name="007_001" xml:space="preserve">
+    <value>You've achieved the hit chain! Corbin will be thrilled!</value>
+  </data>
+  <data name="007_000" xml:space="preserve">
+    <value>Corbin would love for you to achieve a 1,000 hit chain. Have you got what it takes?</value>
+  </data>
+  <data name="007_002" xml:space="preserve">
+    <value>Yep, Corbin was thrilled!</value>
+  </data>
+  <data name="006_000" xml:space="preserve">
+    <value>Colleen is looking for her missing brother, Corbin. She claims that Gianni in Aurora Village may know his whereabouts.</value>
+  </data>
+  <data name="006_001" xml:space="preserve">
+    <value>Gianni has sent Corbin to Ivydale Glen to wash his laundry. Make sure that he is safe.</value>
+  </data>
+  <data name="006_002" xml:space="preserve">
+    <value>You've rescued Corbin and sent him safely home. Now to find Gianni's laundry.</value>
+  </data>
+  <data name="006_003" xml:space="preserve">
+    <value>You've dealt with Gianni's laundry. Return the basket to him in Aurora Village.</value>
+  </data>
+  <data name="005_001" xml:space="preserve">
+    <value>You've stocked the shop with a new material type. Check with the merchant to collect your bonus.</value>
+  </data>
+  <data name="005_000" xml:space="preserve">
+    <value>A mysterious merchant has asked that you find various materials and sell them to him. He will give you a bonus for the first new material type you sell him.</value>
+  </data>
+  <data name="004_002" xml:space="preserve">
+    <value>You've acquired Haley's Transmitter. She can now craft equipment for you no matter where you are in the world. From your Inventory, choose a blueprint and select the Craft option.</value>
+  </data>
+  <data name="004_000" xml:space="preserve">
+    <value>Avgustin has asked that you deliver a blueprint to the blacksmith in Archers' Pass in his stead, as the pass seems to be incredibly dangerous as of late.</value>
+  </data>
+  <data name="004_001" xml:space="preserve">
+    <value>You've met the blacksmith's daughter, Haley. She can now craft equipment from any blueprints you find. To be of further use, she has asked that you find a special device which will allow communication from anywhere in the world. Seek out a Blue Resonance Gate somewhere in Abadis Forest.</value>
+  </data>
+  <data name="003_001" xml:space="preserve">
+    <value>You've collected the slimy components. Return to Fale in Aurora for your payment.</value>
+  </data>
+  <data name="003_000" xml:space="preserve">
+    <value>Fale wants to reinforce the Aurora guards' armor with a distilled concoction derived from (4 Slimy Spikes) and (4 Slimy Coats). You expect things will get a bit messy.</value>
+  </data>
+  <data name="002_000" xml:space="preserve">
+    <value>To improve the guards' weapons, Fale needs (8 Beast Spears) from the monsters roaming the valley.</value>
+  </data>
+  <data name="002_001" xml:space="preserve">
+    <value>You've collected the spears. Return to Fale in Aurora for your payment.</value>
+  </data>
+  <data name="001_001" xml:space="preserve">
+    <value>You've collected the imp hides. Return to Fale in Aurora for your payment.</value>
+  </data>
+  <data name="001_000" xml:space="preserve">
+    <value>Fale wants to improve the armor worn by the town guard. Bring him (5 Imp Hides) to help him out.</value>
+  </data>
+  <data name="000_028" xml:space="preserve">
+    <value>Fulfill your purpose and defeat your old comrade, General Gaius.</value>
+  </data>
+  <data name="000_020" xml:space="preserve">
+    <value>You've cleared the way through the mountain pass. Reach the peak to meet up with Ginger and plan your next step against General Gaius.</value>
+  </data>
+  <data name="000_021" xml:space="preserve">
+    <value>You've discovered the truth about yourself. Meet up with Ginger and the Elder in the hidden camp at the foot of the Everdawn Basin.</value>
+  </data>
+  <data name="000_022" xml:space="preserve">
+    <value>Check in with Kier at the edge of camp and assist Sanjin in restoring the Moonblood's support systems.</value>
+  </data>
+  <data name="000_023" xml:space="preserve">
+    <value>The General's assassins are beginning their push into the camp. Report this news to the Elder. Once the support systems are back up, the war preparations will be complete.</value>
+  </data>
+  <data name="000_024" xml:space="preserve">
+    <value>Meet up with the Moonblood warriors gathering at the eastern edge of the camp.</value>
+  </data>
+  <data name="000_025" xml:space="preserve">
+    <value>Recent volcanic activity has blocked the road. Clear the way for the Moonblood warriors.</value>
+  </data>
+  <data name="000_026" xml:space="preserve">
+    <value>Mount an assault against General Gaius and lead the Moonblood warriors into battle.</value>
+  </data>
+  <data name="000_027" xml:space="preserve">
+    <value>Enemy cannons are blocking your path. You will need to flank them if you want to destroy them.</value>
+  </data>
+  <data name="000_008" xml:space="preserve">
+    <value>A small child seems to be wandering around these caves by himself. Perhaps he can help you learn more about the monster attacks?</value>
+  </data>
+  <data name="000_009" xml:space="preserve">
+    <value>You've discovered the small village of Mudpot deep in the Cirromon Caverns. Bopo's father is dying and can only be saved by a creature called "The Lady". Explore the village to find a way to her chamber.</value>
+  </data>
+  <data name="000_002" xml:space="preserve">
+    <value>You've proven yourself a hero to the townspeople of Aurora. Perhaps now you can get some answers from the townsfolk.</value>
+  </data>
+  <data name="000_003" xml:space="preserve">
+    <value>The Mayor of Aurora has asked you to travel east into Abadis Forest and find the leader of the monsters attacking the village.</value>
+  </data>
+  <data name="000_000" xml:space="preserve">
+    <value>You've woken up in a small glade in the mountains with no memory of your past. An ancient magical blade, Ahrah, and its guardian, Fidget, have joined with you. With no other path to travel, the road to the east is your only option.</value>
+  </data>
+  <data name="000_001" xml:space="preserve">
+    <value>There is a village in the distance. Perhaps it holds some answers?</value>
+  </data>
+  <data name="000_006" xml:space="preserve">
+    <value>Aurora is under attack! Defeat the monsters and learn how they made it into the village.</value>
+  </data>
+  <data name="000_007" xml:space="preserve">
+    <value>You've discovered a beautiful yet dangerous underground world. Travel deeper to learn why those monsters attacked Aurora.</value>
+  </data>
+  <data name="000_004" xml:space="preserve">
+    <value>You defeated the leader of the monsters, a strange creature named Fuse, but doing so has raised more questions than answers. Report back to Mayor Bram in Aurora.</value>
+  </data>
+  <data name="000_005" xml:space="preserve">
+    <value>Mayor Bram suggested that you speak with a young woman named Ginger. She seems to have knowledge about these "Moonbloods" that Fuse mentioned.</value>
+  </data>
+  <data name="000_019" xml:space="preserve">
+    <value>The path north is being blocked by a massive wall of snow. Find a way through.</value>
+  </data>
+  <data name="000_018" xml:space="preserve">
+    <value>Despite the relative beauty of this snowy world, you feel uneasy as you travel north to meet up with Ginger.</value>
+  </data>
+  <data name="000_013" xml:space="preserve">
+    <value>While you were able to get the waters flowing again and save the valley, you were unable to save Bopo's father. You must now travel north to the Sorrowing Meadow to meet with this "Baron Kane".</value>
+  </data>
+  <data name="000_012" xml:space="preserve">
+    <value>You've sorted things out with Lady Tethys and she has restored the flow of mineral water. Return to Bopo in Mudpot.</value>
+  </data>
+  <data name="000_011" xml:space="preserve">
+    <value>With your newfound sliding ability, you can now proceed west of Mudpot and find "The Lady".</value>
+  </data>
+  <data name="000_010" xml:space="preserve">
+    <value>You've been told that an item beneath Mudpot can aid you in your quest.</value>
+  </data>
+  <data name="000_017" xml:space="preserve">
+    <value>With your help, Cora was able to drive away the demonic presence that assumed control over her husband. Kane has given you further details about the war, and opened the path to the mountains at the entrance of the graveyard. </value>
+  </data>
+  <data name="000_016" xml:space="preserve">
+    <value>You've found Cora's items. Return to her at the center of the Sorrowing Meadow.</value>
+  </data>
+  <data name="000_015" xml:space="preserve">
+    <value>Cora has asked you to retrieve four keepsakes from the abandoned mansions in each corner of the Sorrowing Meadows.</value>
+  </data>
+  <data name="000_014" xml:space="preserve">
+    <value>The path into the mountains is being blocked by a strange barrier. Find and speak with Baron Kane in the Sorrowing Meadow to learn how to deactivate it.</value>
+  </data>
+  <data name="009_003" xml:space="preserve">
+    <value>The moment you took the fatal blow, the demonic entity was destroyed and the curse was lifted. Return the box to Reed in Aurora... and make sure not to open it this time.</value>
+  </data>
+  <data name="009_002" xml:space="preserve">
+    <value>It would seem that Fidget unintentionally opened Reed's box. When he learned of this, Reed refused to take it back. While you now have a nice box, the demonic presence within is slowly draining your life. The only 'cure' is to let a monster kill you.</value>
+  </data>
+  <data name="009_001" xml:space="preserve">
+    <value>In exchange for her doll, SmoBop has given you a box that has a remarkable resemblence to what Reed was rambling about. Return the box to Reed in Aurora Village.</value>
+  </data>
+  <data name="009_000" xml:space="preserve">
+    <value>You've met an odd fellow named Reed. He seems to be looking for a box of some sort.</value>
+  </data>
+  <data name="008_002" xml:space="preserve">
+    <value>Moska believes that Sarahi may be hiding in the Hidden Cove after escaping from Denham.</value>
+  </data>
+  <data name="008_003" xml:space="preserve">
+    <value>You've rescued Sarahi and reunited her with Moska. The two have returned to Aurora Village.</value>
+  </data>
+  <data name="008_000" xml:space="preserve">
+    <value>Moska has asked that you check in on a girl in Denham, at the edge of Abadis Forest.</value>
+  </data>
+  <data name="008_001" xml:space="preserve">
+    <value>Denham lies in ruins, but you've discovered a note from a girl named Sarahi that is addressed to Moska. Return the note to him in Aurora Village.</value>
+  </data>
+  <data name="012_Title" xml:space="preserve">
+    <value>Red Moss</value>
+  </data>
+  <data name="015_004" xml:space="preserve">
+    <value>SmoBop was pleased with the doll, and has given you a peculiar box in exchange.</value>
+  </data>
+  <data name="015_002" xml:space="preserve">
+    <value>You've aquired the necessary materials. The shopkeeper in Aurora Village should now be able to craft the Fidget doll.</value>
+  </data>
+  <data name="015_003" xml:space="preserve">
+    <value>The doll is now complete. Despite Fidget's absolutely terrible reference drawing, it didn't turn out half-bad. Give the doll to SmoBop in Mudpot.</value>
+  </data>
+  <data name="015_000" xml:space="preserve">
+    <value>SmoBop in Mudpot insists that she must have Fidget. Resisting the urge to give her the real thing, you decide to find a suitable replacement, preferably in the form of a Fidget doll. Your best bet would be the shopkeeper in Aurora Village.</value>
+  </data>
+  <data name="015_001" xml:space="preserve">
+    <value>The shopkeeper has agreed to craft a Fidget doll, but needs (2 Yards of Fabric), (3 Clumps of Cotton), and (1 Bottle of Dye) to complete the task.</value>
+  </data>
+  <data name="016_001" xml:space="preserve">
+    <value>You've found the teeth. Return them to Blop in Mudpot.</value>
+  </data>
+  <data name="016_000" xml:space="preserve">
+    <value>Blop has asked that you bring him (10 Rockhound Teeth) so that he may craft a new set of dentures.</value>
+  </data>
+  <data name="014_001" xml:space="preserve">
+    <value>You've collected the (4 Trolk Fingers). Return to Blop in Mudpot so that his honor may be restored.</value>
+  </data>
+  <data name="014_000" xml:space="preserve">
+    <value>To avenge Blop's fragile ego, you've agreed to collect (4 Trolk Fingers) from the shield-wielding Trolks within the caverns.</value>
+  </data>
+  <data name="011_000" xml:space="preserve">
+    <value>Old Gappy has asked that you find his six lost sheep. They could be anywhere in the caverns. You'll recognize them by their sparkling black wool.</value>
+  </data>
+  <data name="011_001" xml:space="preserve">
+    <value>You've managed to find all the lost sheep. Return them to Old Gappy in Mudpot.</value>
+  </data>
+  <data name="012_001" xml:space="preserve">
+    <value>You've collected some clumps of red moss. Return them to FloHop in Mudpot.</value>
+  </data>
+  <data name="012_000" xml:space="preserve">
+    <value>FloHop has asked that you find clumps of red moss so that she can feed her hard working husband. Apparently they only grow in the dark, under the canopies of giant red mushrooms.</value>
+  </data>
+  <data name="017_000" xml:space="preserve">
+    <value>To reinforce the guards' armor in Aurora Village, Fale has asked that you bring (2 Giant Rocks) and (2 Giant Cores).</value>
+  </data>
+  <data name="017_001" xml:space="preserve">
+    <value>You've collected the materials. Return to Fale in Aurora for your payment.</value>
+  </data>
+  <data name="010_001" xml:space="preserve">
+    <value>You've found paper suitable for an autograph. While you feel a bit silly, you'll grant Moska's wish in Aurora Village.</value>
+  </data>
+  <data name="010_000" xml:space="preserve">
+    <value>Moska is certain the you will become a legend, and would love nothing more than to have your autograph. Now if you only had some paper...</value>
+  </data>
+  <data name="013_000" xml:space="preserve">
+    <value>Blop has lost his "hittin' stick" in the area below Mudpot. Retrieve his stick so he can get back to hitting things as soon as possible.</value>
+  </data>
+  <data name="013_001" xml:space="preserve">
+    <value>You've retrieved Blop's hittin' stick. Return it to him in Mudpot.</value>
+  </data>
+  <data name="013_002" xml:space="preserve">
+    <value>Blop was thrilled to have his stick back. Now the hitting can begin anew. Sadly you never stopped to ask yourself why his stick was hidden away from him in the first place.</value>
+  </data>
+  <data name="019_000" xml:space="preserve">
+    <value>Fale is interested in using the unique abilities of the flying electric florn creatures to improve the guards' armaments in Aurora Village. Bring him (3 Florn Tentacles) and (3 Florn Sparks).</value>
+  </data>
+  <data name="019_001" xml:space="preserve">
+    <value>You've collected the materials. Return to Fale in Aurora for your payment.</value>
+  </data>
+  <data name="018_001" xml:space="preserve">
+    <value>You've collected the materials. Return to Fale in Aurora for your payment.</value>
+  </data>
+  <data name="018_000" xml:space="preserve">
+    <value>Fale would like to incorporate the properties of the Avee into his gear. Collect (6 Avee Wings) and (6 Avee Claws) from the flying creatures.</value>
+  </data>
+  <data name="001_Title" xml:space="preserve">
+    <value>Better than Nothing</value>
+  </data>
+  <data name="021_001" xml:space="preserve">
+    <value>You've acquired a cooler that would be ideal to store some snow.</value>
+  </data>
+  <data name="021_000" xml:space="preserve">
+    <value>As a final goodbye to his father, Bopo has asked that you bring him some snow. There's snow in the mountains to the north, but you'll need some way to transport it back to Mudpot.</value>
+  </data>
+  <data name="021_003" xml:space="preserve">
+    <value>Bopo placed the snow on his father's grave, fulfilling an old promise made to him long ago.</value>
+  </data>
+  <data name="021_002" xml:space="preserve">
+    <value>You've collected some snow. Bring it to Bopo in Mudpot.</value>
+  </data>
+  <data name="020_000" xml:space="preserve">
+    <value>Oneida seems concerned about her husband, Geehan. Check in with him near the western entrance of Aurora Village.</value>
+  </data>
+  <data name="020_001" xml:space="preserve">
+    <value>Geehan has asked that you explore the region around his farm and search for his lost pocketwatch.</value>
+  </data>
+  <data name="020_002" xml:space="preserve">
+    <value>You've found the pocketwatch. Return it to Geehan in Aurora Village.</value>
+  </data>
+  <data name="Quest_Complete" xml:space="preserve">
+    <value>Quest Complete!</value>
+  </data>
+  <data name="020_Title" xml:space="preserve">
+    <value>Lost Time</value>
+  </data>
+  <data name="004_Title" xml:space="preserve">
+    <value>The Blacksmith</value>
+  </data>
+  <data name="009_Title" xml:space="preserve">
+    <value>What's in the Box?</value>
+  </data>
+  <data name="007_Title" xml:space="preserve">
+    <value>C-C-C-COMBO BREAKER</value>
+  </data>
+  <data name="000_Title" xml:space="preserve">
+    <value>Dust To Dust</value>
+  </data>
+  <data name="017_Title" xml:space="preserve">
+    <value>Reinforcement</value>
+  </data>
+  <data name="003_Title" xml:space="preserve">
+    <value>Slimed</value>
+  </data>
+  <data name="013_Title" xml:space="preserve">
+    <value>Hittin' Stick</value>
+  </data>
+  <data name="014_Title" xml:space="preserve">
+    <value>Trolk Vengeance</value>
+  </data>
+  <data name="008_Title" xml:space="preserve">
+    <value>Reunion</value>
+  </data>
+  <data name="006_Title" xml:space="preserve">
+    <value>Out to Dry</value>
+  </data>
+  <data name="015_Title" xml:space="preserve">
+    <value>A Better Fidget</value>
+  </data>
+  <data name="010_Title" xml:space="preserve">
+    <value>Number One Fan</value>
+  </data>
+  <data name="002_Title" xml:space="preserve">
+    <value>Taking Point</value>
+  </data>
+  <data name="011_Title" xml:space="preserve">
+    <value>Over the Fence</value>
+  </data>
+</root>

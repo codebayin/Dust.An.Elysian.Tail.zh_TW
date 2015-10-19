@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="007_080" xml:space="preserve">
+    <value>Nope! Just asked me to show her the way. Soon as she wandered off into the meadow, this crazy magic barrier showed up! Right inconvenience, that is!</value>
+  </data>
+  <data name="007_090" xml:space="preserve">
+    <value>Looks like we're not getting up those mountains, then. You say Cora just wandered off into the meadow?</value>
+  </data>
+  <data name="007_040" xml:space="preserve">
+    <value>Actually, Cora asked me to show her the way to some old meadow.</value>
+  </data>
+  <data name="007_050" xml:space="preserve">
+    <value>The Sorrowing Meadow.</value>
+  </data>
+  <data name="007_060" xml:space="preserve">
+    <value>Right, that's it! Never was straight with names and faces and... words.</value>
+  </data>
+  <data name="007_070" xml:space="preserve">
+    <value>Did she say why she wanted to come here? This place is pretty... bleak.</value>
+  </data>
+  <data name="007_000" xml:space="preserve">
+    <value>Well, I don't believe it! Dust? Dust, is that you, mate?</value>
+  </data>
+  <data name="007_010" xml:space="preserve">
+    <value>Avgustin? What are you doing all the way out here?</value>
+  </data>
+  <data name="007_020" xml:space="preserve">
+    <value>Why, I'm heeding the call of grand adventure! Venturing forth to seek my fortune in the wilds of this great, untamed wilderness!</value>
+  </data>
+  <data name="007_100" xml:space="preserve">
+    <value>She may not look it, but she's a speedy little bugger!</value>
+  </data>
+  <data name="007_120" xml:space="preserve">
+    <value>Way ahead of you, mate! I wait around better than anyone! Good luck out there!</value>
+  </data>
+  <data name="007_110" xml:space="preserve">
+    <value>Right. Well, we'd better go look for her. This meadow isn't safe. Avgustin, if you're not going to go back to Aurora, you'd better wait here.</value>
+  </data>
+  <data name="006_000" xml:space="preserve">
+    <value>I don't suppose you've seen what's down there, eh?</value>
+  </data>
+  <data name="006_010" xml:space="preserve">
+    <value>Don't worry. I'm pretty sure I can handle it. "Mate."</value>
+  </data>
+  <data name="005_000" xml:space="preserve">
+    <value>Why are you still here, Avgustin? You should head back to the village.</value>
+  </data>
+  <data name="005_010" xml:space="preserve">
+    <value>Nah, I figured I'd take on the first monster that comes through here. I've had a full breakfast and I'm ready for anything!</value>
+  </data>
+  <data name="004_040" xml:space="preserve">
+    <value>Bah! And let you have all of the fun? Well, I guess you're the one with the sword, after all.</value>
+  </data>
+  <data name="004_020" xml:space="preserve">
+    <value>Trust me, not much happens here, so when things start crawling out of the ground, you pull up a chair and enjoy the show!</value>
+  </data>
+  <data name="004_000" xml:space="preserve">
+    <value>Well now, would you look at this! Seems our village has got itself a new basement!</value>
+  </data>
+  <data name="004_030" xml:space="preserve">
+    <value>Okay Avgustin, but promise me that you'll stay here. I don't need anyone getting hurt.</value>
+  </data>
+  <data name="004_010" xml:space="preserve">
+    <value>You don't seem too concerned.</value>
+  </data>
+  <data name="003_000" xml:space="preserve">
+    <value>Lovely weather today, isn't it? Wanna wrestle?</value>
+  </data>
+  <data name="003_010" xml:space="preserve">
+    <value>Again with the arm wrestling. Sorry, Avgustin, perhaps later.</value>
+  </data>
+  <data name="002_000" xml:space="preserve">
+    <value>You know, you really need to work out a little more. Get some muscle on those bones, mate!</value>
+  </data>
+  <data name="001_000" xml:space="preserve">
+    <value>I'll be honest, there ain't a whole lot here, but you'll find a shop near the east entrance.</value>
+  </data>
+  <data name="001_010" xml:space="preserve">
+    <value>Thanks, Avgustin. Maybe we'll drop by.</value>
+  </data>
+  <data name="000_120" xml:space="preserve">
+    <value>Well, that's great! I knew I could count on you! When you see him, just tell him that old Avgustin says hello!</value>
+  </data>
+  <data name="000_100" xml:space="preserve">
+    <value>Tell you what! If you help me out, I'll give you this blueprint! If you give it to him along with these spare materials, he'll set you on your way right quick!</value>
+  </data>
+  <data name="000_110" xml:space="preserve">
+    <value>A blacksmith that can craft items from blueprints? I think I'll take you up on that, Avgustin.</value>
+  </data>
+  <data name="000_080" xml:space="preserve">
+    <value>I have an old friend, a blacksmith. Lives way up at the top of Archers' Pass.</value>
+  </data>
+  <data name="000_090" xml:space="preserve">
+    <value>I promised I'd deliver some materials to him way back when, but haven't been up that way in ages. Area's pretty dangerous these days if you ask me! Maybe you could deliver them for me?</value>
+  </data>
+  <data name="000_020" xml:space="preserve">
+    <value>Hiya! Don't mind Mr. Grumpy. He's not big on the whole eye-contact thing.</value>
+  </data>
+  <data name="000_000" xml:space="preserve">
+    <value>Why, hello there! I'm always thrilled to see a new face! Even when it's all covered up like yours.</value>
+  </data>
+  <data name="000_030" xml:space="preserve">
+    <value>Fidget and Dust, eh? Not from around here, are you? Well, neither was I originally. But this is a nice little place if you're not in a hurry.</value>
+  </data>
+  <data name="000_065" xml:space="preserve">
+    <value>Y'know, I heard what you did back there for Oneida. Great stuff! Maybe we can help each other out?</value>
+  </data>
+  <data name="000_060" xml:space="preserve">
+    <value>Aww, that's a shame. Thought you looked like the arm-wrestling type.</value>
+  </data>
+  <data name="000_010" xml:space="preserve">
+    <value>Indeed. Well, my name is Dust, and this is Fidget.</value>
+  </data>
+  <data name="000_040" xml:space="preserve">
+    <value>Oh, where are my manners! I'm Avgustin, local strongman! Say, you wanna arm-wrestle?</value>
+  </data>
+  <data name="000_070" xml:space="preserve">
+    <value>Maybe. What did you have in mind?</value>
+  </data>
+  <data name="000_050" xml:space="preserve">
+    <value>Uh... some other time, perhaps. We're just passing through.</value>
+  </data>
+  <data name="009_000" xml:space="preserve">
+    <value>You and me, Dust. We're gonna save the world!</value>
+  </data>
+  <data name="008_020" xml:space="preserve">
+    <value>Are you heading up the mountain? This is the long way up, but the old road was blocked off ages ago, so you don't have much choice.</value>
+  </data>
+  <data name="008_000" xml:space="preserve">
+    <value>See, I just knew standing around here would pay off. That barrier couldn't take it anymore and just shattered!</value>
+  </data>
+  <data name="008_030" xml:space="preserve">
+    <value>Don't worry about us. You stay here and guard these rocks.</value>
+  </data>
+  <data name="008_010" xml:space="preserve">
+    <value>Good work, Avgustin, I knew I could count on you.</value>
+  </data>
+  <data name="008_040" xml:space="preserve">
+    <value>I'll take it as a personal challenge!</value>
+  </data>
+</root>

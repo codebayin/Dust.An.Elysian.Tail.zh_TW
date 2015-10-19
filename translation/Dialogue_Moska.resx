@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="005_000" xml:space="preserve">
+    <value>Always a pleasure to see you guys!</value>
+  </data>
+  <data name="004_060" xml:space="preserve">
+    <value>What? That's how we sign our names. See, it says right there! Fidg-et!</value>
+  </data>
+  <data name="004_040" xml:space="preserve">
+    <value>Aha! There you go!</value>
+  </data>
+  <data name="004_070" xml:space="preserve">
+    <value>Well, uh... great! This is great! You two are just... just swell! Good luck out there, and thanks again for saving Sarahi. I'll never forget it!</value>
+  </data>
+  <data name="004_020" xml:space="preserve">
+    <value>Alright, there you go.</value>
+  </data>
+  <data name="004_050" xml:space="preserve">
+    <value>What is that? A paw print?</value>
+  </data>
+  <data name="004_000" xml:space="preserve">
+    <value>Alright, Moska. This feels a bit strange, but here we go. What do you want your autograph to say?</value>
+  </data>
+  <data name="004_030" xml:space="preserve">
+    <value>Your friend can sign it, too!</value>
+  </data>
+  <data name="004_010" xml:space="preserve">
+    <value>How about... "To Moska, my greatest fan!"</value>
+  </data>
+  <data name="003_000" xml:space="preserve">
+    <value>You can get paper from the shop.</value>
+  </data>
+  <data name="002_100" xml:space="preserve">
+    <value>Hey!</value>
+  </data>
+  <data name="002_110" xml:space="preserve">
+    <value>Oh, darn it! I don't have any paper on me. Could you grab some from the shop? Here's some money - I'd go get it myself, but I'm uh... sorta blacklisted. How was I supposed to know those displays would fall over so easily?</value>
+  </data>
+  <data name="002_120" xml:space="preserve">
+    <value>Don't worry, I'll go get your paper for you.</value>
+  </data>
+  <data name="002_080" xml:space="preserve">
+    <value>Oh, c'mon! Don't be such a downer! Hey, I'll sign it too! Every hero needs a sidekick!</value>
+  </data>
+  <data name="002_090" xml:space="preserve">
+    <value>Yes, usually for comic relief.</value>
+  </data>
+  <data name="002_000" xml:space="preserve">
+    <value>Dust, I owe you so much! I can't believe what Sarahi has been through. Without your help... well, I just don't want to think about it!</value>
+  </data>
+  <data name="002_020" xml:space="preserve">
+    <value>Yeah, I'm taking care of her. She's still pretty shaken. She lost a lot of friends...</value>
+  </data>
+  <data name="002_010" xml:space="preserve">
+    <value>Is she going to be alright?</value>
+  </data>
+  <data name="002_040" xml:space="preserve">
+    <value>Wait, what?</value>
+  </data>
+  <data name="002_030" xml:space="preserve">
+    <value>Hey, um... I know this might sound a little weird, but could I get your autograph?</value>
+  </data>
+  <data name="002_060" xml:space="preserve">
+    <value>I honestly don't feel like too much of hero.</value>
+  </data>
+  <data name="002_050" xml:space="preserve">
+    <value>Well, it's just... after everything you've done for us, for this village, for everyone, really, I'd really like something to remember a true hero by!</value>
+  </data>
+  <data name="001_080" xml:space="preserve">
+    <value>Please, Dust... go there and see if she's safe! I'll be following, but I'm no fighter.</value>
+  </data>
+  <data name="001_090" xml:space="preserve">
+    <value>If you insist on coming along, be sure to keep your distance.</value>
+  </data>
+  <data name="001_020" xml:space="preserve">
+    <value>We traveled to Denham. It's been burnt to the ground.</value>
+  </data>
+  <data name="001_030" xml:space="preserve">
+    <value>What!? Oh... No! No no no!</value>
+  </data>
+  <data name="001_000" xml:space="preserve">
+    <value>Moska, I'm afraid I have some bad news.</value>
+  </data>
+  <data name="001_010" xml:space="preserve">
+    <value>Oh...? Is... everything alright?</value>
+  </data>
+  <data name="001_060" xml:space="preserve">
+    <value>What do you think, Moska?</value>
+  </data>
+  <data name="001_070" xml:space="preserve">
+    <value>She mentions a place that only the two of us know about! It's a hidden cove not far from here.</value>
+  </data>
+  <data name="001_040" xml:space="preserve">
+    <value>But, there was a note. It's addressed to you, from somebody named Sarahi.</value>
+  </data>
+  <data name="001_050" xml:space="preserve">
+    <value>Sarahi? Oh, thank goodness! She must be alive! She must have escaped! Please, let me see it!</value>
+  </data>
+  <data name="001_100" xml:space="preserve">
+    <value>Yeah, when Dust starts swinging that sword, you don't want to be anywhere near him. Have you seen the screen? He just goes vwooshzheeooshzoozoosh!</value>
+  </data>
+  <data name="000_120" xml:space="preserve">
+    <value>Well, surely she's worth the danger!</value>
+  </data>
+  <data name="000_130" xml:space="preserve">
+    <value>Oh, she is! She definitely is. I just... I want to make sure she's okay. With all these monsters around there's been no word from Denham at all!</value>
+  </data>
+  <data name="000_100" xml:space="preserve">
+    <value>I imagine this someone is pretty important to you?</value>
+  </data>
+  <data name="000_110" xml:space="preserve">
+    <value>Well, yeah... see, it's about a girl...</value>
+  </data>
+  <data name="000_140" xml:space="preserve">
+    <value>Moska, if my travels take me there, I'll let her know you're thinking about her.</value>
+  </data>
+  <data name="000_150" xml:space="preserve">
+    <value>Ahh, thank you so much! You're great! You're really, really great!</value>
+  </data>
+  <data name="000_080" xml:space="preserve">
+    <value>Oh, they're far from safe. The town guards mentioned that monsters have been attacking all sides of the village. You're better off staying inside the walls for now.</value>
+  </data>
+  <data name="000_090" xml:space="preserve">
+    <value>Well, see, here's my problem - I've been meaning to visit someone in Denham. It's a small village on the edge of Abadis Forest.</value>
+  </data>
+  <data name="000_020" xml:space="preserve">
+    <value>Ahh, so you're the one everyone is talking about!</value>
+  </data>
+  <data name="000_000" xml:space="preserve">
+    <value>Hello, I don't believe I've seen you before!</value>
+  </data>
+  <data name="000_030" xml:space="preserve">
+    <value>Everyone's talking?</value>
+  </data>
+  <data name="000_060" xml:space="preserve">
+    <value>I don't know. Why do you ask?</value>
+  </data>
+  <data name="000_010" xml:space="preserve">
+    <value>We just came in from the west.</value>
+  </data>
+  <data name="000_040" xml:space="preserve">
+    <value>Of course! You're the one who saved Oneida! My name is Moska, and I am at your service! If you need anything, just let me know!</value>
+  </data>
+  <data name="000_070" xml:space="preserve">
+    <value>Well, if you ever find yourself heading east of the village, maybe you could let me know if the roads are safe?</value>
+  </data>
+  <data name="000_050" xml:space="preserve">
+    <value>Say, are you, uh... are you staying long?</value>
+  </data>
+</root>

@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="004_000" xml:space="preserve">
+    <value>I believe I dropped the watch somewhere outside my farm. I'd really appreciate if you can keep your eyes open for it.</value>
+  </data>
+  <data name="003_000" xml:space="preserve">
+    <value>Having this pocketwatch back puts my mind at ease. Thanks, Dust!</value>
+  </data>
+  <data name="002_000" xml:space="preserve">
+    <value>You've found it! This is the nicest thing anyone's ever done for me!</value>
+  </data>
+  <data name="002_020" xml:space="preserve">
+    <value>Yes, well, I meant aside from that! Thank you so much, you two. I have little to offer in return, but here - take this set of Treasure Keys.</value>
+  </data>
+  <data name="002_010" xml:space="preserve">
+    <value>Well, um, we did save your life, remember?</value>
+  </data>
+  <data name="002_030" xml:space="preserve">
+    <value>Thank you, Geehan. I'm glad we were able to be of service.</value>
+  </data>
+  <data name="001_020" xml:space="preserve">
+    <value>Ah, and it's valuable?</value>
+  </data>
+  <data name="001_030" xml:space="preserve">
+    <value>To me, yes. To the both of us, really. It was a wedding gift from her father. In fact, it's really the only thing we have to remember him by.</value>
+  </data>
+  <data name="001_000" xml:space="preserve">
+    <value>Is there anything else? It sounds like you've got something on your mind.</value>
+  </data>
+  <data name="001_010" xml:space="preserve">
+    <value>It's that obvious, eh? Very well. I haven't told Oneida, but I do believe I lost my pocketwatch when those giants attacked us.</value>
+  </data>
+  <data name="001_060" xml:space="preserve">
+    <value>Thank you, Dust. Really, you don't know how much this means to me.</value>
+  </data>
+  <data name="001_040" xml:space="preserve">
+    <value>I think I may have dropped it outside the farm, just before those creatures chased us back here. With my leg the way it is, I really can't be out looking for it...</value>
+  </data>
+  <data name="001_050" xml:space="preserve">
+    <value>I'll go take a look.</value>
+  </data>
+  <data name="000_020" xml:space="preserve">
+    <value>I think I'll be alright. Just need some time to think, is all.</value>
+  </data>
+  <data name="000_000" xml:space="preserve">
+    <value>Ah, Dust. Thank you again for your help.</value>
+  </data>
+  <data name="000_010" xml:space="preserve">
+    <value>How's your leg doing?</value>
+  </data>
+  <data name="010_010" xml:space="preserve">
+    <value>Hm... yeah, actually! I'm getting something from down in that big scary hole in the ground. Why is it always a big scary hole in the ground?</value>
+  </data>
+  <data name="010_020" xml:space="preserve">
+    <value>I'll have to get back to you on that, Fidget. In the meantime, we should clear it out for Geehan and Oneida.</value>
+  </data>
+  <data name="010_000" xml:space="preserve">
+    <value>Those monsters really tore the place apart. Hey Fidget, can you use that sixth sense of yours to find Geehan's watch?</value>
+  </data>
+</root>

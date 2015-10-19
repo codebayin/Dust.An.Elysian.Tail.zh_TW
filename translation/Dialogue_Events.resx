@@ -1,0 +1,1908 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="150_Option_0" xml:space="preserve">
+    <value>Please tell me.</value>
+  </data>
+  <data name="150_Option_1" xml:space="preserve">
+    <value>No, I'm prepared.</value>
+  </data>
+  <data name="412_010" xml:space="preserve">
+    <value>Aaaah, hey...</value>
+  </data>
+  <data name="412_000" xml:space="preserve">
+    <value>Fidget!</value>
+  </data>
+  <data name="410_030" xml:space="preserve">
+    <value>Yes, but you're the one with the big mouth.</value>
+  </data>
+  <data name="410_040" xml:space="preserve">
+    <value>HEY!</value>
+  </data>
+  <data name="410_010" xml:space="preserve">
+    <value>Looks like the snow hasn't fully settled yet. We should be careful - the slightest wrong move could set off another avalanche.</value>
+  </data>
+  <data name="410_020" xml:space="preserve">
+    <value>Don't look at me! You're the one who can't fly.</value>
+  </data>
+  <data name="410_000" xml:space="preserve">
+    <value>Whoa! What was that?</value>
+  </data>
+  <data name="426_020" xml:space="preserve">
+    <value>Don't hold back, Fidget.</value>
+  </data>
+  <data name="426_000" xml:space="preserve">
+    <value>Yeah, take that!</value>
+  </data>
+  <data name="426_010" xml:space="preserve">
+    <value>Meanie.</value>
+  </data>
+  <data name="420_000" xml:space="preserve">
+    <value>Well, I see a way up, but I won't be able to reach those ledges without some help.</value>
+  </data>
+  <data name="420_010" xml:space="preserve">
+    <value>Let's look around. Maybe we'll find another way to tackle this cliff.</value>
+  </data>
+  <data name="430_010" xml:space="preserve">
+    <value>Every moment has a purpose, Fidget. You just have to dig deeper.</value>
+  </data>
+  <data name="430_000" xml:space="preserve">
+    <value>Well, that made absolutely no sense!</value>
+  </data>
+  <data name="445_000" xml:space="preserve">
+    <value>Dust, be careful! Watch overhead - the snow is not the only thing you are shaking loose.</value>
+  </data>
+  <data name="442_000" xml:space="preserve">
+    <value>Well, that did something.</value>
+  </data>
+  <data name="442_020" xml:space="preserve">
+    <value>Huh?</value>
+  </data>
+  <data name="442_010" xml:space="preserve">
+    <value>It sure did! You know what I'm thinking? I'm thinking we find another one.</value>
+  </data>
+  <data name="442_040" xml:space="preserve">
+    <value>Fidget, I think the bitter cold is creating lapses in your judgment.</value>
+  </data>
+  <data name="442_030" xml:space="preserve">
+    <value>That obviously wasn't enough. We need to break more pillars!</value>
+  </data>
+  <data name="442_060" xml:space="preserve">
+    <value>Oog.</value>
+  </data>
+  <data name="442_050" xml:space="preserve">
+    <value>That is ridiculous! I'm perfectly-... perfectly-... *AH-CHOO!*</value>
+  </data>
+  <data name="440_080" xml:space="preserve">
+    <value>It is.</value>
+  </data>
+  <data name="440_090" xml:space="preserve">
+    <value>Very well! Let's do this thing!</value>
+  </data>
+  <data name="440_020" xml:space="preserve">
+    <value>You mean... make another avalanche?</value>
+  </data>
+  <data name="440_000" xml:space="preserve">
+    <value>Sorry, Dust - I don't think you're double-jumping over that. Stupid avalanches ruin everything! Go ahead, name me one good thing an avalanche has ever done!</value>
+  </data>
+  <data name="440_030" xml:space="preserve">
+    <value>That's the idea, yes.</value>
+  </data>
+  <data name="440_060" xml:space="preserve">
+    <value>It's really the only way, Ahrah.</value>
+  </data>
+  <data name="440_010" xml:space="preserve">
+    <value>Well, now that you mention it... this might be a crazy idea, but maybe we can clear some of the snow off of that mountainside.</value>
+  </data>
+  <data name="440_040" xml:space="preserve">
+    <value>You're crazy. I love it.</value>
+  </data>
+  <data name="440_070" xml:space="preserve">
+    <value>Yeah, Ahrah! It really is! Is it?</value>
+  </data>
+  <data name="440_050" xml:space="preserve">
+    <value>Really? Do I need to be the voice of caution here? Need I explain how creating an avalanche puts us all in danger?</value>
+  </data>
+  <data name="450_030" xml:space="preserve">
+    <value>Not enough! We'll need to find more if we're going to clear away that snow!</value>
+  </data>
+  <data name="450_010" xml:space="preserve">
+    <value>Not- not enough!</value>
+  </data>
+  <data name="450_020" xml:space="preserve">
+    <value>*AH-CHOO!*</value>
+  </data>
+  <data name="450_000" xml:space="preserve">
+    <value>That's two.</value>
+  </data>
+  <data name="450_050" xml:space="preserve">
+    <value>Never!</value>
+  </data>
+  <data name="450_040" xml:space="preserve">
+    <value>We really should get you someplace warm, Fidget. I think you're coming down with something.</value>
+  </data>
+  <data name="340_000" xml:space="preserve">
+    <value>Is it gone?!</value>
+  </data>
+  <data name="340_010" xml:space="preserve">
+    <value>I think so. Is that who Cora was talking about?</value>
+  </data>
+  <data name="340_020" xml:space="preserve">
+    <value>Well, this Cora woman better start explaining herself! I can't take any more of this!</value>
+  </data>
+  <data name="465_000" xml:space="preserve">
+    <value>That... is a lovely singing voice.</value>
+  </data>
+  <data name="465_010" xml:space="preserve">
+    <value>Stop, Fidget. Just stop.</value>
+  </data>
+  <data name="465_020" xml:space="preserve">
+    <value>Aaaah... I think I'm coming down with something.</value>
+  </data>
+  <data name="465_030" xml:space="preserve">
+    <value>Yes, Fidget. We figured that on our own. Come, Dust, let us continue.</value>
+  </data>
+  <data name="370_000" xml:space="preserve">
+    <value>That's all of them. I'm sensing a pattern with these items, but we'll let Cora explain.  Let's return to the center of the meadow.</value>
+  </data>
+  <data name="475_010" xml:space="preserve">
+    <value>All the way up here? Do you think it's that Moonblood camp Kane was talking about?</value>
+  </data>
+  <data name="475_000" xml:space="preserve">
+    <value>Look! Up ahead! A village!</value>
+  </data>
+  <data name="475_020" xml:space="preserve">
+    <value>No, it's something else. It's... Enough talking, let's get up there.</value>
+  </data>
+  <data name="474_000" xml:space="preserve">
+    <value>There... there was a road here.  I remember it.  Before that day.</value>
+  </data>
+  <data name="471_010" xml:space="preserve">
+    <value>And you thought this was a bad idea.</value>
+  </data>
+  <data name="471_000" xml:space="preserve">
+    <value>The path above has been made clear. Onward and upward.</value>
+  </data>
+  <data name="470_010" xml:space="preserve">
+    <value>Be careful, Dust. I sense a powerful presence has been stirred by your actions.</value>
+  </data>
+  <data name="470_000" xml:space="preserve">
+    <value>Oh, wow! That definitely did something! C'mon, let's get back to the surface!</value>
+  </data>
+  <data name="470_020" xml:space="preserve">
+    <value>Let's not keep it waiting, then.</value>
+  </data>
+  <data name="481_040" xml:space="preserve">
+    <value>You... you were dead! No, no - this is not possible. I don't know what demon you are, but you will not step any closer! Kill this... thing!</value>
+  </data>
+  <data name="481_020" xml:space="preserve">
+    <value>Cassius!</value>
+  </data>
+  <data name="481_030" xml:space="preserve">
+    <value>What did you call me? Who are you! What are you doing in this place!</value>
+  </data>
+  <data name="481_000" xml:space="preserve">
+    <value>What? No... impossible!</value>
+  </data>
+  <data name="480_000" xml:space="preserve">
+    <value>Halt!</value>
+  </data>
+  <data name="485_020" xml:space="preserve">
+    <value>It's not my name. I'd remember it. I'd know it when I heard it.</value>
+  </data>
+  <data name="485_000" xml:space="preserve">
+    <value>Why!? Why destroy such a peaceful place? We didn't want any of this!</value>
+  </data>
+  <data name="485_010" xml:space="preserve">
+    <value>Dust? What are you talking about? And... who is Cassius? That's not-?</value>
+  </data>
+  <data name="490_050" xml:space="preserve">
+    <value>But I don't remember any of it! I remember this place, but it feels like it's been more than a year! Ahrah, what does it mean?</value>
+  </data>
+  <data name="490_060" xml:space="preserve">
+    <value>It only means that things are not as they seem. Explore the village further, Dust. Let us see what secrets it hides.</value>
+  </data>
+  <data name="490_030" xml:space="preserve">
+    <value>This was Ginger's village. I was here... one year ago. According to Fuse, according to Ginger, I helped murder everyone in this village.</value>
+  </data>
+  <data name="490_040" xml:space="preserve">
+    <value>Oh, Dust...</value>
+  </data>
+  <data name="490_010" xml:space="preserve">
+    <value>A year, actually.</value>
+  </data>
+  <data name="490_020" xml:space="preserve">
+    <value>Huh? How do you know that?</value>
+  </data>
+  <data name="490_000" xml:space="preserve">
+    <value>Looks like this place has been destroyed for quite some time.</value>
+  </data>
+  <data name="495_020" xml:space="preserve">
+    <value>This is impossible.</value>
+  </data>
+  <data name="495_010" xml:space="preserve">
+    <value>Do you remember something, Dust?</value>
+  </data>
+  <data name="495_000" xml:space="preserve">
+    <value>This house...</value>
+  </data>
+  <data name="496_010" xml:space="preserve">
+    <value>How...?</value>
+  </data>
+  <data name="496_030" xml:space="preserve">
+    <value>But how, Ahrah? I don't understand-</value>
+  </data>
+  <data name="496_000" xml:space="preserve">
+    <value>Dust?</value>
+  </data>
+  <data name="496_020" xml:space="preserve">
+    <value>Do you see now?</value>
+  </data>
+  <data name="496_040" xml:space="preserve">
+    <value>The answers lie above, Dust.</value>
+  </data>
+  <data name="330_010" xml:space="preserve">
+    <value>Dust, that being exists in a place that I cannot reach.  Run!</value>
+  </data>
+  <data name="330_000" xml:space="preserve">
+    <value>What is that thing?!</value>
+  </data>
+  <data name="315_040" xml:space="preserve">
+    <value>Mmmrff....</value>
+  </data>
+  <data name="315_010" xml:space="preserve">
+    <value>MMM! MmffmMM!</value>
+  </data>
+  <data name="315_030" xml:space="preserve">
+    <value>You mean Fidget can't talk now? At all? That's... terrible. Really, awful. Not sure how I'll get by.</value>
+  </data>
+  <data name="315_000" xml:space="preserve">
+    <value>Fidget? Is something wrong?</value>
+  </data>
+  <data name="315_020" xml:space="preserve">
+    <value>She's been silenced, Dust! While in this state, she will be unable to cast her projectiles. Fortunately, the effect is only temporary and will fade over time.</value>
+  </data>
+  <data name="310_010" xml:space="preserve">
+    <value>We've come this far together and you're surprised?</value>
+  </data>
+  <data name="310_000" xml:space="preserve">
+    <value>AAH! What IS that thing!? It's hideous!</value>
+  </data>
+  <data name="310_020" xml:space="preserve">
+    <value>But it has evil knife hands! EVIL KNIFE HANDS! Be careful, Dust!</value>
+  </data>
+  <data name="501_Option_2" xml:space="preserve">
+    <value>How does Ahrah fit into all this?</value>
+  </data>
+  <data name="501_Option_3" xml:space="preserve">
+    <value>I have no more questions. What's the plan now?</value>
+  </data>
+  <data name="501_Option_0" xml:space="preserve">
+    <value>What am I, exactly?</value>
+  </data>
+  <data name="501_Option_1" xml:space="preserve">
+    <value>Why couldn't I remember anything?</value>
+  </data>
+  <data name="042_000" xml:space="preserve">
+    <value>Phew!</value>
+  </data>
+  <data name="042_020" xml:space="preserve">
+    <value>Agh, here come some more!</value>
+  </data>
+  <data name="042_010" xml:space="preserve">
+    <value>No, wait! That's not all of them!</value>
+  </data>
+  <data name="041_020" xml:space="preserve">
+    <value>Exercise all you've learned, Dust. Send these foul creatures from this existence.</value>
+  </data>
+  <data name="041_000" xml:space="preserve">
+    <value>Whaaaaah! Look at the size of that thing!</value>
+  </data>
+  <data name="041_010" xml:space="preserve">
+    <value>Don't worry, I think I can handle it.</value>
+  </data>
+  <data name="040_000" xml:space="preserve">
+    <value>Look!</value>
+  </data>
+  <data name="040_010" xml:space="preserve">
+    <value>Please, help us!</value>
+  </data>
+  <data name="051_010" xml:space="preserve">
+    <value>Not a problem at all. Stand back!</value>
+  </data>
+  <data name="051_000" xml:space="preserve">
+    <value>Dust, there's something up there!</value>
+  </data>
+  <data name="052_000" xml:space="preserve">
+    <value>Alright, I've got it! Wait... no! Aaah-!</value>
+  </data>
+  <data name="050_110" xml:space="preserve">
+    <value>Very well. But something... something here is making me uneasy. Like the calm before a storm.</value>
+  </data>
+  <data name="050_100" xml:space="preserve">
+    <value>That is a good idea, Fidget. Let us meet with the townspeople - I am certain that the next step of your journey will reveal itself in time.</value>
+  </data>
+  <data name="050_050" xml:space="preserve">
+    <value>And you, in turn, do not recognize them. Yet I feel there is something here that may yet trigger your memory's return.</value>
+  </data>
+  <data name="050_060" xml:space="preserve">
+    <value>Maybe we should look around a bit, then? If you really have been here before, maybe somebody will recognize you!</value>
+  </data>
+  <data name="050_030" xml:space="preserve">
+    <value>You're right where you need to be. The answers to your identity lie somewhere in this village.</value>
+  </data>
+  <data name="050_040" xml:space="preserve">
+    <value>I know this place, that's for certain. I'm sure I've been here before, but nobody seems to recognize me.</value>
+  </data>
+  <data name="050_010" xml:space="preserve">
+    <value>It was the first thing that popped into my head! It's not like you had anything better. C'mon, let's get away from these guards.</value>
+  </data>
+  <data name="050_020" xml:space="preserve">
+    <value>Alright, Ahrah, where to now?</value>
+  </data>
+  <data name="050_000" xml:space="preserve">
+    <value>Prospectors, Fidget? That was the best thing you could come up with?</value>
+  </data>
+  <data name="053_010" xml:space="preserve">
+    <value>Yeah, I don't know - I just can't get a good enough grip.</value>
+  </data>
+  <data name="053_000" xml:space="preserve">
+    <value>Having some trouble there?</value>
+  </data>
+  <data name="053_030" xml:space="preserve">
+    <value>Don't worry about it. I'm sure there's a way to get up there. We'll just come back later.</value>
+  </data>
+  <data name="053_020" xml:space="preserve">
+    <value>Aaw, you're just trying to show off! That's sweet.</value>
+  </data>
+  <data name="057_010" xml:space="preserve">
+    <value>Four locks. I'll take a wild guess and say we need four keys.</value>
+  </data>
+  <data name="057_000" xml:space="preserve">
+    <value>There's something in that cage! Quick, get it out!</value>
+  </data>
+  <data name="065_000" xml:space="preserve">
+    <value>She's a cheerful one, huh?</value>
+  </data>
+  <data name="065_010" xml:space="preserve">
+    <value>A bit of gratitude might've been nice. What kind of a bratty-?</value>
+  </data>
+  <data name="065_020" xml:space="preserve">
+    <value>Hey, ease off, Dust! She looked like she was pretty depressed.</value>
+  </data>
+  <data name="065_030" xml:space="preserve">
+    <value>I... I don't know why I said that. I'm sorry, Fidget, I... I don't know what came over me just then. Come on, let's keep moving.</value>
+  </data>
+  <data name="076_030" xml:space="preserve">
+    <value>Perfect for a ranged attack! Lemme at 'em!</value>
+  </data>
+  <data name="076_010" xml:space="preserve">
+    <value>Blombs. Deadly creatures. Keep your distance.</value>
+  </data>
+  <data name="076_020" xml:space="preserve">
+    <value>They will detonate if you get too close, but are vulnerable when taking a deep breath.</value>
+  </data>
+  <data name="076_000" xml:space="preserve">
+    <value>Oh my. He really should've saved first.</value>
+  </data>
+  <data name="073_050" xml:space="preserve">
+    <value>That's great, Fidget. Really, I'll keep that in mind.</value>
+  </data>
+  <data name="073_040" xml:space="preserve">
+    <value>You didn't see the signals? She was giving you the signals!</value>
+  </data>
+  <data name="073_030" xml:space="preserve">
+    <value>Fidget, what are you talking about?</value>
+  </data>
+  <data name="073_020" xml:space="preserve">
+    <value>Oh, don't be so dense. It's because she likes you!</value>
+  </data>
+  <data name="073_010" xml:space="preserve">
+    <value>I don't know, Fidget. Why?</value>
+  </data>
+  <data name="073_000" xml:space="preserve">
+    <value>That went incredibly well. Do you know why?</value>
+  </data>
+  <data name="075_010" xml:space="preserve">
+    <value>What? That isn't you?</value>
+  </data>
+  <data name="075_000" xml:space="preserve">
+    <value>Do you hear something... flapping?</value>
+  </data>
+  <data name="075_030" xml:space="preserve">
+    <value>Wait, you're right. Look out! We've got company!</value>
+  </data>
+  <data name="075_020" xml:space="preserve">
+    <value>Hey, I don't make that much noise!</value>
+  </data>
+  <data name="006_100" xml:space="preserve">
+    <value>At least take these Feeble Fruits.  Something tells me you're going to need them.</value>
+  </data>
+  <data name="006_080" xml:space="preserve">
+    <value>Fidget, I think things are about to get a whole lot worse.</value>
+  </data>
+  <data name="006_090" xml:space="preserve">
+    <value>And to think, this morning started off so well!</value>
+  </data>
+  <data name="006_040" xml:space="preserve">
+    <value>Is that why I summoned you? To control this power?</value>
+  </data>
+  <data name="006_060" xml:space="preserve">
+    <value>There is a village beyond these woods. Perhaps finding it will aid in restoring your memories.</value>
+  </data>
+  <data name="006_050" xml:space="preserve">
+    <value>It is unlikely, Dust, that I would awaken from my slumber for such selfish reasons.</value>
+  </data>
+  <data name="006_000" xml:space="preserve">
+    <value>Whoa!  Nobody said anything about monsters!</value>
+  </data>
+  <data name="006_070" xml:space="preserve">
+    <value>And then we'll be in the clear, right? No more monsters?</value>
+  </data>
+  <data name="006_020" xml:space="preserve">
+    <value>You wield the Blade of Ahrah, and with it, all the skills imbued therein.</value>
+  </data>
+  <data name="006_010" xml:space="preserve">
+    <value>Strange... Where did I learn these skills?</value>
+  </data>
+  <data name="006_030" xml:space="preserve">
+    <value>Uh, hello? Monsters?!</value>
+  </data>
+  <data name="005_020" xml:space="preserve">
+    <value>No, no! Mash the buttons! DO SOMETHING!!</value>
+  </data>
+  <data name="005_000" xml:space="preserve">
+    <value>AHHH!! Monsters!</value>
+  </data>
+  <data name="005_010" xml:space="preserve">
+    <value>Calm yourself, Fidget. Dust, focus! Remember what you've learned thus far.</value>
+  </data>
+  <data name="003_000" xml:space="preserve">
+    <value>Well, I-</value>
+  </data>
+  <data name="003_010" xml:space="preserve">
+    <value>Alright, alright! You win! But don't think I'm leaving empty-handed! I'm coming with you!</value>
+  </data>
+  <data name="003_020" xml:space="preserve">
+    <value>But, um... I really need the sword back when you're done doing... you know, whatever it is you're doing.</value>
+  </data>
+  <data name="003_030" xml:space="preserve">
+    <value>What exactly AM I doing, Ahrah?</value>
+  </data>
+  <data name="003_040" xml:space="preserve">
+    <value>The answers you seek lie to the east. There is a path through the glade that leads down the mountainside, and from there you will find a village. That is your first step.</value>
+  </data>
+  <data name="003_050" xml:space="preserve">
+    <value>THEN will you give me the sword? I reeeeeally need to get it back home before anyone notices it's gone!</value>
+  </data>
+  <data name="003_060" xml:space="preserve">
+    <value>When I find out just what it is I'm supposed to do with it, it's all yours, Fidget. C'mon, let's go.</value>
+  </data>
+  <data name="003_100" xml:space="preserve">
+    <value>I don't have time for these games, Fidget.</value>
+  </data>
+  <data name="003_120" xml:space="preserve">
+    <value>I will? Oh. Well. Okay, then.</value>
+  </data>
+  <data name="003_110" xml:space="preserve">
+    <value>Indeed. Time is of the essence. Fidget, you will join us.</value>
+  </data>
+  <data name="003_130" xml:space="preserve">
+    <value>Come, Dust. We travel east.</value>
+  </data>
+  <data name="002_100" xml:space="preserve">
+    <value>I'm sorry, I think I misheard before. You said your name was Fidget?</value>
+  </data>
+  <data name="002_110" xml:space="preserve">
+    <value>Hey, this isn't about me! You're the one who's got my sword! How about you tell me YOUR name?</value>
+  </data>
+  <data name="002_120" xml:space="preserve">
+    <value>I'm... ah...</value>
+  </data>
+  <data name="002_130" xml:space="preserve">
+    <value>Calm yourself, Fidget. His name is Dust, and he is the one who woke me from my slumber.</value>
+  </data>
+  <data name="002_140" xml:space="preserve">
+    <value>So... Fidget, then?</value>
+  </data>
+  <data name="002_150" xml:space="preserve">
+    <value>That's me! And you're Dust?</value>
+  </data>
+  <data name="002_160" xml:space="preserve">
+    <value>It would seem that way, though I can't recall that name.</value>
+  </data>
+  <data name="002_000" xml:space="preserve">
+    <value>No offense, but aren't you a bit... well, small?</value>
+  </data>
+  <data name="002_020" xml:space="preserve">
+    <value>Hey, I just look after that thing! After two-hundred years, nobody expects a sword to just fly off and start, you know, talking.</value>
+  </data>
+  <data name="002_010" xml:space="preserve">
+    <value>For a guardian, I mean?</value>
+  </data>
+  <data name="002_030" xml:space="preserve">
+    <value>I'm kind of wishing somebody told me this was part of the job description. Or maybe they did... and I just wasn't paying attention? That happens sometimes.</value>
+  </data>
+  <data name="002_220" xml:space="preserve">
+    <value>Yes, well, that's all great and everything, but I think it's about time I got this sword back to the clan.</value>
+  </data>
+  <data name="002_200" xml:space="preserve">
+    <value>So... what is this sword?</value>
+  </data>
+  <data name="002_230" xml:space="preserve">
+    <value>I can't let you just leave with this sword, Fidget. Right now, it's the only thing that knows who I am. I don't even know how I got here...</value>
+  </data>
+  <data name="002_210" xml:space="preserve">
+    <value>I am the Blade of Ahrah, and you, Dust, are my fated sword-bearer.</value>
+  </data>
+  <data name="002_240" xml:space="preserve">
+    <value>Hmph! Well, then you leave me no choice! I... I challenge you! The winner gets the sword!</value>
+  </data>
+  <data name="001_020" xml:space="preserve">
+    <value>Summoned? How? For what purpose?</value>
+  </data>
+  <data name="001_030" xml:space="preserve">
+    <value>That I do not know. But we shall learn in time.</value>
+  </data>
+  <data name="001_000" xml:space="preserve">
+    <value>Wh... A talking sword? What are you?</value>
+  </data>
+  <data name="001_010" xml:space="preserve">
+    <value>Only that which you have summoned.</value>
+  </data>
+  <data name="001_060" xml:space="preserve">
+    <value>And who is she?</value>
+  </data>
+  <data name="001_070" xml:space="preserve">
+    <value>Me? I'm Fidget! Guardian of this sword!</value>
+  </data>
+  <data name="001_040" xml:space="preserve">
+    <value>Now rise, and claim the Blade of Ahrah.</value>
+  </data>
+  <data name="001_050" xml:space="preserve">
+    <value>Huff, huff... Stop... stop right there!</value>
+  </data>
+  <data name="000_020" xml:space="preserve">
+    <value>Arise!</value>
+  </data>
+  <data name="000_000" xml:space="preserve">
+    <value>Dust...</value>
+  </data>
+  <data name="000_010" xml:space="preserve">
+    <value>...Dust</value>
+  </data>
+  <data name="015_020" xml:space="preserve">
+    <value>Well, my kind has what you'd call a sixth sense, and there's something just ahead!</value>
+  </data>
+  <data name="015_010" xml:space="preserve">
+    <value>What is it, Fidget?</value>
+  </data>
+  <data name="015_000" xml:space="preserve">
+    <value>Hmm...</value>
+  </data>
+  <data name="011_010" xml:space="preserve">
+    <value>Hold [Y] to perform the DUST STORM. But beware! Skilled as you may be, you cannot maintain the storm for long without hurting yourself.</value>
+  </data>
+  <data name="011_000" xml:space="preserve">
+    <value>I like it.</value>
+  </data>
+  <data name="011_050" xml:space="preserve">
+    <value>Please contain yourselves as I demonstrate:</value>
+  </data>
+  <data name="011_040" xml:space="preserve">
+    <value>In that case, maybe I can help! If you press [B], I'll perform an attack so spectacularly awesome that it'll produce emotions you didn't even know existed.</value>
+  </data>
+  <data name="012_010" xml:space="preserve">
+    <value>Hmph! Well, maybe I'll just keep the rest of my repertoire to myself.</value>
+  </data>
+  <data name="012_030" xml:space="preserve">
+    <value>Actually, Dust, between the three of us, this could be quite useful.</value>
+  </data>
+  <data name="012_000" xml:space="preserve">
+    <value>That was, uh... very pretty.</value>
+  </data>
+  <data name="012_020" xml:space="preserve">
+    <value>I'm sorry, Fidget. I'm sure it'll come in handy somehow.</value>
+  </data>
+  <data name="012_040" xml:space="preserve">
+    <value>The DUST STORM can manipulate Fidget's projectile into a more powerful attack. Observe:</value>
+  </data>
+  <data name="010_000" xml:space="preserve">
+    <value>Hold here, Dust. You have unlocked a new ability. Bear witness to the DUST STORM!</value>
+  </data>
+  <data name="013_010" xml:space="preserve">
+    <value>Oh, by the way, every time I use my power, it'll use up a bit of ENERGY METER. You can recharge the meter with Melee Combos.</value>
+  </data>
+  <data name="013_000" xml:space="preserve">
+    <value>Wow!</value>
+  </data>
+  <data name="013_030" xml:space="preserve">
+    <value>However, if you are struck by an enemy, the chain will be broken and you will lose your bonus experience.</value>
+  </data>
+  <data name="013_020" xml:space="preserve">
+    <value>Yes, Dust - between your Combos and Fidget's own powers, you can achieve a higher HIT CHAIN, which will yield bonus experience after each battle.</value>
+  </data>
+  <data name="013_050" xml:space="preserve">
+    <value>If this is all too much for you, you can check out the HELP screen via the PAUSE MENU by pressing [START].</value>
+  </data>
+  <data name="013_040" xml:space="preserve">
+    <value>Alright, I think I understand.</value>
+  </data>
+  <data name="013_060" xml:space="preserve">
+    <value>Thanks, Fidget. I'll take a look if I'm ever in trouble.</value>
+  </data>
+  <data name="027_020" xml:space="preserve">
+    <value>Aaah... yeah, okay. I'll try to be more careful.</value>
+  </data>
+  <data name="027_030" xml:space="preserve">
+    <value>Keep an eye on your color. If you start turning red and the screen begins to shake, you're close to losing it.</value>
+  </data>
+  <data name="027_000" xml:space="preserve">
+    <value>Whoa, what was that? Did you just hit yourself?</value>
+  </data>
+  <data name="027_010" xml:space="preserve">
+    <value>Dust, you must take care! Even the greatest of swordsmen cannot maintain the DUST STORM for that long!</value>
+  </data>
+  <data name="025_040" xml:space="preserve">
+    <value>I suppose we'll need a key, then.</value>
+  </data>
+  <data name="025_000" xml:space="preserve">
+    <value>Alright! We found a chest!</value>
+  </data>
+  <data name="025_010" xml:space="preserve">
+    <value>Correction: we found a locked chest.</value>
+  </data>
+  <data name="025_020" xml:space="preserve">
+    <value>Well, what are you waiting for? Smash it open!</value>
+  </data>
+  <data name="025_030" xml:space="preserve">
+    <value>That would be unwise, Dust. These chests are protected by arcane locks from the last era, and are well beyond my capabilities.</value>
+  </data>
+  <data name="020_100" xml:space="preserve">
+    <value>Very well. Proceed as you wish, Dust.</value>
+  </data>
+  <data name="020_080" xml:space="preserve">
+    <value>Then perhaps you recognize the village at the base of these cliffs?</value>
+  </data>
+  <data name="020_090" xml:space="preserve">
+    <value>It's hard to make out from here. We'll need to drop down to the valley floor if we want to get any closer.</value>
+  </data>
+  <data name="020_000" xml:space="preserve">
+    <value>... Wow.</value>
+  </data>
+  <data name="020_020" xml:space="preserve">
+    <value>Yeah. So, any idea where we are?</value>
+  </data>
+  <data name="020_010" xml:space="preserve">
+    <value>It's really beautiful up here.</value>
+  </data>
+  <data name="020_040" xml:space="preserve">
+    <value>Oh, silly me! I seem to have dropped all my detailed maps and navigational equipment chasing after a crazy flying sword.</value>
+  </data>
+  <data name="020_030" xml:space="preserve">
+    <value>I was maybe hoping you could tell me.</value>
+  </data>
+  <data name="020_060" xml:space="preserve">
+    <value>Well you should be! Taking my sword, getting me in trouble...</value>
+  </data>
+  <data name="020_050" xml:space="preserve">
+    <value>I'm sorry I got you mixed up in this, Fidget.</value>
+  </data>
+  <data name="020_070" xml:space="preserve">
+    <value>You know, now that I think about it, this isn't the first time I've seen this view. I've stood here before, in this very spot.</value>
+  </data>
+  <data name="028_000" xml:space="preserve">
+    <value>Hey, you just leveled up!</value>
+  </data>
+  <data name="028_020" xml:space="preserve">
+    <value>As it should, Dust. You've acquired a Skill Gem. Open the Character screen through the Inventory to upgrade your abilities and become even more powerful.</value>
+  </data>
+  <data name="028_010" xml:space="preserve">
+    <value>Is that what I did? It feels good! Great, even!</value>
+  </data>
+  <data name="035_040" xml:space="preserve">
+    <value>Now, put this beast out of its misery.</value>
+  </data>
+  <data name="035_010" xml:space="preserve">
+    <value>Attack and hold [X] at the moment of the enemy's strike, and you will parry their attack, opening them up for a counter-attack.</value>
+  </data>
+  <data name="035_000" xml:space="preserve">
+    <value>Hey, you dazed it!</value>
+  </data>
+  <data name="035_030" xml:space="preserve">
+    <value>And as you can see, a successful parry may also daze your opponent temporarily.</value>
+  </data>
+  <data name="035_020" xml:space="preserve">
+    <value>Timing is crucial, and you must be facing your opponent.</value>
+  </data>
+  <data name="034_010" xml:space="preserve">
+    <value>They're persistent, I'll give them that.</value>
+  </data>
+  <data name="034_030" xml:space="preserve">
+    <value>Allow it to strike.</value>
+  </data>
+  <data name="034_000" xml:space="preserve">
+    <value>AH! It's another one of those spiky slime things!</value>
+  </data>
+  <data name="034_020" xml:space="preserve">
+    <value>Much as I pity this corrupted beast, now might be a good time to demonstrate the parry technique.</value>
+  </data>
+  <data name="031_010" xml:space="preserve">
+    <value>GAH! Whatever it is, it's got glowing evil eyes of evil!</value>
+  </data>
+  <data name="031_000" xml:space="preserve">
+    <value>Is that a tent? Is there somebody in there?</value>
+  </data>
+  <data name="031_030" xml:space="preserve">
+    <value>Psh! I wasn't frightened! Just... surprised. At the, uh... savings! C'mon, let's talk to him!</value>
+  </data>
+  <data name="031_020" xml:space="preserve">
+    <value>A merchant lies in wait. Do not let his appearance frighten you - I sense he only wishes to assist in our journey.</value>
+  </data>
+  <data name="033_030" xml:space="preserve">
+    <value>Way behind.</value>
+  </data>
+  <data name="033_020" xml:space="preserve">
+    <value>Don't worry, Dust! I'll be behind you every step of the way.</value>
+  </data>
+  <data name="033_010" xml:space="preserve">
+    <value>Be on your guard, Dust. I sense a powerful foe ahead of you.</value>
+  </data>
+  <data name="033_000" xml:space="preserve">
+    <value>Looks like we're heading in the right direction.</value>
+  </data>
+  <data name="030_010" xml:space="preserve">
+    <value>I'm no expert, but it looks like a key.</value>
+  </data>
+  <data name="030_030" xml:space="preserve">
+    <value>Then again, I usually don't see swords floating around by themselves either.</value>
+  </data>
+  <data name="030_000" xml:space="preserve">
+    <value>Whoa, what is that?</value>
+  </data>
+  <data name="030_020" xml:space="preserve">
+    <value>Well, I'm a key EXPERT, and they're not supposed to float around like that!</value>
+  </data>
+  <data name="030_040" xml:space="preserve">
+    <value>These keys are imbued with the same arcane powers as the chests they unlock. You can use any key on any chest, but once you've used a key, it will lose its power and cannot be used again.</value>
+  </data>
+  <data name="039_010" xml:space="preserve">
+    <value>Ask them if they've got anything to eat.</value>
+  </data>
+  <data name="039_000" xml:space="preserve">
+    <value>I see somebody over there.</value>
+  </data>
+  <data name="039_030" xml:space="preserve">
+    <value>Hey, I'm not a pet! But, uh... I would appreciate that, thanks.</value>
+  </data>
+  <data name="039_020" xml:space="preserve">
+    <value>We're in a bit of a hurry, Fidget. Don't worry, I'll feed you later.</value>
+  </data>
+  <data name="086_000" xml:space="preserve">
+    <value>That did it! I can hear the water rushing below.</value>
+  </data>
+  <data name="086_010" xml:space="preserve">
+    <value>You're not very subtle, but that wasn't half bad.</value>
+  </data>
+  <data name="085_000" xml:space="preserve">
+    <value>This was done recently.</value>
+  </data>
+  <data name="085_010" xml:space="preserve">
+    <value>We don't have time to wait for it to die out. There's got to be another way around.</value>
+  </data>
+  <data name="082_000" xml:space="preserve">
+    <value>We must be getting close.</value>
+  </data>
+  <data name="082_020" xml:space="preserve">
+    <value>Look.</value>
+  </data>
+  <data name="082_010" xml:space="preserve">
+    <value>How can you tell?</value>
+  </data>
+  <data name="082_030" xml:space="preserve">
+    <value>We may still be able to save the others. Let's hurry.</value>
+  </data>
+  <data name="080_020" xml:space="preserve">
+    <value>Ha! I laugh at the dark! Actually, I'm afraid of heights.</value>
+  </data>
+  <data name="080_000" xml:space="preserve">
+    <value>Finally, we're out of those caverns.</value>
+  </data>
+  <data name="080_030" xml:space="preserve">
+    <value>Wait, heights? How's that possible? You fly all the time. Everywhere.</value>
+  </data>
+  <data name="080_010" xml:space="preserve">
+    <value>What's the matter? Afraid of the dark?</value>
+  </data>
+  <data name="080_040" xml:space="preserve">
+    <value>Oh, do I? I must've forgotten! Just like you must've forgotten that I can still fall AT ANY TIME!</value>
+  </data>
+  <data name="080_050" xml:space="preserve">
+    <value>Never looked at it that way. You're an interesting one, Fidget.</value>
+  </data>
+  <data name="502_040" xml:space="preserve">
+    <value>So that's why you picked Cassius and Jin. Just like you said... Opposites.</value>
+  </data>
+  <data name="502_050" xml:space="preserve">
+    <value>Exactly. Cassius was one of the greatest warriors this world has ever seen, and Jin's purity of heart would help guide our warrior to save our kind. From their fallen souls, you were born. Born to save us. To save this world.</value>
+  </data>
+  <data name="502_000" xml:space="preserve">
+    <value>Who... or, I guess, what am I?</value>
+  </data>
+  <data name="502_010" xml:space="preserve">
+    <value>You are what my people call Sen-Mithrarin. "He Who Is Born of the Dust", created from the essence of the Life Thread itself.</value>
+  </data>
+  <data name="502_020" xml:space="preserve">
+    <value>You see, my people have been on the verge of extinction for a great many years. General Gaius planned to eradicate us once and for all, and while our warriors are proud and strong, what chance would we have against such a powerful foe?</value>
+  </data>
+  <data name="502_030" xml:space="preserve">
+    <value>To defeat General Gaius and save our people, we would need a warrior capable of standing against an entire army. This warrior would also need to be pure of heart. Incorruptible.</value>
+  </data>
+  <data name="503_040" xml:space="preserve">
+    <value>You saved Mudpot and brought the waters of life back into this land. You purged a demonic rage from this land and even helped two old souls find peace once more. You may not have known your purpose, but that did not stop you from fulfilling it.</value>
+  </data>
+  <data name="503_060" xml:space="preserve">
+    <value>Yes, now you are here, and we can finish this fight once and for all.</value>
+  </data>
+  <data name="503_050" xml:space="preserve">
+    <value>And now I'm here.</value>
+  </data>
+  <data name="503_000" xml:space="preserve">
+    <value>Why did I only remember now? I didn't even recognize Ginger when I met her...</value>
+  </data>
+  <data name="503_020" xml:space="preserve">
+    <value>I had no idea who I was - what my purpose was...</value>
+  </data>
+  <data name="503_010" xml:space="preserve">
+    <value>You may possess the souls of two separate beings, but your body and mind are your own. You were created to save this world, so we felt giving you memories of either soul would simply distract you from the task at hand.</value>
+  </data>
+  <data name="503_030" xml:space="preserve">
+    <value>You say that, but in all cases, you did exactly what we intended you to do. You saved complete strangers outside of Aurora Village. You stopped our wayward brother, Fuse, from destroying all that we sought to save.</value>
+  </data>
+  <data name="095_010" xml:space="preserve">
+    <value>What have you done? You murdered all these innocent people...</value>
+  </data>
+  <data name="095_000" xml:space="preserve">
+    <value>So. You've come.</value>
+  </data>
+  <data name="096_010" xml:space="preserve">
+    <value>Your children? You're talking about those monsters back there? Who are you?</value>
+  </data>
+  <data name="096_000" xml:space="preserve">
+    <value>You dare speak to me of innocence when you have so casually slain a countless number of my children?</value>
+  </data>
+  <data name="096_020" xml:space="preserve">
+    <value>So, you don't remember my name? Rest assured, my friend, this time you will not so easily forget it!</value>
+  </data>
+  <data name="500_080" xml:space="preserve">
+    <value>So we combined your brother's soul with that of his murderer, the Royal Assassin known as Cassius. They perished at the same time, forever entwined. Never before had I heard of such an event.</value>
+  </data>
+  <data name="500_060" xml:space="preserve">
+    <value>However, to suit our needs, we required two souls. A soul of innocence is a noble thing, but without skill, without power, Dust would have been struck down just as easily as your brother was on that fated day.</value>
+  </data>
+  <data name="500_070" xml:space="preserve">
+    <value>No...</value>
+  </data>
+  <data name="500_040" xml:space="preserve">
+    <value>They do look remarkably similar to your brother's, yes. That is because his soul lives on within Dust.</value>
+  </data>
+  <data name="500_050" xml:space="preserve">
+    <value>What!?</value>
+  </data>
+  <data name="500_020" xml:space="preserve">
+    <value>What did you mean just then? That I can finally see the truth? What do you know about me?</value>
+  </data>
+  <data name="500_030" xml:space="preserve">
+    <value>His eyes, Elder... They are Jin's eyes...</value>
+  </data>
+  <data name="500_000" xml:space="preserve">
+    <value>Who are you?</value>
+  </data>
+  <data name="500_010" xml:space="preserve">
+    <value>I am Elder Gray Eyes, leader of the Moonblood people. Well, what's left of them, that is.</value>
+  </data>
+  <data name="501_060" xml:space="preserve">
+    <value>Ginger... I don't know. I... I don't know.</value>
+  </data>
+  <data name="501_040" xml:space="preserve">
+    <value>I never knew what happened. Jin just disappeared one night... I had always hoped he would turn up alive someday...</value>
+  </data>
+  <data name="501_070" xml:space="preserve">
+    <value>Now, Dust, I imagine you have many questions. Please, do not hesitate to ask them.</value>
+  </data>
+  <data name="501_020" xml:space="preserve">
+    <value>It's not possible... I couldn't even remember you when we met.</value>
+  </data>
+  <data name="501_050" xml:space="preserve">
+    <value>That he would come back... But... could you really be him?</value>
+  </data>
+  <data name="501_000" xml:space="preserve">
+    <value>A grave injustice was done that day. Cassius murdered a defenseless Jin, but his pride and arrogance proved to be his undoing.</value>
+  </data>
+  <data name="501_030" xml:space="preserve">
+    <value>You are Jin, yes. But you are also Cassius. Two souls, forever at odds, one of innocence, one of power. Together, you form the one we call Mithrarin. "He who is born of the dust".</value>
+  </data>
+  <data name="501_010" xml:space="preserve">
+    <value>But how? How can this... this thing be my brother?</value>
+  </data>
+  <data name="506_080" xml:space="preserve">
+    <value>Dust, your friend seems awfully tense.</value>
+  </data>
+  <data name="506_090" xml:space="preserve">
+    <value>No, I'm fine! C'mon, let's go to the blowy-up mountains! Really, I'm serious!</value>
+  </data>
+  <data name="506_000" xml:space="preserve">
+    <value>I have no more questions. What now?</value>
+  </data>
+  <data name="506_010" xml:space="preserve">
+    <value>You must join us in the Moonblood camp to the north, in the Everdawn Basin.</value>
+  </data>
+  <data name="506_020" xml:space="preserve">
+    <value>That isn't anywhere near the Everdawn volcanos, is it?</value>
+  </data>
+  <data name="506_030" xml:space="preserve">
+    <value>They are one in the same, yes.</value>
+  </data>
+  <data name="506_040" xml:space="preserve">
+    <value>Well, that's fantastic.</value>
+  </data>
+  <data name="506_050" xml:space="preserve">
+    <value>Volcanos?</value>
+  </data>
+  <data name="506_060" xml:space="preserve">
+    <value>Indeed. What better place to hide than in the most volatile land in all the kingdom?</value>
+  </data>
+  <data name="506_070" xml:space="preserve">
+    <value>Oooh, I know! How about a peaceful meadow? Or a quiet forest? Or some place that doesn't EXPLODE every ten minutes!?</value>
+  </data>
+  <data name="506_100" xml:space="preserve">
+    <value>Fidget, you need to have more faith in me.</value>
+  </data>
+  <data name="506_110" xml:space="preserve">
+    <value>I'll have faith in you when you have faith in yourself! How about it, huh? Who are you, really?</value>
+  </data>
+  <data name="507_100" xml:space="preserve">
+    <value>I'm sorry, I just... Nobody's ever said that to me before.</value>
+  </data>
+  <data name="507_110" xml:space="preserve">
+    <value>And it won't be the last time, I assure you.</value>
+  </data>
+  <data name="507_120" xml:space="preserve">
+    <value>Are you ready, Mithrarin?</value>
+  </data>
+  <data name="507_130" xml:space="preserve">
+    <value>I am.</value>
+  </data>
+  <data name="507_140" xml:space="preserve">
+    <value>Then we will meet you in the Everdawn Basin.</value>
+  </data>
+  <data name="507_150" xml:space="preserve">
+    <value>Goodbye, Dust. We'll see you there.</value>
+  </data>
+  <data name="507_080" xml:space="preserve">
+    <value>... Can you, uh... can you repeat that?</value>
+  </data>
+  <data name="507_090" xml:space="preserve">
+    <value>I said... I can't do this without you.</value>
+  </data>
+  <data name="507_000" xml:space="preserve">
+    <value>I am... I... ah...</value>
+  </data>
+  <data name="507_020" xml:space="preserve">
+    <value>Fidget, please calm down. You mustn't test your friend like this.</value>
+  </data>
+  <data name="507_010" xml:space="preserve">
+    <value>You see!? You still haven't figured it out, yet. Lizard guy tells you right to your face and you still don't know!</value>
+  </data>
+  <data name="507_040" xml:space="preserve">
+    <value>I understand, Fidget. You're right. I can't ask you to follow me.</value>
+  </data>
+  <data name="507_030" xml:space="preserve">
+    <value>I just... If I'm going to follow you to the literal END OF THIS WORLD, I need to know who I'm following, and why.</value>
+  </data>
+  <data name="507_060" xml:space="preserve">
+    <value>I just don't get it. It doesn't matter who he thinks he is - he's Dust. That's who he is. That's who I know.</value>
+  </data>
+  <data name="507_050" xml:space="preserve">
+    <value>But I can. Fidget, you have stood by Dust's side for this entire journey. You have watched him save this world. How can you continue to doubt?</value>
+  </data>
+  <data name="507_070" xml:space="preserve">
+    <value>Fidget, please... I can't do this without you.</value>
+  </data>
+  <data name="504_020" xml:space="preserve">
+    <value>After the village was destroyed... I guess he lost his mind.</value>
+  </data>
+  <data name="504_030" xml:space="preserve">
+    <value>He was horribly disfigured after the attack. The only way he could survive was in a special suit of magical armor that I helped to construct. He demanded we attack General Gaius right away, but I would not hear any of it. He would have killed us all in the name of vengeance. We would not have stood a chance.</value>
+  </data>
+  <data name="504_000" xml:space="preserve">
+    <value>Who was Fuse? He said he was a Moonblood, but he looks nothing like you...</value>
+  </data>
+  <data name="504_010" xml:space="preserve">
+    <value>Fuse... He was once a fine warrior, and a close friend of Ginger's family. He would help transport goods between this village and our camp.</value>
+  </data>
+  <data name="504_060" xml:space="preserve">
+    <value>No, you were right to kill him. If he had remained alive, there's no telling what damage he could have done.</value>
+  </data>
+  <data name="504_070" xml:space="preserve">
+    <value>Ginger is right. Fuse was beyond saving. For all our sakes, I hope the same is not true of the world he sought to protect.</value>
+  </data>
+  <data name="504_040" xml:space="preserve">
+    <value>When I refused to send our warriors into battle, he called me a coward and vowed that he would destroy Gaius with or without my help. I fear the very armor we made to save his life had corrupted his mind and body beyond repair.</value>
+  </data>
+  <data name="504_050" xml:space="preserve">
+    <value>Poor guy... if only we could've gotten through to him somehow...</value>
+  </data>
+  <data name="505_130" xml:space="preserve">
+    <value>Master Gray Eyes has lived for a very long time, Fidget. Longer than any of you.</value>
+  </data>
+  <data name="505_100" xml:space="preserve">
+    <value>It has been a long time, Master.</value>
+  </data>
+  <data name="505_110" xml:space="preserve">
+    <value>Wait just a second! How can you possibly know each other? My clan's been keeping the sword hidden for over two-hundred years!!</value>
+  </data>
+  <data name="505_140" xml:space="preserve">
+    <value>So, you were sent to keep an eye on me?</value>
+  </data>
+  <data name="505_150" xml:space="preserve">
+    <value>To help you reach your true potential. Nothing more.</value>
+  </data>
+  <data name="505_080" xml:space="preserve">
+    <value>The Blades of Elysium were created to guide their sword bearers, Dust. I was summoned to your side to ensure a balance was maintained between the souls within you.</value>
+  </data>
+  <data name="505_090" xml:space="preserve">
+    <value>Ah, my old friend... it is good to hear your voice once more.</value>
+  </data>
+  <data name="505_020" xml:space="preserve">
+    <value>Wait, wait, wait - what the heck is the "Way of the Flameless Light"?</value>
+  </data>
+  <data name="505_000" xml:space="preserve">
+    <value>How does the Blade of Ahrah fit into all this? What is it, exactly?</value>
+  </data>
+  <data name="505_030" xml:space="preserve">
+    <value>A path we Moonbloods continue to follow. It is a way of living, a way of thought, that allows us to make use of a power both old and great. Magic, without magic.</value>
+  </data>
+  <data name="505_060" xml:space="preserve">
+    <value>I... may have skipped over that chapter?</value>
+  </data>
+  <data name="505_010" xml:space="preserve">
+    <value>It is one of the five Blades of Elysium. Ancient weapons forged when our kind were many and the Way of the Flameless Light was commonplace.</value>
+  </data>
+  <data name="505_040" xml:space="preserve">
+    <value>I am SO confused.</value>
+  </data>
+  <data name="505_070" xml:space="preserve">
+    <value>You haven't answered my question.</value>
+  </data>
+  <data name="505_050" xml:space="preserve">
+    <value>Surely as nimbat sword-guardian you've studied the ancient doctrines? You must know in the event that the sword is summoned by its rightful owner you are obligated to follow?</value>
+  </data>
+  <data name="097_010" xml:space="preserve">
+    <value>You are the only monster here, puppet! As I turn your bones to char, your final thought will be that Fuse was victorious! Now, DIE!</value>
+  </data>
+  <data name="097_000" xml:space="preserve">
+    <value>I don't care what your name is. You're no different than those monsters I fought before. And like them, you will fall to my blade!</value>
+  </data>
+  <data name="090_030" xml:space="preserve">
+    <value>What is it, Ahrah?</value>
+  </data>
+  <data name="090_010" xml:space="preserve">
+    <value>We've made it this far, Fidget. Stay close to me and you'll be fine. What do you see, Ahrah? Anything?</value>
+  </data>
+  <data name="090_020" xml:space="preserve">
+    <value>Another enemy stands before you, but this one...</value>
+  </data>
+  <data name="090_000" xml:space="preserve">
+    <value>Aaah, I really don't like the look of this...</value>
+  </data>
+  <data name="090_040" xml:space="preserve">
+    <value>Such... hatred. Be careful, Dust.</value>
+  </data>
+  <data name="503_Option_0" xml:space="preserve">
+    <value>Who was Fuse?</value>
+  </data>
+  <data name="510_000" xml:space="preserve">
+    <value>Halt! Who goes-! Oh, it's you! Apologies, Mithrarin. Please, enter.</value>
+  </data>
+  <data name="540_020" xml:space="preserve">
+    <value>AH! Dust, look out!</value>
+  </data>
+  <data name="540_000" xml:space="preserve">
+    <value>Oh no... Dust, look!</value>
+  </data>
+  <data name="540_010" xml:space="preserve">
+    <value>It's the missing sentry. What happened here?</value>
+  </data>
+  <data name="530_000" xml:space="preserve">
+    <value>Uh, did you hear something?</value>
+  </data>
+  <data name="560_000" xml:space="preserve">
+    <value>There! The warriors are gathering.</value>
+  </data>
+  <data name="560_010" xml:space="preserve">
+    <value>Ah, Mithrarin, superb timing! As you can see, our path out of the camp is blocked. Some manner of rockslide. Very unpredictable.</value>
+  </data>
+  <data name="560_020" xml:space="preserve">
+    <value>Yes, that happens sometimes when you build your village in a volcanic wasteland.</value>
+  </data>
+  <data name="560_030" xml:space="preserve">
+    <value>Anyway, we will need to clear this obstruction before we can exit the camp.</value>
+  </data>
+  <data name="560_040" xml:space="preserve">
+    <value>I'll see what I can do.</value>
+  </data>
+  <data name="551_030" xml:space="preserve">
+    <value>Wait, what?</value>
+  </data>
+  <data name="551_010" xml:space="preserve">
+    <value>Honestly, Fidget, where would I be without you?</value>
+  </data>
+  <data name="551_020" xml:space="preserve">
+    <value>Probably still be wandering around in the mountains outside Aurora.</value>
+  </data>
+  <data name="551_000" xml:space="preserve">
+    <value>Well done, Fidget. The camp should now be receiving power.</value>
+  </data>
+  <data name="551_040" xml:space="preserve">
+    <value>Ha! What I meant to say was, don't worry about it!</value>
+  </data>
+  <data name="554_000" xml:space="preserve">
+    <value>Okay, that's the generator and the water pump back online. Let's return to Sanjin.</value>
+  </data>
+  <data name="506_Option_1" xml:space="preserve">
+    <value>I am a soul of power tempered with vengeance. I am Cassius.</value>
+  </data>
+  <data name="506_Option_0" xml:space="preserve">
+    <value>I am the soul of an innocent tempered with justice. I am Jin.</value>
+  </data>
+  <data name="506_Option_2" xml:space="preserve">
+    <value>I am Dust.</value>
+  </data>
+  <data name="552_010" xml:space="preserve">
+    <value>I don't want to risk damaging the pump trying to cut those vines. Maybe there's some way we can burn them off?</value>
+  </data>
+  <data name="552_000" xml:space="preserve">
+    <value>Well, this is the water pump. Huh! No wonder it stopped! These vines are growing all over it.</value>
+  </data>
+  <data name="550_010" xml:space="preserve">
+    <value>I sense no energy emanating from the device, Dust. Perhaps there is a way to return its spark?</value>
+  </data>
+  <data name="550_000" xml:space="preserve">
+    <value>Well, there's the generator. Let's see if we can find a way to get it working again.</value>
+  </data>
+  <data name="553_010" xml:space="preserve">
+    <value>Aaw, stop. You're making me blush!</value>
+  </data>
+  <data name="553_000" xml:space="preserve">
+    <value>Alright, that seemed to fix it! Nice work, Fidget!</value>
+  </data>
+  <data name="580_000" xml:space="preserve">
+    <value>Well done! Let us begin our assault! We're right behind you, Sen-Mithrarin!</value>
+  </data>
+  <data name="142_000" xml:space="preserve">
+    <value>It's getting really hard to see. I'm starting to regret coming down here.</value>
+  </data>
+  <data name="142_010" xml:space="preserve">
+    <value>Ha! I was regretting it minutes ago!</value>
+  </data>
+  <data name="140_060" xml:space="preserve">
+    <value>Oh, hush!</value>
+  </data>
+  <data name="140_040" xml:space="preserve">
+    <value>How could you possibly see anything in here with that big hat over your eyes? I hate caves! Our kind isn't meant to be underground. We should be soaring high in the wide open sky.</value>
+  </data>
+  <data name="140_050" xml:space="preserve">
+    <value>I thought you were afraid of heights.</value>
+  </data>
+  <data name="140_020" xml:space="preserve">
+    <value>I am NOT afraid of the dark! I'm afraid of the things IN the dark!</value>
+  </data>
+  <data name="140_030" xml:space="preserve">
+    <value>I don't see anything, Fidget.</value>
+  </data>
+  <data name="140_000" xml:space="preserve">
+    <value>Nyaah! Did you see something move up ahead!? I saw something move!</value>
+  </data>
+  <data name="140_010" xml:space="preserve">
+    <value>Fidget, you need to calm down. I thought you said you weren't afraid of the dark?</value>
+  </data>
+  <data name="146_000" xml:space="preserve">
+    <value>Our search has not been in vain. Let's clear this area.</value>
+  </data>
+  <data name="145_020" xml:space="preserve">
+    <value>I doubt it. C'mon, let's keep moving.</value>
+  </data>
+  <data name="145_000" xml:space="preserve">
+    <value>Oh, wow...</value>
+  </data>
+  <data name="145_010" xml:space="preserve">
+    <value>This is beautiful! Do you think the villagers know about this place?</value>
+  </data>
+  <data name="148_020" xml:space="preserve">
+    <value>We'll see about that.</value>
+  </data>
+  <data name="148_000" xml:space="preserve">
+    <value>Dust, wait.</value>
+  </data>
+  <data name="148_010" xml:space="preserve">
+    <value>This creature is too well defended for a straightforward assault.</value>
+  </data>
+  <data name="149_000" xml:space="preserve">
+    <value>Aaah! Okay, that was a bad idea.</value>
+  </data>
+  <data name="149_010" xml:space="preserve">
+    <value>It is practically invulnerable unless you stun it with a parry. Like so.</value>
+  </data>
+  <data name="160_000" xml:space="preserve">
+    <value>Nooooo!! Go away!</value>
+  </data>
+  <data name="161_000" xml:space="preserve">
+    <value>There he goes!</value>
+  </data>
+  <data name="161_020" xml:space="preserve">
+    <value>These aren't mushrooms, Fidget. They are called bubble sprouts, and it would be wise for us to tread lightly around them. They react rather explosively to movement.</value>
+  </data>
+  <data name="161_010" xml:space="preserve">
+    <value>Forget him! Take a look around! There's something horribly wrong with these mushrooms.</value>
+  </data>
+  <data name="161_030" xml:space="preserve">
+    <value>Wonderful.</value>
+  </data>
+  <data name="152_010" xml:space="preserve">
+    <value>I'm not sure, but it sure did run off in a hurry.</value>
+  </data>
+  <data name="152_000" xml:space="preserve">
+    <value>Whoa, what was that?!</value>
+  </data>
+  <data name="155_010" xml:space="preserve">
+    <value>Wait!</value>
+  </data>
+  <data name="155_000" xml:space="preserve">
+    <value>Ack!</value>
+  </data>
+  <data name="150_060" xml:space="preserve">
+    <value>Exercise patience and observe your opponent's pattern, and you will emerge victorious.</value>
+  </data>
+  <data name="150_050" xml:space="preserve">
+    <value>You will be unable to harm certain enemies unless they are dazed. This is one such creature.</value>
+  </data>
+  <data name="150_040" xml:space="preserve">
+    <value>A successful parry may daze your opponent, and will fully restore your ENERGY METER.</value>
+  </data>
+  <data name="150_030" xml:space="preserve">
+    <value>Timing is crucial, and you must be facing your opponent.</value>
+  </data>
+  <data name="150_020" xml:space="preserve">
+    <value>Attack and hold [X] at the moment of the enemy's strike, and you will parry their move, opening them up for a counter-attack.</value>
+  </data>
+  <data name="150_010" xml:space="preserve">
+    <value>Dust, would you like a refresher on parrying?</value>
+  </data>
+  <data name="150_000" xml:space="preserve">
+    <value>He went down!</value>
+  </data>
+  <data name="150_100" xml:space="preserve">
+    <value>Very well. Be careful.</value>
+  </data>
+  <data name="156_000" xml:space="preserve">
+    <value>Hmph! Let's follow him.</value>
+  </data>
+  <data name="106_000" xml:space="preserve">
+    <value>Dust, during the battle, I was studying Fuse's attacks. I think I might've picked up on his technique!</value>
+  </data>
+  <data name="106_010" xml:space="preserve">
+    <value>I've got a feeling we'll need it. Those monsters likely won't let us leave without a fight.</value>
+  </data>
+  <data name="105_020" xml:space="preserve">
+    <value>As you can see by the dead littering this village, that would not have been a good idea.</value>
+  </data>
+  <data name="105_000" xml:space="preserve">
+    <value>We did it.</value>
+  </data>
+  <data name="105_030" xml:space="preserve">
+    <value>I'm sure you're right. We should return to Aurora and report to Mayor Bram. There was also that name... Gaius.</value>
+  </data>
+  <data name="105_010" xml:space="preserve">
+    <value>He knew who I was, Fidget. He'd seen me before. If only he'd lived a moment longer... If only I'd managed to keep him alive somehow...</value>
+  </data>
+  <data name="100_000" xml:space="preserve">
+    <value>The lights of Elysium shine upon me.</value>
+  </data>
+  <data name="100_010" xml:space="preserve">
+    <value>But can they reach the darkness within you?</value>
+  </data>
+  <data name="101_120" xml:space="preserve">
+    <value>Who knows... who sees? My vision has left me. I return now to the Life Thread, and to my brethren.</value>
+  </data>
+  <data name="101_130" xml:space="preserve">
+    <value>No, no! Wait!</value>
+  </data>
+  <data name="101_100" xml:space="preserve">
+    <value>He even murdered his own kind. Our greatest allies amongst the warmbloods... but one escaped. She was the only one I would dare spare in the slaughter that was to come.</value>
+  </data>
+  <data name="101_110" xml:space="preserve">
+    <value>She? Who are you talking about? Who did I kill!?</value>
+  </data>
+  <data name="101_140" xml:space="preserve">
+    <value>Farewell, warmblood. Ashes to ashes...</value>
+  </data>
+  <data name="101_150" xml:space="preserve">
+    <value>... dust to dust.</value>
+  </data>
+  <data name="101_080" xml:space="preserve">
+    <value>Perhaps that is for the best. Your leader, Gaius... he led you and your fellow assassins into battle-</value>
+  </data>
+  <data name="101_090" xml:space="preserve">
+    <value>Assassins!?</value>
+  </data>
+  <data name="101_020" xml:space="preserve">
+    <value>Among the last of a dying breed. A once proud race, extinguished by your hands.</value>
+  </data>
+  <data name="101_000" xml:space="preserve">
+    <value>I've come to my end.</value>
+  </data>
+  <data name="101_030" xml:space="preserve">
+    <value>My hands?</value>
+  </data>
+  <data name="101_060" xml:space="preserve">
+    <value>There is sadness in your eyes. But it is not guilt. It is loss. After all you've done to my kind, you still think only of yourself.</value>
+  </data>
+  <data name="101_010" xml:space="preserve">
+    <value>What are you?</value>
+  </data>
+  <data name="101_040" xml:space="preserve">
+    <value>You and your warmblooded kin. We Moonbloods were outcast... scattered to the wind. You and others like you... they came to my village, killed my family.</value>
+  </data>
+  <data name="101_050" xml:space="preserve">
+    <value>I didn't... I can't remember...</value>
+  </data>
+  <data name="175_010" xml:space="preserve">
+    <value>Come now, Dust, he's obviously terrified. Let's go find him, and maybe get out of this raining death!</value>
+  </data>
+  <data name="175_000" xml:space="preserve">
+    <value>And there he goes again. You're welcome, kid.</value>
+  </data>
+  <data name="170_010" xml:space="preserve">
+    <value>Aaagh! Leave me alone!</value>
+  </data>
+  <data name="170_000" xml:space="preserve">
+    <value>There he is! Look, he's in trouble!</value>
+  </data>
+  <data name="170_030" xml:space="preserve">
+    <value>Keep wary of the bubble sprouts, Dust, or this battle will be over before it begins!</value>
+  </data>
+  <data name="170_020" xml:space="preserve">
+    <value>Picking on little ones, huh? You will most definitely regret meeting me.</value>
+  </data>
+  <data name="121_000" xml:space="preserve">
+    <value>I don't get it! Why would anyone want to help those awful lizard things? That Fuse guy burned down an entire village!</value>
+  </data>
+  <data name="121_020" xml:space="preserve">
+    <value>And Fuse is likely not the only one corrupted by General Gaius' hatred of the Moonbloods. We should speak to Ginger again to learn more about this conflict.</value>
+  </data>
+  <data name="121_010" xml:space="preserve">
+    <value>Don't you understand, Fidget? He wasn't born that way - General Gaius and his soldiers turned him into that monster.</value>
+  </data>
+  <data name="112_010" xml:space="preserve">
+    <value>These flags are a warning. The area up ahead is among the most dangerous of places.</value>
+  </data>
+  <data name="112_000" xml:space="preserve">
+    <value>What's all this?</value>
+  </data>
+  <data name="112_030" xml:space="preserve">
+    <value>I think I've heard of these arenas. It's rumored they contain precious treasures.</value>
+  </data>
+  <data name="112_020" xml:space="preserve">
+    <value>The challenges and creatures within are unlike anything you've dealt with before. Death will come swiftly if you are not prepared.</value>
+  </data>
+  <data name="112_050" xml:space="preserve">
+    <value>Just little bits here and there. Think we should go in?</value>
+  </data>
+  <data name="112_040" xml:space="preserve">
+    <value>Hey, your memory's coming back!</value>
+  </data>
+  <data name="112_060" xml:space="preserve">
+    <value>Um, I certainly hope you've saved.</value>
+  </data>
+  <data name="110_030" xml:space="preserve">
+    <value>Children or not, they don't look all that happy to see us.</value>
+  </data>
+  <data name="110_020" xml:space="preserve">
+    <value>Well, Fuse did say they were his children.</value>
+  </data>
+  <data name="110_010" xml:space="preserve">
+    <value>What's the problem?</value>
+  </data>
+  <data name="110_000" xml:space="preserve">
+    <value>Hmm, more monsters.</value>
+  </data>
+  <data name="110_070" xml:space="preserve">
+    <value>It was a valiant effort, Fidget.</value>
+  </data>
+  <data name="110_060" xml:space="preserve">
+    <value>There's just no pleasing some people.</value>
+  </data>
+  <data name="110_050" xml:space="preserve">
+    <value>...</value>
+  </data>
+  <data name="110_040" xml:space="preserve">
+    <value>Hey! Ugly! Are you going to play nice?</value>
+  </data>
+  <data name="135_010" xml:space="preserve">
+    <value>Yes, very nasty! We should go around, I think.</value>
+  </data>
+  <data name="135_030" xml:space="preserve">
+    <value>Well, here goes nothing.</value>
+  </data>
+  <data name="135_000" xml:space="preserve">
+    <value>End of the line. Looks like a pretty nasty drop.</value>
+  </data>
+  <data name="135_020" xml:space="preserve">
+    <value>There's no time to find another route. Those monsters came up through here, there's got to be a path down below.</value>
+  </data>
+  <data name="138_010" xml:space="preserve">
+    <value>You've been poisoned!</value>
+  </data>
+  <data name="138_000" xml:space="preserve">
+    <value>Ugh, what is this?</value>
+  </data>
+  <data name="138_030" xml:space="preserve">
+    <value>I can probably just wait it out...</value>
+  </data>
+  <data name="138_020" xml:space="preserve">
+    <value>When you're poisoned, your life slowly drains down to nothing. If you don't take care of it soon, death is inevitable.</value>
+  </data>
+  <data name="138_040" xml:space="preserve">
+    <value>Stop pretending you're so tough! Here, take this mushroom! It will stop the poison for now. You can thank me later.</value>
+  </data>
+  <data name="180_000" xml:space="preserve">
+    <value>I didn't think those monsters were smart enough to build a fence.</value>
+  </data>
+  <data name="180_010" xml:space="preserve">
+    <value>I'm certain they didn't. Let's hop on over.</value>
+  </data>
+  <data name="002_Option_0" xml:space="preserve">
+    <value>Well, hang on a second...</value>
+  </data>
+  <data name="002_Option_1" xml:space="preserve">
+    <value>Enough of this.</value>
+  </data>
+  <data name="192_010" xml:space="preserve">
+    <value>Hmm?</value>
+  </data>
+  <data name="192_000" xml:space="preserve">
+    <value>Wait... did you just?</value>
+  </data>
+  <data name="192_030" xml:space="preserve">
+    <value>Yeah. What?</value>
+  </data>
+  <data name="192_020" xml:space="preserve">
+    <value>Did you just put that thing in your Inventory?</value>
+  </data>
+  <data name="192_040" xml:space="preserve">
+    <value>Okay then.</value>
+  </data>
+  <data name="190_000" xml:space="preserve">
+    <value>He's sleeping peacefully. Let's leave him alone.</value>
+  </data>
+  <data name="600_040" xml:space="preserve">
+    <value>As you wish, General.</value>
+  </data>
+  <data name="600_050" xml:space="preserve">
+    <value>Where are you, my friend? Why are you hiding from me?</value>
+  </data>
+  <data name="600_000" xml:space="preserve">
+    <value>Sir, the preparations are nearly complete. We've found another of their camps, but-</value>
+  </data>
+  <data name="600_020" xml:space="preserve">
+    <value>We... are investigating, sir. But surely you don't believe...?</value>
+  </data>
+  <data name="600_011" xml:space="preserve">
+    <value>Of course, sir. If that's all-</value>
+  </data>
+  <data name="600_010" xml:space="preserve">
+    <value>But it was deserted, of course. Keep up your search - they're going somewhere, and we need to know where that is.</value>
+  </data>
+  <data name="600_012" xml:space="preserve">
+    <value>What of the rumors, Commander? Is there any truth to them at all?</value>
+  </data>
+  <data name="600_030" xml:space="preserve">
+    <value>Commander, it is not your place to question what I believe. Our moment of glory draws near and I want results.</value>
+  </data>
+  <data name="605_000" xml:space="preserve">
+    <value>General Gaius? You asked for me?</value>
+  </data>
+  <data name="605_010" xml:space="preserve">
+    <value>Your report, Commander. What news do you bring?</value>
+  </data>
+  <data name="605_020" xml:space="preserve">
+    <value>Our scouts believe he is alive, General. But his actions are... curious.</value>
+  </data>
+  <data name="605_030" xml:space="preserve">
+    <value>Curious? How so?</value>
+  </data>
+  <data name="605_040" xml:space="preserve">
+    <value>He ventured into the Cirromon Caverns and saved a village of natives. As I understand it, his actions got the water flowing again. If what you tell me is true, Cassius would never-</value>
+  </data>
+  <data name="605_050" xml:space="preserve">
+    <value>No, Cassius would never. Keep me informed of the situation, Commander. That is all.</value>
+  </data>
+  <data name="605_060" xml:space="preserve">
+    <value>When did you grow a heart, my friend? Most unlike you...</value>
+  </data>
+  <data name="610_050" xml:space="preserve">
+    <value>Cassius is hardly a rogue element, Commander. The Moonbloods have corrupted his mind, forced him to commit these acts against us. Once I can speak with him, once he remembers who he really is, I am certain he will return to us.</value>
+  </data>
+  <data name="610_070" xml:space="preserve">
+    <value>Cassius, my old friend... So long as you draw breath, I will do what I can to save your broken mind. I promise.</value>
+  </data>
+  <data name="610_040" xml:space="preserve">
+    <value>But why welcome this rogue element? He has already slain your own soldiers - what more proof do you need that he is a traitor to our cause?</value>
+  </data>
+  <data name="610_010" xml:space="preserve">
+    <value>That will be for me to decide. Our paths will cross at the Moonblood camp, of that I am certain. I will speak with him personally.</value>
+  </data>
+  <data name="610_060" xml:space="preserve">
+    <value>But... yes sir, as you wish.</value>
+  </data>
+  <data name="610_030" xml:space="preserve">
+    <value>Our victory is all but assured, Commander. We outnumber them ten to one, we possess superior technology, and we have the element of surprise.</value>
+  </data>
+  <data name="610_001" xml:space="preserve">
+    <value>What news, Commander?</value>
+  </data>
+  <data name="610_000" xml:space="preserve">
+    <value>General Gaius?</value>
+  </data>
+  <data name="610_002" xml:space="preserve">
+    <value>I did not want to believe it, but Cassius is working with the Moonbloods. He has turned against us.</value>
+  </data>
+  <data name="610_020" xml:space="preserve">
+    <value>Is that... wise?</value>
+  </data>
+  <data name="660_000" xml:space="preserve">
+    <value>We are nearly there, Mithrarin! Once we are through their line, General Gaius will be within sight. No matter what happens, my friend, it has been an honor to fight by your side!</value>
+  </data>
+  <data name="640_000" xml:space="preserve">
+    <value>Mithrarin, we can't go on any further! Those enemy cannons are far too powerful. You'll need to find a way around their flank so you can destroy them!</value>
+  </data>
+  <data name="650_010" xml:space="preserve">
+    <value>Please, Dust is fine.</value>
+  </data>
+  <data name="650_030" xml:space="preserve">
+    <value>I understand. Thank you, my friend.</value>
+  </data>
+  <data name="650_000" xml:space="preserve">
+    <value>Ah, Sen-Mithrarin-</value>
+  </data>
+  <data name="650_020" xml:space="preserve">
+    <value>Well, Dust, we got this teleporter up and running just a few moments ago. If you have any business elsewhere, now is the time to do it. Once the charge begins, there's no turning back.</value>
+  </data>
+  <data name="001_Option_2" xml:space="preserve">
+    <value>What is this sword, anyway?</value>
+  </data>
+  <data name="001_Option_1" xml:space="preserve">
+    <value>Your name is Fidget?</value>
+  </data>
+  <data name="001_Option_0" xml:space="preserve">
+    <value>You don't look like a guardian to me.</value>
+  </data>
+  <data name="266_120" xml:space="preserve">
+    <value>Are you ready to leave, Dust?</value>
+  </data>
+  <data name="266_130" xml:space="preserve">
+    <value>I think so, yes. We need to get back to the surface and find that manor Lady Tethys mentioned.</value>
+  </data>
+  <data name="266_135" xml:space="preserve">
+    <value>Yes, I know of the place she spoke of. An old estate at the foot of the mountains called the Sorrowing Meadow.</value>
+  </data>
+  <data name="266_140" xml:space="preserve">
+    <value>The Sorrowing Meadow? Is that somewhere between Blood-Death Gulch and Endless Pain Hill?</value>
+  </data>
+  <data name="266_150" xml:space="preserve">
+    <value>It was not always called that, Fidget. It was once a peaceful place, but even now, as we stand so far away from it, I can feel something nefarious emanating from its foundations.</value>
+  </data>
+  <data name="266_160" xml:space="preserve">
+    <value>Well, that's great. Really, I'm excited. How about you, Dust? You excited?</value>
+  </data>
+  <data name="266_170" xml:space="preserve">
+    <value>I'm just thrilled, Fidget. C'mon, let's get back to the surface.</value>
+  </data>
+  <data name="245_000" xml:space="preserve">
+    <value>Hey, look! Sunlight! Fancy that!</value>
+  </data>
+  <data name="245_010" xml:space="preserve">
+    <value>A final parting gift from Lady Tethys, it would seem.</value>
+  </data>
+  <data name="245_020" xml:space="preserve">
+    <value>That'll help when we need to return to the surface, but right now we should find Bopo. Lady Tethys seemed convinced we would arrive too late.</value>
+  </data>
+  <data name="245_030" xml:space="preserve">
+    <value>We'll get there in time! We have to! We did everything we were supposed to!</value>
+  </data>
+  <data name="245_040" xml:space="preserve">
+    <value>You have much to learn about the world, Fidget. Sometimes, even your best is not enough to avert fate. Come, let us make haste to the village.</value>
+  </data>
+  <data name="720_020" xml:space="preserve">
+    <value>This world belongs to the strong, Cassius! It belongs to us! Don't you remember your duty? Don't you remember your friends?</value>
+  </data>
+  <data name="720_030" xml:space="preserve">
+    <value>I remember everything. And it changes nothing!</value>
+  </data>
+  <data name="720_000" xml:space="preserve">
+    <value>Don't you remember anything, Cassius? Why would you draw your blade against your fellow soldiers? Why would you draw your blade against ME?</value>
+  </data>
+  <data name="720_010" xml:space="preserve">
+    <value>You are destroying this world, Gaius. You and your soldiers cannot be allowed to continue your campaign.</value>
+  </data>
+  <data name="700_080" xml:space="preserve">
+    <value>What did you call me?</value>
+  </data>
+  <data name="700_090" xml:space="preserve">
+    <value>Cassius! That's who you are!</value>
+  </data>
+  <data name="700_040" xml:space="preserve">
+    <value>You've been charged to destroy. Not me.</value>
+  </data>
+  <data name="700_050" xml:space="preserve">
+    <value>What... happened to you, Cassius?</value>
+  </data>
+  <data name="700_060" xml:space="preserve">
+    <value>Cassius...?</value>
+  </data>
+  <data name="700_070" xml:space="preserve">
+    <value>Do you not remember your own name? What have those damned Moonbloods done to you?</value>
+  </data>
+  <data name="700_000" xml:space="preserve">
+    <value>General Gaius!!</value>
+  </data>
+  <data name="700_010" xml:space="preserve">
+    <value>Wait! Wait... just a moment. Lower your weapons. I said lower your weapons!</value>
+  </data>
+  <data name="700_020" xml:space="preserve">
+    <value>You have much to answer for, General.</value>
+  </data>
+  <data name="700_030" xml:space="preserve">
+    <value>And what of you, my friend? A year ago I heard stories of your death. At the hands of a child, no less! Now here you stand, not only alive, but leading the very creatures we've been charged to destroy!</value>
+  </data>
+  <data name="700_180" xml:space="preserve">
+    <value>It's all that matters! All those people I killed, Fidget... How could I possibly redeem myself in a mere few days?</value>
+  </data>
+  <data name="700_190" xml:space="preserve">
+    <value>You cannot, Dust. This was never about redeeming Cassius. But then, you are not Cassius.</value>
+  </data>
+  <data name="700_140" xml:space="preserve">
+    <value>Yes, and you carried them out. Lower your blade, old friend. First we destroy these Moonbloods once and for all, then I can help rid you of these fantasies that have spoiled your mind!</value>
+  </data>
+  <data name="700_160" xml:space="preserve">
+    <value>Cassius was my name...</value>
+  </data>
+  <data name="700_150" xml:space="preserve">
+    <value>Dust, listen to me-</value>
+  </data>
+  <data name="700_100" xml:space="preserve">
+    <value>Don't listen to him! You're Jin now! Remember that!</value>
+  </data>
+  <data name="700_170" xml:space="preserve">
+    <value>That doesn't matter.</value>
+  </data>
+  <data name="700_120" xml:space="preserve">
+    <value>You're remembering now, aren't you? Together, nothing stood in our way. We shaped this world together, and together we can finish what we started!</value>
+  </data>
+  <data name="700_110" xml:space="preserve">
+    <value>I...</value>
+  </data>
+  <data name="700_130" xml:space="preserve">
+    <value>You ordered the deaths of countless people. Countless Moonbloods... Moonblood sympathizers... anyone that stood in your way!</value>
+  </data>
+  <data name="700_260" xml:space="preserve">
+    <value>Then you've finally come to your senses?</value>
+  </data>
+  <data name="700_240" xml:space="preserve">
+    <value>Cassius would destroy the Moonbloods, but Jin - he would protect them.</value>
+  </data>
+  <data name="700_250" xml:space="preserve">
+    <value>No, Fidget. You're wrong... Jin didn't do any of those things.</value>
+  </data>
+  <data name="700_220" xml:space="preserve">
+    <value>Why do you keep saying that!?</value>
+  </data>
+  <data name="700_230" xml:space="preserve">
+    <value>Because you're not just Cassius! Jin didn't kill those people! Jin saved Aurora and Mudpot Village! Jin stopped Fuse, saved Lady Tethys, and now he's the only thing standing against General Gaius! </value>
+  </data>
+  <data name="700_200" xml:space="preserve">
+    <value>But I share his form, his very soul...</value>
+  </data>
+  <data name="700_210" xml:space="preserve">
+    <value>That. Doesn't. MATTER!</value>
+  </data>
+  <data name="900_020" xml:space="preserve">
+    <value>No, Fidget - this is the end of the trial. We'll need the full version if we want to venture any further.</value>
+  </data>
+  <data name="900_030" xml:space="preserve">
+    <value>Oh! Well, thanks for playing the trial! Unlock the full version to experience the drama... the ADVENTURE... the... well, you get the idea! Hope to see you again soon! </value>
+  </data>
+  <data name="900_000" xml:space="preserve">
+    <value>Wait a moment, Fidget. Our path is blocked. We cannot progress any further.</value>
+  </data>
+  <data name="900_010" xml:space="preserve">
+    <value>What, that door? Smash through it! Do your spinning fling-a-ma-jig! Use the no-clip cheat!</value>
+  </data>
+  <data name="730_000" xml:space="preserve">
+    <value>This is where it ends, Gaius!</value>
+  </data>
+  <data name="710_040" xml:space="preserve">
+    <value>You never could scare me either, Cassius. Very well. To the death!</value>
+  </data>
+  <data name="710_010" xml:space="preserve">
+    <value>Stop calling me Cassius!</value>
+  </data>
+  <data name="710_000" xml:space="preserve">
+    <value>You cannot win, Cassius! You never could beat me.</value>
+  </data>
+  <data name="710_030" xml:space="preserve">
+    <value>Not anymore, General. I'm not your ally, and I'm not your friend. Now raise your blade or drop it.</value>
+  </data>
+  <data name="710_020" xml:space="preserve">
+    <value>There was a time when you stood by my side. We were allies once! </value>
+  </data>
+  <data name="910_030" xml:space="preserve">
+    <value>Calm yourself, Fidget. His name is Dust, and he is the one who woke me from my slumber.</value>
+  </data>
+  <data name="910_020" xml:space="preserve">
+    <value>Hey, this isn't about me! You're the one who's got my sword! How about you tell me YOUR name?</value>
+  </data>
+  <data name="910_010" xml:space="preserve">
+    <value>And who is she?</value>
+  </data>
+  <data name="910_000" xml:space="preserve">
+    <value>Huff, huff... Stop... stop right there!</value>
+  </data>
+  <data name="910_070" xml:space="preserve">
+    <value>Yes, well, that's all great and everything, but I think it's about time I got this sword back to the clan.</value>
+  </data>
+  <data name="910_060" xml:space="preserve">
+    <value>It would seem that way, though I can't recall that name.</value>
+  </data>
+  <data name="910_050" xml:space="preserve">
+    <value>That's me! And you're Dust?</value>
+  </data>
+  <data name="910_040" xml:space="preserve">
+    <value>So... Fidget, then?</value>
+  </data>
+  <data name="910_090" xml:space="preserve">
+    <value>Hmph! Well, then you leave me no choice! I... I challenge you! The winner gets the sword!</value>
+  </data>
+  <data name="910_080" xml:space="preserve">
+    <value>I can't let you just leave with this sword, Fidget. Right now, it's the only thing that knows who I am. I don't even know how I got here...</value>
+  </data>
+  <data name="910_130" xml:space="preserve">
+    <value>Come, Dust. We travel east.</value>
+  </data>
+  <data name="910_110" xml:space="preserve">
+    <value>Indeed. Time is of the essence. Fidget, you will join us.</value>
+  </data>
+  <data name="910_120" xml:space="preserve">
+    <value>I will? Oh. Well. Okay, then.</value>
+  </data>
+  <data name="910_100" xml:space="preserve">
+    <value>I don't have time for these games, Fidget.</value>
+  </data>
+</root>

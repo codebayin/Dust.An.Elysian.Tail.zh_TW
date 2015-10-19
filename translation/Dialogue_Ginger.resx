@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="011_Option1" xml:space="preserve">
+    <value>My choices are my own.</value>
+  </data>
+  <data name="010_Option_1" xml:space="preserve">
+    <value>Well, take care.</value>
+  </data>
+  <data name="010_Option_0" xml:space="preserve">
+    <value>Dust and Jin.</value>
+  </data>
+  <data name="013_Option_0" xml:space="preserve">
+    <value>He still is.</value>
+  </data>
+  <data name="013_Option_1" xml:space="preserve">
+    <value>He's gone now, Ginger.</value>
+  </data>
+  <data name="007_040" xml:space="preserve">
+    <value>Aaah! What ARE these things!?</value>
+  </data>
+  <data name="007_050" xml:space="preserve">
+    <value>Monsters! Ginger, get down!</value>
+  </data>
+  <data name="007_000" xml:space="preserve">
+    <value>If the only way to stop this war is to stop General Gaius, then I need to know where to find him.</value>
+  </data>
+  <data name="007_010" xml:space="preserve">
+    <value>His campaign continues to the north. If you want to help right the wrongs of your kind, you're free to join me. I'm afraid-</value>
+  </data>
+  <data name="007_020" xml:space="preserve">
+    <value>WHOA! What was that!?</value>
+  </data>
+  <data name="007_030" xml:space="preserve">
+    <value>It came from the center of the village!</value>
+  </data>
+  <data name="006_000" xml:space="preserve">
+    <value>Mayor Bram mentioned you were leaving town.</value>
+  </data>
+  <data name="006_020" xml:space="preserve">
+    <value>Why would the rivers all be drying up? It's not like it's been very hot. And wasn't there a big rain storm a little while ago?</value>
+  </data>
+  <data name="006_010" xml:space="preserve">
+    <value>Yes, the rivers and streams around Aurora are beginning to dry up completely. Without water, the only thing to do is head north. It's only a matter of time before the others follow me.</value>
+  </data>
+  <data name="006_030" xml:space="preserve">
+    <value>I know, it doesn't make any sense. To be honest, I think this whole country is cursed. General Gaius' bloodlust had scorched this land forever. I doubt we'll ever recover.</value>
+  </data>
+  <data name="005_040" xml:space="preserve">
+    <value>If only one man could stand against an army. Sadly no, there is nothing any of us can do. Any hope for the Moonbloods died with my family.</value>
+  </data>
+  <data name="005_020" xml:space="preserve">
+    <value>I've tried to help where I can, but it's hard. There aren't many Moonbloods left outside of their homeland, and it's only a matter of time before Gaius wipes them out entirely.</value>
+  </data>
+  <data name="005_030" xml:space="preserve">
+    <value>Is there anything I can do to help?</value>
+  </data>
+  <data name="005_000" xml:space="preserve">
+    <value>Why is Gaius so obsessed with killing these Moonbloods? What did they do?</value>
+  </data>
+  <data name="005_010" xml:space="preserve">
+    <value>Nothing. They... exist. General Gaius sees them as an impurity, a kind of cosmic mistake that he believes must be wiped from this world.</value>
+  </data>
+  <data name="004_140" xml:space="preserve">
+    <value>Fidget, please, calm down. She's right to be suspicious - I don't know who I am, but I'm dressed as one of Gaius' soldiers, and that can't be good.</value>
+  </data>
+  <data name="004_150" xml:space="preserve">
+    <value>Perhaps. But your friend is right. You've saved my village twice today. Gaius and his soldiers would never do that. Especially if they knew I was here.</value>
+  </data>
+  <data name="004_120" xml:space="preserve">
+    <value>That is not an answer!</value>
+  </data>
+  <data name="004_130" xml:space="preserve">
+    <value>Hey, ease off! Dust can't remember, okay? He doesn't even know his real name! You know, you should be more thankful - he just saved this village twice, and I- well, I watched him do it, and I'm also really hungry!</value>
+  </data>
+  <data name="004_100" xml:space="preserve">
+    <value>And why is that? The last time I saw an outfit like yours was the day my family was murdered. That outfit, it belongs to Gaius' soldiers. Who are you, really?</value>
+  </data>
+  <data name="004_110" xml:space="preserve">
+    <value>I... don't know.</value>
+  </data>
+  <data name="004_080" xml:space="preserve">
+    <value>He was there the day my family was killed, yes. He was picking up supplies to bring back to his people. General Gaius attacked our village, burned it to the ground. I thought Fuse had been killed. Now I wish he had.</value>
+  </data>
+  <data name="004_060" xml:space="preserve">
+    <value>This war is turning all of us into monsters. Thank you, then... For releasing Fuse from his madness.</value>
+  </data>
+  <data name="004_090" xml:space="preserve">
+    <value>I'm sorry.</value>
+  </data>
+  <data name="004_040" xml:space="preserve">
+    <value>What!? No! Never! Why did you kill him?</value>
+  </data>
+  <data name="004_070" xml:space="preserve">
+    <value>Right before the end, he seemed lucid. He told me a few things before he passed. He tried to tell me about the war, about your family-</value>
+  </data>
+  <data name="004_020" xml:space="preserve">
+    <value>Fuse? Oh no... He was leading those monsters? You killed him!?</value>
+  </data>
+  <data name="004_050" xml:space="preserve">
+    <value>He destroyed Denham Village, Ginger. Slaughtered dozens of innocent people. He refused to listen to reason and planned to attack Aurora next. I had to stop him.</value>
+  </data>
+  <data name="004_000" xml:space="preserve">
+    <value>Oh, you again. Mayor Bram said you'd left already.</value>
+  </data>
+  <data name="004_030" xml:space="preserve">
+    <value>So you know him, then? Was he always a homicidal pyromaniac?</value>
+  </data>
+  <data name="004_010" xml:space="preserve">
+    <value>Yes, he asked us to stop the leader of these monsters. Turns out it was a Moonblood named Fuse. He'd gone completely insane.</value>
+  </data>
+  <data name="003_000" xml:space="preserve">
+    <value>You look sad. Is there anything we can do to help?</value>
+  </data>
+  <data name="003_010" xml:space="preserve">
+    <value>Please, you two, don't worry about me.</value>
+  </data>
+  <data name="002_000" xml:space="preserve">
+    <value>Are you okay?</value>
+  </data>
+  <data name="002_010" xml:space="preserve">
+    <value>Please don't take this the wrong way, but I'm not really in a talkative mood.</value>
+  </data>
+  <data name="001_020" xml:space="preserve">
+    <value>Dust?  Really?</value>
+  </data>
+  <data name="001_030" xml:space="preserve">
+    <value>Is something wrong?</value>
+  </data>
+  <data name="001_000" xml:space="preserve">
+    <value>I didn't introduce myself before.  My name is Dust, and my companion here is Fidget.</value>
+  </data>
+  <data name="001_010" xml:space="preserve">
+    <value>Hello again.</value>
+  </data>
+  <data name="001_060" xml:space="preserve">
+    <value>Well, that was a noble thing to do.  So thank you.</value>
+  </data>
+  <data name="001_040" xml:space="preserve">
+    <value>No, I'm sorry.  It's just an interesting name.  I'm Ginger.  Oh, and about those people you saved...</value>
+  </data>
+  <data name="001_050" xml:space="preserve">
+    <value>Yes?</value>
+  </data>
+  <data name="000_080" xml:space="preserve">
+    <value>I...</value>
+  </data>
+  <data name="000_090" xml:space="preserve">
+    <value>And there's nothing we can do about it. Excuse me.</value>
+  </data>
+  <data name="000_020" xml:space="preserve">
+    <value>Ah...</value>
+  </data>
+  <data name="000_000" xml:space="preserve">
+    <value>Hi there!</value>
+  </data>
+  <data name="000_030" xml:space="preserve">
+    <value>You're a quiet one.</value>
+  </data>
+  <data name="000_060" xml:space="preserve">
+    <value>Ah, yes. Well... good!</value>
+  </data>
+  <data name="000_010" xml:space="preserve">
+    <value>Well, hello.</value>
+  </data>
+  <data name="000_040" xml:space="preserve">
+    <value>Dust, manners! You'll have to excuse him, he's a bit worn out. Saving the village and everything, you know?</value>
+  </data>
+  <data name="000_070" xml:space="preserve">
+    <value>Honestly, it doesn't matter. They'll just keep coming back.</value>
+  </data>
+  <data name="000_050" xml:space="preserve">
+    <value>Yes, I heard something about that.</value>
+  </data>
+  <data name="009_000" xml:space="preserve">
+    <value>Dust, that explosion came from below! Hurry!</value>
+  </data>
+  <data name="008_020" xml:space="preserve">
+    <value>Alright. You shouldn't stay here, Ginger - it's too dangerous. Head north, we'll catch up with you after we've gotten to the bottom of this.</value>
+  </data>
+  <data name="008_000" xml:space="preserve">
+    <value>That's the last of them. Ginger, are you okay?</value>
+  </data>
+  <data name="008_030" xml:space="preserve">
+    <value>Stay safe, Dust. We'll meet again at Roan Pass, at the foot of the Blackmoor Mountains.</value>
+  </data>
+  <data name="008_010" xml:space="preserve">
+    <value>I'm... I'll be fine. You should go down below and find out what's happening.</value>
+  </data>
+  <data name="015_090" xml:space="preserve">
+    <value>Be careful.</value>
+  </data>
+  <data name="015_080" xml:space="preserve">
+    <value>Me, too, Ginger. I'll be back before you know it.</value>
+  </data>
+  <data name="015_070" xml:space="preserve">
+    <value>I know. Still, I'm glad we were able to talk, Dust.</value>
+  </data>
+  <data name="015_060" xml:space="preserve">
+    <value>Maybe... someday. For now, I need him to defeat Gaius. There's no other way.</value>
+  </data>
+  <data name="015_050" xml:space="preserve">
+    <value>Perhaps someday you can be rid of his foul presence.</value>
+  </data>
+  <data name="015_040" xml:space="preserve">
+    <value>I won't lie, I've felt him pulling me to take the quick and easy path, to leave the weak to fend for themselves, to show no mercy to those in my way.</value>
+  </data>
+  <data name="015_030" xml:space="preserve">
+    <value>As long as Cassius lives within you, though... there's always that danger. You could always be pulled to a path of evil.</value>
+  </data>
+  <data name="015_020" xml:space="preserve">
+    <value>I feel his presence every time I swing the Blade of Ahrah. I believe the Elder was right - without him, I'd have been cut down long ago, but Jin... Jin keeps him from taking control.</value>
+  </data>
+  <data name="015_010" xml:space="preserve">
+    <value>But what of your other half? Cassius murdered my family, Dust. He destroyed my village, killed my friends. How can you control such a terrible being?</value>
+  </data>
+  <data name="015_000" xml:space="preserve">
+    <value>No, Ginger, I think you were right the first time. I think Jin continues to live through my actions. He's guiding me, keeping me on the right path.</value>
+  </data>
+  <data name="016_050" xml:space="preserve">
+    <value>I suppose I do. Well, I should probably get going.</value>
+  </data>
+  <data name="016_010" xml:space="preserve">
+    <value>No, you're right. I need to accept that Jin made his own choice, and it's led to this. To you.</value>
+  </data>
+  <data name="016_060" xml:space="preserve">
+    <value>I understand. Good luck, Dust. Stay safe out there.</value>
+  </data>
+  <data name="016_030" xml:space="preserve">
+    <value>It sounds like you still have a lot of questions about who you are.</value>
+  </data>
+  <data name="016_000" xml:space="preserve">
+    <value>Ginger, you really need to let him go. I wish I could replace him, I do, but...</value>
+  </data>
+  <data name="016_020" xml:space="preserve">
+    <value>I just wish I could remember more. Sometimes I wonder if my thoughts are Jin's... or from Cassius... or if I truly am thinking for myself.</value>
+  </data>
+  <data name="014_030" xml:space="preserve">
+    <value>You do have his eyes. His face. It's so... strange. You could really be him.</value>
+  </data>
+  <data name="014_010" xml:space="preserve">
+    <value>I'm sorry, Dust, I didn't mean to suggest-.</value>
+  </data>
+  <data name="014_020" xml:space="preserve">
+    <value>No, I'm sorry. I can't imagine the grief you went through in Zeplich... thinking I might have been your brother.</value>
+  </data>
+  <data name="014_000" xml:space="preserve">
+    <value>Like the Elder said, I may share your brother's soul, but the choices I make are mine alone.</value>
+  </data>
+  <data name="011_030" xml:space="preserve">
+    <value>He was very kind. Almost to a fault, really.</value>
+  </data>
+  <data name="011_020" xml:space="preserve">
+    <value>What was he like?</value>
+  </data>
+  <data name="011_010" xml:space="preserve">
+    <value>Yes?</value>
+  </data>
+  <data name="011_000" xml:space="preserve">
+    <value>Listen, about Jin...</value>
+  </data>
+  <data name="011_050" xml:space="preserve">
+    <value>Yes, he had that effect on people. I like to believe it's what made you do all those wonderful things for Aurora and Mudpot.</value>
+  </data>
+  <data name="011_040" xml:space="preserve">
+    <value>I like him already.</value>
+  </data>
+  <data name="012_010" xml:space="preserve">
+    <value>Yes... you, too.</value>
+  </data>
+  <data name="012_000" xml:space="preserve">
+    <value>I'm sorry, there's still so much to do. You take care.</value>
+  </data>
+  <data name="017_080" xml:space="preserve">
+    <value>Of course. Goodbye for now.</value>
+  </data>
+  <data name="017_050" xml:space="preserve">
+    <value>No, you're right. We all choose our own paths. Jin chose his, and looking at you now, looking at the things you've done, I think he made the right choice.</value>
+  </data>
+  <data name="017_040" xml:space="preserve">
+    <value>I'm sorry things had to turn out this way.</value>
+  </data>
+  <data name="017_070" xml:space="preserve">
+    <value>I'm glad we had this talk, Dust. It makes me feel a lot better, knowing that my brother is helping to save this world. Come back soon?</value>
+  </data>
+  <data name="017_060" xml:space="preserve">
+    <value>I think he did, too, Ginger.</value>
+  </data>
+  <data name="017_010" xml:space="preserve">
+    <value>Yes, Dust - your actions make you who you are.</value>
+  </data>
+  <data name="017_000" xml:space="preserve">
+    <value>I suppose I could be. I may not have his memories, but if his soul is guiding me to act as he would, maybe there isn't a difference.</value>
+  </data>
+  <data name="017_030" xml:space="preserve">
+    <value>I'd like to think so, Dust. It gives me hope that he didn't die in vain.</value>
+  </data>
+  <data name="017_020" xml:space="preserve">
+    <value>Then perhaps your brother lives on through mine.</value>
+  </data>
+  <data name="010_030" xml:space="preserve">
+    <value>I'll be fine. Just a lot to think about.</value>
+  </data>
+  <data name="010_010" xml:space="preserve">
+    <value>Jin? Oh... Dust. It's you.</value>
+  </data>
+  <data name="010_020" xml:space="preserve">
+    <value>Yeah, just me. Are you alright?</value>
+  </data>
+  <data name="010_000" xml:space="preserve">
+    <value>Ginger?</value>
+  </data>
+  <data name="013_010" xml:space="preserve">
+    <value>And you listened to Jin.</value>
+  </data>
+  <data name="013_000" xml:space="preserve">
+    <value>Ahrah was always testing me. Every time I made a choice, he would tell me if it was the right one. I was choosing whether to follow Jin or Cassius. I believe they were both trying to influence my actions.</value>
+  </data>
+  <data name="013_030" xml:space="preserve">
+    <value>He is, isn't he?</value>
+  </data>
+  <data name="013_020" xml:space="preserve">
+    <value>Yeah... he's kind of hard to ignore.</value>
+  </data>
+  <data name="013_040" xml:space="preserve">
+    <value>Or... at least he was.</value>
+  </data>
+  <data name="019_010" xml:space="preserve">
+    <value>Are you alright?</value>
+  </data>
+  <data name="019_000" xml:space="preserve">
+    <value>Hello again, Dust.</value>
+  </data>
+  <data name="018_030" xml:space="preserve">
+    <value>Me, too, Dust. Come back soon?</value>
+  </data>
+  <data name="018_010" xml:space="preserve">
+    <value>It's okay, Dust. I know you aren't. But knowing that a piece of him is guiding you to help so many people... it makes me happy. I think it'd make mom and dad happy, too.</value>
+  </data>
+  <data name="018_020" xml:space="preserve">
+    <value>I'm glad we were able to talk, Ginger.</value>
+  </data>
+  <data name="018_000" xml:space="preserve">
+    <value>I'm sorry, Ginger. But I'm not.</value>
+  </data>
+  <data name="018_040" xml:space="preserve">
+    <value>Of course. Goodbye for now.</value>
+  </data>
+  <data name="020_000" xml:space="preserve">
+    <value>Yes?</value>
+  </data>
+  <data name="014_Option_1" xml:space="preserve">
+    <value>Impossible.</value>
+  </data>
+  <data name="014_Option_0" xml:space="preserve">
+    <value>Perhaps.</value>
+  </data>
+  <data name="011_Option_0" xml:space="preserve">
+    <value>I'm sure Jin had a hand in it.</value>
+  </data>
+  <data name="004_Option_2" xml:space="preserve">
+    <value>Where can I find General Gaius?</value>
+  </data>
+  <data name="004_Option_0" xml:space="preserve">
+    <value>Tell me about the war.</value>
+  </data>
+  <data name="004_Option_1" xml:space="preserve">
+    <value>Why are you leaving town?</value>
+  </data>
+</root>

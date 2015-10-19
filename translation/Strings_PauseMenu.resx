@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Main6Desc" xml:space="preserve">
+    <value>Quit the current game and return to the Main Menu.</value>
+  </data>
+  <data name="Main2Desc" xml:space="preserve">
+    <value>Learn how to play the game, and modify gameplay and HUD settings.</value>
+  </data>
+  <data name="Main3Desc" xml:space="preserve">
+    <value>Load a previously saved game. Beware, as any unsaved progress will be lost!</value>
+  </data>
+  <data name="Main4Desc" xml:space="preserve">
+    <value>View your online rankings.</value>
+  </data>
+  <data name="Main5Desc" xml:space="preserve">
+    <value>Admire your collection of Achievements.</value>
+  </data>
+  <data name="Main0Desc" xml:space="preserve">
+    <value>Resume your game.</value>
+  </data>
+  <data name="Main1Desc" xml:space="preserve">
+    <value>Unlock the full version of the game.</value>
+  </data>
+  <data name="Option2Desc" xml:space="preserve">
+    <value>Adjust audio, controller, and gameplay settings.</value>
+  </data>
+  <data name="Option3Desc" xml:space="preserve">
+    <value>Adjust visual settings for the Heads-Up Display.</value>
+  </data>
+  <data name="Option4Desc" xml:space="preserve">
+    <value>View the credits.</value>
+  </data>
+  <data name="Option0Desc" xml:space="preserve">
+    <value>Read the Gameplay Manual.</value>
+  </data>
+  <data name="Option1Desc" xml:space="preserve">
+    <value>View the controls.</value>
+  </data>
+  <data name="OptionsTitle" xml:space="preserve">
+    <value>Help &amp; Options</value>
+  </data>
+  <data name="PauseBack" xml:space="preserve">
+    <value>Back</value>
+  </data>
+  <data name="PauseControls" xml:space="preserve">
+    <value>[A] Select     [B] Cancel</value>
+  </data>
+  <data name="Main6" xml:space="preserve">
+    <value>Exit Game</value>
+  </data>
+  <data name="Main4" xml:space="preserve">
+    <value>Leaderboards</value>
+  </data>
+  <data name="Main5" xml:space="preserve">
+    <value>Achievements</value>
+  </data>
+  <data name="Main2" xml:space="preserve">
+    <value>Help &amp; Options</value>
+  </data>
+  <data name="Main3" xml:space="preserve">
+    <value>Load Game</value>
+  </data>
+  <data name="Main0" xml:space="preserve">
+    <value>Resume Game</value>
+  </data>
+  <data name="Main1" xml:space="preserve">
+    <value>Unlock Full Game</value>
+  </data>
+  <data name="Quit0" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="Quit1" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="Main3DescTrial" xml:space="preserve">
+    <value>Unavailable in Trial mode.  Unlock the full game to access this feature!</value>
+  </data>
+  <data name="PauseTitle" xml:space="preserve">
+    <value>Game Paused</value>
+  </data>
+  <data name="Option4" xml:space="preserve">
+    <value>Credits</value>
+  </data>
+  <data name="Option2" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="Option3" xml:space="preserve">
+    <value>Adjust HUD</value>
+  </data>
+  <data name="Option0" xml:space="preserve">
+    <value>How To Play</value>
+  </data>
+  <data name="Option1" xml:space="preserve">
+    <value>Controls</value>
+  </data>
+  <data name="Quit0Desc" xml:space="preserve">
+    <value>Quit to the Main Menu. Any unsaved progress will be lost!</value>
+  </data>
+  <data name="Quit1Desc" xml:space="preserve">
+    <value>Cancel and return to the Pause Menu.</value>
+  </data>
+  <data name="QuitTitle" xml:space="preserve">
+    <value>Quit Game?</value>
+  </data>
+  <data name="PauseBackDesc" xml:space="preserve">
+    <value>Return to Pause Menu</value>
+  </data>
+</root>

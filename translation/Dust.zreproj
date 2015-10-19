@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project>
+  <configuration createBackupFiles="False" hideEmptyRows="False" hideTranslatedRows="False" useSpellChecker="True" neutralLanguageCode="en-US" languagesToDisplay="">
+    <globalSetting name="CreateNewFileForm.prefixTextBox.Text">####</globalSetting>
+    <globalSetting name="CreateNewFileForm.prefixCheckBox.Checked">False</globalSetting>
+    <globalSetting name="CreateNewFileForm.referenceLanguageComboBox.SelectedIndex">0</globalSetting>
+    <globalSetting name="CreateNewFileForm.newLanguageComboBox.SelectedIndex">12</globalSetting>
+    <globalSetting name="CreateNewFileForm.copyTextsCheckBox.Checked">False</globalSetting>
+    <globalSetting name="CreateNewFileForm.automaticallyTranslateCheckBox.Checked">False</globalSetting>
+    <globalSetting name="Filter-ResourceEditorGrid">&lt;XtraSerializer version="1.0" application="View"&gt;
+  &lt;property name="#LayoutVersion" /&gt;
+  &lt;property name="ActiveFilterString" /&gt;
+&lt;/XtraSerializer&gt;</globalSetting>
+    <globalSetting name="Sort-ResourceEditorGrid">&lt;XtraSerializer version="1.0" application="View"&gt;
+  &lt;property name="#LayoutVersion" /&gt;
+&lt;/XtraSerializer&gt;</globalSetting>
+    <globalSetting name="projectMruItems">&lt;?xml version='1.0' encoding='utf-8'?&gt;&lt;items /&gt;</globalSetting>
+    <description>
+    </description>
+  </configuration>
+  <fileGroups>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="3633e41f-5b28-4c03-bae1-4fd29e1372f9">
+      <file filePath="Dialogue_Avgustin.resx" absoluteFilePath="Dialogue_Avgustin.resx" uniqueID="afea60ac-bf60-4aee-8f78-dd516c188fc6" />
+      <file filePath="Dialogue_Avgustin.zh-TW.resx" absoluteFilePath="Dialogue_Avgustin.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="2d02f21e-7a93-49cb-8a18-3689a1f620b7">
+      <file filePath="Dialogue_Bean.resx" absoluteFilePath="Dialogue_Bean.resx" uniqueID="4d372053-8102-4ed9-bd14-045d2451e446" />
+      <file filePath="Dialogue_Bean.zh-TW.resx" absoluteFilePath="Dialogue_Bean.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="42698453-01d3-4d17-8719-bd2371554b8f">
+      <file filePath="Dialogue_Blop.resx" absoluteFilePath="Dialogue_Blop.resx" uniqueID="51f6eb11-0707-45d1-a55e-ddfb38010dce" />
+      <file filePath="Dialogue_Blop.zh-TW.resx" absoluteFilePath="Dialogue_Blop.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="73a44c15-b857-425a-bfa5-9f92a7a5d2b5">
+      <file filePath="Dialogue_Bopo.resx" absoluteFilePath="Dialogue_Bopo.resx" uniqueID="6700b436-c7ab-42e8-acc3-74992a3a833f" />
+      <file filePath="Dialogue_Bopo.zh-TW.resx" absoluteFilePath="Dialogue_Bopo.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="fceb6ce2-b21f-42bc-90fd-35a28e510dd6">
+      <file filePath="Dialogue_Bram.resx" absoluteFilePath="Dialogue_Bram.resx" uniqueID="4e45c74f-64f8-4ced-8d7e-04692258c6d9" />
+      <file filePath="Dialogue_Bram.zh-TW.resx" absoluteFilePath="Dialogue_Bram.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="1783d3ed-32b6-4503-bcd4-23284ba727ea">
+      <file filePath="Dialogue_Calum.resx" absoluteFilePath="Dialogue_Calum.resx" uniqueID="5985e163-e7d4-43af-a783-73b5ea6a1535" />
+      <file filePath="Dialogue_Calum.zh-TW.resx" absoluteFilePath="Dialogue_Calum.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="b96c75fa-bf22-46d3-8242-20d295b695b2">
+      <file filePath="Dialogue_Colleen.resx" absoluteFilePath="Dialogue_Colleen.resx" uniqueID="19b78a05-0a57-43f6-af20-7ef5c55f03d3" />
+      <file filePath="Dialogue_Colleen.zh-TW.resx" absoluteFilePath="Dialogue_Colleen.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="8097b287-901e-4611-a497-cef454c29dc3">
+      <file filePath="Dialogue_Cora.resx" absoluteFilePath="Dialogue_Cora.resx" uniqueID="d19678d9-f5cd-4f76-80db-111e6a29ffcf" />
+      <file filePath="Dialogue_Cora.zh-TW.resx" absoluteFilePath="Dialogue_Cora.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="addcdba5-bae7-41f3-a230-f7b0e5321b20">
+      <file filePath="Dialogue_Corbin.resx" absoluteFilePath="Dialogue_Corbin.resx" uniqueID="931cae82-35d5-43ba-aefe-1deca61c8d15" />
+      <file filePath="Dialogue_Corbin.zh-TW.resx" absoluteFilePath="Dialogue_Corbin.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="13215c22-c2dc-4f1a-8431-f2c59955e81b">
+      <file filePath="Dialogue_Cutscenes.resx" absoluteFilePath="Dialogue_Cutscenes.resx" uniqueID="89f0621f-8806-4462-a1fc-7bb2ee9474a3" />
+      <file filePath="Dialogue_Cutscenes.zh-TW.resx" absoluteFilePath="Dialogue_Cutscenes.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="22205cfe-3e67-4880-9d16-39a9d93a48f3">
+      <file filePath="Dialogue_Elder.resx" absoluteFilePath="Dialogue_Elder.resx" uniqueID="cff7a54a-de32-41ea-96ee-b106088ae8c9" />
+      <file filePath="Dialogue_Elder.zh-TW.resx" absoluteFilePath="Dialogue_Elder.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="b8ee267c-184f-479b-a292-3ec5596493e6">
+      <file filePath="Dialogue_Events.resx" absoluteFilePath="Dialogue_Events.resx" uniqueID="457bb6a5-92a0-4372-92e9-f37d8bfaa8dd" />
+      <file filePath="Dialogue_Events.zh-TW.resx" absoluteFilePath="Dialogue_Events.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="c0c3f545-89db-4a02-8ebe-e0804b060b8c">
+      <file filePath="Dialogue_Fale.resx" absoluteFilePath="Dialogue_Fale.resx" uniqueID="8ecca80f-7577-4374-b6d4-e95f0b26501f" />
+      <file filePath="Dialogue_Fale.zh-TW.resx" absoluteFilePath="Dialogue_Fale.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="0b9a13ee-c597-4762-a0a7-0b7f1530ac08">
+      <file filePath="Dialogue_FloHop.resx" absoluteFilePath="Dialogue_FloHop.resx" uniqueID="438b5d01-7a0c-477c-92bf-b258720557cc" />
+      <file filePath="Dialogue_FloHop.zh-TW.resx" absoluteFilePath="Dialogue_FloHop.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="7a320639-77ea-4aa2-a294-72b061570d25">
+      <file filePath="Dialogue_Geehan.resx" absoluteFilePath="Dialogue_Geehan.resx" uniqueID="c45f37b5-78b5-48b5-976f-be310407a2f9" />
+      <file filePath="Dialogue_Geehan.zh-TW.resx" absoluteFilePath="Dialogue_Geehan.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="e8c0e79c-0fdf-4dc7-b2ff-3a42c572bbc1">
+      <file filePath="Dialogue_Gianni.resx" absoluteFilePath="Dialogue_Gianni.resx" uniqueID="7f1e0935-bb45-4620-ac34-20de0f8b241f" />
+      <file filePath="Dialogue_Gianni.zh-TW.resx" absoluteFilePath="Dialogue_Gianni.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="bc817ffb-0dc4-4395-a984-2b6f0707a84d">
+      <file filePath="Dialogue_Ginger.resx" absoluteFilePath="Dialogue_Ginger.resx" uniqueID="dd750c7c-59c3-4228-a95c-83777c3f0d1a" />
+      <file filePath="Dialogue_Ginger.zh-TW.resx" absoluteFilePath="Dialogue_Ginger.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="746207d2-1bbc-43c8-aaac-d27e67bd907b">
+      <file filePath="Dialogue_Haley.resx" absoluteFilePath="Dialogue_Haley.resx" uniqueID="8c8b92a4-7577-48bd-b129-699fd7d5cbdc" />
+      <file filePath="Dialogue_Haley.zh-TW.resx" absoluteFilePath="Dialogue_Haley.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="a50813b9-46ba-45c6-809c-bfaa52593001">
+      <file filePath="Dialogue_Kane.resx" absoluteFilePath="Dialogue_Kane.resx" uniqueID="2d52ed72-3ef7-4f10-a2e1-875988567686" />
+      <file filePath="Dialogue_Kane.zh-TW.resx" absoluteFilePath="Dialogue_Kane.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="ab84826f-f1b5-4be0-a03b-8d8b04d2bba9">
+      <file filePath="Dialogue_Lady.resx" absoluteFilePath="Dialogue_Lady.resx" uniqueID="5cdef21e-7967-47bb-9f3d-82758e1c3393" />
+      <file filePath="Dialogue_Lady.zh-TW.resx" absoluteFilePath="Dialogue_Lady.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="93d4ba52-a20f-4350-b759-acd0364ece86">
+      <file filePath="Dialogue_MaMop.resx" absoluteFilePath="Dialogue_MaMop.resx" uniqueID="60a22f98-ac98-4ed3-83e7-4ee3fdfde032" />
+      <file filePath="Dialogue_MaMop.zh-TW.resx" absoluteFilePath="Dialogue_MaMop.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="1fe44418-42fb-46fe-89a9-b136c38a27a4">
+      <file filePath="Dialogue_Matti.resx" absoluteFilePath="Dialogue_Matti.resx" uniqueID="f3102fca-a086-4626-ae51-1e5d5e53a21c" />
+      <file filePath="Dialogue_Matti.zh-TW.resx" absoluteFilePath="Dialogue_Matti.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="c142f2a7-5c79-4429-9d57-b16ae42d63ed">
+      <file filePath="Dialogue_Moska.resx" absoluteFilePath="Dialogue_Moska.resx" uniqueID="5e6e1c59-d1f8-4816-9c3d-6da38262fedb" />
+      <file filePath="Dialogue_Moska.zh-TW.resx" absoluteFilePath="Dialogue_Moska.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="0bc2d29d-051d-46fe-b8ff-c73fcea4db97">
+      <file filePath="Dialogue_OldGappy.resx" absoluteFilePath="Dialogue_OldGappy.resx" uniqueID="56f87c2a-5552-48dd-a42c-49ca48218409" />
+      <file filePath="Dialogue_OldGappy.zh-TW.resx" absoluteFilePath="Dialogue_OldGappy.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="d96cd1c9-cb24-4eee-87de-b6b03b0a433c">
+      <file filePath="Dialogue_Oneida.resx" absoluteFilePath="Dialogue_Oneida.resx" uniqueID="848678bb-59f9-4282-8508-8b852e62370e" />
+      <file filePath="Dialogue_Oneida.zh-TW.resx" absoluteFilePath="Dialogue_Oneida.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="041342dd-5b2c-4724-aaca-55c88b7d08f5">
+      <file filePath="Dialogue_Reed.resx" absoluteFilePath="Dialogue_Reed.resx" uniqueID="27b72e7f-998a-4075-ac2d-ab4b2768245e" />
+      <file filePath="Dialogue_Reed.zh-TW.resx" absoluteFilePath="Dialogue_Reed.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="d5851691-f6eb-411f-a972-849fb04e9120">
+      <file filePath="Dialogue_Sanjin.resx" absoluteFilePath="Dialogue_Sanjin.resx" uniqueID="26ab2dcf-596b-4aa3-9d58-45b475316b61" />
+      <file filePath="Dialogue_Sanjin.zh-TW.resx" absoluteFilePath="Dialogue_Sanjin.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="556d4c9e-d343-4d3f-a5bc-4a2cd3da29d4">
+      <file filePath="Dialogue_Sarahi.resx" absoluteFilePath="Dialogue_Sarahi.resx" uniqueID="8ed87ffe-0e54-4d2f-8411-18adda436586" />
+      <file filePath="Dialogue_Sarahi.zh-TW.resx" absoluteFilePath="Dialogue_Sarahi.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="eeb0834a-e549-4224-960e-8496f8e75b14">
+      <file filePath="Dialogue_ShopAurora.resx" absoluteFilePath="Dialogue_ShopAurora.resx" uniqueID="b4837cb5-22b5-4429-b33b-a6f27e748ca7" />
+      <file filePath="Dialogue_ShopAurora.zh-TW.resx" absoluteFilePath="Dialogue_ShopAurora.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="03c31432-e197-48c4-bc2d-764c95a70f0e">
+      <file filePath="Dialogue_ShopWild.resx" absoluteFilePath="Dialogue_ShopWild.resx" uniqueID="f0c12cab-26ef-43c3-ba89-1445e7d5d417" />
+      <file filePath="Dialogue_ShopWild.zh-TW.resx" absoluteFilePath="Dialogue_ShopWild.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="2359ecbe-63ba-4ba0-b36c-0562e1ae128f">
+      <file filePath="Dialogue_SmoBop.resx" absoluteFilePath="Dialogue_SmoBop.resx" uniqueID="63ed5a42-d810-4777-bffd-c75b49dbeaa7" />
+      <file filePath="Dialogue_SmoBop.zh-TW.resx" absoluteFilePath="Dialogue_SmoBop.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="0231f696-18fe-4914-be74-b47d9936c5e3">
+      <file filePath="Strings_Achievements.resx" absoluteFilePath="Strings_Achievements.resx" uniqueID="42409958-f39b-43eb-b0ab-169fefc3fd4f" />
+      <file filePath="Strings_Achievements.zh-TW.resx" absoluteFilePath="Strings_Achievements.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="9aff549e-fa1b-4b35-af62-2a1ed2589e80">
+      <file filePath="Strings_Chapters.resx" absoluteFilePath="Strings_Chapters.resx" uniqueID="77704e4d-dfac-4ab4-a0de-70075b7d298d" />
+      <file filePath="Strings_Chapters.zh-TW.resx" absoluteFilePath="Strings_Chapters.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="07288e78-56c7-42f6-a477-d4f9e928e6fd">
+      <file filePath="Strings_Credits.resx" absoluteFilePath="Strings_Credits.resx" uniqueID="ae04b16a-e577-41ea-85c6-70a18a73c740" />
+      <file filePath="Strings_Credits.zh-TW.resx" absoluteFilePath="Strings_Credits.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="1bb33b06-977a-4429-b52f-be765d4c2998">
+      <file filePath="Strings_EquipDetails.resx" absoluteFilePath="Strings_EquipDetails.resx" uniqueID="dd64659a-f128-4516-9185-3955b51843dd" />
+      <file filePath="Strings_EquipDetails.zh-TW.resx" absoluteFilePath="Strings_EquipDetails.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="225b3f4e-52b7-4405-929e-61c57c06a323">
+      <file filePath="Strings_Equipment.resx" absoluteFilePath="Strings_Equipment.resx" uniqueID="e5c4097c-7762-4fed-94b1-9499fea7eabb" />
+      <file filePath="Strings_Equipment.zh-TW.resx" absoluteFilePath="Strings_Equipment.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="3119c160-9a09-4300-ba32-1fe90f6b2c09">
+      <file filePath="Strings_FriendlyNames.resx" absoluteFilePath="Strings_FriendlyNames.resx" uniqueID="f6e33408-0681-4352-b40c-e6d5d9a8f681" />
+      <file filePath="Strings_FriendlyNames.zh-TW.resx" absoluteFilePath="Strings_FriendlyNames.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="d17d4e0f-f025-4d33-ae4d-a4309cb71dbb">
+      <file filePath="Strings_Help.resx" absoluteFilePath="Strings_Help.resx" uniqueID="8714a5fc-2f6a-4e9c-820e-8a3880509bff" />
+      <file filePath="Strings_Help.zh-TW.resx" absoluteFilePath="Strings_Help.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="d176a250-3f66-4966-9b45-d512b923ba7a">
+      <file filePath="Strings_Hud.resx" absoluteFilePath="Strings_Hud.resx" uniqueID="4009c7f8-fcf1-47b2-8a5e-228220227c3e" />
+      <file filePath="Strings_Hud.zh-TW.resx" absoluteFilePath="Strings_Hud.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="957075fb-bc76-4d4d-9439-efded43219f5">
+      <file filePath="Strings_HudInv.resx" absoluteFilePath="Strings_HudInv.resx" uniqueID="d04c0faf-cc2b-449c-b4ef-e3e7b0a7bad8" />
+      <file filePath="Strings_HudInv.zh-TW.resx" absoluteFilePath="Strings_HudInv.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="a9d6f62e-98af-4d8b-b709-d5f2abaf6f41">
+      <file filePath="Strings_Leaderboards.resx" absoluteFilePath="Strings_Leaderboards.resx" uniqueID="ead71dfa-9388-42f4-af02-687acd3f9d77" />
+      <file filePath="Strings_Leaderboards.zh-TW.resx" absoluteFilePath="Strings_Leaderboards.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="bde425b1-ca20-4e70-9823-09e7af1723d3">
+      <file filePath="Strings_MainMenu.resx" absoluteFilePath="Strings_MainMenu.resx" uniqueID="58fd8033-1859-4b1d-8fb9-3d08783424ec" />
+      <file filePath="Strings_MainMenu.zh-TW.resx" absoluteFilePath="Strings_MainMenu.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="91516a0e-3011-4648-9034-a5818ea889fe">
+      <file filePath="Strings_Manual.resx" absoluteFilePath="Strings_Manual.resx" uniqueID="c53b39b5-915e-476c-8fb5-b331eefdfe06" />
+      <file filePath="Strings_Manual.zh-TW.resx" absoluteFilePath="Strings_Manual.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="264e0dd4-2696-45eb-a64f-2f8ecbb69a6b">
+      <file filePath="Strings_ManualGraphics.resx" absoluteFilePath="Strings_ManualGraphics.resx" uniqueID="ebe1a859-348b-4968-b31f-e0ed9d6bbe81" />
+      <file filePath="Strings_ManualGraphics.zh-TW.resx" absoluteFilePath="Strings_ManualGraphics.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="8060185d-33dc-464f-88d2-39a98addd30e">
+      <file filePath="Strings_Materials.resx" absoluteFilePath="Strings_Materials.resx" uniqueID="6bd77eba-4bf1-491b-bcdb-2fb481c730c8" />
+      <file filePath="Strings_Materials.zh-TW.resx" absoluteFilePath="Strings_Materials.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="fea1f5d0-4272-4759-ae4e-680a02feb636">
+      <file filePath="Strings_Notes.resx" absoluteFilePath="Strings_Notes.resx" uniqueID="2e17c264-a1de-4d39-ba94-5d83ddc0ce5e" />
+      <file filePath="Strings_Notes.zh-TW.resx" absoluteFilePath="Strings_Notes.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="7b8b4373-f0f4-4b36-b28b-6e72c331d6d3">
+      <file filePath="Strings_Options.resx" absoluteFilePath="Strings_Options.resx" uniqueID="128c26eb-a102-45e6-b108-f8abab346fb6" />
+      <file filePath="Strings_Options.zh-TW.resx" absoluteFilePath="Strings_Options.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="bb48ee93-3c71-4809-b6f6-4b913c575989">
+      <file filePath="Strings_PC.resx" absoluteFilePath="Strings_PC.resx" uniqueID="8b3efb35-a9d3-4df0-8458-56363cbb59b7" />
+      <file filePath="Strings_PC.zh-TW.resx" absoluteFilePath="Strings_PC.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="000c1692-0e31-4aa5-abdd-d05608834f23">
+      <file filePath="Strings_PauseMenu.resx" absoluteFilePath="Strings_PauseMenu.resx" uniqueID="dc6ed69b-8fba-40ad-b4b1-e72279e22208" />
+      <file filePath="Strings_PauseMenu.zh-TW.resx" absoluteFilePath="Strings_PauseMenu.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="767838a1-9ce3-446e-95eb-8335a5508cf1">
+      <file filePath="Strings_Prompts.resx" absoluteFilePath="Strings_Prompts.resx" uniqueID="0500ec0b-c7be-46cc-8f75-ae75e2483d04" />
+      <file filePath="Strings_Prompts.zh-TW.resx" absoluteFilePath="Strings_Prompts.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="7dd2307b-a83c-411b-981b-c9b395e3888c">
+      <file filePath="Strings_Quests.resx" absoluteFilePath="Strings_Quests.resx" uniqueID="94a87b63-c348-4293-bdcb-50cdfa05c235" />
+      <file filePath="Strings_Quests.zh-TW.resx" absoluteFilePath="Strings_Quests.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="1ab2c371-6aa2-4dd4-bffc-af6a853aa957">
+      <file filePath="Strings_Regions.resx" absoluteFilePath="Strings_Regions.resx" uniqueID="2fab9888-2be4-4f71-9064-f3844a3d5c01" />
+      <file filePath="Strings_Regions.zh-TW.resx" absoluteFilePath="Strings_Regions.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+    <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="0" ignoreDuringExportAndImport="False" uniqueID="3f003772-ba66-48c2-a77f-7d5208012320">
+      <file filePath="Strings_Shop.resx" absoluteFilePath="Strings_Shop.resx" uniqueID="37461d1b-8427-465f-8160-6360f9fd78ae" />
+      <file filePath="Strings_Shop.zh-TW.resx" absoluteFilePath="Strings_Shop.zh-TW.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <remarks>
+      </remarks>
+    </fileGroup>
+  </fileGroups>
+  <projectFolders />
+</project>

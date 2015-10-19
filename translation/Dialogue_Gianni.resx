@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="007_Option_1" xml:space="preserve">
+    <value>Yes, with this poison ivy, I will reign retribution upon Gianni's wicked soul.</value>
+  </data>
+  <data name="007_Option_0" xml:space="preserve">
+    <value>No, that would be too cruel. Much as I'd want to.</value>
+  </data>
+  <data name="007_040" xml:space="preserve">
+    <value>You are positively evil, Fidget. But...</value>
+  </data>
+  <data name="007_000" xml:space="preserve">
+    <value>Well, here's where Corbin dropped the basket. Might as well return it for him.</value>
+  </data>
+  <data name="007_010" xml:space="preserve">
+    <value>Do mine eyes deceive me, or did he accidentally drop it near a poison ivy bush?</value>
+  </data>
+  <data name="007_020" xml:space="preserve">
+    <value>Fidget, what's going on in that twisted little brain of yours?</value>
+  </data>
+  <data name="007_030" xml:space="preserve">
+    <value>Nothing! Nothing. I'm just saying! Wouldn't it be a shame if some poison ivy fell into his basket? You know, completely by accident! Or, you know, not.</value>
+  </data>
+  <data name="004_100" xml:space="preserve">
+    <value>You know what? I kinda hate this guy, and I would just love to maul his face off.</value>
+  </data>
+  <data name="004_110" xml:space="preserve">
+    <value>Manners, Fidget. It's what separates us from the animals.</value>
+  </data>
+  <data name="004_080" xml:space="preserve">
+    <value>Good. For your sake, you should hope we don't have to talk again.</value>
+  </data>
+  <data name="004_060" xml:space="preserve">
+    <value>Yeah, Gianni, here. Take your laundry, but you're never going to ask Corbin to leave the village again, do you understand?</value>
+  </data>
+  <data name="004_090" xml:space="preserve">
+    <value>Believe me, I will avoid it if I can help it.</value>
+  </data>
+  <data name="004_040" xml:space="preserve">
+    <value>Yes, he'll be fine. A bit shaken up, but-</value>
+  </data>
+  <data name="004_070" xml:space="preserve">
+    <value>Um... well, when you put it so threateningly, I suppose I have little choice in the matter.</value>
+  </data>
+  <data name="004_020" xml:space="preserve">
+    <value>Well, after RESCUING him we sent him back to the village.</value>
+  </data>
+  <data name="004_050" xml:space="preserve">
+    <value>Fine, fine. And what of my laundry? Surely after all that time he spent out there it MUST be cleaned by now?</value>
+  </data>
+  <data name="004_000" xml:space="preserve">
+    <value>Alright, Gianni, let's talk. Would you mind telling me why you have a child running errands outside the village with monsters around?</value>
+  </data>
+  <data name="004_030" xml:space="preserve">
+    <value>Rescuing him, you say? Is he alright?</value>
+  </data>
+  <data name="004_010" xml:space="preserve">
+    <value>Well I certainly can't be running around outside myself! Those monsters, they are dangerous! So, where is that Corbin brat? He's lucky I'm the patient type and didn't report his laundry thievery to the guards!</value>
+  </data>
+  <data name="003_000" xml:space="preserve">
+    <value>Gianni, I want to ask you about a boy named Corbin.</value>
+  </data>
+  <data name="003_010" xml:space="preserve">
+    <value>Ah, have you seen him? Where has that foolish boy run off to?</value>
+  </data>
+  <data name="003_020" xml:space="preserve">
+    <value>I was hoping you could tell me.</value>
+  </data>
+  <data name="003_030" xml:space="preserve">
+    <value>He must still be wasting time in Ivydale Glen. I just knew I shouldn't have trusted that boy with cleaning my fabrics.</value>
+  </data>
+  <data name="003_040" xml:space="preserve">
+    <value>Corbin is... doing your laundry? Outside the village?</value>
+  </data>
+  <data name="003_050" xml:space="preserve">
+    <value>I do not see why this is so difficult to comprehend, but then I suppose you don't have the capacity for rational thought. If you're so concerned, maybe you should go look for him instead of waffling about?</value>
+  </data>
+  <data name="003_060" xml:space="preserve">
+    <value>Oh, I'll find him. Then we're going to have a little chat.</value>
+  </data>
+  <data name="003_070" xml:space="preserve">
+    <value>So, have you found my fabrics? Why are you standing around wasting my time?</value>
+  </data>
+  <data name="001_000" xml:space="preserve">
+    <value>Wonderful, another moment with the philosopher king himself. Why don't you bother Avgustin or some other such buffoon?</value>
+  </data>
+  <data name="001_010" xml:space="preserve">
+    <value>You don't need to ask me twice. We're leaving.</value>
+  </data>
+  <data name="000_020" xml:space="preserve">
+    <value>Hm. Is it, though?</value>
+  </data>
+  <data name="000_000" xml:space="preserve">
+    <value>Yes?</value>
+  </data>
+  <data name="000_030" xml:space="preserve">
+    <value>I... well, I guess?</value>
+  </data>
+  <data name="000_010" xml:space="preserve">
+    <value>Uh... Good morning?</value>
+  </data>
+  <data name="000_040" xml:space="preserve">
+    <value>He guesses. Wonderful. Well, perhaps you can guess that I really don't want to talk such drivel right now. Go, scurry off and leave me be.</value>
+  </data>
+  <data name="009_020" xml:space="preserve">
+    <value>Fine, whatever. With pleasure. That meanie! He's just lucky I don't foreclose on his face.</value>
+  </data>
+  <data name="009_030" xml:space="preserve">
+    <value>... What?</value>
+  </data>
+  <data name="009_000" xml:space="preserve">
+    <value>Good, good! This'll show that meanie not to push poor little kids around.</value>
+  </data>
+  <data name="009_010" xml:space="preserve">
+    <value>You said it. But remember, if we get caught, I'm going to blame you.</value>
+  </data>
+  <data name="009_040" xml:space="preserve">
+    <value>You know... it's like, he didn't pay the mortgage on his face? Then I bite it off. Foreclose... okay, nevermind.</value>
+  </data>
+  <data name="008_000" xml:space="preserve">
+    <value>Boo! Boo, I say! You are no fun, Dust. No fun at all.</value>
+  </data>
+  <data name="010_030" xml:space="preserve">
+    <value>Well, maybe having a poor defenseless boy wash your laundry way out in the woods isn't agreeing with you.</value>
+  </data>
+  <data name="010_010" xml:space="preserve">
+    <value>Is... something wrong?</value>
+  </data>
+  <data name="010_020" xml:space="preserve">
+    <value>Oooh, everything is on fire! This is agony! AGONY!</value>
+  </data>
+  <data name="010_000" xml:space="preserve">
+    <value>Argh, what do you want?</value>
+  </data>
+  <data name="010_040" xml:space="preserve">
+    <value>Oh for-! Go! Just leave me alone. Let me agonize in peace!</value>
+  </data>
+</root>

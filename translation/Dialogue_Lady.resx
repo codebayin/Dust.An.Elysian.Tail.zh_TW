@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="242_Option_0" xml:space="preserve">
+    <value>How do you know this?</value>
+  </data>
+  <data name="242_Option_1" xml:space="preserve">
+    <value>We must hurry back.</value>
+  </data>
+  <data name="240_Option_0" xml:space="preserve">
+    <value>Darkness?</value>
+  </data>
+  <data name="240_Option_1" xml:space="preserve">
+    <value>Will you release the waters now?</value>
+  </data>
+  <data name="260_000" xml:space="preserve">
+    <value>I am saddened that my actions have cost an innocent life. I fear that unless you are able to stop General Gaius, even more lives may be lost.</value>
+  </data>
+  <data name="241_040" xml:space="preserve">
+    <value>Blades of Elysium?</value>
+  </data>
+  <data name="241_050" xml:space="preserve">
+    <value>I will explain later. We have other, more pressing matters at hand.</value>
+  </data>
+  <data name="241_000" xml:space="preserve">
+    <value>Are you alright, Lady Tethys? What is this darkness Ahrah speaks of?</value>
+  </data>
+  <data name="241_010" xml:space="preserve">
+    <value>I saw what your General was doing. I could feel the souls of all the innocents he killed screaming for help, and I... I succumbed to that darkness - that desire for justice, no matter the cost.</value>
+  </data>
+  <data name="241_020" xml:space="preserve">
+    <value>Justice must be tempered with mercy, Lady Tethys, otherwise it is nothing more than revenge.</value>
+  </data>
+  <data name="241_030" xml:space="preserve">
+    <value>I must apologize, Dust. I see now that you wield one of the Blades of Elysium. Had I noticed before, I would have treated you with more respect.</value>
+  </data>
+  <data name="240_000" xml:space="preserve">
+    <value>What... what have you done?</value>
+  </data>
+  <data name="240_020" xml:space="preserve">
+    <value>I can feel the darkness slipping from her soul, Dust. We have done it - she is now safe.</value>
+  </data>
+  <data name="240_010" xml:space="preserve">
+    <value>Knocked some sense into you, I hope!</value>
+  </data>
+  <data name="243_080" xml:space="preserve">
+    <value>She's right, Dust. If we're going to speak to this baron guy, we need to get moving!</value>
+  </data>
+  <data name="243_060" xml:space="preserve">
+    <value>Hm...</value>
+  </data>
+  <data name="243_070" xml:space="preserve">
+    <value>There are powerful forces at work within you, Dust. How a living creature could carry such a shattered soul is beyond my understanding. However, that doesn't matter now.</value>
+  </data>
+  <data name="243_040" xml:space="preserve">
+    <value>You can see into my past?</value>
+  </data>
+  <data name="243_050" xml:space="preserve">
+    <value>Your soul is fragmented, like a shattered mirror. I can only see reflections in the broken pieces, and what I see makes little sense, even to me.</value>
+  </data>
+  <data name="243_020" xml:space="preserve">
+    <value>He is not my General.</value>
+  </data>
+  <data name="243_030" xml:space="preserve">
+    <value>Perhaps not now. But I can see you were once very close to this General Gaius.</value>
+  </data>
+  <data name="243_000" xml:space="preserve">
+    <value>And how do you know all that?</value>
+  </data>
+  <data name="243_010" xml:space="preserve">
+    <value>Because I am attuned to the Life Thread, my dear. I can sense all life through the waters I send to the surface. Now more than ever, I can feel the despair that all surface-dwellers feel because of your General's hatred.</value>
+  </data>
+  <data name="242_060" xml:space="preserve">
+    <value>He knew your General, and if you help him, he will be willing to assist you in your quest to end Gaius' campaign.</value>
+  </data>
+  <data name="242_040" xml:space="preserve">
+    <value>Then we've got to hurry! Ginger was on her way there, too!</value>
+  </data>
+  <data name="242_020" xml:space="preserve">
+    <value>Indeed. Though your motives were noble, I fear it did little to stop General Gaius and his campaign on the surface.</value>
+  </data>
+  <data name="242_050" xml:space="preserve">
+    <value>Before you go, perhaps I can repay you for freeing me of my madness. At the base of the northern mountains there is a grand estate. The baron of these lands is a man named Kane.</value>
+  </data>
+  <data name="242_000" xml:space="preserve">
+    <value>I know you feel like you were doing the right thing by holding back the waters, but Mudpot needs them now more than ever.</value>
+  </data>
+  <data name="242_030" xml:space="preserve">
+    <value>Already I can feel his army's footsteps... they travel north, into the mountains.</value>
+  </data>
+  <data name="242_010" xml:space="preserve">
+    <value>Oh! The waters, yes! I only hope it is not too late...</value>
+  </data>
+  <data name="244_000" xml:space="preserve">
+    <value>Apologies, Lady Tethys, but we must make haste. There is a villager in Mudpot who was very close to death-</value>
+  </data>
+  <data name="244_020" xml:space="preserve">
+    <value>We've no time to waste. Is there a shortcut back to Mudpot?</value>
+  </data>
+  <data name="244_010" xml:space="preserve">
+    <value>I can feel it now... his life force is very weak. How could I let this happen? What... what have I done...?</value>
+  </data>
+  <data name="244_040" xml:space="preserve">
+    <value>We'll get there in time! Just you wait and see!</value>
+  </data>
+  <data name="244_030" xml:space="preserve">
+    <value>Yes, of course - right through here. Though I fear you may already be too late.</value>
+  </data>
+  <data name="244_060" xml:space="preserve">
+    <value>Goodbye, Dust. And good luck.</value>
+  </data>
+  <data name="244_050" xml:space="preserve">
+    <value>I hope so, Fidget. Goodbye, Lady Tethys.</value>
+  </data>
+  <data name="250_000" xml:space="preserve">
+    <value>You have my thanks, Dust. Please, hurry back to Mudpot.</value>
+  </data>
+  <data name="230_130" xml:space="preserve">
+    <value>He leads a great army across these lands, spilling innocent blood, and using my waters to give life to his campaign of hatred. I stopped the water so I could stop the violence!</value>
+  </data>
+  <data name="230_120" xml:space="preserve">
+    <value>A creature... like me? You mean-?</value>
+  </data>
+  <data name="230_110" xml:space="preserve">
+    <value>I have felt the endless conflict as my waters ebb and flow through your land, surface-dweller. I see this water satisfying the thirst of a creature much like yourself - a killer with a broken soul.</value>
+  </data>
+  <data name="230_100" xml:space="preserve">
+    <value>I would question the motives of any creature, deity or not, that would let their subjects perish without reason.</value>
+  </data>
+  <data name="230_160" xml:space="preserve">
+    <value>I sense a terrible danger, Dust! Prepare yourself!</value>
+  </data>
+  <data name="230_150" xml:space="preserve">
+    <value>If their deaths are required to save this world, that is a sacrifice I am willing to make. You speak in petty terms - a person. A family. A village. Their deaths, same as yours, are insignificant to the greater good.</value>
+  </data>
+  <data name="230_140" xml:space="preserve">
+    <value>But you are punishing innocent and guilty alike! Your own followers in Mudpot will die without that water!</value>
+  </data>
+  <data name="230_090" xml:space="preserve">
+    <value>You, a surface-dweller, would dare to question my actions? Who do you think you are, ordering me to release the waters of life?</value>
+  </data>
+  <data name="230_080" xml:space="preserve">
+    <value>Lady Tethys, the Mudpots need your help. One of them is already close to death, but your healing waters could save his life.</value>
+  </data>
+  <data name="230_030" xml:space="preserve">
+    <value>You would dare enter my domain and question me? Yes, the waters have stopped flowing. I was the one to stop them!</value>
+  </data>
+  <data name="230_010" xml:space="preserve">
+    <value>Who are you?</value>
+  </data>
+  <data name="230_020" xml:space="preserve">
+    <value>I am Dust, and this is Fidget. We came from Mudpot seeking the one they call "The Lady". Their springs have dried up, and I'm here to find out why.</value>
+  </data>
+  <data name="230_070" xml:space="preserve">
+    <value>Okay, Dust, maybe you should dial it back a bit? She's getting pretty ticked off.</value>
+  </data>
+  <data name="230_000" xml:space="preserve">
+    <value>Look, Dust!</value>
+  </data>
+  <data name="230_050" xml:space="preserve">
+    <value>I meant no disrespect... ah...</value>
+  </data>
+  <data name="230_060" xml:space="preserve">
+    <value>I am Lady Tethys, and you will refer to me as such with the courtesy reserved for all-powerful beings of the realm.</value>
+  </data>
+  <data name="230_040" xml:space="preserve">
+    <value>Be careful, Dust - I do not believe she's used to being spoken to so casually.</value>
+  </data>
+  <data name="231_010" xml:space="preserve">
+    <value>So be it, surface-dweller! If you would raise your sword against me, then prepare to have your accursed soul ripped from your body and purged in these holy waters!</value>
+  </data>
+  <data name="231_000" xml:space="preserve">
+    <value>I have seen where your path ends, Lady Tethys, and I will not let you succumb to the same fate. Too many innocents have died already thanks to Gaius' campaign.</value>
+  </data>
+</root>

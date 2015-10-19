@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="credits008" xml:space="preserve">
+    <value>
+
+
+
+
+
+
+
+
+
+
+For My Dearest Elizabeth</value>
+  </data>
+  <data name="credits003" xml:space="preserve">
+    <value>Voice Direction &amp; Casting (Toon Platoon Casting)
+Deven Mack, asst. Edward Bosco</value>
+  </data>
+  <data name="credits002" xml:space="preserve">
+    <value>Additional Music (Funky Rustic)
+Alex Brandon</value>
+  </data>
+  <data name="credits001" xml:space="preserve">
+    <value>Music &amp; Sound (HyperDuck SoundWorks)
+Chris Geehan &amp; Dan Byrne-McCullough</value>
+  </data>
+  <data name="credits000" xml:space="preserve">
+    <value>A Game by Dean Dodrill</value>
+  </data>
+  <data name="credits007" xml:space="preserve">
+    <value>Microsoft Studios
+
+Xbox LIVE Arcade Team
+
+Producer
+Andrew Williams
+
+Lead Tester
+Jason Wohlfeil
+Paul Loynd
+
+Design Team
+Daniel Fornace
+
+Development Team
+Jason Hewitt
+
+Release Management
+Josh Mulanax
+Tyler Keenan (Xtreme)
+
+Lead Producer
+Kevin Hathaway
+
+Executive Producer
+Mark Coates
+
+Senior Director, XBLA Publishing
+Ted Woolsey
+
+Business Development
+Cherie Lutz
+
+Portfolio Director 
+Chris Charla
+
+Product Manager 
+Daniel McConnell
+
+Marketing
+Michael Wolf
+John Dongelmans
+Raymond Estrada (Simplicity Consulting)
+
+Community Manager
+Alex Herbert
+
+Europe Localization Team
+Gerard Dunne, Software Engineer
+Ricardo Cordoba, Test PM
+Tomasz Sobolewski, Test Lead
+Magali Lucchini, Translation PM
+Malika Kherfi, PM
+
+Asia Localization Team
+Takashi Sasaki, Software Engineer
+Hiroshi Hosoda, Software Engineer
+Hiroya Horai, Test Lead
+Yong Hong Park, Tester
+Tomoko Yamada, Production Manager
+Shinya Muto, Project Manager
+
+User Research Team
+Tim Nichols, User Research Lead
+Kristie Fisher, User Researcher
+
+Special Thanks
+Brian Weiss, Kevin Salcedo, Craig Leigh
+Nicki Beaudry, Christopher Rubyor, Scott Fintel
+Andy Beaudoin, Jason York, Chad Long
+Matt Golz, Dan Smith, Joe Djorgee
+Nick Bodenham, Jared Barnhill (Aditi)
+Brian McCarty (Xtreme Consulting Group Inc)
+Mark Currie (CompuCom Systems Inc)
+Microsoft Studios Black Ops
+Shield Compatibility Lab
+
+
+
+Experis 
+
+Senior Test Lead
+Lloyd Bell 
+
+Test Lead
+Amelia Hannon 
+
+Software Development Engineer in Test 
+Val Novytskyy 
+
+Software Test Engineers
+Nick Hardy, Eric Ranz 
+
+Test Associates
+Alan Hume, April Culberson, Clayton Hopper
+Gillian Williams, Isaac Price, Jacob Martin
+Jae Yslas, Jason Fox, Jeff Woito
+Jonathan Tote, Josh Breese, Kevin Lourigan
+Marc Williams, Masha Reutovski, Matthew Howells
+Michael Arvat, Rickie Thornley, Rise Lugo
+Ryan Naegeli, Zack Cutri
+
+
+
+
+PC Team
+
+Lead Tester
+Jason Wohlfeil
+
+Strike Team
+Bradley Shockey (Experis), Chad Stringer (Collabera)
+Chris Gaffney (Volt), David Yingling (Collabera)
+Jacob Farley (Aditi), Mark Bonagofski (Apex Systems, Inc.)
+
+Localization Producer
+Zeb Wedell
+
+Localization Project Managers
+JaeYoung Lee, Shinya Muto, Estelle Skeels
+
+Localization Project Engineers
+Munetaka Fuse, Hiroshi Hosoda, Yong Zhao
+Production Managers, Natsuko Kudo, Yuko Yoshida 
+
+Test Leads
+Yong Hong Park, Dustin Wood</value>
+  </data>
+  <data name="credits006" xml:space="preserve">
+    <value>Special Thanks for their Contributions and Inspiration
+
+James Silva &amp; Michelle Juett
+Greg Kasavin &amp; Supergiant Games
+Derek Yu
+Edmund McMillen &amp; Tommy Refenes
+Jonathan Blow &amp; David Hellman
+Phil Fish &amp; Renaud Bédard
+Twisted Pixel
+
+
+
+Dean Dodrill would like to thank:
+
+Microsoft Studios and the XBLA Team
+The XNA Development Community
+All of my generous Playtesters
+My wife, children and family
+And to an everloving God
+
+
+
+HyperDuck SoundWorks would like to thank:
+
+Their friends and family for all their support and understanding, Kevin Carville for his advice and feedback over the last year, Michael Carville for an amazing logo, and Dean, for being such an inspiration throughout this project, and a good friend.
+
+
+
+Alex Kain would like to thank:
+
+Mom, Dad, Jen, Care, Rachel, Sean, David, the Venan Crew, and all family and friends near and far.
+
+
+
+Alex Brandon would like to give thanks:
+
+For the love and patience of my family:  Jeanette, Nicholas, Conner and Sean.
+
+
+
+Toon Platoon Casting would like to extend a special thanks to:
+
+Jessie Thomson, Sunday Muse, Eric Schuran, Ryan "Frogs" McCormack
+Jeremy Harrington, Phillip Sacramento, Voice Acting Club &amp; Alliance
+Tom Fulp and Newgrounds.com, The Samurai Pizza Cats</value>
+  </data>
+  <data name="credits005" xml:space="preserve">
+    <value>Cast
+ 
+Dust/Jin/Cassius - Lucien Dodge
+Fidget - Kimlinh Tran
+Ahrah - Edward Bosco
+ 
+Ginger - Amber Lee Connors
+Elder Gray Eyes - Mick Lauer
+General Gaius - River Kanoff
+ 
+Fuse - Edwyn Tiong
+Lady Tethys - Eileen Montgomery
+Baron Kane - Josh Tomar
+ 
+Haley - Anna Kingsley
+Mayor Bram - Steven Kelly
+Avgustin - Mike Varker
+Reed - Michael Johnston
+Shopkeeper Mordecai - Nathaniel Arnold
+Bean - Ty Konzak
+Calum - John Mondelli
+Oneida - Karen Kahler
+Geehan - Kamran Nikhad
+Cora - Francine L. Farley
+Fale - Stephen Lynch
+Gianni - Andrew Dennis
+Colleen - Amanda Gonzalez
+Corbin - Erica Mendez
+Moska - Justin Briner
+Sarahi - Miranda Gauvin
+Matti - John Aponte 
+ 
+Bopo - Elizabeth Freeman
+MaMop - Kira Buckland
+Blop - David Dixon
+FloHop - Karen Kahler
+Old Gappy - Matthew Gafford
+SmoBop - Teresa Decher
+ 
+Commander - Chris Guerrero
+Soldier - Curtis Arnott
+
+Merchant Sereth - Xander Mobus
+Sanjin - Sean Chiplock
+Moonblood Soldier A - Chris Niosi
+Moonblood Soldier B - Cody Coleman
+Moonblood Soldier C - Zach Holzman
+Moonblood Soldier D - Blake Swift
+Moonblood Soldier E - Noah Scammon</value>
+  </data>
+  <data name="credits004" xml:space="preserve">
+    <value>Story &amp; Writing
+Dean Dodrill &amp; Alex Kain</value>
+  </data>
+</root>
