@@ -117,4 +117,228 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="SaveSlotAuto" xml:space="preserve">
+		<value>自動存檔</value>
+	</data>
+	<data name="SaveRecent" xml:space="preserve">
+		<value>最新</value>
+	</data>
+	<data name="SaveHP" xml:space="preserve">
+		<value>生命：</value>
+	</data>
+	<data name="SaveTime" xml:space="preserve">
+		<value>遊戲時間：</value>
+	</data>
+	<data name="SaveLevel" xml:space="preserve">
+		<value>等級：</value>
+	</data>
+	<data name="SaveSlot" xml:space="preserve">
+		<value>存檔</value>
+	</data>
+	<data name="SaveDifficulty" xml:space="preserve">
+		<value>難度：</value>
+	</data>
+	<data name="SaveCompletion" xml:space="preserve">
+		<value>完成</value>
+	</data>
+	<data name="ResumeConfirm" xml:space="preserve">
+		<value>[A] 繼續遊戲？</value>
+	</data>
+	<data name="SaveSlotEmpty" xml:space="preserve">
+		<value>空白存檔</value>
+	</data>
+	<data name="UpsellControlsExit" xml:space="preserve">
+		<value>[X] 離開遊戲</value>
+	</data>
+	<data name="UpsellControls" xml:space="preserve">
+		<value>[A] 解鎖《塵埃：幸福的軌跡》！
+[B] 返回主選單     [Y] 觀看預告片</value>
+	</data>
+	<data name="QuitNo" xml:space="preserve">
+		<value>否</value>
+	</data>
+	<data name="QuitYes" xml:space="preserve">
+		<value>是</value>
+	</data>
+	<data name="SaveGold" xml:space="preserve">
+		<value>金幣：</value>
+	</data>
+	<data name="QuitDesc" xml:space="preserve">
+		<value>你確定要離開嗎？</value>
+	</data>
+	<data name="Options4" xml:space="preserve">
+		<value>製作團隊</value>
+	</data>
+	<data name="Options3" xml:space="preserve">
+		<value>調整介面</value>
+	</data>
+	<data name="Options1Desc" xml:space="preserve">
+		<value>查看控制方法。</value>
+	</data>
+	<data name="Options0Desc" xml:space="preserve">
+		<value>閱讀遊戲手冊。</value>
+	</data>
+	<data name="Options1" xml:space="preserve">
+		<value>控制</value>
+	</data>
+	<data name="Options0" xml:space="preserve">
+		<value>遊戲指南</value>
+	</data>
+	<data name="Options2" xml:space="preserve">
+		<value>設定</value>
+	</data>
+	<data name="Options2Desc" xml:space="preserve">
+		<value>調整聲音、手把和遊戲設定。</value>
+	</data>
+	<data name="MainBack" xml:space="preserve">
+		<value>返回</value>
+	</data>
+	<data name="Main5" xml:space="preserve">
+		<value>離開遊戲</value>
+	</data>
+	<data name="Main5Desc" xml:space="preserve">
+		<value>離開並回到遊戲庫。</value>
+	</data>
+	<data name="MainBackDesc" xml:space="preserve">
+		<value>返回主選單。</value>
+	</data>
+	<data name="Main4Desc" xml:space="preserve">
+		<value>欣賞你的成就。</value>
+	</data>
+	<data name="Main4" xml:space="preserve">
+		<value>成就</value>
+	</data>
+	<data name="Main3" xml:space="preserve">
+		<value>排行榜</value>
+	</data>
+	<data name="NewGameConfirm" xml:space="preserve">
+		<value>[A] 新遊戲？</value>
+	</data>
+	<data name="Main3Desc" xml:space="preserve">
+		<value>查看你的線上排名。</value>
+	</data>
+	<data name="Main1Desc" xml:space="preserve">
+		<value>解鎖完整版遊戲。</value>
+	</data>
+	<data name="Main1Desc2" xml:space="preserve">
+		<value>你必須連線至Xbox LIVE才能使用這項功能。</value>
+	</data>
+	<data name="Main2" xml:space="preserve">
+		<value>說明與選項</value>
+	</data>
+	<data name="Main1" xml:space="preserve">
+		<value>解鎖完整遊戲</value>
+	</data>
+	<data name="Main0" xml:space="preserve">
+		<value>開始遊戲</value>
+	</data>
+	<data name="Loading" xml:space="preserve">
+		<value>載入中……</value>
+	</data>
+	<data name="LoadControls" xml:space="preserve">
+		<value>[A] 選擇    [B] 取消    [X] 複製
+[Y] 刪除    [BACK] 選擇儲存裝置</value>
+	</data>
+	<data name="Options4Desc" xml:space="preserve">
+		<value>查看製作團隊名單。</value>
+	</data>
+	<data name="LoadConfirm" xml:space="preserve">
+		<value>[A] 載入遊戲？</value>
+	</data>
+	<data name="ChooseDiff1" xml:space="preserve">
+		<value>普通</value>
+	</data>
+	<data name="Begin" xml:space="preserve">
+		<value>按 [A] 開始</value>
+	</data>
+	<data name="BeginFail" xml:space="preserve">
+		<value>未偵測到手把！</value>
+	</data>
+	<data name="LoadNoDevice" xml:space="preserve">
+		<value>未選擇儲存裝置！
+按 [BACK] 選擇儲存裝置。</value>
+	</data>
+	<data name="ChooseDiff0" xml:space="preserve">
+		<value>休閒</value>
+	</data>
+	<data name="ChooseDiff3" xml:space="preserve">
+		<value>硬派</value>
+	</data>
+	<data name="ChooseDiff2" xml:space="preserve">
+		<value>困難</value>
+	</data>
+	<data name="CopyFrom" xml:space="preserve">
+		<value>正在複製……</value>
+	</data>
+	<data name="DeleteConfirm" xml:space="preserve">
+		<value>[A] 刪除存檔？
+先前的存檔將會遺失。</value>
+	</data>
+	<data name="FindStorage0" xml:space="preserve">
+		<value>尋找儲存裝置</value>
+	</data>
+	<data name="CopyConfirm" xml:space="preserve">
+		<value>[A] 覆蓋存檔？
+先前的存檔將會遺失。</value>
+	</data>
+	<data name="FindStorage1" xml:space="preserve">
+		<value>不儲存繼續</value>
+	</data>
+	<data name="Upsell" xml:space="preserve">
+		<value>感謝您的試玩，現在就來解鎖完整版遊戲吧！</value>
+	</data>
+	<data name="Options3Desc" xml:space="preserve">
+		<value>調整介面布局設定。</value>
+	</data>
+	<data name="FindStorage1Desc" xml:space="preserve">
+		<value>在沒有儲存裝置的情況下進行遊戲。注意，你的進度將無法儲存！</value>
+	</data>
+	<data name="FindStorage0Desc" xml:space="preserve">
+		<value>儲存裝置已被移除！請重新插上儲存裝置並按 [A]。</value>
+	</data>
+	<data name="Main0Desc" xml:space="preserve">
+		<value>開始新的遊戲，繼續之前的進度，或者管理存檔。</value>
+	</data>
+	<data name="Main0Desc2" xml:space="preserve">
+		<value>開始新的試玩，《塵埃：幸福的軌跡》初體驗。</value>
+	</data>
+	<data name="Main2Desc" xml:space="preserve">
+		<value>了解如何進行遊戲，調整遊戲設定和介面設定。</value>
+	</data>
+	<data name="BeginSignedOut" xml:space="preserve">
+		<value>玩家檔案已被變更或登出。</value>
+	</data>
+	<data name="Main3Desc3" xml:space="preserve">
+		<value>你的玩家檔案沒有權限使用Xbox LIVE功能。</value>
+	</data>
+	<data name="SaveHelp" xml:space="preserve">
+		<value>《塵埃：幸福的軌跡》除了手動存檔，也支援自動存檔。
+
+請注意，開始新遊戲或載入遊戲將會覆蓋自動存檔。</value>
+	</data>
+	<data name="ChooseDiff1Desc" xml:space="preserve">
+		<value>預設難度。有一定的挑戰性！</value>
+	</data>
+	<data name="ChooseDiff2Desc" xml:space="preserve">
+		<value>難度增強。推薦給動作遊戲的老手。敵人更加聰明強大。</value>
+	</data>
+	<data name="ChooseDiff0Desc" xml:space="preserve">
+		<value>適合新手玩家，或那些只想享受劇情的玩家。難度簡單，死亡將不會受到懲罰！</value>
+	</data>
+	<data name="ChooseDiff3Desc" xml:space="preserve">
+		<value>專為挑戰不可能的精英玩家所設計的，因為每場戰鬥都會是意志的考驗。僅僅選擇此難度都值得尊敬。</value>
+	</data>
+	<data name="UpsellBullets" xml:space="preserve">
+		<value>*控制達斯特，一位探索真實自我的戰士，與神秘的阿拉之劍和其守護者，菲基特，合力保護法拉納世界免於被前所未見的軍隊破壞！
+
+*探索驚人的手繪世界！
+
+*運用智慧和武器挑戰怪物！
+
+*完成生動角色提供的豐富任務！
+
+*製作眾多物品，發掘法拉納的稀世珍寶！
+
+*與好友較量在競技場的高分排名！</value>
+	</data>
 </root>
