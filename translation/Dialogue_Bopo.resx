@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,389 +59,389 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="300_000" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="300_000" xml:space="preserve">
     <value>Hey, you know, you could use that cooler of yours to transport Bopo's snow down from the mountain!</value>
   </data>
-  <data name="300_010" xml:space="preserve">
+	<data name="300_010" xml:space="preserve">
     <value>Alright, give me a second...</value>
   </data>
-  <data name="300_020" xml:space="preserve">
+	<data name="300_020" xml:space="preserve">
     <value>Great, that should keep it cold for Bopo. I'll be sure to give it to him if we ever find ourselves back in Mudpot.</value>
   </data>
-  <data name="188_280" xml:space="preserve">
+	<data name="188_280" xml:space="preserve">
     <value>You'd do that?</value>
   </data>
-  <data name="188_290" xml:space="preserve">
+	<data name="188_290" xml:space="preserve">
     <value>This can't all just be a coincidence - the attacks on the surface, your wells drying up... I'm certain this "Lady" must know something about what's going on.</value>
   </data>
-  <data name="188_200" xml:space="preserve">
+	<data name="188_200" xml:space="preserve">
     <value>But that still doesn't excuse you from puttin' yourself in danger like that! I may not be able to help your father, but I sure as heck ain't gonna lose you, too!</value>
   </data>
-  <data name="188_210" xml:space="preserve">
+	<data name="188_210" xml:space="preserve">
     <value>Momma...</value>
   </data>
-  <data name="188_220" xml:space="preserve">
+	<data name="188_220" xml:space="preserve">
     <value>I wonder if those monster attacks on the surface could be related to your wells drying up.</value>
   </data>
-  <data name="188_230" xml:space="preserve">
+	<data name="188_230" xml:space="preserve">
     <value>I wouldn't be at all surprised. It's been a couple weeks since the water dried up, but every creature here is feelin' the effects. I'll bet those creatures broke through to the surface lookin' for more water!</value>
   </data>
-  <data name="188_240" xml:space="preserve">
+	<data name="188_240" xml:space="preserve">
     <value>Momma, maybe these two can go talk to the Lady!</value>
   </data>
-  <data name="188_250" xml:space="preserve">
+	<data name="188_250" xml:space="preserve">
     <value>The Lady?</value>
   </data>
-  <data name="188_260" xml:space="preserve">
+	<data name="188_260" xml:space="preserve">
     <value>Oh, she's a sweet old soul - lives deep in the caves, makes the waters flow. She doesn't show herself 'round here too often, and we can't actually go see her on account of all the nasties livin' between here an' there.</value>
   </data>
-  <data name="188_270" xml:space="preserve">
+	<data name="188_270" xml:space="preserve">
     <value>In that case, I'll go speak with this "Lady" and see why she's stopped the flow of water.</value>
   </data>
-  <data name="188_300" xml:space="preserve">
+	<data name="188_300" xml:space="preserve">
     <value>Well then, I had you folks pegged all wrong! If you aim to help my husband, I promise not to clock you with my wooden spoon 'a justice.</value>
   </data>
-  <data name="188_320" xml:space="preserve">
+	<data name="188_320" xml:space="preserve">
     <value>So, you're heading down to talk to the Lady now? You'll help my Pa?</value>
   </data>
-  <data name="188_310" xml:space="preserve">
+	<data name="188_310" xml:space="preserve">
     <value>Um... Thanks?</value>
   </data>
-  <data name="188_340" xml:space="preserve">
+	<data name="188_340" xml:space="preserve">
     <value>You got my word!</value>
   </data>
-  <data name="188_330" xml:space="preserve">
+	<data name="188_330" xml:space="preserve">
     <value>We'll do our best, Bopo. Just don't go running off again.</value>
   </data>
-  <data name="188_080" xml:space="preserve">
+	<data name="188_080" xml:space="preserve">
     <value>Attacked a surface village, you say? Well, if that don't beat all! We underground folk tend to keep to ourselves - got enough problems of our own already.</value>
   </data>
-  <data name="188_090" xml:space="preserve">
+	<data name="188_090" xml:space="preserve">
     <value>I'm sorry to hear that.</value>
   </data>
-  <data name="188_020" xml:space="preserve">
+	<data name="188_020" xml:space="preserve">
     <value>Huh? What're they talking 'bout, Bopo?</value>
   </data>
-  <data name="188_030" xml:space="preserve">
+	<data name="188_030" xml:space="preserve">
     <value>Um, well... they have been following me for a while.</value>
   </data>
-  <data name="188_000" xml:space="preserve">
+	<data name="188_000" xml:space="preserve">
     <value>Back! Back you beasts! I got this 'ere spoon and I ain't afraid to use it!</value>
   </data>
-  <data name="188_010" xml:space="preserve">
+	<data name="188_010" xml:space="preserve">
     <value>We aren't here for trouble, ma'am. In fact, we just saved your son.</value>
   </data>
-  <data name="188_060" xml:space="preserve">
+	<data name="188_060" xml:space="preserve">
     <value>Do I look like some country bumpkin to you? A'course you're from the surface! I think I'd remember seein' a talkin', flyin' weasel-cat thing down 'ere!</value>
   </data>
-  <data name="188_070" xml:space="preserve">
+	<data name="188_070" xml:space="preserve">
     <value>I think we got off on the wrong foot here. My name is Dust, and this is Fidget. Some creatures attacked a village above these caves, and we're trying to figure out why.</value>
   </data>
-  <data name="188_040" xml:space="preserve">
+	<data name="188_040" xml:space="preserve">
     <value>What!? How far out did you go!? I may just save the spoon for you!</value>
   </data>
-  <data name="188_050" xml:space="preserve">
+	<data name="188_050" xml:space="preserve">
     <value>I'm sorry, we just came down from the surface to-</value>
   </data>
-  <data name="188_180" xml:space="preserve">
+	<data name="188_180" xml:space="preserve">
     <value>Well, our healing wells have gone and run dry, and my Pa's done gotten real sick. That's why I went out, to find some more of that water.</value>
   </data>
-  <data name="188_190" xml:space="preserve">
+	<data name="188_190" xml:space="preserve">
     <value>I hate sayin' it, but it's true. See these mud pots lyin' 'round? Normally they're bubblin' to the brim with mineral water, but just a few weeks ago, they dried up to nothin'.</value>
   </data>
-  <data name="188_120" xml:space="preserve">
+	<data name="188_120" xml:space="preserve">
     <value>Wait!</value>
   </data>
-  <data name="188_100" xml:space="preserve">
+	<data name="188_100" xml:space="preserve">
     <value>Actually what I'm sayin' is, we got enough problems of our own without you surface-folk bringin' all that nonsense down here. So, if you don't mind...</value>
   </data>
-  <data name="188_130" xml:space="preserve">
+	<data name="188_130" xml:space="preserve">
     <value>That's enough, Bopo! You ought get back to your chores before I take out the spoon again!</value>
   </data>
-  <data name="188_160" xml:space="preserve">
+	<data name="188_160" xml:space="preserve">
     <value>Stop saying that! Pa's gonna die if we don't do something!</value>
   </data>
-  <data name="188_110" xml:space="preserve">
+	<data name="188_110" xml:space="preserve">
     <value>C'mon Dust, we're obviously not wanted here.</value>
   </data>
-  <data name="188_140" xml:space="preserve">
+	<data name="188_140" xml:space="preserve">
     <value>Momma, I seen 'em fight. They even got themselves a talking sword! I bet they could help!</value>
   </data>
-  <data name="188_170" xml:space="preserve">
+	<data name="188_170" xml:space="preserve">
     <value>Die? What's going on?</value>
   </data>
-  <data name="188_150" xml:space="preserve">
+	<data name="188_150" xml:space="preserve">
     <value>Young man, I don't care if their sword spouts rainbows and bowls 'a delicious baked beans, I don't want their help!</value>
   </data>
-  <data name="186_040" xml:space="preserve">
+	<data name="186_040" xml:space="preserve">
     <value>How'd they jump my fence!? Crafty vermin, those surface-dwellers!</value>
   </data>
-  <data name="186_000" xml:space="preserve">
+	<data name="186_000" xml:space="preserve">
     <value>Your father's done gonna have himself a heart-attack after he hears about this!</value>
   </data>
-  <data name="186_010" xml:space="preserve">
+	<data name="186_010" xml:space="preserve">
     <value>I'm sorry, momma.</value>
   </data>
-  <data name="186_020" xml:space="preserve">
+	<data name="186_020" xml:space="preserve">
     <value>Goodness, what would I do if you'd gotten yourself hurt!?</value>
   </data>
-  <data name="186_030" xml:space="preserve">
+	<data name="186_030" xml:space="preserve">
     <value>Ahh! Momma, look! Those things must've followed me!</value>
   </data>
-  <data name="187_000" xml:space="preserve">
+	<data name="187_000" xml:space="preserve">
     <value>She does see that I can fly, right?</value>
   </data>
-  <data name="187_010" xml:space="preserve">
+	<data name="187_010" xml:space="preserve">
     <value>I'll be sure to tell her, Fidget. I'm sure that'll clear things right up.</value>
   </data>
-  <data name="185_000" xml:space="preserve">
+	<data name="185_000" xml:space="preserve">
     <value>There he is!</value>
   </data>
-  <data name="190_000" xml:space="preserve">
+	<data name="190_000" xml:space="preserve">
     <value>You'll save my Pa, won't ya? Please, Dust! You gotta help him!</value>
   </data>
-  <data name="260_100" xml:space="preserve">
+	<data name="260_100" xml:space="preserve">
     <value>A wise choice. A night's rest will clear your head.</value>
   </data>
-  <data name="260_080" xml:space="preserve">
+	<data name="260_080" xml:space="preserve">
     <value>Wise words, Fidget. Dust, your past is fractured and your future is not yet written, but you have traveled through this world as a beacon of good, and that is all that matters.</value>
   </data>
-  <data name="260_060" xml:space="preserve">
+	<data name="260_060" xml:space="preserve">
     <value>I'm sorry, Fidget. I didn't mean to-</value>
   </data>
-  <data name="260_090" xml:space="preserve">
+	<data name="260_090" xml:space="preserve">
     <value>You're both right. I'm worrying so much about who I was that I've been blind to the good I've done as Dust. Anyway, it's late. We should find a place to sleep.</value>
   </data>
-  <data name="260_048" xml:space="preserve">
+	<data name="260_048" xml:space="preserve">
     <value>And just what IS the perfect time and place? How many more have to die before you tell me who I am!? Who am I, Ahrah? What am I even doing here!?</value>
   </data>
-  <data name="260_040" xml:space="preserve">
+	<data name="260_040" xml:space="preserve">
     <value>The village needed its water supply. I would have gone to the Lady either way.</value>
   </data>
-  <data name="260_046" xml:space="preserve">
+	<data name="260_046" xml:space="preserve">
     <value>What does that mean? Why is it that every time I make a decision you treat it like some kind of test? What haven't you told me, Ahrah?</value>
   </data>
-  <data name="260_047" xml:space="preserve">
+	<data name="260_047" xml:space="preserve">
     <value>This is not the time, nor the place.</value>
   </data>
-  <data name="260_045" xml:space="preserve">
+	<data name="260_045" xml:space="preserve">
     <value>Then it doesn't matter what I knew. And it is why there is hope for you, yet, Dust.</value>
   </data>
-  <data name="260_070" xml:space="preserve">
+	<data name="260_070" xml:space="preserve">
     <value>And stop worrying about who you are! You're Dust! You hear me? I don't care who you were, I don't even care if you used to work with that General guy, because you're DUST now!</value>
   </data>
-  <data name="260_020" xml:space="preserve">
+	<data name="260_020" xml:space="preserve">
     <value>That doesn't excuse this, Ahrah. Did you know? Did you know we'd be too late?</value>
   </data>
-  <data name="260_050" xml:space="preserve">
+	<data name="260_050" xml:space="preserve">
     <value>Stop yelling! Just... please, please stop. I can't take this right now. We did the best we could, Dust. We did the best we could.</value>
   </data>
-  <data name="260_000" xml:space="preserve">
+	<data name="260_000" xml:space="preserve">
     <value>I don't understand... we got the water running. We did everything we were supposed to.</value>
   </data>
-  <data name="260_030" xml:space="preserve">
+	<data name="260_030" xml:space="preserve">
     <value>If I'd told you before, would you still have tried to save him?</value>
   </data>
-  <data name="260_010" xml:space="preserve">
+	<data name="260_010" xml:space="preserve">
     <value>Fidget, it's like what Bopo's mother said: when the Life Thread calls for you, you must go. He was fated to pass, and there is nothing we could have done to stop it.</value>
   </data>
-  <data name="265_080" xml:space="preserve">
+	<data name="265_080" xml:space="preserve">
     <value>You're a good kid, Bopo. I think your father would be proud.</value>
   </data>
-  <data name="265_090" xml:space="preserve">
+	<data name="265_090" xml:space="preserve">
     <value>I think so, too. I also think he's happy I found a friend like you. Thank you, Dust!</value>
   </data>
-  <data name="265_020" xml:space="preserve">
+	<data name="265_020" xml:space="preserve">
     <value>Goodbye, Pa. I'll miss ya.</value>
   </data>
-  <data name="265_030" xml:space="preserve">
+	<data name="265_030" xml:space="preserve">
     <value>Bopo...</value>
   </data>
-  <data name="265_000" xml:space="preserve">
+	<data name="265_000" xml:space="preserve">
     <value>And with these final words, we commit PoPop's essence to the Life Thread, where he joins all who have come and gone, who were, and who have been. We'll be seein' ya, old friend.</value>
   </data>
-  <data name="265_010" xml:space="preserve">
+	<data name="265_010" xml:space="preserve">
     <value>Goodbye, my love.</value>
   </data>
-  <data name="265_060" xml:space="preserve">
+	<data name="265_060" xml:space="preserve">
     <value>Naw, you did plenty. You showed me what it means to be strong, even when the world's against ya.</value>
   </data>
-  <data name="265_070" xml:space="preserve">
+	<data name="265_070" xml:space="preserve">
     <value>Pa's gone now, so I gotta be strong for Momma. Strong like you!</value>
   </data>
-  <data name="265_040" xml:space="preserve">
+	<data name="265_040" xml:space="preserve">
     <value>Thank you Dust. Without you, we wouldn't have any water. You saved Mudpot!</value>
   </data>
-  <data name="265_050" xml:space="preserve">
+	<data name="265_050" xml:space="preserve">
     <value>I only wish I could've done more.</value>
   </data>
-  <data name="265_100" xml:space="preserve">
+	<data name="265_100" xml:space="preserve">
     <value>I'm sorry, Bopo, but I have to go now. I have to get back to the surface, to make sure this doesn't happen ever again.</value>
   </data>
-  <data name="265_113" xml:space="preserve">
+	<data name="265_113" xml:space="preserve">
     <value>... I promise.</value>
   </data>
-  <data name="265_112" xml:space="preserve">
+	<data name="265_112" xml:space="preserve">
     <value>...</value>
   </data>
-  <data name="265_111" xml:space="preserve">
+	<data name="265_111" xml:space="preserve">
     <value>I can't...</value>
   </data>
-  <data name="265_110" xml:space="preserve">
+	<data name="265_110" xml:space="preserve">
     <value>You'll come back, though, right? You gotta make sure you come back!</value>
   </data>
-  <data name="250_040" xml:space="preserve">
+	<data name="250_040" xml:space="preserve">
     <value>Momma? What is it, Momma?</value>
   </data>
-  <data name="250_010" xml:space="preserve">
+	<data name="250_010" xml:space="preserve">
     <value>We came back as soon as we could. Where is your mother?</value>
   </data>
-  <data name="250_030" xml:space="preserve">
+	<data name="250_030" xml:space="preserve">
     <value>Bopo, darlin'... please come inside.</value>
   </data>
-  <data name="250_000" xml:space="preserve">
+	<data name="250_000" xml:space="preserve">
     <value>Dust! Look! The water's runnin'! Ya did it!</value>
   </data>
-  <data name="250_020" xml:space="preserve">
+	<data name="250_020" xml:space="preserve">
     <value>She's inside with Pa! Once the water started flowin' again, she brought it right in for 'im! Oh, look, here she comes now! Momma, look they're here! I told ya they'd get the water runnin' again!</value>
   </data>
-  <data name="255_010" xml:space="preserve">
+	<data name="255_010" xml:space="preserve">
     <value>Pa!? Pa, no! You can't go! Dust got the water runnin'! He did!</value>
   </data>
-  <data name="255_000" xml:space="preserve">
+	<data name="255_000" xml:space="preserve">
     <value>He held on long as he could... but it just weren't enough.</value>
   </data>
-  <data name="255_030" xml:space="preserve">
+	<data name="255_030" xml:space="preserve">
     <value>But... we got the water running...</value>
   </data>
-  <data name="255_020" xml:space="preserve">
+	<data name="255_020" xml:space="preserve">
     <value>I'm sorry, sweetheart, I truly am. He was such a fighter. It was... it was just his time. An' when it comes, there ain't nothin' you can do.</value>
   </data>
-  <data name="255_050" xml:space="preserve">
+	<data name="255_050" xml:space="preserve">
     <value>Dust, you stop that moanin' right this instant! You did what you could - you did more than anyone, an' for that you deserve all our thanks. You could'a gotten the water runnin' days ago, but I think the hurt was just too hard on him.</value>
   </data>
-  <data name="255_045" xml:space="preserve">
+	<data name="255_045" xml:space="preserve">
     <value>Damn it! We weren't fast enough!</value>
   </data>
-  <data name="255_040" xml:space="preserve">
+	<data name="255_040" xml:space="preserve">
     <value>We... we failed, Fidget. We weren't fast enough.</value>
   </data>
-  <data name="255_070" xml:space="preserve">
+	<data name="255_070" xml:space="preserve">
     <value>Master, let's give them a moment alone.</value>
   </data>
-  <data name="255_060" xml:space="preserve">
+	<data name="255_060" xml:space="preserve">
     <value>Pa? Didn't you hear? They got the water runnin'! Pa!? PA!?</value>
   </data>
-  <data name="284_000" xml:space="preserve">
+	<data name="284_000" xml:space="preserve">
     <value>I've just gotta be strong now, for Momma. Thanks so much, Dust. For everythin'.</value>
   </data>
-  <data name="281_000" xml:space="preserve">
+	<data name="281_000" xml:space="preserve">
     <value>We'll bring you your snow, Bopo.</value>
   </data>
-  <data name="281_010" xml:space="preserve">
+	<data name="281_010" xml:space="preserve">
     <value>Thank you, Dust. It'd mean so much to Pa.</value>
   </data>
-  <data name="280_000" xml:space="preserve">
+	<data name="280_000" xml:space="preserve">
     <value>Are you okay, Bopo? Is there anything I can do?</value>
   </data>
-  <data name="280_020" xml:space="preserve">
+	<data name="280_020" xml:space="preserve">
     <value>What is it?</value>
   </data>
-  <data name="280_010" xml:space="preserve">
+	<data name="280_010" xml:space="preserve">
     <value>It just doesn't seem real. Pa's gone, and I wish...</value>
   </data>
-  <data name="280_040" xml:space="preserve">
+	<data name="280_040" xml:space="preserve">
     <value>Not unless I help him! Dust, do you think... somehow... you could try an' get me some snow? I think Pa would really appreciate it...</value>
   </data>
-  <data name="280_030" xml:space="preserve">
+	<data name="280_030" xml:space="preserve">
     <value>Well, I wish I could give him a proper send-off, you know? My whole life he'd been tellin' me about visitin' those snowy mountains on the surface... and now he'll never get to see it.</value>
   </data>
-  <data name="280_060" xml:space="preserve">
+	<data name="280_060" xml:space="preserve">
     <value>Thank you, Dust! Oh, thanks so much!</value>
   </data>
-  <data name="280_050" xml:space="preserve">
+	<data name="280_050" xml:space="preserve">
     <value>Of course, Bopo. I understand. When I'm in the mountains, I'll remember to bring you back some snow. Promise.</value>
   </data>
-  <data name="280_080" xml:space="preserve">
+	<data name="280_080" xml:space="preserve">
     <value>This is important to him, Fidget. We'll find a way.</value>
   </data>
-  <data name="280_070" xml:space="preserve">
+	<data name="280_070" xml:space="preserve">
     <value>Honestly Dust? Snow? How do you intend on keeping it cold?</value>
   </data>
-  <data name="283_000" xml:space="preserve">
+	<data name="283_000" xml:space="preserve">
     <value>We had our moment together, me an' Pa. Takin' a walk through the snow, buildin' a fort, watchin' all those flakes fall from the sky...</value>
   </data>
-  <data name="283_010" xml:space="preserve">
+	<data name="283_010" xml:space="preserve">
     <value>I know none of it were real, but I'll always have this memory now, thanks to you.</value>
   </data>
-  <data name="282_020" xml:space="preserve">
+	<data name="282_020" xml:space="preserve">
     <value>Well, I don't have much to offer, 'sides from this funny rock. It don't seem to do anythin' down here in Mudpot, but it looks pretty neat! Here, it's all yours!</value>
   </data>
-  <data name="282_000" xml:space="preserve">
+	<data name="282_000" xml:space="preserve">
     <value>Dust, you did it! You brought snow!</value>
   </data>
-  <data name="282_030" xml:space="preserve">
+	<data name="282_030" xml:space="preserve">
     <value>Thanks Bopo.</value>
   </data>
-  <data name="282_010" xml:space="preserve">
+	<data name="282_010" xml:space="preserve">
     <value>I know how much it means to you, Bopo.</value>
   </data>
 </root>

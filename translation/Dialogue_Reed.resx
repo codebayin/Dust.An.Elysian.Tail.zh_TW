@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,206 +59,206 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="003_000" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="003_000" xml:space="preserve">
     <value>We've been attacked! Has the box been opened!?</value>
   </data>
-  <data name="003_010" xml:space="preserve">
+	<data name="003_010" xml:space="preserve">
     <value>That depends. Did your box have a lot of flying monsters inside it?</value>
   </data>
-  <data name="003_020" xml:space="preserve">
+	<data name="003_020" xml:space="preserve">
     <value>How would I know? I've never opened the box. Never ever. Except... except once... I think it's what made me this way, maybe...</value>
   </data>
-  <data name="003_030" xml:space="preserve">
+	<data name="003_030" xml:space="preserve">
     <value>Okay... well, I doubt your box had anything to do with this, Reed. Still, I'll keep my eyes open.</value>
   </data>
-  <data name="001_000" xml:space="preserve">
+	<data name="001_000" xml:space="preserve">
     <value>Oh, my box... where is my box? Do you have my box? I must have it back! Find it! Please!</value>
   </data>
-  <data name="000_020" xml:space="preserve">
+	<data name="000_020" xml:space="preserve">
     <value>Not you! Listen, do you hear it? Can you hear its whispers locked within? Within the box... My box...</value>
   </data>
-  <data name="000_000" xml:space="preserve">
+	<data name="000_000" xml:space="preserve">
     <value>You! You're perfect!</value>
   </data>
-  <data name="000_030" xml:space="preserve">
+	<data name="000_030" xml:space="preserve">
     <value>I... don't hear anything.</value>
   </data>
-  <data name="000_060" xml:space="preserve">
+	<data name="000_060" xml:space="preserve">
     <value>I can hear its whispers coming from below! Down, deep down in the earth. If you're ever down there, please! You must find my box and return it at once! And whatever you do - do NOT open the box!</value>
   </data>
-  <data name="000_010" xml:space="preserve">
+	<data name="000_010" xml:space="preserve">
     <value>Um... thanks?</value>
   </data>
-  <data name="000_040" xml:space="preserve">
+	<data name="000_040" xml:space="preserve">
     <value>Well of course you don't! My box has been lost! Somebody must have stolen it! Perhaps it was that Moska fellow, he's always averting his gaze from me, like he's hiding something.</value>
   </data>
-  <data name="000_070" xml:space="preserve">
+	<data name="000_070" xml:space="preserve">
     <value>Okay, Reed. If I find your box underground, I'll be sure to bring it back.</value>
   </data>
-  <data name="000_050" xml:space="preserve">
+	<data name="000_050" xml:space="preserve">
     <value>Probably his distaste for your nuttiness.</value>
   </data>
-  <data name="015_050" xml:space="preserve">
+	<data name="015_050" xml:space="preserve">
     <value>I will never let it out of my sight again. It is my burden to bear, after all. Good luck, Dust.</value>
   </data>
-  <data name="015_040" xml:space="preserve">
+	<data name="015_040" xml:space="preserve">
     <value>Yes, well... you keep that box under lock and key. We're just lucky that kid down in Mudpot had the common sense not to open it.</value>
   </data>
-  <data name="015_030" xml:space="preserve">
+	<data name="015_030" xml:space="preserve">
     <value>Well, it did, didn't it? So now I have no use for this Revival Stone and you can take it. Hopefully you never have to use it.</value>
   </data>
-  <data name="015_020" xml:space="preserve">
+	<data name="015_020" xml:space="preserve">
     <value>Wait, what do you mean 'If your plan didn't work'?</value>
   </data>
-  <data name="015_010" xml:space="preserve">
+	<data name="015_010" xml:space="preserve">
     <value>I am glad that's the case. Anyway, I was planning on using this Revival Stone on you if my plan didn't work, but it should still serve as an adequate reward.</value>
   </data>
-  <data name="015_000" xml:space="preserve">
+	<data name="015_000" xml:space="preserve">
     <value>You were right, Reed - somehow that killing blow managed to shake the presence free. I'm back to my normal self again.</value>
   </data>
-  <data name="012_010" xml:space="preserve">
+	<data name="012_010" xml:space="preserve">
     <value>I... think so, yeah. As soon as I took that killing blow I felt something, like a weight lifted. We should check in with Reed.</value>
   </data>
-  <data name="012_000" xml:space="preserve">
+	<data name="012_000" xml:space="preserve">
     <value>Did that do it? Are you okay, now?</value>
   </data>
-  <data name="012_020" xml:space="preserve">
+	<data name="012_020" xml:space="preserve">
     <value>Yeah, the sooner you get rid of that box, the better!</value>
   </data>
-  <data name="010_190" xml:space="preserve">
+	<data name="010_190" xml:space="preserve">
     <value>Dust, you can't seriously be considering-!</value>
   </data>
-  <data name="010_180" xml:space="preserve">
+	<data name="010_180" xml:space="preserve">
     <value>If you do it in time, the presence latched to your soul will be shaken loose and return to the box, and you will return back to your normal self. That is, assuming you do it in time.</value>
   </data>
-  <data name="010_130" xml:space="preserve">
+	<data name="010_130" xml:space="preserve">
     <value>Reed!</value>
   </data>
-  <data name="010_120" xml:space="preserve">
+	<data name="010_120" xml:space="preserve">
     <value>In other words, Dust, you will need to kill yourself.</value>
   </data>
-  <data name="010_110" xml:space="preserve">
+	<data name="010_110" xml:space="preserve">
     <value>The presence inside the box... it latches onto your soul, tries to take over your mind. The only way to stop it is to break the barrier between body and soul.</value>
   </data>
-  <data name="010_100" xml:space="preserve">
+	<data name="010_100" xml:space="preserve">
     <value>Look, let's not dwell on the whole 'Who opened the box' thing. The box was opened. That's in the past. We can't change that. We should be focusing on the future and, you know, less about me.</value>
   </data>
-  <data name="010_170" xml:space="preserve">
+	<data name="010_170" xml:space="preserve">
     <value>Travel outside the village, pick a fight with some monsters... and lose.</value>
   </data>
-  <data name="010_160" xml:space="preserve">
+	<data name="010_160" xml:space="preserve">
     <value>Shut up, Fidget. I can feel my life draining away every moment... Reed, what do I have to do?</value>
   </data>
-  <data name="010_150" xml:space="preserve">
+	<data name="010_150" xml:space="preserve">
     <value>You know what? I love this plan. I'm happy to be a part of it.</value>
   </data>
-  <data name="010_140" xml:space="preserve">
+	<data name="010_140" xml:space="preserve">
     <value>It really is the only way, Dust. You mustn't take too long or... or you could end up like me.</value>
   </data>
-  <data name="010_200" xml:space="preserve">
+	<data name="010_200" xml:space="preserve">
     <value>Fidget, I don't have time to argue! I can feel it draining my life away. We need to get out of the village, and fast!</value>
   </data>
-  <data name="010_090" xml:space="preserve">
+	<data name="010_090" xml:space="preserve">
     <value>Then it's already started! Oh, why did you have to open the box? I said not to open the box!</value>
   </data>
-  <data name="010_081" xml:space="preserve">
+	<data name="010_081" xml:space="preserve">
     <value>Reed! What was that? What's going on? I feel... I feel weak! Like something's sucking the life right out of my body!</value>
   </data>
-  <data name="010_080" xml:space="preserve">
+	<data name="010_080" xml:space="preserve">
     <value>Okay, Reed, I really think it's time you went inside and got some sleep. I think... wait... what's happening to me? There's something... something wrong with me!</value>
   </data>
-  <data name="010_030" xml:space="preserve">
+	<data name="010_030" xml:space="preserve">
     <value>I'll say! They told me the box was filled with cupcakes. I opened it up, and nothing was inside!</value>
   </data>
-  <data name="010_010" xml:space="preserve">
+	<data name="010_010" xml:space="preserve">
     <value>Relax, Reed. It's just a box.</value>
   </data>
-  <data name="010_020" xml:space="preserve">
+	<data name="010_020" xml:space="preserve">
     <value>Just a box? No... no, it's not just a box. Didn't you hear it whispering to you? The whispers... the lies...</value>
   </data>
-  <data name="010_070" xml:space="preserve">
+	<data name="010_070" xml:space="preserve">
     <value>Do you know what you've done? You've unleashed the power inside this ancient prison, and now it will consume your very soul!</value>
   </data>
-  <data name="010_000" xml:space="preserve">
+	<data name="010_000" xml:space="preserve">
     <value>You've found it! Quickly, give it to me!</value>
   </data>
-  <data name="010_050" xml:space="preserve">
+	<data name="010_050" xml:space="preserve">
     <value>Hey, what are you doing? I thought you wanted your box back? I went through a lot of trouble getting that!</value>
   </data>
-  <data name="010_060" xml:space="preserve">
+	<data name="010_060" xml:space="preserve">
     <value>Yeah! We had to find this girl in Mudpot, and then make her a doll that looked like me, then trade the doll for the box! Honestly, it was a bit roundabout.</value>
   </data>
-  <data name="010_040" xml:space="preserve">
+	<data name="010_040" xml:space="preserve">
     <value>Oh! Oh no. No, no... you opened the box! Why did you open the box!? I told you not to open the box! Quick! Take it back! I can't hold this!</value>
   </data>
-  <data name="020_000" xml:space="preserve">
+	<data name="020_000" xml:space="preserve">
     <value>What else whispers to me? No... no it can't be. The trees? The trees themselves whisper in ancient song! Somebody must chop them all down to silence their lies!</value>
   </data>
-  <data name="020_010" xml:space="preserve">
+	<data name="020_010" xml:space="preserve">
     <value>Goodbye, Reed.</value>
   </data>
-  <data name="030_010" xml:space="preserve">
+	<data name="030_010" xml:space="preserve">
     <value>No, Reed.</value>
   </data>
-  <data name="030_000" xml:space="preserve">
+	<data name="030_000" xml:space="preserve">
     <value>I looked up into the sun today. It told me to destroy all the toothbrushes. It's just not natural! Dust, you can help me! We must stop the toothbrushes before they stop US!</value>
   </data>
 </root>

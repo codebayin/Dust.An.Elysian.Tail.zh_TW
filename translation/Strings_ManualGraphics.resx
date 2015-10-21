@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,164 +59,164 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="ButtonY" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="ButtonY" xml:space="preserve">
     <value>Dust Storm/
 Secondary Attack</value>
   </data>
-  <data name="ButtonX" xml:space="preserve">
+	<data name="ButtonX" xml:space="preserve">
     <value>Normal Attack/
 (Hold) Parry</value>
   </data>
-  <data name="ButtonB" xml:space="preserve">
+	<data name="ButtonB" xml:space="preserve">
     <value>Throw Projectile</value>
   </data>
-  <data name="ButtonA" xml:space="preserve">
+	<data name="ButtonA" xml:space="preserve">
     <value>Jump</value>
   </data>
-  <data name="KeyboardMap" xml:space="preserve">
+	<data name="KeyboardMap" xml:space="preserve">
     <value>Open Map</value>
   </data>
-  <data name="KeyboardInvSubRight" xml:space="preserve">
+	<data name="KeyboardInvSubRight" xml:space="preserve">
     <value>Inventory
 Next Category</value>
   </data>
-  <data name="ButtonRThumb" xml:space="preserve">
+	<data name="ButtonRThumb" xml:space="preserve">
     <value>Evade Left/Right
 (Click) Mini-Map</value>
   </data>
-  <data name="KeyboardInvSubLeft" xml:space="preserve">
+	<data name="KeyboardInvSubLeft" xml:space="preserve">
     <value>Inventory
 Previous Category</value>
   </data>
-  <data name="ButtonStart" xml:space="preserve">
+	<data name="ButtonStart" xml:space="preserve">
     <value>Pause</value>
   </data>
-  <data name="KeyboardUp" xml:space="preserve">
+	<data name="KeyboardUp" xml:space="preserve">
     <value>Up</value>
   </data>
-  <data name="ButtonLThumb" xml:space="preserve">
+	<data name="ButtonLThumb" xml:space="preserve">
     <value>Run
 (Down) Crouch
 (Up) Look Up,
 Talk, Shop,
 Open, and Save</value>
   </data>
-  <data name="ButtonRB" xml:space="preserve">
+	<data name="ButtonRB" xml:space="preserve">
     <value>Switch Projectile</value>
   </data>
-  <data name="ButtonRT" xml:space="preserve">
+	<data name="ButtonRT" xml:space="preserve">
     <value>Evade Right</value>
   </data>
-  <data name="ButtonLT" xml:space="preserve">
+	<data name="ButtonLT" xml:space="preserve">
     <value>Evade Left</value>
   </data>
-  <data name="ButtonLB" xml:space="preserve">
+	<data name="ButtonLB" xml:space="preserve">
     <value>Use Item In
 QUICK ITEM SLOT</value>
   </data>
-  <data name="KeyboardRight" xml:space="preserve">
+	<data name="KeyboardRight" xml:space="preserve">
     <value>Right</value>
   </data>
-  <data name="ButtonBack" xml:space="preserve">
+	<data name="ButtonBack" xml:space="preserve">
     <value>Inventory</value>
   </data>
-  <data name="HudInfo2" xml:space="preserve">
+	<data name="HudInfo2" xml:space="preserve">
     <value>Health/
 Max Health</value>
   </data>
-  <data name="HudInfo3" xml:space="preserve">
+	<data name="HudInfo3" xml:space="preserve">
     <value>Quick Item Slot</value>
   </data>
-  <data name="HudInfo1" xml:space="preserve">
+	<data name="HudInfo1" xml:space="preserve">
     <value>Health Bar</value>
   </data>
-  <data name="HudInfo6" xml:space="preserve">
+	<data name="HudInfo6" xml:space="preserve">
     <value>Selected Projectile</value>
   </data>
-  <data name="HudInfo7" xml:space="preserve">
+	<data name="HudInfo7" xml:space="preserve">
     <value>Current Experience</value>
   </data>
-  <data name="HudInfo4" xml:space="preserve">
+	<data name="HudInfo4" xml:space="preserve">
     <value>Current Level</value>
   </data>
-  <data name="HudInfo5" xml:space="preserve">
+	<data name="HudInfo5" xml:space="preserve">
     <value>Energy Meter</value>
   </data>
-  <data name="HudInfo8" xml:space="preserve">
+	<data name="HudInfo8" xml:space="preserve">
     <value>Gold</value>
   </data>
-  <data name="KeyboardInvLeft" xml:space="preserve">
+	<data name="KeyboardInvLeft" xml:space="preserve">
     <value>Inventory/Shop
 Previous Page</value>
   </data>
-  <data name="KeyboardJumpConfirm" xml:space="preserve">
+	<data name="KeyboardJumpConfirm" xml:space="preserve">
     <value>Jump/Confirm</value>
   </data>
-  <data name="KeyboardLeft" xml:space="preserve">
+	<data name="KeyboardLeft" xml:space="preserve">
     <value>Left</value>
   </data>
-  <data name="KeyboardDown" xml:space="preserve">
+	<data name="KeyboardDown" xml:space="preserve">
     <value>Down</value>
   </data>
-  <data name="KeyboardInvRight" xml:space="preserve">
+	<data name="KeyboardInvRight" xml:space="preserve">
     <value>Inventory/Shop
 Next Page</value>
   </data>

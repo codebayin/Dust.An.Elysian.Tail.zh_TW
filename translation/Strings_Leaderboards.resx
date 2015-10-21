@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,117 +59,117 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="controls" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="controls" xml:space="preserve">
     <value>[A] View Gamer Card     [B] Exit     [LT][RT] Page Up/Down
 [LB][RB] Switch Leaderboard     [X] Toggle Filter</value>
   </data>
-  <data name="filter104" xml:space="preserve">
+	<data name="filter104" xml:space="preserve">
     <value>Enemies Defeated</value>
   </data>
-  <data name="filter100" xml:space="preserve">
+	<data name="filter100" xml:space="preserve">
     <value>Completion</value>
   </data>
-  <data name="filter101" xml:space="preserve">
+	<data name="filter101" xml:space="preserve">
     <value>Wealth</value>
   </data>
-  <data name="filter102" xml:space="preserve">
+	<data name="filter102" xml:space="preserve">
     <value>Longest Chain</value>
   </data>
-  <data name="filter103" xml:space="preserve">
+	<data name="filter103" xml:space="preserve">
     <value>Play Time</value>
   </data>
-  <data name="connectionlost" xml:space="preserve">
+	<data name="connectionlost" xml:space="preserve">
     <value>Connection to Xbox LIVE has been lost. Please reconnect to Xbox LIVE to view the Leaderboards.</value>
   </data>
-  <data name="friendsnotranked" xml:space="preserve">
+	<data name="friendsnotranked" xml:space="preserve">
     <value>Your friends are not yet ranked on this Leaderboard.</value>
   </data>
-  <data name="playernotranked" xml:space="preserve">
+	<data name="playernotranked" xml:space="preserve">
     <value>You are not yet ranked on this Leaderboard.</value>
   </data>
-  <data name="gamertag" xml:space="preserve">
+	<data name="gamertag" xml:space="preserve">
     <value>Gamertag</value>
   </data>
-  <data name="totalplayers" xml:space="preserve">
+	<data name="totalplayers" xml:space="preserve">
     <value>Total Players: </value>
   </data>
-  <data name="filter" xml:space="preserve">
+	<data name="filter" xml:space="preserve">
     <value>Filter: </value>
   </data>
-  <data name="category1" xml:space="preserve">
+	<data name="category1" xml:space="preserve">
     <value>My Score</value>
   </data>
-  <data name="category0" xml:space="preserve">
+	<data name="category0" xml:space="preserve">
     <value>Friends</value>
   </data>
-  <data name="category2" xml:space="preserve">
+	<data name="category2" xml:space="preserve">
     <value>Overall</value>
   </data>
-  <data name="challengecontrols" xml:space="preserve">
+	<data name="challengecontrols" xml:space="preserve">
     <value>[A] Leaderboard     [B] Exit</value>
   </data>
-  <data name="live" xml:space="preserve">
+	<data name="live" xml:space="preserve">
     <value>You must be signed into Xbox LIVE to see this Leaderboard.</value>
   </data>
-  <data name="rank" xml:space="preserve">
+	<data name="rank" xml:space="preserve">
     <value>Rank</value>
   </data>
 </root>

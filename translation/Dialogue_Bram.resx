@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,236 +59,236 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="004_140" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="004_140" xml:space="preserve">
     <value>If you want to ask Ginger about Fuse, I'd suggest you hurry. It looked like she was preparing to leave town for a while. Good luck!</value>
   </data>
-  <data name="004_120" xml:space="preserve">
+	<data name="004_120" xml:space="preserve">
     <value>They were helping the Moonbloods, of course. Helping the enemy is a treasonous offense. Ginger escaped, but her parents and her brother did not.</value>
   </data>
-  <data name="004_130" xml:space="preserve">
+	<data name="004_130" xml:space="preserve">
     <value>Regardless, I can't thank you enough for putting a stop to that mad beast before he came any closer to Aurora.</value>
   </data>
-  <data name="004_100" xml:space="preserve">
+	<data name="004_100" xml:space="preserve">
     <value>Not... personally. His is not a name we utter here without proper cause. I've never seen him or his soldiers personally, but tragedy tends to follow in their wake.</value>
   </data>
-  <data name="004_110" xml:space="preserve">
+	<data name="004_110" xml:space="preserve">
     <value>So why did they kill Ginger's family?</value>
   </data>
-  <data name="004_080" xml:space="preserve">
+	<data name="004_080" xml:space="preserve">
     <value>Her family was killed almost a year ago in Zeplich Village, a few days' journey to the north. General Gaius and his soldiers were looking for Moonblood sympathizers.</value>
   </data>
-  <data name="004_060" xml:space="preserve">
+	<data name="004_060" xml:space="preserve">
     <value>A lizard, you say? A Moonblood, perhaps. I wonder if Ginger would know anything about that.</value>
   </data>
-  <data name="004_090" xml:space="preserve">
+	<data name="004_090" xml:space="preserve">
     <value>General Gaius? Do you know who he is?</value>
   </data>
-  <data name="004_040" xml:space="preserve">
+	<data name="004_040" xml:space="preserve">
     <value>Oh no... That could only be Denham Village. Did you find any survivors?</value>
   </data>
-  <data name="004_070" xml:space="preserve">
+	<data name="004_070" xml:space="preserve">
     <value>Ginger? That girl up on the hill?</value>
   </data>
-  <data name="004_020" xml:space="preserve">
+	<data name="004_020" xml:space="preserve">
     <value>Waiting?</value>
   </data>
-  <data name="004_050" xml:space="preserve">
+	<data name="004_050" xml:space="preserve">
     <value>I'm sorry, Mayor Bram, but there were none. This creature that attacked the village, he was some kind of lizard. Wore strange armor. Called himself Fuse.</value>
   </data>
-  <data name="004_000" xml:space="preserve">
+	<data name="004_000" xml:space="preserve">
     <value>Aha! It's great to see you back, son! I knew you could do it! The monsters have already calmed their advance. Tell me, what happened? Did you confront their leader?</value>
   </data>
-  <data name="004_030" xml:space="preserve">
+	<data name="004_030" xml:space="preserve">
     <value>In the middle of a small village, surrounded by the innocents he killed.</value>
   </data>
-  <data name="004_010" xml:space="preserve">
+	<data name="004_010" xml:space="preserve">
     <value>He was right where you said he'd be. In fact, he seemed to be waiting for us.</value>
   </data>
-  <data name="003_000" xml:space="preserve">
+	<data name="003_000" xml:space="preserve">
     <value>If he gives you trouble with fire, you know what they say!</value>
   </data>
-  <data name="003_010" xml:space="preserve">
+	<data name="003_010" xml:space="preserve">
     <value>Fight fire with fire?</value>
   </data>
-  <data name="003_020" xml:space="preserve">
+	<data name="003_020" xml:space="preserve">
     <value>You know, I tried that once. Nearly burned down my house. Come to think of it, fighting fire with fire is a terrible idea. You shouldn't ever do that. Ever.</value>
   </data>
-  <data name="002_000" xml:space="preserve">
+	<data name="002_000" xml:space="preserve">
     <value>Please, come back in one piece, Dust. You seem capable enough, but I could never live with myself if this somehow got you killed.</value>
   </data>
-  <data name="002_010" xml:space="preserve">
+	<data name="002_010" xml:space="preserve">
     <value>I wouldn't be able to live with that, either, Mayor Bram. I'll do my best.</value>
   </data>
-  <data name="001_020" xml:space="preserve">
+	<data name="001_020" xml:space="preserve">
     <value>This one does. There are stories that the creature is actually MADE of fire, but I imagine it's just an exaggeration.</value>
   </data>
-  <data name="001_030" xml:space="preserve">
+	<data name="001_030" xml:space="preserve">
     <value>I've got a feeling there's more truth to that than either of us would like.</value>
   </data>
-  <data name="001_000" xml:space="preserve">
+	<data name="001_000" xml:space="preserve">
     <value>We don't know much about their leader, but he has a penchant for fire.</value>
   </data>
-  <data name="001_010" xml:space="preserve">
+	<data name="001_010" xml:space="preserve">
     <value>I wasn't aware these creatures even knew how to make fire.</value>
   </data>
-  <data name="001_040" xml:space="preserve">
+	<data name="001_040" xml:space="preserve">
     <value>Regardless, there must be some reason those monsters follow him. Please, be careful.</value>
   </data>
-  <data name="000_300" xml:space="preserve">
+	<data name="000_300" xml:space="preserve">
     <value>The watchmen reported increased monster activity to the east of our village, so I imagine that's where you should go. But do be careful - strong as you may be, I've seen many fine warriors lose their lives to these monstrosities.</value>
   </data>
-  <data name="000_310" xml:space="preserve">
+	<data name="000_310" xml:space="preserve">
     <value>I understand, Mayor. I'll be careful. And I'll be back.</value>
   </data>
-  <data name="000_280" xml:space="preserve">
+	<data name="000_280" xml:space="preserve">
     <value>Alright, Mayor Bram, you've convinced us. We'll do what we can to help stop these attacks.</value>
   </data>
-  <data name="000_290" xml:space="preserve">
+	<data name="000_290" xml:space="preserve">
     <value>That's my boy!</value>
   </data>
-  <data name="000_200" xml:space="preserve">
+	<data name="000_200" xml:space="preserve">
     <value>It certainly would cripple their advance. You'd be doing the entire village a great service.</value>
   </data>
-  <data name="000_220" xml:space="preserve">
+	<data name="000_220" xml:space="preserve">
     <value>Well, I...</value>
   </data>
-  <data name="000_210" xml:space="preserve">
+	<data name="000_210" xml:space="preserve">
     <value>How about it, Dust?</value>
   </data>
-  <data name="000_240" xml:space="preserve">
+	<data name="000_240" xml:space="preserve">
     <value>Helping this village is the right thing to do... but it's more than that. It's almost like... like I know these people. Like I have to help them.</value>
   </data>
-  <data name="000_230" xml:space="preserve">
+	<data name="000_230" xml:space="preserve">
     <value>You feel a conflict of emotions. This is good. I will abide by your decision, Master. I trust you to take the right path.</value>
   </data>
-  <data name="000_260" xml:space="preserve">
+	<data name="000_260" xml:space="preserve">
     <value>Charming as always, Fidget.</value>
   </data>
-  <data name="000_250" xml:space="preserve">
+	<data name="000_250" xml:space="preserve">
     <value>I think that strange feeling you've got is a little foreign concept called "compassion". I'm proud of you, Dust! Of course, if you'd said no, I'd need to bite your face off.</value>
   </data>
-  <data name="000_270" xml:space="preserve">
+	<data name="000_270" xml:space="preserve">
     <value>I think you've made a wise decision.</value>
   </data>
-  <data name="000_180" xml:space="preserve">
+	<data name="000_180" xml:space="preserve">
     <value>Well, whatever it is, it's become a serious problem. If you truly are as capable as I hear...</value>
   </data>
-  <data name="000_190" xml:space="preserve">
+	<data name="000_190" xml:space="preserve">
     <value>You want us to find their leader?</value>
   </data>
-  <data name="000_120" xml:space="preserve">
+	<data name="000_120" xml:space="preserve">
     <value>Then perhaps we can help each other. If you help our village, I promise I'll do whatever I can to help you, but I can be of no assistance while our village is constantly attacked by these creatures. We suspect their leader is close-by, and if you could-...</value>
   </data>
-  <data name="000_130" xml:space="preserve">
+	<data name="000_130" xml:space="preserve">
     <value>Whoa whoa whoa, hold on a second! You're saying those mindless thugs have a leader?</value>
   </data>
-  <data name="000_100" xml:space="preserve">
+	<data name="000_100" xml:space="preserve">
     <value>Yet again with the modesty! You're no mere travelers, that much I've gathered. Mineral merchants don't wield blades as impressive as yours, Dust. Please - we really could use the help.</value>
   </data>
-  <data name="000_110" xml:space="preserve">
+	<data name="000_110" xml:space="preserve">
     <value>I don't know. I'm searching for something myself.</value>
   </data>
-  <data name="000_160" xml:space="preserve">
+	<data name="000_160" xml:space="preserve">
     <value>Our land, I imagine.</value>
   </data>
-  <data name="000_170" xml:space="preserve">
+	<data name="000_170" xml:space="preserve">
     <value>Just a casual observation, but they don't seem the farming type.</value>
   </data>
-  <data name="000_140" xml:space="preserve">
+	<data name="000_140" xml:space="preserve">
     <value>Until recently, they would attack us in small groups - nothing we couldn't handle. Now they coordinate attacks on a much larger scale, hitting the village on both sides, driving our forces apart. I assure you, whatever leads these things is experienced in warfare.</value>
   </data>
-  <data name="000_150" xml:space="preserve">
+	<data name="000_150" xml:space="preserve">
     <value>What do they want?</value>
   </data>
-  <data name="000_080" xml:space="preserve">
+	<data name="000_080" xml:space="preserve">
     <value>Don't concern yourself. We have other matters to discuss.</value>
   </data>
-  <data name="000_090" xml:space="preserve">
+	<data name="000_090" xml:space="preserve">
     <value>What help could I possibly provide? A few giants in a field seem like the least of your problems.</value>
   </data>
-  <data name="000_020" xml:space="preserve">
+	<data name="000_020" xml:space="preserve">
     <value>No need to be modest, my friend! We can't thank you enough for your help. Things have been rough in Aurora of late, so having a true hero in our midst is really boosting morale. So, what's your name, son?</value>
   </data>
-  <data name="000_000" xml:space="preserve">
+	<data name="000_000" xml:space="preserve">
     <value>Good day! I'm Mayor Bram. So, you're the hero I've been hearing about!</value>
   </data>
-  <data name="000_030" xml:space="preserve">
+	<data name="000_030" xml:space="preserve">
     <value>Dust. My name is... Dust. And some of the villagers I've met... they don't seem quite as pleased as you.</value>
   </data>
-  <data name="000_060" xml:space="preserve">
+	<data name="000_060" xml:space="preserve">
     <value>Yes, that could only be Ginger. She can be a bit of a handful, but don't pass judgement on her like that. You have no idea what she's gone through this past year.</value>
   </data>
-  <data name="000_010" xml:space="preserve">
+	<data name="000_010" xml:space="preserve">
     <value>It's nothing, really. We're just passing through.</value>
   </data>
-  <data name="000_040" xml:space="preserve">
+	<data name="000_040" xml:space="preserve">
     <value>Ah, are you talking about the watchmen? You must understand, hardly a day goes by without some monstrosity attacking our peaceful village. They were simply being cautious. Take my word, I'm sure they meant no ill will.</value>
   </data>
-  <data name="000_070" xml:space="preserve">
+	<data name="000_070" xml:space="preserve">
     <value>She looked pretty upset about something.</value>
   </data>
-  <data name="000_050" xml:space="preserve">
+	<data name="000_050" xml:space="preserve">
     <value>There was also this girl...</value>
   </data>
-  <data name="010_000" xml:space="preserve">
+	<data name="010_000" xml:space="preserve">
     <value>Thank you Dust, we are indebted to you for your help. Best of luck on your quest.</value>
   </data>
 </root>

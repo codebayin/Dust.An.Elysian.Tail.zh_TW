@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,323 +59,323 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="machinehint" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="machinehint" xml:space="preserve">
     <value>Perhaps Fidget can help here.</value>
   </data>
-  <data name="villager" xml:space="preserve">
+	<data name="villager" xml:space="preserve">
     <value>Press [UP] to speak with a friendly character.</value>
   </data>
-  <data name="multipledest" xml:space="preserve">
+	<data name="multipledest" xml:space="preserve">
     <value>You now have multiple destinations. Consult your map by clicking [RTHUMB].</value>
   </data>
-  <data name="trialdestroywall" xml:space="preserve">
+	<data name="trialdestroywall" xml:space="preserve">
     <value>Some walls can be destroyed. Keep your eyes open for hidden treasure!</value>
   </data>
-  <data name="recharge" xml:space="preserve">
+	<data name="recharge" xml:space="preserve">
     <value>Your Energy has been depleted!
 Keep an eye on the flaming white bar in the HUD.
 Perform melee combos to regain energy.</value>
   </data>
-  <data name="carrybomb" xml:space="preserve">
+	<data name="carrybomb" xml:space="preserve">
     <value>You've discovered a Bomb Fruit!
 Use the DUST STORM ([Y]) to pluck and guide the fruit.</value>
   </data>
-  <data name="trialupgrade2" xml:space="preserve">
+	<data name="trialupgrade2" xml:space="preserve">
     <value>Press [B] to cast a Projectile, then immediately hold [Y] to perform the DUST STORM.
 You can also DUST STORM while in the air for increased maneuverability!</value>
   </data>
-  <data name="trialupgrade1" xml:space="preserve">
+	<data name="trialupgrade1" xml:space="preserve">
     <value>Well done! Collect the Upgrade Orb to increase your abilities!</value>
   </data>
-  <data name="dialogueskip" xml:space="preserve">
+	<data name="dialogueskip" xml:space="preserve">
     <value>[B] Pause/Skip</value>
   </data>
-  <data name="pcmultipledest" xml:space="preserve">
+	<data name="pcmultipledest" xml:space="preserve">
     <value>You now have multiple destinations. Consult your map by pressing [MAP].</value>
   </data>
-  <data name="blueprint" xml:space="preserve">
+	<data name="blueprint" xml:space="preserve">
     <value>You've acquired a blueprint! The blacksmith at the top of Archers' Pass can craft this item for you. Check the Inventory to see what materials are needed.</value>
   </data>
-  <data name="pcdamage" xml:space="preserve">
+	<data name="pcdamage" xml:space="preserve">
     <value>You've taken damage! Your health is indicated by the green bar in the HUD.
 Evade with [LT] and [RT].</value>
   </data>
-  <data name="combat3" xml:space="preserve">
+	<data name="combat3" xml:space="preserve">
     <value>The Fallen (Downward Strike in Air)
 [DOWN] + [Y]</value>
   </data>
-  <data name="combat2" xml:space="preserve">
+	<data name="combat2" xml:space="preserve">
     <value>Rising Phoenix (Ground to Air)
 [X],[Y]</value>
   </data>
-  <data name="combat1" xml:space="preserve">
+	<data name="combat1" xml:space="preserve">
     <value>Ash Bound (Ground Throw)
 [X],[X],[Y],[Y]</value>
   </data>
-  <data name="combat0" xml:space="preserve">
+	<data name="combat0" xml:space="preserve">
     <value>From Whence It Came
 [X],[X],[X],[X]</value>
   </data>
-  <data name="combat4" xml:space="preserve">
+	<data name="combat4" xml:space="preserve">
     <value>The Undoing (Air Throw)
 [X],[X],[X],[Y]</value>
   </data>
-  <data name="needbomb" xml:space="preserve">
+	<data name="needbomb" xml:space="preserve">
     <value>This wall is reinforced with a powerful alloy.
 Something explosive should do the trick.</value>
   </data>
-  <data name="shopstock" xml:space="preserve">
+	<data name="shopstock" xml:space="preserve">
     <value>Merchants will occasionally restock materials in their catalogue. Ensuring a healthy catalogue can work to your advantage.</value>
   </data>
-  <data name="walljump" xml:space="preserve">
+	<data name="walljump" xml:space="preserve">
     <value>While hanging, you can aim your next jump with [LTHUMB] before tapping [A].</value>
   </data>
-  <data name="pctreasure" xml:space="preserve">
+	<data name="pctreasure" xml:space="preserve">
     <value>Fidget will alert you when treasure is nearby.
 Press [MAP] to access the map.</value>
   </data>
-  <data name="blomb" xml:space="preserve">
+	<data name="blomb" xml:space="preserve">
     <value>Blombs are vulnerable while taking a deep breath.</value>
   </data>
-  <data name="parry" xml:space="preserve">
+	<data name="parry" xml:space="preserve">
     <value>Hold [X] to parry an incoming enemy attack with one of your own.
 Immediately follow-up with [X] or [Y] for a powerful counter!</value>
   </data>
-  <data name="quest" xml:space="preserve">
+	<data name="quest" xml:space="preserve">
     <value>A Quest has been updated.
 Navigate to the Quest screen in the Inventory for details.</value>
   </data>
-  <data name="exp" xml:space="preserve">
+	<data name="exp" xml:space="preserve">
     <value>Your experience is indicated by the blue bar in the HUD.
 Level-Up by killing enemies and earning HIT CHAIN bonuses.</value>
   </data>
-  <data name="slide" xml:space="preserve">
+	<data name="slide" xml:space="preserve">
     <value>You can slide through here.
 Hold [DOWN] and press [A].</value>
   </data>
-  <data name="challenge" xml:space="preserve">
+	<data name="challenge" xml:space="preserve">
     <value>Welcome to the Challenge Arena! Defeat enemies and destroy lamps for points. You will lose points by taking damage. Complete the challenge quickly for a score bonus! Good luck!</value>
   </data>
-  <data name="healthItem" xml:space="preserve">
+	<data name="healthItem" xml:space="preserve">
     <value>A Healing Item has been placed into your QUICK ITEM SLOT.
 Press [LB] to heal, or [BACK] to manage your Inventory.</value>
   </data>
-  <data name="dialogueprogress" xml:space="preserve">
+	<data name="dialogueprogress" xml:space="preserve">
     <value>[A] Continue</value>
   </data>
-  <data name="treasure" xml:space="preserve">
+	<data name="treasure" xml:space="preserve">
     <value>Fidget will alert you when treasure is nearby.
 Click [RTHUMB] to access the map.</value>
   </data>
-  <data name="dropstairs" xml:space="preserve">
+	<data name="dropstairs" xml:space="preserve">
     <value>You can drop down through descending staircases.
 Hold [DOWN] to crouch, then press [A].</value>
   </data>
-  <data name="unlocking" xml:space="preserve">
+	<data name="unlocking" xml:space="preserve">
     <value>Input the button sequence before time runs out to open this lock.</value>
   </data>
-  <data name="damage" xml:space="preserve">
+	<data name="damage" xml:space="preserve">
     <value>You've taken damage! Your health is indicated by the green bar in the HUD.
 Evade with [LT] and [RT] or [RTHUMB].</value>
   </data>
-  <data name="defend" xml:space="preserve">
+	<data name="defend" xml:space="preserve">
     <value>Press [X] to wage war.</value>
   </data>
-  <data name="pcwalljump" xml:space="preserve">
+	<data name="pcwalljump" xml:space="preserve">
     <value>While hanging, you can aim your next jump with [UP], [LEFT], [DOWN], and  [RIGHT] before tapping [A].</value>
   </data>
-  <data name="pcunlocking" xml:space="preserve">
+	<data name="pcunlocking" xml:space="preserve">
     <value>Input the direction sequence with [LTHUMB] before time runs out to open this lock.</value>
   </data>
-  <data name="attack" xml:space="preserve">
+	<data name="attack" xml:space="preserve">
     <value>Press [X] to begin a melee combo.
 Advance the combo with [X] and [Y].</value>
   </data>
-  <data name="rescued" xml:space="preserve">
+	<data name="rescued" xml:space="preserve">
     <value>You've found a friend, earning a permanent 5% health bonus! You can visit your friends in the Sanctuary, accessible via the World Map.</value>
   </data>
-  <data name="upgrade01" xml:space="preserve">
+	<data name="upgrade01" xml:space="preserve">
     <value>Fidget has acquired a new Projectile type!
 Press [RB] to cycle through Fidget's available Projectile types.</value>
   </data>
-  <data name="upgrade00" xml:space="preserve">
+	<data name="upgrade00" xml:space="preserve">
     <value>DUST STORM Acquired!
 Press [B] to throw a Projectile, then immediately hold [Y] to perform the DUST STORM.</value>
   </data>
-  <data name="upgrade14" xml:space="preserve">
+	<data name="upgrade14" xml:space="preserve">
     <value>Crouch Slide Acquired!
 Hold [DOWN] and press [A].</value>
   </data>
-  <data name="upgrade15" xml:space="preserve">
+	<data name="upgrade15" xml:space="preserve">
     <value>Double Jump Acquired!
 Press [A] while in the air to perform a second jump.</value>
   </data>
-  <data name="upgrade16" xml:space="preserve">
+	<data name="upgrade16" xml:space="preserve">
     <value>Iron Grip Acquired!
 Jump and press toward a vine with [LTHUMB] to begin climbing a wall.</value>
   </data>
-  <data name="upgrade17" xml:space="preserve">
+	<data name="upgrade17" xml:space="preserve">
     <value>Boost Jump Acquired!
 Press [A] while riding an air current for a massive boost upwards.</value>
   </data>
-  <data name="upgrade10" xml:space="preserve">
+	<data name="upgrade10" xml:space="preserve">
     <value>Dash Acquired! Dash with [LT] and [RT] or [RTHUMB].
 Dashing uses Energy, indicated by the flaming white bar in your HUD.</value>
   </data>
-  <data name="upgrade12" xml:space="preserve">
+	<data name="upgrade12" xml:space="preserve">
     <value>Aerial DUST STORM Acquired!
 Hold [Y] mid-jump to fly through the air and target enemies from afar!</value>
   </data>
-  <data name="pccarrybomb" xml:space="preserve">
+	<data name="pccarrybomb" xml:space="preserve">
     <value>You've discovered a Bomb Fruit!
 Use the DUST STORM with [Y] to pluck and guide the fruit.</value>
   </data>
-  <data name="saveheal" xml:space="preserve">
+	<data name="saveheal" xml:space="preserve">
     <value>Depending on your Difficulty Level, Save Monuments will also restore some of your health.</value>
   </data>
-  <data name="challengescoreboard" xml:space="preserve">
+	<data name="challengescoreboard" xml:space="preserve">
     <value>Press [UP] in front of the Tablet to view high scores.</value>
   </data>
-  <data name="menuHelp5" xml:space="preserve">
+	<data name="menuHelp5" xml:space="preserve">
     <value>Welcome to the Stats screen.
 
 On this page you can view various gameplay statistics.</value>
   </data>
-  <data name="menuHelp4" xml:space="preserve">
+	<data name="menuHelp4" xml:space="preserve">
     <value>Welcome to the Materials screen.
 
 Materials are collected from enemies, and can be crafted into better equipment by a blacksmith.
 
 Materials can also be sold to shops. Once catalogued, shops will attempt to restock their inventory. Use this to your advantage when materials are scarce.</value>
   </data>
-  <data name="menuHelp3" xml:space="preserve">
+	<data name="menuHelp3" xml:space="preserve">
     <value>Welcome to your Quest Log.
 
 From here, you can view active and completed quests, as well as any notes you've picked up.</value>
   </data>
-  <data name="menuHelp2" xml:space="preserve">
+	<data name="menuHelp2" xml:space="preserve">
     <value>Welcome to your Map.
 
 From here, you can view explored areas within the current region. You can also get a sense of any treasure within the immediate vicinity.</value>
   </data>
-  <data name="menuHelp1" xml:space="preserve">
+	<data name="menuHelp1" xml:space="preserve">
     <value>Welcome to your Inventory.
 
 From this screen, you can manage Equipment and Items. If your health is low (indicated by the green bar in your HUD), you can assign a healing item to the QUICK ITEM SLOT and quickly use it in-game with [LB].
 
 Note the context sensitive controls at the bottom of each screen for additional options.</value>
   </data>
-  <data name="menuHelp0" xml:space="preserve">
+	<data name="menuHelp0" xml:space="preserve">
     <value>Welcome to the Character screen.
 
 From here, you can assign Skill Gems acquired by leveling-up to improve your attributes. 
 Note that your highest stat must be within 4 gems of your lowest stat.</value>
   </data>
-  <data name="triallocked" xml:space="preserve">
+	<data name="triallocked" xml:space="preserve">
     <value>Paths such as the one above will become available as you upgrade your abilities.</value>
   </data>
-  <data name="trialmove" xml:space="preserve">
+	<data name="trialmove" xml:space="preserve">
     <value>Welcome to the Trial of Dust: An Elysian Tail!
 Use [LTHUMB] or [DPAD] to move.</value>
   </data>
-  <data name="trialjump" xml:space="preserve">
+	<data name="trialjump" xml:space="preserve">
     <value>Dash with [LT] and [RT] or [RTHUMB].
 Dashing uses Energy, indicated by the flaming white bar in your HUD.</value>
   </data>
-  <data name="questgiver" xml:space="preserve">
+	<data name="questgiver" xml:space="preserve">
     <value>Characters with an [ICON_360] over their head are Quest Givers.
 Speak to them to open up Quests and new regions throughout the world.</value>
   </data>
-  <data name="pcmove" xml:space="preserve">
+	<data name="pcmove" xml:space="preserve">
     <value>Use [LEFT] and [RIGHT] to move.</value>
   </data>
-  <data name="pcupgrade16" xml:space="preserve">
+	<data name="pcupgrade16" xml:space="preserve">
     <value>Iron Grip Acquired!
 Jump and press toward a vine with [LEFT] or [RIGHT] to begin climbing a wall.</value>
   </data>
-  <data name="pcupgrade10" xml:space="preserve">
+	<data name="pcupgrade10" xml:space="preserve">
     <value>Dash Acquired! Dash with [LT] and [RT].
 Dashing uses Energy, indicated by the flaming white bar in your HUD.</value>
   </data>
-  <data name="drop" xml:space="preserve">
+	<data name="drop" xml:space="preserve">
     <value>You can drop down through here.
 Hold [DOWN] to crouch, then press [A].</value>
   </data>
-  <data name="gate" xml:space="preserve">
+	<data name="gate" xml:space="preserve">
     <value>Resonance Gates will only open if you have a Resonance Gem of the same color.</value>
   </data>
-  <data name="look" xml:space="preserve">
+	<data name="look" xml:space="preserve">
     <value>Hold [UP] or [DOWN] to look up or down.</value>
   </data>
-  <data name="move" xml:space="preserve">
+	<data name="move" xml:space="preserve">
     <value>Use [LTHUMB] or [DPAD] to move.</value>
   </data>
-  <data name="jump" xml:space="preserve">
+	<data name="jump" xml:space="preserve">
     <value>Press [A] to jump.</value>
   </data>
-  <data name="save" xml:space="preserve">
+	<data name="save" xml:space="preserve">
     <value>Run through a Save Monument to auto-save your progress.
 Press [UP] to manually save to a slot.</value>
   </data>
-  <data name="shop" xml:space="preserve">
+	<data name="shop" xml:space="preserve">
     <value>Press [UP] to enter a shop.</value>
   </data>
 </root>

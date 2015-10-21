@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,161 +59,161 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="045_200" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="045_200" xml:space="preserve">
     <value>Well, we're indebted to you either way, so go on through. But I'm watching the two of you.</value>
   </data>
-  <data name="045_210" xml:space="preserve">
+	<data name="045_210" xml:space="preserve">
     <value>Please, make yourselves at home. My name is Bean. There's not much here, but we do have a merchant if you need supplies.</value>
   </data>
-  <data name="045_220" xml:space="preserve">
+	<data name="045_220" xml:space="preserve">
     <value>Thank you, we'll be on our way, then.</value>
   </data>
-  <data name="045_080" xml:space="preserve">
+	<data name="045_080" xml:space="preserve">
     <value>Interesting coincidence.</value>
   </data>
-  <data name="045_090" xml:space="preserve">
+	<data name="045_090" xml:space="preserve">
     <value>If you're suggesting I had something to do with this attack...</value>
   </data>
-  <data name="045_020" xml:space="preserve">
+	<data name="045_020" xml:space="preserve">
     <value>If you're referring to the giants, I took care of them.</value>
   </data>
-  <data name="045_030" xml:space="preserve">
+	<data name="045_030" xml:space="preserve">
     <value>They're dead?!</value>
   </data>
-  <data name="045_000" xml:space="preserve">
+	<data name="045_000" xml:space="preserve">
     <value>Hold it right there!</value>
   </data>
-  <data name="045_010" xml:space="preserve">
+	<data name="045_010" xml:space="preserve">
     <value>Are they gone? I don't hear anything!</value>
   </data>
-  <data name="045_060" xml:space="preserve">
+	<data name="045_060" xml:space="preserve">
     <value>So you're saying you just happened to show up at just the right time, huh?</value>
   </data>
-  <data name="045_070" xml:space="preserve">
+	<data name="045_070" xml:space="preserve">
     <value>I suppose.</value>
   </data>
-  <data name="045_040" xml:space="preserve">
+	<data name="045_040" xml:space="preserve">
     <value>Yep, thoroughly expired! They were no match for us. There's an older couple back there that could use some help though.</value>
   </data>
-  <data name="045_050" xml:space="preserve">
+	<data name="045_050" xml:space="preserve">
     <value>That must've been Oneida and her husband, Geehan. Thank you, we'll send help right away!</value>
   </data>
-  <data name="045_180" xml:space="preserve">
+	<data name="045_180" xml:space="preserve">
     <value>Prospectors, eh? You're certainly well-armed for the job.</value>
   </data>
-  <data name="045_190" xml:space="preserve">
+	<data name="045_190" xml:space="preserve">
     <value>Like you said, there are a lot of monsters out there.</value>
   </data>
-  <data name="045_120" xml:space="preserve">
+	<data name="045_120" xml:space="preserve">
     <value>I guess you missed the endless hordes of bloodthirsty monsters on your way in?</value>
   </data>
-  <data name="045_100" xml:space="preserve">
+	<data name="045_100" xml:space="preserve">
     <value>Whoa, whoa, take it easy. I have to apologize for my big friend Calum, here. We're just a little overwhelmed is all.</value>
   </data>
-  <data name="045_130" xml:space="preserve">
+	<data name="045_130" xml:space="preserve">
     <value>They used to stay in the mountains, away from the village. Now, they're attacking us on a daily basis.</value>
   </data>
-  <data name="045_160" xml:space="preserve">
+	<data name="045_160" xml:space="preserve">
     <value>We're, uh...</value>
   </data>
-  <data name="045_110" xml:space="preserve">
+	<data name="045_110" xml:space="preserve">
     <value>What's been happening here?</value>
   </data>
-  <data name="045_140" xml:space="preserve">
+	<data name="045_140" xml:space="preserve">
     <value>No one's been hurt, yet... at least not until today. If giants are showing up near Oneida's farm, things are far worse than we thought.</value>
   </data>
-  <data name="045_170" xml:space="preserve">
+	<data name="045_170" xml:space="preserve">
     <value>Prospectors! We... are prospectors! And we're out on... an excavation! To find, uh, ore deposits! In the mountains! You know, gold? Silver? Um... Manganite?</value>
   </data>
-  <data name="045_150" xml:space="preserve">
+	<data name="045_150" xml:space="preserve">
     <value>Speaking of which, where exactly do you come from? There's nothing west of here except crazy old Cora.</value>
   </data>
-  <data name="003_000" xml:space="preserve">
+	<data name="003_000" xml:space="preserve">
     <value>Like it?</value>
   </data>
-  <data name="002_000" xml:space="preserve">
+	<data name="002_000" xml:space="preserve">
     <value>I've got my eye on you. You and your annoying pet.</value>
   </data>
-  <data name="002_010" xml:space="preserve">
+	<data name="002_010" xml:space="preserve">
     <value>I am NOT a pet! Dust, tell him I'm not your pet.</value>
   </data>
-  <data name="001_020" xml:space="preserve">
+	<data name="001_020" xml:space="preserve">
     <value>Yes, it's... very nice.</value>
   </data>
-  <data name="001_030" xml:space="preserve">
+	<data name="001_030" xml:space="preserve">
     <value>Alright, that's enough.Why don't you two leave me alone, now?</value>
   </data>
-  <data name="001_000" xml:space="preserve">
+	<data name="001_000" xml:space="preserve">
     <value>You really ought to be better equipped, in case anything else comes through here.</value>
   </data>
-  <data name="001_010" xml:space="preserve">
+	<data name="001_010" xml:space="preserve">
     <value>Nonsense! I crafted this spear myself.</value>
   </data>
-  <data name="000_020" xml:space="preserve">
+	<data name="000_020" xml:space="preserve">
     <value>He can see EVERYTHING! It's spooky, really. No reason to get defensive, just trying to help.</value>
   </data>
-  <data name="000_000" xml:space="preserve">
+	<data name="000_000" xml:space="preserve">
     <value>That's an interesting outfit you're wearing.</value>
   </data>
-  <data name="000_010" xml:space="preserve">
+	<data name="000_010" xml:space="preserve">
     <value>Oh, you're one to talk! Can your friend even see from under that hat?</value>
   </data>
 </root>

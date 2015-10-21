@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,125 +59,125 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="lavacamp" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="lavacamp" xml:space="preserve">
     <value>Moonblood Camp</value>
   </data>
-  <data name="zeplich" xml:space="preserve">
+	<data name="zeplich" xml:space="preserve">
     <value>Zeplich Village</value>
   </data>
-  <data name="cavevillage" xml:space="preserve">
+	<data name="cavevillage" xml:space="preserve">
     <value>Mudpot</value>
   </data>
-  <data name="grave" xml:space="preserve">
+	<data name="grave" xml:space="preserve">
     <value>The Sorrowing Meadow</value>
   </data>
-  <data name="glade" xml:space="preserve">
+	<data name="glade" xml:space="preserve">
     <value>The Glade</value>
   </data>
-  <data name="trial" xml:space="preserve">
+	<data name="trial" xml:space="preserve">
     <value>Cirelian Trial</value>
   </data>
-  <data name="ivy" xml:space="preserve">
+	<data name="ivy" xml:space="preserve">
     <value>Ivydale Glen</value>
   </data>
-  <data name="smith" xml:space="preserve">
+	<data name="smith" xml:space="preserve">
     <value>Archers' Pass</value>
   </data>
-  <data name="mansion4" xml:space="preserve">
+	<data name="mansion4" xml:space="preserve">
     <value>Nanoth Mansion</value>
   </data>
-  <data name="mansion1" xml:space="preserve">
+	<data name="mansion1" xml:space="preserve">
     <value>Bardel Mansion</value>
   </data>
-  <data name="mansion2" xml:space="preserve">
+	<data name="mansion2" xml:space="preserve">
     <value>Dorimo Mansion</value>
   </data>
-  <data name="mansion3" xml:space="preserve">
+	<data name="mansion3" xml:space="preserve">
     <value>Samachua Mansion</value>
   </data>
-  <data name="denham" xml:space="preserve">
+	<data name="denham" xml:space="preserve">
     <value>Denham Village</value>
   </data>
-  <data name="aurora" xml:space="preserve">
+	<data name="aurora" xml:space="preserve">
     <value>Aurora Village</value>
   </data>
-  <data name="forest" xml:space="preserve">
+	<data name="forest" xml:space="preserve">
     <value>Abadis Forest</value>
   </data>
-  <data name="sanctuary" xml:space="preserve">
+	<data name="sanctuary" xml:space="preserve">
     <value>The Sanctuary</value>
   </data>
-  <data name="farm" xml:space="preserve">
+	<data name="farm" xml:space="preserve">
     <value>Geehan's Farm</value>
   </data>
-  <data name="lava" xml:space="preserve">
+	<data name="lava" xml:space="preserve">
     <value>Everdawn Basin</value>
   </data>
-  <data name="cave" xml:space="preserve">
+	<data name="cave" xml:space="preserve">
     <value>Cirromon Caverns</value>
   </data>
-  <data name="cove" xml:space="preserve">
+	<data name="cove" xml:space="preserve">
     <value>Hidden Cove</value>
   </data>
-  <data name="snow" xml:space="preserve">
+	<data name="snow" xml:space="preserve">
     <value>Blackmoor Mountains</value>
   </data>
 </root>

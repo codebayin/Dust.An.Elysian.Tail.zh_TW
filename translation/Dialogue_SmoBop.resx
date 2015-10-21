@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,143 +59,143 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="003_000" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="003_000" xml:space="preserve">
     <value>I love my doll! I love her so much! Love love love!</value>
   </data>
-  <data name="002_000" xml:space="preserve">
+	<data name="002_000" xml:space="preserve">
     <value>Okay, SmoBop, here's a Fidget doll for you. Better than the real thing!</value>
   </data>
-  <data name="002_020" xml:space="preserve">
+	<data name="002_020" xml:space="preserve">
     <value>Thanks, SmoBop.</value>
   </data>
-  <data name="002_010" xml:space="preserve">
+	<data name="002_010" xml:space="preserve">
     <value>Oh, she's pretty! Here, you can have this!</value>
   </data>
-  <data name="002_040" xml:space="preserve">
+	<data name="002_040" xml:space="preserve">
     <value>Well, thank you.  Enjoy your Fidget.</value>
   </data>
-  <data name="002_030" xml:space="preserve">
+	<data name="002_030" xml:space="preserve">
     <value>Blop gave it to me a little while ago! He found it near the surface, I think!</value>
   </data>
-  <data name="001_000" xml:space="preserve">
+	<data name="001_000" xml:space="preserve">
     <value>You're back! Is that my doll?</value>
   </data>
-  <data name="001_010" xml:space="preserve">
+	<data name="001_010" xml:space="preserve">
     <value>No, SmoBop, that's just Fidget.</value>
   </data>
-  <data name="000_180" xml:space="preserve">
+	<data name="000_180" xml:space="preserve">
     <value>Yeah, maybe he can make us some kind of Fidget doll for her. After all, she's far too young to take care of a pet like you.</value>
   </data>
-  <data name="000_190" xml:space="preserve">
+	<data name="000_190" xml:space="preserve">
     <value>Yeah, way too much responsibility for... HEY!</value>
   </data>
-  <data name="000_120" xml:space="preserve">
+	<data name="000_120" xml:space="preserve">
     <value>Well, SmoBop, I'm sorry, but as much as she might look like one, Fidget is not a toy.</value>
   </data>
-  <data name="000_130" xml:space="preserve">
+	<data name="000_130" xml:space="preserve">
     <value>Hey!</value>
   </data>
-  <data name="000_100" xml:space="preserve">
+	<data name="000_100" xml:space="preserve">
     <value>SmoBop!</value>
   </data>
-  <data name="000_160" xml:space="preserve">
+	<data name="000_160" xml:space="preserve">
     <value>Hm. Tell you what - next time I go to the surface, I'll see if I can find a suitable replacement. Then we'll trade.</value>
   </data>
-  <data name="000_170" xml:space="preserve">
+	<data name="000_170" xml:space="preserve">
     <value>Phew! Good idea, Dust. You know, that shop in Aurora had some things. Maybe the shopkeeper could figure something out for us?</value>
   </data>
-  <data name="000_140" xml:space="preserve">
+	<data name="000_140" xml:space="preserve">
     <value>Oh, I want her! She talks! I'll trade you? Look! I've got this box thing!</value>
   </data>
-  <data name="000_150" xml:space="preserve">
+	<data name="000_150" xml:space="preserve">
     <value>Hey, Dust, look! That must be Reed's box!</value>
   </data>
-  <data name="000_080" xml:space="preserve">
+	<data name="000_080" xml:space="preserve">
     <value>Dust!? Do something! It's trying to grab me with its little child hands!</value>
   </data>
-  <data name="000_090" xml:space="preserve">
+	<data name="000_090" xml:space="preserve">
     <value>Don't worry Fidget. Sorry, um, what's your name?</value>
   </data>
-  <data name="000_020" xml:space="preserve">
+	<data name="000_020" xml:space="preserve">
     <value>It's a flying cat!</value>
   </data>
-  <data name="000_000" xml:space="preserve">
+	<data name="000_000" xml:space="preserve">
     <value>Oh, it's a pretty kitty cat!</value>
   </data>
-  <data name="000_030" xml:space="preserve">
+	<data name="000_030" xml:space="preserve">
     <value>She's not a cat, little girl. She's a... I don't even know what she is.</value>
   </data>
-  <data name="000_060" xml:space="preserve">
+	<data name="000_060" xml:space="preserve">
     <value>Yes, hello! My name's Fidget, maybe we've met?</value>
   </data>
-  <data name="000_010" xml:space="preserve">
+	<data name="000_010" xml:space="preserve">
     <value>What, me?</value>
   </data>
-  <data name="000_040" xml:space="preserve">
+	<data name="000_040" xml:space="preserve">
     <value>I'm not a cat, you dolt! I'm a Nimbat!</value>
   </data>
-  <data name="000_070" xml:space="preserve">
+	<data name="000_070" xml:space="preserve">
     <value>Can I hold it!? I want it!</value>
   </data>
-  <data name="000_050" xml:space="preserve">
+	<data name="000_050" xml:space="preserve">
     <value>Is that what you're called? A Nimbat?</value>
   </data>
 </root>

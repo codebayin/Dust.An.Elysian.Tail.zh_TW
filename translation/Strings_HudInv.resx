@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,326 +59,326 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="CharStat3Desc" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="CharStat3Desc" xml:space="preserve">
     <value>This determines the potency of Fidget's projectiles and the DUST STORM.</value>
   </data>
-  <data name="CharStat2Desc" xml:space="preserve">
+	<data name="CharStat2Desc" xml:space="preserve">
     <value>The base defensive ability decreases damage taken from enemies and hazards.</value>
   </data>
-  <data name="CharStat1Desc" xml:space="preserve">
+	<data name="CharStat1Desc" xml:space="preserve">
     <value>The base attack power determines the amount of melee damage you can inflict.</value>
   </data>
-  <data name="CharStat0Desc" xml:space="preserve">
+	<data name="CharStat0Desc" xml:space="preserve">
     <value>Your maximum health.</value>
   </data>
-  <data name="EquipStatName0" xml:space="preserve">
+	<data name="EquipStatName0" xml:space="preserve">
     <value>HEALTH</value>
   </data>
-  <data name="EquipStatName1" xml:space="preserve">
+	<data name="EquipStatName1" xml:space="preserve">
     <value>ATTACK</value>
   </data>
-  <data name="EquipStatName2" xml:space="preserve">
+	<data name="EquipStatName2" xml:space="preserve">
     <value>DEFENSE</value>
   </data>
-  <data name="EquipStatName3" xml:space="preserve">
+	<data name="EquipStatName3" xml:space="preserve">
     <value>FIDGET</value>
   </data>
-  <data name="EquipStatName4" xml:space="preserve">
+	<data name="EquipStatName4" xml:space="preserve">
     <value>LUCK</value>
   </data>
-  <data name="EquipStatName5" xml:space="preserve">
+	<data name="EquipStatName5" xml:space="preserve">
     <value>GOLD</value>
   </data>
-  <data name="EquipStatName6" xml:space="preserve">
+	<data name="EquipStatName6" xml:space="preserve">
     <value>EXPERIENCE/NEXT</value>
   </data>
-  <data name="QuestControls" xml:space="preserve">
+	<data name="QuestControls" xml:space="preserve">
     <value>[LTHUMB]/[RTHUMB] Scroll     [B] Exit</value>
   </data>
-  <data name="WorldMapNew" xml:space="preserve">
+	<data name="WorldMapNew" xml:space="preserve">
     <value>NEW</value>
   </data>
-  <data name="Return" xml:space="preserve">
+	<data name="Return" xml:space="preserve">
     <value>[B] Return</value>
   </data>
-  <data name="WorldMapControlsSubMap" xml:space="preserve">
+	<data name="WorldMapControlsSubMap" xml:space="preserve">
     <value>[LTHUMB] Pan     [Y] Legend     [A] Confirm     [B] Cancel</value>
   </data>
-  <data name="WorldMapControlsSelect" xml:space="preserve">
+	<data name="WorldMapControlsSelect" xml:space="preserve">
     <value>[A] Select</value>
   </data>
-  <data name="UpgradeComplete" xml:space="preserve">
+	<data name="UpgradeComplete" xml:space="preserve">
     <value>All Skill Gems have been assigned!  Press [A] to confirm these upgrades.</value>
   </data>
-  <data name="MapExploredTotal" xml:space="preserve">
+	<data name="MapExploredTotal" xml:space="preserve">
     <value>Region Explored</value>
   </data>
-  <data name="EquipCategoryControls1" xml:space="preserve">
+	<data name="EquipCategoryControls1" xml:space="preserve">
     <value>[X] Unequip     [Y] Eat     [A] Equip     [B] Return</value>
   </data>
-  <data name="EquipCategoryControls0" xml:space="preserve">
+	<data name="EquipCategoryControls0" xml:space="preserve">
     <value>[A] Modify     [B] Exit</value>
   </data>
-  <data name="EquipCategoryControls2" xml:space="preserve">
+	<data name="EquipCategoryControls2" xml:space="preserve">
     <value>[X] Unequip     [A] Equip     [B] Return</value>
   </data>
-  <data name="EquipCategoryControls4" xml:space="preserve">
+	<data name="EquipCategoryControls4" xml:space="preserve">
     <value>[A] View     [B] Exit</value>
   </data>
-  <data name="WorldMapControlsReturn" xml:space="preserve">
+	<data name="WorldMapControlsReturn" xml:space="preserve">
     <value>[B] Return</value>
   </data>
-  <data name="EquipSelection5" xml:space="preserve">
+	<data name="EquipSelection5" xml:space="preserve">
     <value>Pendant</value>
   </data>
-  <data name="EquipSelection4" xml:space="preserve">
+	<data name="EquipSelection4" xml:space="preserve">
     <value>Left Ring</value>
   </data>
-  <data name="EquipSelection6" xml:space="preserve">
+	<data name="EquipSelection6" xml:space="preserve">
     <value>Right Ring</value>
   </data>
-  <data name="EquipSelection1" xml:space="preserve">
+	<data name="EquipSelection1" xml:space="preserve">
     <value>Armor</value>
   </data>
-  <data name="EquipSelection0" xml:space="preserve">
+	<data name="EquipSelection0" xml:space="preserve">
     <value>Quick Item Slot</value>
   </data>
-  <data name="EquipSelection3" xml:space="preserve">
+	<data name="EquipSelection3" xml:space="preserve">
     <value>Items &amp; Keys</value>
   </data>
-  <data name="EquipSelection2" xml:space="preserve">
+	<data name="EquipSelection2" xml:space="preserve">
     <value>Augment</value>
   </data>
-  <data name="MapItemsTotal" xml:space="preserve">
+	<data name="MapItemsTotal" xml:space="preserve">
     <value>Items Collected</value>
   </data>
-  <data name="EquipCategory5" xml:space="preserve">
+	<data name="EquipCategory5" xml:space="preserve">
     <value>Items &amp; Keys</value>
   </data>
-  <data name="EquipCategory4" xml:space="preserve">
+	<data name="EquipCategory4" xml:space="preserve">
     <value>Rings</value>
   </data>
-  <data name="EquipCategory1" xml:space="preserve">
+	<data name="EquipCategory1" xml:space="preserve">
     <value>Pendants</value>
   </data>
-  <data name="EquipCategory0" xml:space="preserve">
+	<data name="EquipCategory0" xml:space="preserve">
     <value>Health Items</value>
   </data>
-  <data name="EquipCategory3" xml:space="preserve">
+	<data name="EquipCategory3" xml:space="preserve">
     <value>Armor</value>
   </data>
-  <data name="EquipCategory2" xml:space="preserve">
+	<data name="EquipCategory2" xml:space="preserve">
     <value>Augments</value>
   </data>
-  <data name="MaterialCatalogued" xml:space="preserve">
+	<data name="MaterialCatalogued" xml:space="preserve">
     <value>Catalogued in Shop!</value>
   </data>
-  <data name="StatName0" xml:space="preserve">
+	<data name="StatName0" xml:space="preserve">
     <value>TIME PLAYED</value>
   </data>
-  <data name="StatName1" xml:space="preserve">
+	<data name="StatName1" xml:space="preserve">
     <value>TOTAL COMPLETION</value>
   </data>
-  <data name="StatName2" xml:space="preserve">
+	<data name="StatName2" xml:space="preserve">
     <value>WORLD EXPLORED</value>
   </data>
-  <data name="StatName3" xml:space="preserve">
+	<data name="StatName3" xml:space="preserve">
     <value>TREASURE FOUND</value>
   </data>
-  <data name="StatName4" xml:space="preserve">
+	<data name="StatName4" xml:space="preserve">
     <value>MAX HIT CHAIN</value>
   </data>
-  <data name="StatName5" xml:space="preserve">
+	<data name="StatName5" xml:space="preserve">
     <value>ENEMIES VANQUISHED</value>
   </data>
-  <data name="StatName6" xml:space="preserve">
+	<data name="StatName6" xml:space="preserve">
     <value>FRIENDS FOUND</value>
   </data>
-  <data name="Blueprint" xml:space="preserve">
+	<data name="Blueprint" xml:space="preserve">
     <value>BluePrint</value>
   </data>
-  <data name="ChallengeMiniBest" xml:space="preserve">
+	<data name="ChallengeMiniBest" xml:space="preserve">
     <value>Best:</value>
   </data>
-  <data name="ChallengeMiniTime" xml:space="preserve">
+	<data name="ChallengeMiniTime" xml:space="preserve">
     <value>Time:</value>
   </data>
-  <data name="MapControls" xml:space="preserve">
+	<data name="MapControls" xml:space="preserve">
     <value>[LTHUMB] Pan     [X] Center     [Y] Legend     [B] Exit</value>
   </data>
-  <data name="EquipCategoryControls3b" xml:space="preserve">
+	<data name="EquipCategoryControls3b" xml:space="preserve">
     <value>[X] Unequip     [Y] View     [A] Craft     [B] Return</value>
   </data>
-  <data name="EquipCategoryControls3c" xml:space="preserve">
+	<data name="EquipCategoryControls3c" xml:space="preserve">
     <value>[A] Craft      [B] Return</value>
   </data>
-  <data name="EquipCategoryControls3a" xml:space="preserve">
+	<data name="EquipCategoryControls3a" xml:space="preserve">
     <value>[X] Unequip     [Y] View     [B] Return</value>
   </data>
-  <data name="BlueprintReq" xml:space="preserve">
+	<data name="BlueprintReq" xml:space="preserve">
     <value>Requirements</value>
   </data>
-  <data name="BlueprintDesc" xml:space="preserve">
+	<data name="BlueprintDesc" xml:space="preserve">
     <value>A blacksmith can craft this item with the required materials.</value>
   </data>
-  <data name="EquipCategory5Desc" xml:space="preserve">
+	<data name="EquipCategory5Desc" xml:space="preserve">
     <value>Your collection of keys, miscellaneous, and story items.</value>
   </data>
-  <data name="ChallengeMiniTotal" xml:space="preserve">
+	<data name="ChallengeMiniTotal" xml:space="preserve">
     <value>Total:</value>
   </data>
-  <data name="ChallengeMiniScore" xml:space="preserve">
+	<data name="ChallengeMiniScore" xml:space="preserve">
     <value>Score:</value>
   </data>
-  <data name="ChallengePersonalBest" xml:space="preserve">
+	<data name="ChallengePersonalBest" xml:space="preserve">
     <value>Personal Best:</value>
   </data>
-  <data name="CharControls" xml:space="preserve">
+	<data name="CharControls" xml:space="preserve">
     <value>[X] Remove     [A] Add     [B] Exit</value>
   </data>
-  <data name="MapIcon2" xml:space="preserve">
+	<data name="MapIcon2" xml:space="preserve">
     <value>Save</value>
   </data>
-  <data name="MapIcon3" xml:space="preserve">
+	<data name="MapIcon3" xml:space="preserve">
     <value>Shop</value>
   </data>
-  <data name="MapIcon0" xml:space="preserve">
+	<data name="MapIcon0" xml:space="preserve">
     <value>Treasure</value>
   </data>
-  <data name="MapIcon1" xml:space="preserve">
+	<data name="MapIcon1" xml:space="preserve">
     <value>Plundered</value>
   </data>
-  <data name="MapIcon4" xml:space="preserve">
+	<data name="MapIcon4" xml:space="preserve">
     <value>Challenge</value>
   </data>
-  <data name="MapIcon5" xml:space="preserve">
+	<data name="MapIcon5" xml:space="preserve">
     <value>Destination</value>
   </data>
-  <data name="MaterialShopCatalogue" xml:space="preserve">
+	<data name="MaterialShopCatalogue" xml:space="preserve">
     <value>Shop Catalogue</value>
   </data>
-  <data name="QuestCat1" xml:space="preserve">
+	<data name="QuestCat1" xml:space="preserve">
     <value>Completed</value>
   </data>
-  <data name="QuestCat0" xml:space="preserve">
+	<data name="QuestCat0" xml:space="preserve">
     <value>Active</value>
   </data>
-  <data name="QuestCat2" xml:space="preserve">
+	<data name="QuestCat2" xml:space="preserve">
     <value>Notes</value>
   </data>
-  <data name="Material" xml:space="preserve">
+	<data name="Material" xml:space="preserve">
     <value>Material</value>
   </data>
-  <data name="CharStat0DescStat" xml:space="preserve">
+	<data name="CharStat0DescStat" xml:space="preserve">
     <value>Rescue bonus.</value>
   </data>
-  <data name="MaterialValue" xml:space="preserve">
+	<data name="MaterialValue" xml:space="preserve">
     <value>Value:</value>
   </data>
-  <data name="InvCat2" xml:space="preserve">
+	<data name="InvCat2" xml:space="preserve">
     <value>Map</value>
   </data>
-  <data name="InvCat3" xml:space="preserve">
+	<data name="InvCat3" xml:space="preserve">
     <value>Quests</value>
   </data>
-  <data name="InvCat0" xml:space="preserve">
+	<data name="InvCat0" xml:space="preserve">
     <value>Character</value>
   </data>
-  <data name="InvCat1" xml:space="preserve">
+	<data name="InvCat1" xml:space="preserve">
     <value>Inventory</value>
   </data>
-  <data name="InvCat4" xml:space="preserve">
+	<data name="InvCat4" xml:space="preserve">
     <value>Materials</value>
   </data>
-  <data name="InvCat5" xml:space="preserve">
+	<data name="InvCat5" xml:space="preserve">
     <value>Stats</value>
   </data>
-  <data name="UpgradeRemaining" xml:space="preserve">
+	<data name="UpgradeRemaining" xml:space="preserve">
     <value>Remaining Gems:</value>
   </data>
-  <data name="ChallengeChallengeComplete" xml:space="preserve">
+	<data name="ChallengeChallengeComplete" xml:space="preserve">
     <value>Challenge Complete!</value>
   </data>
-  <data name="Exit" xml:space="preserve">
+	<data name="Exit" xml:space="preserve">
     <value>[B] Exit</value>
   </data>
-  <data name="CharStatName0" xml:space="preserve">
+	<data name="CharStatName0" xml:space="preserve">
     <value>MAX HEALTH</value>
   </data>
-  <data name="CharStatName1" xml:space="preserve">
+	<data name="CharStatName1" xml:space="preserve">
     <value>ATTACK</value>
   </data>
-  <data name="CharStatName2" xml:space="preserve">
+	<data name="CharStatName2" xml:space="preserve">
     <value>DEFENSE</value>
   </data>
-  <data name="CharStatName3" xml:space="preserve">
+	<data name="CharStatName3" xml:space="preserve">
     <value>FIDGET</value>
   </data>
-  <data name="CharStatName4" xml:space="preserve">
+	<data name="CharStatName4" xml:space="preserve">
     <value>LUCK</value>
   </data>
-  <data name="CharStatName5" xml:space="preserve">
+	<data name="CharStatName5" xml:space="preserve">
     <value>LEVEL</value>
   </data>
-  <data name="CharStatName6" xml:space="preserve">
+	<data name="CharStatName6" xml:space="preserve">
     <value>EXPERIENCE/NEXT</value>
   </data>
 </root>

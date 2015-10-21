@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,314 +59,314 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="041_Desc_200" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="041_Desc_200" xml:space="preserve">
     <value>An identification tag from a fallen soldier.</value>
   </data>
-  <data name="005_Desc_100" xml:space="preserve">
+	<data name="005_Desc_100" xml:space="preserve">
     <value>Several clean sheets of paper.</value>
   </data>
-  <data name="011_Desc_40" xml:space="preserve">
+	<data name="011_Desc_40" xml:space="preserve">
     <value>Serves no purpose. Sell it.</value>
   </data>
-  <data name="002_Desc_100" xml:space="preserve">
+	<data name="002_Desc_100" xml:space="preserve">
     <value>A yard of sturdy fabric.</value>
   </data>
-  <data name="024_Desc_100" xml:space="preserve">
+	<data name="024_Desc_100" xml:space="preserve">
     <value>Yellowish teeth from a rock-hound.</value>
   </data>
-  <data name="004_Desc_100" xml:space="preserve">
+	<data name="004_Desc_100" xml:space="preserve">
     <value>Strong carpenter's glue.</value>
   </data>
-  <data name="010_Desc_100" xml:space="preserve">
+	<data name="010_Desc_100" xml:space="preserve">
     <value>An empty glass bottle with many uses.</value>
   </data>
-  <data name="026_Desc_200" xml:space="preserve">
+	<data name="026_Desc_200" xml:space="preserve">
     <value>A piece of shell from a stone-cutter.</value>
   </data>
-  <data name="031_Desc_400" xml:space="preserve">
+	<data name="031_Desc_400" xml:space="preserve">
     <value>The gnarled finger of a trolk.</value>
   </data>
-  <data name="016_Desc_150" xml:space="preserve">
+	<data name="016_Desc_150" xml:space="preserve">
     <value>The sharpened nails of an avee.</value>
   </data>
-  <data name="009_Desc_100" xml:space="preserve">
+	<data name="009_Desc_100" xml:space="preserve">
     <value>Needed for sewing.</value>
   </data>
-  <data name="034_Desc_100" xml:space="preserve">
+	<data name="034_Desc_100" xml:space="preserve">
     <value>A mysterious sticky residue.</value>
   </data>
-  <data name="027_Desc_200" xml:space="preserve">
+	<data name="027_Desc_200" xml:space="preserve">
     <value>Delicate feelers from a stone-cutter's leg.</value>
   </data>
-  <data name="035_Desc_1000" xml:space="preserve">
+	<data name="035_Desc_1000" xml:space="preserve">
     <value>The ethereal remains of a sentient being.</value>
   </data>
-  <data name="037_Desc_100" xml:space="preserve">
+	<data name="037_Desc_100" xml:space="preserve">
     <value>What else would a wolf drop?</value>
   </data>
-  <data name="028_Desc_100" xml:space="preserve">
+	<data name="028_Desc_100" xml:space="preserve">
     <value>The eye of a poisonous squirt-bug.</value>
   </data>
-  <data name="025_Desc_100" xml:space="preserve">
+	<data name="025_Desc_100" xml:space="preserve">
     <value>The thick, flaky leather of a rock-hound.</value>
   </data>
-  <data name="008_Desc_100" xml:space="preserve">
+	<data name="008_Desc_100" xml:space="preserve">
     <value>Bits of malleable metal.</value>
   </data>
-  <data name="040_Desc_1000" xml:space="preserve">
+	<data name="040_Desc_1000" xml:space="preserve">
     <value>A reinforced bit of steel from a powerful weapon.</value>
   </data>
-  <data name="039_Desc_1000" xml:space="preserve">
+	<data name="039_Desc_1000" xml:space="preserve">
     <value>A massive pelt, big enough to picnic on.</value>
   </data>
-  <data name="001_Desc_100" xml:space="preserve">
+	<data name="001_Desc_100" xml:space="preserve">
     <value>A box of iron nails.</value>
   </data>
-  <data name="020_Desc_200" xml:space="preserve">
+	<data name="020_Desc_200" xml:space="preserve">
     <value>Fragments of stone from a giant.</value>
   </data>
-  <data name="007_Desc_100" xml:space="preserve">
+	<data name="007_Desc_100" xml:space="preserve">
     <value>A bottle of colored dye.</value>
   </data>
-  <data name="000_Desc_100" xml:space="preserve">
+	<data name="000_Desc_100" xml:space="preserve">
     <value>The finest lumber in Falana.</value>
   </data>
-  <data name="038_Desc_400" xml:space="preserve">
+	<data name="038_Desc_400" xml:space="preserve">
     <value>A beautiful shard of ice from a frite.</value>
   </data>
-  <data name="022_Desc_100" xml:space="preserve">
+	<data name="022_Desc_100" xml:space="preserve">
     <value>The slimy tentacle of a florn.</value>
   </data>
-  <data name="041" xml:space="preserve">
+	<data name="041" xml:space="preserve">
     <value>Dog Tag</value>
   </data>
-  <data name="040" xml:space="preserve">
+	<data name="040" xml:space="preserve">
     <value>Tough Metal</value>
   </data>
-  <data name="005" xml:space="preserve">
+	<data name="005" xml:space="preserve">
     <value>Paper</value>
   </data>
-  <data name="004" xml:space="preserve">
+	<data name="004" xml:space="preserve">
     <value>Glue</value>
   </data>
-  <data name="007" xml:space="preserve">
+	<data name="007" xml:space="preserve">
     <value>Dye</value>
   </data>
-  <data name="006" xml:space="preserve">
+	<data name="006" xml:space="preserve">
     <value>Cotton</value>
   </data>
-  <data name="001" xml:space="preserve">
+	<data name="001" xml:space="preserve">
     <value>Nails</value>
   </data>
-  <data name="000" xml:space="preserve">
+	<data name="000" xml:space="preserve">
     <value>Lumber</value>
   </data>
-  <data name="003" xml:space="preserve">
+	<data name="003" xml:space="preserve">
     <value>Wire</value>
   </data>
-  <data name="002" xml:space="preserve">
+	<data name="002" xml:space="preserve">
     <value>Fabric</value>
   </data>
-  <data name="009" xml:space="preserve">
+	<data name="009" xml:space="preserve">
     <value>Thread</value>
   </data>
-  <data name="008" xml:space="preserve">
+	<data name="008" xml:space="preserve">
     <value>Scrap Metal</value>
   </data>
-  <data name="014" xml:space="preserve">
+	<data name="014" xml:space="preserve">
     <value>Beast Spear</value>
   </data>
-  <data name="015" xml:space="preserve">
+	<data name="015" xml:space="preserve">
     <value>Beast Leather</value>
   </data>
-  <data name="016" xml:space="preserve">
+	<data name="016" xml:space="preserve">
     <value>Avee Claw</value>
   </data>
-  <data name="017" xml:space="preserve">
+	<data name="017" xml:space="preserve">
     <value>Avee Wing</value>
   </data>
-  <data name="010" xml:space="preserve">
+	<data name="010" xml:space="preserve">
     <value>Bottle</value>
   </data>
-  <data name="011" xml:space="preserve">
+	<data name="011" xml:space="preserve">
     <value>Junk</value>
   </data>
-  <data name="012" xml:space="preserve">
+	<data name="012" xml:space="preserve">
     <value>Imp Hide</value>
   </data>
-  <data name="013" xml:space="preserve">
+	<data name="013" xml:space="preserve">
     <value>Imp Claw</value>
   </data>
-  <data name="018" xml:space="preserve">
+	<data name="018" xml:space="preserve">
     <value>Slimy Coat</value>
   </data>
-  <data name="019" xml:space="preserve">
+	<data name="019" xml:space="preserve">
     <value>Slimy Spike</value>
   </data>
-  <data name="027" xml:space="preserve">
+	<data name="027" xml:space="preserve">
     <value>Stone Feeler</value>
   </data>
-  <data name="026" xml:space="preserve">
+	<data name="026" xml:space="preserve">
     <value>Stone Carapace</value>
   </data>
-  <data name="025" xml:space="preserve">
+	<data name="025" xml:space="preserve">
     <value>Hound Hide</value>
   </data>
-  <data name="024" xml:space="preserve">
+	<data name="024" xml:space="preserve">
     <value>Hound's Teeth</value>
   </data>
-  <data name="023" xml:space="preserve">
+	<data name="023" xml:space="preserve">
     <value>Florn Spark</value>
   </data>
-  <data name="022" xml:space="preserve">
+	<data name="022" xml:space="preserve">
     <value>Florn Tentacle</value>
   </data>
-  <data name="021" xml:space="preserve">
+	<data name="021" xml:space="preserve">
     <value>Giant Core</value>
   </data>
-  <data name="020" xml:space="preserve">
+	<data name="020" xml:space="preserve">
     <value>Giant Rock</value>
   </data>
-  <data name="029" xml:space="preserve">
+	<data name="029" xml:space="preserve">
     <value>Squirt-Bug Arm</value>
   </data>
-  <data name="028" xml:space="preserve">
+	<data name="028" xml:space="preserve">
     <value>Squirt-Bug Eye</value>
   </data>
-  <data name="036" xml:space="preserve">
+	<data name="036" xml:space="preserve">
     <value>Maggot</value>
   </data>
-  <data name="037" xml:space="preserve">
+	<data name="037" xml:space="preserve">
     <value>Wolf Pelt</value>
   </data>
-  <data name="034" xml:space="preserve">
+	<data name="034" xml:space="preserve">
     <value>Ectoplasm</value>
   </data>
-  <data name="035" xml:space="preserve">
+	<data name="035" xml:space="preserve">
     <value>Lost Soul</value>
   </data>
-  <data name="032" xml:space="preserve">
+	<data name="032" xml:space="preserve">
     <value>Rotten Flesh</value>
   </data>
-  <data name="033" xml:space="preserve">
+	<data name="033" xml:space="preserve">
     <value>Bone</value>
   </data>
-  <data name="030" xml:space="preserve">
+	<data name="030" xml:space="preserve">
     <value>Trolk Shell</value>
   </data>
-  <data name="031" xml:space="preserve">
+	<data name="031" xml:space="preserve">
     <value>Trolk Finger</value>
   </data>
-  <data name="038" xml:space="preserve">
+	<data name="038" xml:space="preserve">
     <value>Hollow Shard</value>
   </data>
-  <data name="039" xml:space="preserve">
+	<data name="039" xml:space="preserve">
     <value>Kush Pelt</value>
   </data>
-  <data name="015_Desc_100" xml:space="preserve">
+	<data name="015_Desc_100" xml:space="preserve">
     <value>Thick hide from a small beast.</value>
   </data>
-  <data name="029_Desc_100" xml:space="preserve">
+	<data name="029_Desc_100" xml:space="preserve">
     <value>The tentacle-like arm of a squirt-bug.</value>
   </data>
-  <data name="017_Desc_150" xml:space="preserve">
+	<data name="017_Desc_150" xml:space="preserve">
     <value>The leathery wing of an avee.</value>
   </data>
-  <data name="032_Desc_40" xml:space="preserve">
+	<data name="032_Desc_40" xml:space="preserve">
     <value>A chunk of rotting flesh.</value>
   </data>
-  <data name="012_Desc_100" xml:space="preserve">
+	<data name="012_Desc_100" xml:space="preserve">
     <value>The thin, dirty hide from an imp.</value>
   </data>
-  <data name="006_Desc_100" xml:space="preserve">
+	<data name="006_Desc_100" xml:space="preserve">
     <value>A clump of fine cotton.</value>
   </data>
-  <data name="030_Desc_400" xml:space="preserve">
+	<data name="030_Desc_400" xml:space="preserve">
     <value>The nearly industructable skin of a trolk.</value>
   </data>
-  <data name="023_Desc_100" xml:space="preserve">
+	<data name="023_Desc_100" xml:space="preserve">
     <value>The electrified gland of a florn.</value>
   </data>
-  <data name="021_Desc_200" xml:space="preserve">
+	<data name="021_Desc_200" xml:space="preserve">
     <value>The hardened blood of a giant.</value>
   </data>
-  <data name="014_Desc_100" xml:space="preserve">
+	<data name="014_Desc_100" xml:space="preserve">
     <value>A primitive spear tip made of stone.</value>
   </data>
-  <data name="019_Desc_150" xml:space="preserve">
+	<data name="019_Desc_150" xml:space="preserve">
     <value>The hardened bones from a slime creature.</value>
   </data>
-  <data name="036_Desc_10" xml:space="preserve">
+	<data name="036_Desc_10" xml:space="preserve">
     <value>The squirming spawn of a flesh fly.</value>
   </data>
-  <data name="003_Desc_100" xml:space="preserve">
+	<data name="003_Desc_100" xml:space="preserve">
     <value>All-purpose wire.</value>
   </data>
-  <data name="033_Desc_40" xml:space="preserve">
+	<data name="033_Desc_40" xml:space="preserve">
     <value>An old bone, stripped of all flesh.</value>
   </data>
-  <data name="018_Desc_150" xml:space="preserve">
+	<data name="018_Desc_150" xml:space="preserve">
     <value>Residue from a slime creature.</value>
   </data>
-  <data name="013_Desc_100" xml:space="preserve">
+	<data name="013_Desc_100" xml:space="preserve">
     <value>The gnarled claws of an imp.</value>
   </data>
 </root>

@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,231 +59,231 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="FileCorruptDesc" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="FileCorruptDesc" xml:space="preserve">
     <value>The save file is corrupt. Please delete the file and try again.</value>
   </data>
-  <data name="UpgradeCompTitle" xml:space="preserve">
+	<data name="UpgradeCompTitle" xml:space="preserve">
     <value>Confirm Upgrades?</value>
   </data>
-  <data name="FailTitle" xml:space="preserve">
+	<data name="FailTitle" xml:space="preserve">
     <value>No Storage Device</value>
   </data>
-  <data name="DisconnectedLiveDesc" xml:space="preserve">
+	<data name="DisconnectedLiveDesc" xml:space="preserve">
     <value>Connection to Xbox LIVE has been lost. Please reconnect to Xbox LIVE to access this feature.</value>
   </data>
-  <data name="Fail1Desc" xml:space="preserve">
+	<data name="Fail1Desc" xml:space="preserve">
     <value>Continue playing without a Storage Device. You will not be able to save your progress.</value>
   </data>
-  <data name="Fail0Desc" xml:space="preserve">
+	<data name="Fail0Desc" xml:space="preserve">
     <value>No Storage Device Selected! Press [A] to select a Storage Device.</value>
   </data>
-  <data name="DisconnectedLiveTitle" xml:space="preserve">
+	<data name="DisconnectedLiveTitle" xml:space="preserve">
     <value>Disconnected from LIVE</value>
   </data>
-  <data name="SaveSuccessTitle" xml:space="preserve">
+	<data name="SaveSuccessTitle" xml:space="preserve">
     <value>Game Saved!</value>
   </data>
-  <data name="SignOut" xml:space="preserve">
+	<data name="SignOut" xml:space="preserve">
     <value>Signed Out</value>
   </data>
-  <data name="Disconnect1Desc" xml:space="preserve">
+	<data name="Disconnect1Desc" xml:space="preserve">
     <value>Continue playing without saving.</value>
   </data>
-  <data name="Disconnect0Desc" xml:space="preserve">
+	<data name="Disconnect0Desc" xml:space="preserve">
     <value>The Storage Device has been disconnected! Please insert a Storage Device and press [A] to continue. Note that your AutoSave file may be overwritten when switching Storage Devices.</value>
   </data>
-  <data name="PurchaseAchievementTitle" xml:space="preserve">
+	<data name="PurchaseAchievementTitle" xml:space="preserve">
     <value>Achievement Unlocked!</value>
   </data>
-  <data name="UpgradeCompDesc" xml:space="preserve">
+	<data name="UpgradeCompDesc" xml:space="preserve">
     <value>Do you wish you confirm these upgrades?</value>
   </data>
-  <data name="DisconnectTitle" xml:space="preserve">
+	<data name="DisconnectTitle" xml:space="preserve">
     <value>Storage Disconnected</value>
   </data>
-  <data name="Purchase2" xml:space="preserve">
+	<data name="Purchase2" xml:space="preserve">
     <value>Return to Main Menu</value>
   </data>
-  <data name="Purchase0" xml:space="preserve">
+	<data name="Purchase0" xml:space="preserve">
     <value>Unlock Full Game</value>
   </data>
-  <data name="Purchase1" xml:space="preserve">
+	<data name="Purchase1" xml:space="preserve">
     <value>Cancel</value>
   </data>
-  <data name="SignTitle" xml:space="preserve">
+	<data name="SignTitle" xml:space="preserve">
     <value>Not Signed In</value>
   </data>
-  <data name="Teleport0Desc" xml:space="preserve">
+	<data name="Teleport0Desc" xml:space="preserve">
     <value>Use a Teleport Stone and return to the World Map.
 You have [TELSTONES] Teleport Stones in your possession.</value>
   </data>
-  <data name="Teleport1Desc" xml:space="preserve">
+	<data name="Teleport1Desc" xml:space="preserve">
     <value>Cancel Teleport.</value>
   </data>
-  <data name="TeleportTitle" xml:space="preserve">
+	<data name="TeleportTitle" xml:space="preserve">
     <value>Teleport?</value>
   </data>
-  <data name="SaveSuccessDesc" xml:space="preserve">
+	<data name="SaveSuccessDesc" xml:space="preserve">
     <value>Your game has been successfully saved. Press [A] to continue.</value>
   </data>
-  <data name="SkipTitle" xml:space="preserve">
+	<data name="SkipTitle" xml:space="preserve">
     <value>Scene Paused</value>
   </data>
-  <data name="Skip1Desc" xml:space="preserve">
+	<data name="Skip1Desc" xml:space="preserve">
     <value>Resume this scene.</value>
   </data>
-  <data name="SignOutDesc" xml:space="preserve">
+	<data name="SignOutDesc" xml:space="preserve">
     <value>The Gamer Profile has been changed or signed out. Press [A] to return to the Main Menu.</value>
   </data>
-  <data name="Fail1" xml:space="preserve">
+	<data name="Fail1" xml:space="preserve">
     <value>Cancel</value>
   </data>
-  <data name="Fail0" xml:space="preserve">
+	<data name="Fail0" xml:space="preserve">
     <value>Continue</value>
   </data>
-  <data name="Dead1" xml:space="preserve">
+	<data name="Dead1" xml:space="preserve">
     <value>Menu</value>
   </data>
-  <data name="Dead0" xml:space="preserve">
+	<data name="Dead0" xml:space="preserve">
     <value>Load Game</value>
   </data>
-  <data name="Save0" xml:space="preserve">
+	<data name="Save0" xml:space="preserve">
     <value>Yes</value>
   </data>
-  <data name="Save1" xml:space="preserve">
+	<data name="Save1" xml:space="preserve">
     <value>No</value>
   </data>
-  <data name="Save2" xml:space="preserve">
+	<data name="Save2" xml:space="preserve">
     <value>World Map</value>
   </data>
-  <data name="Skip0" xml:space="preserve">
+	<data name="Skip0" xml:space="preserve">
     <value>Skip</value>
   </data>
-  <data name="Skip1" xml:space="preserve">
+	<data name="Skip1" xml:space="preserve">
     <value>Resume</value>
   </data>
-  <data name="Skip2" xml:space="preserve">
+	<data name="Skip2" xml:space="preserve">
     <value>Auto Advance</value>
   </data>
-  <data name="StorageFullDesc" xml:space="preserve">
+	<data name="StorageFullDesc" xml:space="preserve">
     <value>The Storage Device is full. Please clear space on the Storage Device to access this feature.</value>
   </data>
-  <data name="UpgradeIncompTitle" xml:space="preserve">
+	<data name="UpgradeIncompTitle" xml:space="preserve">
     <value>Upgrades Incomplete!</value>
   </data>
-  <data name="Save2Desc3" xml:space="preserve">
+	<data name="Save2Desc3" xml:space="preserve">
     <value>Return to the World Map. Remember, this is a one-way trip!</value>
   </data>
-  <data name="Save2Desc2" xml:space="preserve">
+	<data name="Save2Desc2" xml:space="preserve">
     <value>You cannot teleport without a Teleport Stone. Always keep a few handy!!</value>
   </data>
-  <data name="Save2Desc1" xml:space="preserve">
+	<data name="Save2Desc1" xml:space="preserve">
     <value>You cannot access the World Map yet.</value>
   </data>
-  <data name="Skip0Desc1" xml:space="preserve">
+	<data name="Skip0Desc1" xml:space="preserve">
     <value>Skip this conversation.</value>
   </data>
-  <data name="Skip0Desc0" xml:space="preserve">
+	<data name="Skip0Desc0" xml:space="preserve">
     <value>Skip this scene.</value>
   </data>
-  <data name="UpgradeIncompDesc" xml:space="preserve">
+	<data name="UpgradeIncompDesc" xml:space="preserve">
     <value>You have not assigned all your skill gems! Do you wish to assign these gems later?</value>
   </data>
-  <data name="Skip2Desc1" xml:space="preserve">
+	<data name="Skip2Desc1" xml:space="preserve">
     <value>Dialogue must be manually advanced.
 Press [A] to enable Auto Advance.</value>
   </data>
-  <data name="Skip2Desc0" xml:space="preserve">
+	<data name="Skip2Desc0" xml:space="preserve">
     <value>Dialogue currently advances automatically.
 Press [A] to disable Auto Advance.</value>
   </data>
-  <data name="DeadTitle" xml:space="preserve">
+	<data name="DeadTitle" xml:space="preserve">
     <value>Ashes to Ashes...</value>
   </data>
-  <data name="Dead1Desc" xml:space="preserve">
+	<data name="Dead1Desc" xml:space="preserve">
     <value>Access the Pause Menu.</value>
   </data>
-  <data name="Dead0Desc" xml:space="preserve">
+	<data name="Dead0Desc" xml:space="preserve">
     <value>Dust has fallen to his enemies.
 Press [A] to load a previous save game.</value>
   </data>
-  <data name="PurchaseAchievementDesc" xml:space="preserve">
+	<data name="PurchaseAchievementDesc" xml:space="preserve">
     <value>You've earned an Achievement! Unlock the Full Game to add it to your Gamerscore!</value>
   </data>
-  <data name="StorageFullTitle" xml:space="preserve">
+	<data name="StorageFullTitle" xml:space="preserve">
     <value>Storage Device Full</value>
   </data>
-  <data name="FileCorruptTitle" xml:space="preserve">
+	<data name="FileCorruptTitle" xml:space="preserve">
     <value>Save File Corrupt</value>
   </data>
-  <data name="Save1Desc" xml:space="preserve">
+	<data name="Save1Desc" xml:space="preserve">
     <value>Cancel save.</value>
   </data>
-  <data name="Save0Desc" xml:space="preserve">
+	<data name="Save0Desc" xml:space="preserve">
     <value>Save your progress.</value>
   </data>
-  <data name="SaveTitle" xml:space="preserve">
+	<data name="SaveTitle" xml:space="preserve">
     <value>Save Game?</value>
   </data>
-  <data name="SaveSuccess" xml:space="preserve">
+	<data name="SaveSuccess" xml:space="preserve">
     <value>Continue</value>
   </data>
 </root>

@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,761 +59,761 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="018_Desc" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="018_Desc" xml:space="preserve">
     <value>A deliciously rich broth filled with handmade noodles and an assortment of seafood.</value>
   </data>
-  <data name="337_Desc" xml:space="preserve">
+	<data name="337_Desc" xml:space="preserve">
     <value>A clump of red moss, ideal for cooking.</value>
   </data>
-  <data name="061_Desc" xml:space="preserve">
+	<data name="061_Desc" xml:space="preserve">
     <value>Once a fine keepsake, time has distorted this pendant.</value>
   </data>
-  <data name="081_Desc" xml:space="preserve">
+	<data name="081_Desc" xml:space="preserve">
     <value>A pendant most rare, worthy of only the greatest warriors.</value>
   </data>
-  <data name="060_Desc" xml:space="preserve">
+	<data name="060_Desc" xml:space="preserve">
     <value>One would be hard-pressed to call this thing "jewelry".</value>
   </data>
-  <data name="080_Desc" xml:space="preserve">
+	<data name="080_Desc" xml:space="preserve">
     <value>A wise man imbued this pendant with properties that provide constant healing.</value>
   </data>
-  <data name="335_Desc" xml:space="preserve">
+	<data name="335_Desc" xml:space="preserve">
     <value>Blop's beloved weapon. Are those teeth marks all over it?</value>
   </data>
-  <data name="330_Desc" xml:space="preserve">
+	<data name="330_Desc" xml:space="preserve">
     <value>This appears to be a very old painting of a newlywed couple. They are smiling happily.</value>
   </data>
-  <data name="333_Desc" xml:space="preserve">
+	<data name="333_Desc" xml:space="preserve">
     <value>A leather-bound diary, worn from heavy use.</value>
   </data>
-  <data name="065_Desc" xml:space="preserve">
+	<data name="065_Desc" xml:space="preserve">
     <value>An odd amalgamation of twigs and bones.</value>
   </data>
-  <data name="336_Desc" xml:space="preserve">
+	<data name="336_Desc" xml:space="preserve">
     <value>One of Gappy's lost flock. </value>
   </data>
-  <data name="064_Desc" xml:space="preserve">
+	<data name="064_Desc" xml:space="preserve">
     <value>A talented artist spent some time engraving this otherwise modest pendant.</value>
   </data>
-  <data name="331_Desc" xml:space="preserve">
+	<data name="331_Desc" xml:space="preserve">
     <value>A regal cane, trimmed with silver.</value>
   </data>
-  <data name="332_Desc" xml:space="preserve">
+	<data name="332_Desc" xml:space="preserve">
     <value>An old, yet beautifully engraved brooch.</value>
   </data>
-  <data name="338_Desc" xml:space="preserve">
+	<data name="338_Desc" xml:space="preserve">
     <value>A basket filled with laundry. These clothes are rather nice.</value>
   </data>
-  <data name="199_Desc" xml:space="preserve">
+	<data name="199_Desc" xml:space="preserve">
     <value>A warm vest that has questionable physical properties but offers improved defenses.</value>
   </data>
-  <data name="339_Desc" xml:space="preserve">
+	<data name="339_Desc" xml:space="preserve">
     <value>Odd, glowing glyphs adorn all sides of this peculiar box.</value>
   </data>
-  <data name="195_Desc" xml:space="preserve">
+	<data name="195_Desc" xml:space="preserve">
     <value>A collection of gear used by ore prospectors traveling throughout the kingdom's many rich quarries.</value>
   </data>
-  <data name="320_Desc" xml:space="preserve">
+	<data name="320_Desc" xml:space="preserve">
     <value>With this device you can make transactions with Haley from anywhere in the world.</value>
   </data>
-  <data name="198_Desc" xml:space="preserve">
+	<data name="198_Desc" xml:space="preserve">
     <value>Assembled from some rather awful things. Not the best choice for social functions, but provides good defense.</value>
   </data>
-  <data name="023_Desc" xml:space="preserve">
+	<data name="023_Desc" xml:space="preserve">
     <value>Only the best parts. Don't cut your fingers!</value>
   </data>
-  <data name="321_Desc" xml:space="preserve">
+	<data name="321_Desc" xml:space="preserve">
     <value>Resonance Gems open all Gem Gates of the same color.</value>
   </data>
-  <data name="022_Desc" xml:space="preserve">
+	<data name="022_Desc" xml:space="preserve">
     <value>With just the right amount of cheese.</value>
   </data>
-  <data name="196_Desc" xml:space="preserve">
+	<data name="196_Desc" xml:space="preserve">
     <value>A moderately-fashionable jacket assembled from trolk pieces.</value>
   </data>
-  <data name="191_Desc" xml:space="preserve">
+	<data name="191_Desc" xml:space="preserve">
     <value>The slimy properties of this armor allow enemy attacks to slide off with reduced effectiveness.</value>
   </data>
-  <data name="024_Desc" xml:space="preserve">
+	<data name="024_Desc" xml:space="preserve">
     <value>One feels incredibly satisfied after this delicious feast of barbequed beef.</value>
   </data>
-  <data name="194_Desc" xml:space="preserve">
+	<data name="194_Desc" xml:space="preserve">
     <value>Worn by those who would travel to the depths of Falana's waterways and oceans.</value>
   </data>
-  <data name="197_Desc" xml:space="preserve">
+	<data name="197_Desc" xml:space="preserve">
     <value>Falana holds many mysteries. Look better solving them with this fashionable coat.</value>
   </data>
-  <data name="192_Desc" xml:space="preserve">
+	<data name="192_Desc" xml:space="preserve">
     <value>An interesting pattern is engraved on this heavy, segmented stone vest.</value>
   </data>
-  <data name="021_Desc" xml:space="preserve">
+	<data name="021_Desc" xml:space="preserve">
     <value>Cooked medium-well, on a lightly buttered bun.</value>
   </data>
-  <data name="020_Desc" xml:space="preserve">
+	<data name="020_Desc" xml:space="preserve">
     <value>Happy birthday!</value>
   </data>
-  <data name="241_Desc" xml:space="preserve">
+	<data name="241_Desc" xml:space="preserve">
     <value>A simple ring worth a bit of gold.</value>
   </data>
-  <data name="190_Desc" xml:space="preserve">
+	<data name="190_Desc" xml:space="preserve">
     <value>Assembled from thousands of tiny, interlocked steel rings.</value>
   </data>
-  <data name="240_Desc" xml:space="preserve">
+	<data name="240_Desc" xml:space="preserve">
     <value>A filthy ring that serves no purpose.</value>
   </data>
-  <data name="193_Desc" xml:space="preserve">
+	<data name="193_Desc" xml:space="preserve">
     <value>A uniform worn by those who specialize in handling the mysterious power called electricity.</value>
   </data>
-  <data name="242_Desc" xml:space="preserve">
+	<data name="242_Desc" xml:space="preserve">
     <value>A nice ring worth a good amount of gold.</value>
   </data>
-  <data name="072_Desc" xml:space="preserve">
+	<data name="072_Desc" xml:space="preserve">
     <value>The rusted pendant of a poor yet confident warrior.</value>
   </data>
-  <data name="071_Desc" xml:space="preserve">
+	<data name="071_Desc" xml:space="preserve">
     <value>The pendant of a noble who hoped to pass this onto his grandchildren. He was an honorable man.</value>
   </data>
-  <data name="076_Desc" xml:space="preserve">
+	<data name="076_Desc" xml:space="preserve">
     <value>Belonged to a soldier who abandoned his post. He survived, but the act followed him to his grave.</value>
   </data>
-  <data name="249_Desc" xml:space="preserve">
+	<data name="249_Desc" xml:space="preserve">
     <value>A plain looking ring that glows in the dark.</value>
   </data>
-  <data name="073_Desc" xml:space="preserve">
+	<data name="073_Desc" xml:space="preserve">
     <value>This will actually make you weaker. Why would anyone want to intentionally do that?</value>
   </data>
-  <data name="070_Desc" xml:space="preserve">
+	<data name="070_Desc" xml:space="preserve">
     <value>This pendant once belonged to a very loving grandmother. She had hoped to pass it onto her grandchildren.</value>
   </data>
-  <data name="075_Desc" xml:space="preserve">
+	<data name="075_Desc" xml:space="preserve">
     <value>A beautiful pendant which grants slight regeneration of health.</value>
   </data>
-  <data name="182_Desc" xml:space="preserve">
+	<data name="182_Desc" xml:space="preserve">
     <value>It will protect you from the cold, but little else.</value>
   </data>
-  <data name="077_Desc" xml:space="preserve">
+	<data name="077_Desc" xml:space="preserve">
     <value>The owner of this pendant swore to be possessed by demons.</value>
   </data>
-  <data name="074_Desc" xml:space="preserve">
+	<data name="074_Desc" xml:space="preserve">
     <value>An artist went to great pains to detail this pendant.</value>
   </data>
-  <data name="136_Desc" xml:space="preserve">
+	<data name="136_Desc" xml:space="preserve">
     <value>An icy sheen on your blade provides additional damage.</value>
   </data>
-  <data name="180_Desc" xml:space="preserve">
+	<data name="180_Desc" xml:space="preserve">
     <value>A rudimentary vest made of leaves. Not the most protective of garments, but better than nothing.</value>
   </data>
-  <data name="079_Desc" xml:space="preserve">
+	<data name="079_Desc" xml:space="preserve">
     <value>This pendant carries great weight, as if it has been through many battles.</value>
   </data>
-  <data name="135_Desc" xml:space="preserve">
+	<data name="135_Desc" xml:space="preserve">
     <value>Concocted by local warriors to deal with creatures born of the mountain.</value>
   </data>
-  <data name="181_Desc" xml:space="preserve">
+	<data name="181_Desc" xml:space="preserve">
     <value>This stiff shirt almost feels like it's going to fall apart.</value>
   </data>
-  <data name="137_Desc" xml:space="preserve">
+	<data name="137_Desc" xml:space="preserve">
     <value>Strengthens the quality of any metal, even the mysterious ores that created Ahrah.</value>
   </data>
-  <data name="078_Desc" xml:space="preserve">
+	<data name="078_Desc" xml:space="preserve">
     <value>This pendant was buried in a poisonous swamp for hundreds of years.</value>
   </data>
-  <data name="132_Desc" xml:space="preserve">
+	<data name="132_Desc" xml:space="preserve">
     <value>You hope this causes an infection.</value>
   </data>
-  <data name="131_Desc" xml:space="preserve">
+	<data name="131_Desc" xml:space="preserve">
     <value>Hit harder with these strong minerals.</value>
   </data>
-  <data name="205_Desc" xml:space="preserve">
+	<data name="205_Desc" xml:space="preserve">
     <value>A special robe designed solely for Sen-Mithrarin, meant to be worn in the thick of battle.</value>
   </data>
-  <data name="134_Desc" xml:space="preserve">
+	<data name="134_Desc" xml:space="preserve">
     <value>A cursed augment that will make your enemies regret crossing you.</value>
   </data>
-  <data name="204_Desc" xml:space="preserve">
+	<data name="204_Desc" xml:space="preserve">
     <value>Extremely resilient armor given to the highest-ranked soldiers in General Gaius' army.</value>
   </data>
-  <data name="133_Desc" xml:space="preserve">
+	<data name="133_Desc" xml:space="preserve">
     <value>A terrible plague is laced in this liquid.</value>
   </data>
-  <data name="201_Desc" xml:space="preserve">
+	<data name="201_Desc" xml:space="preserve">
     <value>A suit meant to protect its wearer from frostbite and bitter cold. It will also protect you from enemy attacks.</value>
   </data>
-  <data name="130_Desc" xml:space="preserve">
+	<data name="130_Desc" xml:space="preserve">
     <value>Teeth can be just as effective a weapon as anything else!</value>
   </data>
-  <data name="200_Desc" xml:space="preserve">
+	<data name="200_Desc" xml:space="preserve">
     <value>Knit by hand using the finest sheep's wool. Provides warmth and added protection.</value>
   </data>
-  <data name="203_Desc" xml:space="preserve">
+	<data name="203_Desc" xml:space="preserve">
     <value>Imbued with incredibly strong obsidian drawn from the volcanic Everdawn Basin. </value>
   </data>
-  <data name="202_Desc" xml:space="preserve">
+	<data name="202_Desc" xml:space="preserve">
     <value>A sturdy outfit designed to aid its wearer in climbing Falana's highest peaks.</value>
   </data>
-  <data name="139_Desc" xml:space="preserve">
+	<data name="139_Desc" xml:space="preserve">
     <value>A legendary augment, summoned by elder Moonbloods.</value>
   </data>
-  <data name="126_Desc" xml:space="preserve">
+	<data name="126_Desc" xml:space="preserve">
     <value>A potent concoction of powerful elements.</value>
   </data>
-  <data name="127_Desc" xml:space="preserve">
+	<data name="127_Desc" xml:space="preserve">
     <value>An unsightly arrangement of wood and nails.</value>
   </data>
-  <data name="122_Desc" xml:space="preserve">
+	<data name="122_Desc" xml:space="preserve">
     <value>This adds a slight gleam to the edge of your blade.</value>
   </data>
-  <data name="138_Desc" xml:space="preserve">
+	<data name="138_Desc" xml:space="preserve">
     <value>A secret military concoction used by the king's soldiers.</value>
   </data>
-  <data name="123_Desc" xml:space="preserve">
+	<data name="123_Desc" xml:space="preserve">
     <value>You appreciate the mirror finish this whetstone offers.</value>
   </data>
-  <data name="253_Desc" xml:space="preserve">
+	<data name="253_Desc" xml:space="preserve">
     <value>Good business sense made this ring's owner very rich.</value>
   </data>
-  <data name="124_Desc" xml:space="preserve">
+	<data name="124_Desc" xml:space="preserve">
     <value>An oily substance that allows you to cut through air more efficiently.</value>
   </data>
-  <data name="250_Desc" xml:space="preserve">
+	<data name="250_Desc" xml:space="preserve">
     <value>The ring of a poor man who lived on the outliers of civilized society.</value>
   </data>
-  <data name="063" xml:space="preserve">
+	<data name="063" xml:space="preserve">
     <value>Child's Pendant</value>
   </data>
-  <data name="062" xml:space="preserve">
+	<data name="062" xml:space="preserve">
     <value>Simple Pendant</value>
   </data>
-  <data name="061" xml:space="preserve">
+	<data name="061" xml:space="preserve">
     <value>Warped Pendant</value>
   </data>
-  <data name="060" xml:space="preserve">
+	<data name="060" xml:space="preserve">
     <value>Filthy Pendant</value>
   </data>
-  <data name="065" xml:space="preserve">
+	<data name="065" xml:space="preserve">
     <value>Pendant of the Creature</value>
   </data>
-  <data name="064" xml:space="preserve">
+	<data name="064" xml:space="preserve">
     <value>Ornamental Pendant</value>
   </data>
-  <data name="072" xml:space="preserve">
+	<data name="072" xml:space="preserve">
     <value>Poor Man's Pendant</value>
   </data>
-  <data name="073" xml:space="preserve">
+	<data name="073" xml:space="preserve">
     <value>Ugly Pendant</value>
   </data>
-  <data name="070" xml:space="preserve">
+	<data name="070" xml:space="preserve">
     <value>Halmeoni Pendant</value>
   </data>
-  <data name="071" xml:space="preserve">
+	<data name="071" xml:space="preserve">
     <value>Harabeoji Pendant</value>
   </data>
-  <data name="076" xml:space="preserve">
+	<data name="076" xml:space="preserve">
     <value>Coward's Pendant</value>
   </data>
-  <data name="077" xml:space="preserve">
+	<data name="077" xml:space="preserve">
     <value>Pendant of the Madman</value>
   </data>
-  <data name="074" xml:space="preserve">
+	<data name="074" xml:space="preserve">
     <value>Pendant of Beauty</value>
   </data>
-  <data name="075" xml:space="preserve">
+	<data name="075" xml:space="preserve">
     <value>Pendant of the Saint</value>
   </data>
-  <data name="078" xml:space="preserve">
+	<data name="078" xml:space="preserve">
     <value>Pendant of the Marsh</value>
   </data>
-  <data name="079" xml:space="preserve">
+	<data name="079" xml:space="preserve">
     <value>Warrior's Pendant</value>
   </data>
-  <data name="004" xml:space="preserve">
+	<data name="004" xml:space="preserve">
     <value>Mysterious Wall Chicken</value>
   </data>
-  <data name="001" xml:space="preserve">
+	<data name="001" xml:space="preserve">
     <value>Louta Nut</value>
   </data>
-  <data name="000" xml:space="preserve">
+	<data name="000" xml:space="preserve">
     <value>Feeble Fruit</value>
   </data>
-  <data name="003" xml:space="preserve">
+	<data name="003" xml:space="preserve">
     <value>Blue Mushroom</value>
   </data>
-  <data name="002" xml:space="preserve">
+	<data name="002" xml:space="preserve">
     <value>Tasty Cupcake</value>
   </data>
-  <data name="014" xml:space="preserve">
+	<data name="014" xml:space="preserve">
     <value>Deadly Delight</value>
   </data>
-  <data name="015" xml:space="preserve">
+	<data name="015" xml:space="preserve">
     <value>Hot Cocoa</value>
   </data>
-  <data name="016" xml:space="preserve">
+	<data name="016" xml:space="preserve">
     <value>Hot Dog</value>
   </data>
-  <data name="017" xml:space="preserve">
+	<data name="017" xml:space="preserve">
     <value>Doenjang Jjigae</value>
   </data>
-  <data name="010" xml:space="preserve">
+	<data name="010" xml:space="preserve">
     <value>Cinnamon Bun</value>
   </data>
-  <data name="011" xml:space="preserve">
+	<data name="011" xml:space="preserve">
     <value>Chaldulbagi</value>
   </data>
-  <data name="012" xml:space="preserve">
+	<data name="012" xml:space="preserve">
     <value>Warm Pretzel</value>
   </data>
-  <data name="013" xml:space="preserve">
+	<data name="013" xml:space="preserve">
     <value>Kim Bap</value>
   </data>
-  <data name="018" xml:space="preserve">
+	<data name="018" xml:space="preserve">
     <value>Champong</value>
   </data>
-  <data name="019" xml:space="preserve">
+	<data name="019" xml:space="preserve">
     <value>Ice Cream Dish</value>
   </data>
-  <data name="024" xml:space="preserve">
+	<data name="024" xml:space="preserve">
     <value>Charred Galbi</value>
   </data>
-  <data name="023" xml:space="preserve">
+	<data name="023" xml:space="preserve">
     <value>King Crab Legs</value>
   </data>
-  <data name="022" xml:space="preserve">
+	<data name="022" xml:space="preserve">
     <value>Lasagna</value>
   </data>
-  <data name="021" xml:space="preserve">
+	<data name="021" xml:space="preserve">
     <value>Buffalo Burger</value>
   </data>
-  <data name="020" xml:space="preserve">
+	<data name="020" xml:space="preserve">
     <value>Birthday Cake</value>
   </data>
-  <data name="081" xml:space="preserve">
+	<data name="081" xml:space="preserve">
     <value>Battle Master's Pendant</value>
   </data>
-  <data name="080" xml:space="preserve">
+	<data name="080" xml:space="preserve">
     <value>Pendant of Wisdom</value>
   </data>
-  <data name="126" xml:space="preserve">
+	<data name="126" xml:space="preserve">
     <value>Strength Salve</value>
   </data>
-  <data name="127" xml:space="preserve">
+	<data name="127" xml:space="preserve">
     <value>Brutal Augment</value>
   </data>
-  <data name="124" xml:space="preserve">
+	<data name="124" xml:space="preserve">
     <value>Imp Oil</value>
   </data>
-  <data name="125" xml:space="preserve">
+	<data name="125" xml:space="preserve">
     <value>Spear Dust</value>
   </data>
-  <data name="122" xml:space="preserve">
+	<data name="122" xml:space="preserve">
     <value>Dull Whetstone</value>
   </data>
-  <data name="123" xml:space="preserve">
+	<data name="123" xml:space="preserve">
     <value>Smooth Whetstone</value>
   </data>
-  <data name="120" xml:space="preserve">
+	<data name="120" xml:space="preserve">
     <value>Egg Shell</value>
   </data>
-  <data name="121" xml:space="preserve">
+	<data name="121" xml:space="preserve">
     <value>Sand Paper</value>
   </data>
-  <data name="128" xml:space="preserve">
+	<data name="128" xml:space="preserve">
     <value>Flak Sheath</value>
   </data>
-  <data name="129" xml:space="preserve">
+	<data name="129" xml:space="preserve">
     <value>Shocker</value>
   </data>
-  <data name="137" xml:space="preserve">
+	<data name="137" xml:space="preserve">
     <value>Metal Augment</value>
   </data>
-  <data name="136" xml:space="preserve">
+	<data name="136" xml:space="preserve">
     <value>Frozen Blade</value>
   </data>
-  <data name="135" xml:space="preserve">
+	<data name="135" xml:space="preserve">
     <value>Mountain Oil</value>
   </data>
-  <data name="134" xml:space="preserve">
+	<data name="134" xml:space="preserve">
     <value>The Wicked</value>
   </data>
-  <data name="133" xml:space="preserve">
+	<data name="133" xml:space="preserve">
     <value>Plague Oil</value>
   </data>
-  <data name="132" xml:space="preserve">
+	<data name="132" xml:space="preserve">
     <value>Flesh Sheath</value>
   </data>
-  <data name="131" xml:space="preserve">
+	<data name="131" xml:space="preserve">
     <value>Massive Augment</value>
   </data>
-  <data name="130" xml:space="preserve">
+	<data name="130" xml:space="preserve">
     <value>Nasty Dentures</value>
   </data>
-  <data name="139" xml:space="preserve">
+	<data name="139" xml:space="preserve">
     <value>Mithrarin's Augment</value>
   </data>
-  <data name="138" xml:space="preserve">
+	<data name="138" xml:space="preserve">
     <value>Military Grade Augment</value>
   </data>
-  <data name="180" xml:space="preserve">
+	<data name="180" xml:space="preserve">
     <value>Leaf Vest</value>
   </data>
-  <data name="181" xml:space="preserve">
+	<data name="181" xml:space="preserve">
     <value>Bark Shirt</value>
   </data>
-  <data name="182" xml:space="preserve">
+	<data name="182" xml:space="preserve">
     <value>Cotton Vest</value>
   </data>
-  <data name="199" xml:space="preserve">
+	<data name="199" xml:space="preserve">
     <value>Spectral Vest</value>
   </data>
-  <data name="198" xml:space="preserve">
+	<data name="198" xml:space="preserve">
     <value>Wrong Vest</value>
   </data>
-  <data name="195" xml:space="preserve">
+	<data name="195" xml:space="preserve">
     <value>Miner's Gear</value>
   </data>
-  <data name="194" xml:space="preserve">
+	<data name="194" xml:space="preserve">
     <value>Wet Suit</value>
   </data>
-  <data name="197" xml:space="preserve">
+	<data name="197" xml:space="preserve">
     <value>Detective's Overcoat</value>
   </data>
-  <data name="196" xml:space="preserve">
+	<data name="196" xml:space="preserve">
     <value>Trolk Jacket</value>
   </data>
-  <data name="191" xml:space="preserve">
+	<data name="191" xml:space="preserve">
     <value>Slime Mail</value>
   </data>
-  <data name="190" xml:space="preserve">
+	<data name="190" xml:space="preserve">
     <value>Light Chain Mail</value>
   </data>
-  <data name="193" xml:space="preserve">
+	<data name="193" xml:space="preserve">
     <value>Electrician's Uniform</value>
   </data>
-  <data name="192" xml:space="preserve">
+	<data name="192" xml:space="preserve">
     <value>Light Stone Vest</value>
   </data>
-  <data name="261" xml:space="preserve">
+	<data name="261" xml:space="preserve">
     <value>Wedding Ring</value>
   </data>
-  <data name="260" xml:space="preserve">
+	<data name="260" xml:space="preserve">
     <value>Foul Ring of Devastation</value>
   </data>
-  <data name="242" xml:space="preserve">
+	<data name="242" xml:space="preserve">
     <value>Smooth Ring</value>
   </data>
-  <data name="241" xml:space="preserve">
+	<data name="241" xml:space="preserve">
     <value>Dull Ring</value>
   </data>
-  <data name="240" xml:space="preserve">
+	<data name="240" xml:space="preserve">
     <value>Dirty Ring</value>
   </data>
-  <data name="249" xml:space="preserve">
+	<data name="249" xml:space="preserve">
     <value>Ring of Sight</value>
   </data>
-  <data name="252" xml:space="preserve">
+	<data name="252" xml:space="preserve">
     <value>Ring of the Miner</value>
   </data>
-  <data name="253" xml:space="preserve">
+	<data name="253" xml:space="preserve">
     <value>Master Ring of Wealth</value>
   </data>
-  <data name="250" xml:space="preserve">
+	<data name="250" xml:space="preserve">
     <value>Ring of the Scavenger</value>
   </data>
-  <data name="251" xml:space="preserve">
+	<data name="251" xml:space="preserve">
     <value>Master Ring of Vigilance</value>
   </data>
-  <data name="256" xml:space="preserve">
+	<data name="256" xml:space="preserve">
     <value>Ring of Patience</value>
   </data>
-  <data name="257" xml:space="preserve">
+	<data name="257" xml:space="preserve">
     <value>Master Ring of the Broken</value>
   </data>
-  <data name="254" xml:space="preserve">
+	<data name="254" xml:space="preserve">
     <value>Ring of the Apprentice</value>
   </data>
-  <data name="255" xml:space="preserve">
+	<data name="255" xml:space="preserve">
     <value>Master Ring of the Artisan</value>
   </data>
-  <data name="258" xml:space="preserve">
+	<data name="258" xml:space="preserve">
     <value>Ring of Study</value>
   </data>
-  <data name="259" xml:space="preserve">
+	<data name="259" xml:space="preserve">
     <value>Master Ring of Focus</value>
   </data>
-  <data name="205" xml:space="preserve">
+	<data name="205" xml:space="preserve">
     <value>Robe of the Mithrarin</value>
   </data>
-  <data name="204" xml:space="preserve">
+	<data name="204" xml:space="preserve">
     <value>Soldier's Armor</value>
   </data>
-  <data name="203" xml:space="preserve">
+	<data name="203" xml:space="preserve">
     <value>Magma Mantle</value>
   </data>
-  <data name="202" xml:space="preserve">
+	<data name="202" xml:space="preserve">
     <value>Mountain Gear</value>
   </data>
-  <data name="201" xml:space="preserve">
+	<data name="201" xml:space="preserve">
     <value>Snow Suit</value>
   </data>
-  <data name="200" xml:space="preserve">
+	<data name="200" xml:space="preserve">
     <value>Warm Sweater</value>
   </data>
-  <data name="342" xml:space="preserve">
+	<data name="342" xml:space="preserve">
     <value>Snow-Filled Cooler</value>
   </data>
-  <data name="340" xml:space="preserve">
+	<data name="340" xml:space="preserve">
     <value>Reed's Evil Box</value>
   </data>
-  <data name="341" xml:space="preserve">
+	<data name="341" xml:space="preserve">
     <value>Geehan's Pocketwatch</value>
   </data>
-  <data name="324" xml:space="preserve">
+	<data name="324" xml:space="preserve">
     <value>Yellow Resonance Gem</value>
   </data>
-  <data name="325" xml:space="preserve">
+	<data name="325" xml:space="preserve">
     <value>White Resonance Gem</value>
   </data>
-  <data name="326" xml:space="preserve">
+	<data name="326" xml:space="preserve">
     <value>Purple Resonance Gem</value>
   </data>
-  <data name="327" xml:space="preserve">
+	<data name="327" xml:space="preserve">
     <value>Aqua Resonance Gem</value>
   </data>
-  <data name="320" xml:space="preserve">
+	<data name="320" xml:space="preserve">
     <value>Haley's Transmitter</value>
   </data>
-  <data name="321" xml:space="preserve">
+	<data name="321" xml:space="preserve">
     <value>Blue Resonance Gem</value>
   </data>
-  <data name="322" xml:space="preserve">
+	<data name="322" xml:space="preserve">
     <value>Red Resonance Gem</value>
   </data>
-  <data name="323" xml:space="preserve">
+	<data name="323" xml:space="preserve">
     <value>Green Resonance Gem</value>
   </data>
-  <data name="328" xml:space="preserve">
+	<data name="328" xml:space="preserve">
     <value>Rainbow Resonance Gem</value>
   </data>
-  <data name="306" xml:space="preserve">
+	<data name="306" xml:space="preserve">
     <value>Red Orb</value>
   </data>
-  <data name="307" xml:space="preserve">
+	<data name="307" xml:space="preserve">
     <value>Fidget Doll</value>
   </data>
-  <data name="305" xml:space="preserve">
+	<data name="305" xml:space="preserve">
     <value>Treasure Key</value>
   </data>
-  <data name="300" xml:space="preserve">
+	<data name="300" xml:space="preserve">
     <value>Teleport Stone</value>
   </data>
-  <data name="301" xml:space="preserve">
+	<data name="301" xml:space="preserve">
     <value>Revival Stone</value>
   </data>
-  <data name="308" xml:space="preserve">
+	<data name="308" xml:space="preserve">
     <value>Cooler</value>
   </data>
-  <data name="335" xml:space="preserve">
+	<data name="335" xml:space="preserve">
     <value>Hittin' Stick</value>
   </data>
-  <data name="337" xml:space="preserve">
+	<data name="337" xml:space="preserve">
     <value>Red Moss</value>
   </data>
-  <data name="336" xml:space="preserve">
+	<data name="336" xml:space="preserve">
     <value>Gappy Sheep</value>
   </data>
-  <data name="331" xml:space="preserve">
+	<data name="331" xml:space="preserve">
     <value>Walking Cane</value>
   </data>
-  <data name="330" xml:space="preserve">
+	<data name="330" xml:space="preserve">
     <value>Old Painting</value>
   </data>
-  <data name="333" xml:space="preserve">
+	<data name="333" xml:space="preserve">
     <value>Personal Diary</value>
   </data>
-  <data name="332" xml:space="preserve">
+	<data name="332" xml:space="preserve">
     <value>Brooch</value>
   </data>
-  <data name="339" xml:space="preserve">
+	<data name="339" xml:space="preserve">
     <value>Reed's Box</value>
   </data>
-  <data name="338" xml:space="preserve">
+	<data name="338" xml:space="preserve">
     <value>Gianni's Laundry</value>
   </data>
-  <data name="125_Desc" xml:space="preserve">
+	<data name="125_Desc" xml:space="preserve">
     <value>Bits of metallic dust to deal increased damage.</value>
   </data>
-  <data name="252_Desc" xml:space="preserve">
+	<data name="252_Desc" xml:space="preserve">
     <value>The owner of this ring ventured deep into Falana's core, discovering many incredible ores and minerals.</value>
   </data>
-  <data name="257_Desc" xml:space="preserve">
+	<data name="257_Desc" xml:space="preserve">
     <value>A ring signifying the close bond between master and servant.</value>
   </data>
-  <data name="120_Desc" xml:space="preserve">
+	<data name="120_Desc" xml:space="preserve">
     <value>Sharpening your blade with this works about as well as you might imagine.</value>
   </data>
-  <data name="254_Desc" xml:space="preserve">
+	<data name="254_Desc" xml:space="preserve">
     <value>For students who wish to excel quickly.</value>
   </data>
-  <data name="121_Desc" xml:space="preserve">
+	<data name="121_Desc" xml:space="preserve">
     <value>You wonder if this is actually dulling your blade.</value>
   </data>
-  <data name="340_Desc" xml:space="preserve">
+	<data name="340_Desc" xml:space="preserve">
     <value>The box is absorbing your health! The only escape... is death!</value>
   </data>
-  <data name="251_Desc" xml:space="preserve">
+	<data name="251_Desc" xml:space="preserve">
     <value>Belonged to a young warrior rewarded for his vigilance.</value>
   </data>
-  <data name="341_Desc" xml:space="preserve">
+	<data name="341_Desc" xml:space="preserve">
     <value>This simple watch holds great sentimental value for Geehan and Oneida.</value>
   </data>
-  <data name="256_Desc" xml:space="preserve">
+	<data name="256_Desc" xml:space="preserve">
     <value>Meant to help its wearer learn patience in the face of adversity.</value>
   </data>
-  <data name="342_Desc" xml:space="preserve">
+	<data name="342_Desc" xml:space="preserve">
     <value>The cooler is doing a surprisingly good job of keeping the snow from melting.</value>
   </data>
-  <data name="258_Desc" xml:space="preserve">
+	<data name="258_Desc" xml:space="preserve">
     <value>Awarded to students in the Craftman's Guild on the eve of their apprenticeships.</value>
   </data>
-  <data name="004_Desc" xml:space="preserve">
+	<data name="004_Desc" xml:space="preserve">
     <value>Found embedded in a wall, this fully-cooked and seasoned chicken comes from unknown origins.</value>
   </data>
-  <data name="255_Desc" xml:space="preserve">
+	<data name="255_Desc" xml:space="preserve">
     <value>The craftsman who wore this ring seemed to master new talents on a daily basis.</value>
   </data>
-  <data name="003_Desc" xml:space="preserve">
+	<data name="003_Desc" xml:space="preserve">
     <value>A bitter aroma emanates from this mysterious mushroom.</value>
   </data>
-  <data name="002_Desc" xml:space="preserve">
+	<data name="002_Desc" xml:space="preserve">
     <value>A freshly baked cupcake, carefully frosted and sprinkled.</value>
   </data>
-  <data name="128_Desc" xml:space="preserve">
+	<data name="128_Desc" xml:space="preserve">
     <value>Lots of pointy bits.</value>
   </data>
-  <data name="001_Desc" xml:space="preserve">
+	<data name="001_Desc" xml:space="preserve">
     <value>This heavy nut is considered to be a rare, tasty delicacy.</value>
   </data>
-  <data name="129_Desc" xml:space="preserve">
+	<data name="129_Desc" xml:space="preserve">
     <value>Mysterious electrical currents compliment this augment.</value>
   </data>
-  <data name="261_Desc" xml:space="preserve">
+	<data name="261_Desc" xml:space="preserve">
     <value>The binding power of this ring overcomes all.</value>
   </data>
-  <data name="000_Desc" xml:space="preserve">
+	<data name="000_Desc" xml:space="preserve">
     <value>A small, juicy fruit that does little for hunger.</value>
   </data>
-  <data name="259_Desc" xml:space="preserve">
+	<data name="259_Desc" xml:space="preserve">
     <value>A rare gift, given to those who show promise in overcoming life's obstacles.</value>
   </data>
-  <data name="260_Desc" xml:space="preserve">
+	<data name="260_Desc" xml:space="preserve">
     <value>A terrifying ring, said to increase the strength of minions to an unnatural degree.</value>
   </data>
-  <data name="305_Desc" xml:space="preserve">
+	<data name="305_Desc" xml:space="preserve">
     <value>A single-use key that can be used to open treasure chests and cages.</value>
   </data>
-  <data name="306_Desc" xml:space="preserve">
+	<data name="306_Desc" xml:space="preserve">
     <value>An opaque crystalline orb. What purpose does it serve?</value>
   </data>
-  <data name="307_Desc" xml:space="preserve">
+	<data name="307_Desc" xml:space="preserve">
     <value>You almost can't tell this doll from the real thing. It's incredible.</value>
   </data>
-  <data name="300_Desc" xml:space="preserve">
+	<data name="300_Desc" xml:space="preserve">
     <value>A single-use stone that teleports the user from a Save Monument to the World Map.</value>
   </data>
-  <data name="301_Desc" xml:space="preserve">
+	<data name="301_Desc" xml:space="preserve">
     <value>A single-use stone that is rumored to rejuvinate the life of a fallen warrior. A second chance, if you will.</value>
   </data>
-  <data name="308_Desc" xml:space="preserve">
+	<data name="308_Desc" xml:space="preserve">
     <value>An interesting machine, capable of keeping its contents ice-cold.</value>
   </data>
-  <data name="015_Desc" xml:space="preserve">
+	<data name="015_Desc" xml:space="preserve">
     <value>Drink it before the marshmallows melt!</value>
   </data>
-  <data name="016_Desc" xml:space="preserve">
+	<data name="016_Desc" xml:space="preserve">
     <value>Do you like yours with mustard? Came in a pack of ten.</value>
   </data>
-  <data name="014_Desc" xml:space="preserve">
+	<data name="014_Desc" xml:space="preserve">
     <value>Looks MUCH better than it tastes. And it looks pretty terrible.</value>
   </data>
-  <data name="011_Desc" xml:space="preserve">
+	<data name="011_Desc" xml:space="preserve">
     <value>Pork with rice, wrapped in a fresh leaf of lettuce.</value>
   </data>
-  <data name="012_Desc" xml:space="preserve">
+	<data name="012_Desc" xml:space="preserve">
     <value>A soft, lightly salted pretzel.</value>
   </data>
-  <data name="017_Desc" xml:space="preserve">
+	<data name="017_Desc" xml:space="preserve">
     <value>Generous chunks of tofu in a thick, spicy bean broth.  Added spices give it that extra kick!</value>
   </data>
-  <data name="010_Desc" xml:space="preserve">
+	<data name="010_Desc" xml:space="preserve">
     <value>A moist pastry with a perfect bun-to-icing ratio.</value>
   </data>
-  <data name="013_Desc" xml:space="preserve">
+	<data name="013_Desc" xml:space="preserve">
     <value>Steamed rice rolled up in a sheet of dried, salted seaweed.</value>
   </data>
-  <data name="019_Desc" xml:space="preserve">
+	<data name="019_Desc" xml:space="preserve">
     <value>A nice cold treat, made even better with chocolate sauce.</value>
   </data>
-  <data name="063_Desc" xml:space="preserve">
+	<data name="063_Desc" xml:space="preserve">
     <value>A bit of a tight fit.</value>
   </data>
-  <data name="062_Desc" xml:space="preserve">
+	<data name="062_Desc" xml:space="preserve">
     <value>A gift from a young man to his lover.</value>
   </data>
 </root>

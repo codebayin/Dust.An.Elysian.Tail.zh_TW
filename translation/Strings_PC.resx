@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,122 +59,122 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="Main5Desc" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="Main5Desc" xml:space="preserve">
     <value>Quit and return to the Desktop.</value>
   </data>
-  <data name="DeleteConfirm" xml:space="preserve">
+	<data name="DeleteConfirm" xml:space="preserve">
     <value>Delete File?
 Previously saved data will be lost.</value>
   </data>
-  <data name="MouseButtonLeft" xml:space="preserve">
+	<data name="MouseButtonLeft" xml:space="preserve">
     <value>Left Button</value>
   </data>
-  <data name="QuestControls" xml:space="preserve">
+	<data name="QuestControls" xml:space="preserve">
     <value>[INVSUBLEFT]/[INVSUBRIGHT] Category     [LTHUMB] Scroll     [B] Exit</value>
   </data>
-  <data name="Legend" xml:space="preserve">
+	<data name="Legend" xml:space="preserve">
     <value>Legend</value>
   </data>
-  <data name="ShopBuy" xml:space="preserve">
+	<data name="ShopBuy" xml:space="preserve">
     <value>Switch to Buy Mode</value>
   </data>
-  <data name="UpgradeComplete" xml:space="preserve">
+	<data name="UpgradeComplete" xml:space="preserve">
     <value>All Skill Gems have been assigned!</value>
   </data>
-  <data name="ShopPurchaseMaterial" xml:space="preserve">
+	<data name="ShopPurchaseMaterial" xml:space="preserve">
     <value>Shop Material</value>
   </data>
-  <data name="LoadControls" xml:space="preserve">
+	<data name="LoadControls" xml:space="preserve">
     <value>[A] Select    [B] Cancel
 [X] Copy     [Y] Delete</value>
   </data>
-  <data name="ShopSell" xml:space="preserve">
+	<data name="ShopSell" xml:space="preserve">
     <value>Switch to Sell Mode</value>
   </data>
-  <data name="Begin" xml:space="preserve">
+	<data name="Begin" xml:space="preserve">
     <value>Press Any Key to Begin</value>
   </data>
-  <data name="ShopPageSwitch" xml:space="preserve">
+	<data name="ShopPageSwitch" xml:space="preserve">
     <value>[INVLEFT], [INVRIGHT] Switch Category</value>
   </data>
-  <data name="MouseButtonMid" xml:space="preserve">
+	<data name="MouseButtonMid" xml:space="preserve">
     <value>Middle Button</value>
   </data>
-  <data name="LoadConfirm" xml:space="preserve">
+	<data name="LoadConfirm" xml:space="preserve">
     <value>Load Game?</value>
   </data>
-  <data name="CopyConfirm" xml:space="preserve">
+	<data name="CopyConfirm" xml:space="preserve">
     <value>Overwrite File?
 Previously saved data will be lost.</value>
   </data>
-  <data name="AchievementSecret" xml:space="preserve">
+	<data name="AchievementSecret" xml:space="preserve">
     <value>This is a secret Achievement!</value>
   </data>
-  <data name="MouseButtonRight" xml:space="preserve">
+	<data name="MouseButtonRight" xml:space="preserve">
     <value>Right Button</value>
   </data>
-  <data name="AchievementLocal" xml:space="preserve">
+	<data name="AchievementLocal" xml:space="preserve">
     <value>You are viewing Achievements earned in your current playthrough. Return to the Main Menu to view Achievements earned globally.</value>
   </data>
-  <data name="HighScores" xml:space="preserve">
+	<data name="HighScores" xml:space="preserve">
     <value>High Scores</value>
   </data>
 </root>

@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,282 +59,282 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="PCHUDControlsKeyboard" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="PCHUDControlsKeyboard" xml:space="preserve">
     <value>[LTHUMB] Move     '+,-' Scale     [Y] Toggle Enemy Stats
 [X] Defaults    [A] Accept    [B] Cancel</value>
   </data>
-  <data name="PCDisabled" xml:space="preserve">
+	<data name="PCDisabled" xml:space="preserve">
     <value>Off</value>
   </data>
-  <data name="PCBlurTitle" xml:space="preserve">
+	<data name="PCBlurTitle" xml:space="preserve">
     <value>Depth of Field:</value>
   </data>
-  <data name="PCControlsOption1" xml:space="preserve">
+	<data name="PCControlsOption1" xml:space="preserve">
     <value>Keyboard Only</value>
   </data>
-  <data name="PCControlsOption0" xml:space="preserve">
+	<data name="PCControlsOption0" xml:space="preserve">
     <value>Xbox 360 Gamepad</value>
   </data>
-  <data name="PCControlsOption2" xml:space="preserve">
+	<data name="PCControlsOption2" xml:space="preserve">
     <value>Mouse &amp; Keyboard</value>
   </data>
-  <data name="SettingsControls" xml:space="preserve">
+	<data name="SettingsControls" xml:space="preserve">
     <value>[LTHUMB] Adjust    [X] Defaults    [A] Accept    [B] Cancel</value>
   </data>
-  <data name="AutoAdvanceTitle" xml:space="preserve">
+	<data name="AutoAdvanceTitle" xml:space="preserve">
     <value>Auto Advance:</value>
   </data>
-  <data name="PCStutter" xml:space="preserve">
+	<data name="PCStutter" xml:space="preserve">
     <value>Enable this feature if there is noticable microstuttering during gameplay, usually as the result of a discrepency in refresh rates. Note that this requires a fast multi-threaded CPU and GPU to work properly, and can cause issues on slower machines.
 Default = (Off).</value>
   </data>
-  <data name="PCCustomizeRestore" xml:space="preserve">
+	<data name="PCCustomizeRestore" xml:space="preserve">
     <value>Restore Defaults</value>
   </data>
-  <data name="PCResolutionConfirm" xml:space="preserve">
+	<data name="PCResolutionConfirm" xml:space="preserve">
     <value>Accept these video settings?</value>
   </data>
-  <data name="AutoAdvance" xml:space="preserve">
+	<data name="AutoAdvance" xml:space="preserve">
     <value>Toggle whether dialogue automatically advances. Recommend (Off) for non-English languages, and for the hearing impaired.
 Default = (On).
 </value>
   </data>
-  <data name="PCFullScreen" xml:space="preserve">
+	<data name="PCFullScreen" xml:space="preserve">
     <value>Toggle between Full Screen and Windowed mode.</value>
   </data>
-  <data name="Rumble" xml:space="preserve">
+	<data name="Rumble" xml:space="preserve">
     <value>Toggle controller vibration.
 Default = (On).</value>
   </data>
-  <data name="PCBlur" xml:space="preserve">
+	<data name="PCBlur" xml:space="preserve">
     <value>Toggle blurring of distant background elements. Enable for a more immersive experience, disable for better performance.
 Default = (On).</value>
   </data>
-  <data name="RumbleTitle" xml:space="preserve">
+	<data name="RumbleTitle" xml:space="preserve">
     <value>Vibration:</value>
   </data>
-  <data name="PCFullscreenTitle" xml:space="preserve">
+	<data name="PCFullscreenTitle" xml:space="preserve">
     <value>Full Screen:</value>
   </data>
-  <data name="PCEnabledLocked" xml:space="preserve">
+	<data name="PCEnabledLocked" xml:space="preserve">
     <value>Locked</value>
   </data>
-  <data name="SettingsTitle" xml:space="preserve">
+	<data name="SettingsTitle" xml:space="preserve">
     <value>Settings</value>
   </data>
-  <data name="PCPostProcess" xml:space="preserve">
+	<data name="PCPostProcess" xml:space="preserve">
     <value>Toggle post-processing bloom, motion blur, and refractive shader effects. Enable for a more immersive experience, disable for better performance.
 Default = (On).</value>
   </data>
-  <data name="PCPortraitOption0" xml:space="preserve">
+	<data name="PCPortraitOption0" xml:space="preserve">
     <value>Normal</value>
   </data>
-  <data name="PCPortraitOption1" xml:space="preserve">
+	<data name="PCPortraitOption1" xml:space="preserve">
     <value>High</value>
   </data>
-  <data name="PCWeatherTitle" xml:space="preserve">
+	<data name="PCWeatherTitle" xml:space="preserve">
     <value>Weather Effects:</value>
   </data>
-  <data name="AutoLevel1" xml:space="preserve">
+	<data name="AutoLevel1" xml:space="preserve">
     <value>Automatically distribute Skill Gems.
 Permanently enabled on Casual difficulty.</value>
   </data>
-  <data name="AutoLevel2" xml:space="preserve">
+	<data name="AutoLevel2" xml:space="preserve">
     <value>Enable / Disable automatic distribution of Skill Gems. Recommend (Off) for gamers that want to customize their play style, and (On) for gamers more interested in exploration and the storyline.
 Default = (Off).</value>
   </data>
-  <data name="AutoFireTitle" xml:space="preserve">
+	<data name="AutoFireTitle" xml:space="preserve">
     <value>Auto Fire:</value>
   </data>
-  <data name="PCResolutionTitle" xml:space="preserve">
+	<data name="PCResolutionTitle" xml:space="preserve">
     <value>Resolution:</value>
   </data>
-  <data name="PCStutterTitle" xml:space="preserve">
+	<data name="PCStutterTitle" xml:space="preserve">
     <value>Variable Refresh:</value>
   </data>
-  <data name="ColorBlind" xml:space="preserve">
+	<data name="ColorBlind" xml:space="preserve">
     <value>Enable / Disable color blind mode. When on, Fidget will indicate the color of Resonance Gates.
 Default = (Off).</value>
   </data>
-  <data name="PCHUDControls2" xml:space="preserve">
+	<data name="PCHUDControls2" xml:space="preserve">
     <value>Toggle Enemy Stats</value>
   </data>
-  <data name="PCHUDControls1" xml:space="preserve">
+	<data name="PCHUDControls1" xml:space="preserve">
     <value>[MOUSEL] Move     [MOUSER] Scale</value>
   </data>
-  <data name="On" xml:space="preserve">
+	<data name="On" xml:space="preserve">
     <value>On</value>
   </data>
-  <data name="PCPortraitTitle" xml:space="preserve">
+	<data name="PCPortraitTitle" xml:space="preserve">
     <value>Portrait Quality:</value>
   </data>
-  <data name="SoundTitle" xml:space="preserve">
+	<data name="SoundTitle" xml:space="preserve">
     <value>Sound Volume:</value>
   </data>
-  <data name="PCEnabled" xml:space="preserve">
+	<data name="PCEnabled" xml:space="preserve">
     <value>On</value>
   </data>
-  <data name="Off" xml:space="preserve">
+	<data name="Off" xml:space="preserve">
     <value>Off</value>
   </data>
-  <data name="Music" xml:space="preserve">
+	<data name="Music" xml:space="preserve">
     <value>Adjust the volume of music.
 Default = (100%).</value>
   </data>
-  <data name="Sound" xml:space="preserve">
+	<data name="Sound" xml:space="preserve">
     <value>Adjust the volume of sound effects, dialogue, and cinematics.
 Default = (100%).</value>
   </data>
-  <data name="PCResolution" xml:space="preserve">
+	<data name="PCResolution" xml:space="preserve">
     <value>Adjust video resolution.</value>
   </data>
-  <data name="HUDControls" xml:space="preserve">
+	<data name="HUDControls" xml:space="preserve">
     <value>[LTHUMB] Move     [RTHUMB] Scale     [Y] Toggle Enemy Stats
 [X] Defaults    [A] Accept    [B] Cancel</value>
   </data>
-  <data name="DifficultyTitle" xml:space="preserve">
+	<data name="DifficultyTitle" xml:space="preserve">
     <value>Difficulty:</value>
   </data>
-  <data name="AutoLevelTitle" xml:space="preserve">
+	<data name="AutoLevelTitle" xml:space="preserve">
     <value>Auto Level-Up:</value>
   </data>
-  <data name="PCPortrait" xml:space="preserve">
+	<data name="PCPortrait" xml:space="preserve">
     <value>High quality portraits offers uncompressed character art during conversations, resulting in better visuals. Note that this is a memory intensive operation, and that the game will drop down to compressed portraits if necessary.
 Default = (Normal).</value>
   </data>
-  <data name="AutoHeal2" xml:space="preserve">
+	<data name="AutoHeal2" xml:space="preserve">
     <value>Select whether to auto-consume healing items on pickup when necessary (On), or always place them into the inventory for manual healing (Off).
 Default = (Off).</value>
   </data>
-  <data name="AutoHeal1" xml:space="preserve">
+	<data name="AutoHeal1" xml:space="preserve">
     <value>Automatically consume pickup items as necessary.
 Permanently enabled on Casual difficulty.</value>
   </data>
-  <data name="AutoFire2" xml:space="preserve">
+	<data name="AutoFire2" xml:space="preserve">
     <value>Enable / Disable melee and projectile Auto Fire for easier play.
 Default = (Off).</value>
   </data>
-  <data name="AutoFire1" xml:space="preserve">
+	<data name="AutoFire1" xml:space="preserve">
     <value>Melee and projectile Auto Fire for easier gameplay.
 Permanently enabled on Casual difficulty.</value>
   </data>
-  <data name="DifficultyChange" xml:space="preserve">
+	<data name="DifficultyChange" xml:space="preserve">
     <value>Change the current difficulty setting.
 You are currently playing on ([CURRENTDIFFICULTY]) difficulty.
 
 Note that lowering your difficulty may deprive you of end-game Achievements.</value>
   </data>
-  <data name="MusicTitle" xml:space="preserve">
+	<data name="MusicTitle" xml:space="preserve">
     <value>Music Volume:</value>
   </data>
-  <data name="AutoHealTitle" xml:space="preserve">
+	<data name="AutoHealTitle" xml:space="preserve">
     <value>Auto Heal:</value>
   </data>
-  <data name="PCCustomizeCol2" xml:space="preserve">
+	<data name="PCCustomizeCol2" xml:space="preserve">
     <value>Mouse</value>
   </data>
-  <data name="PCCustomizeCol1" xml:space="preserve">
+	<data name="PCCustomizeCol1" xml:space="preserve">
     <value>Keyboard</value>
   </data>
-  <data name="PCCustomizeCol0" xml:space="preserve">
+	<data name="PCCustomizeCol0" xml:space="preserve">
     <value>Command</value>
   </data>
-  <data name="PCCustomizeTitle" xml:space="preserve">
+	<data name="PCCustomizeTitle" xml:space="preserve">
     <value>Customize Mouse &amp; Keyboard</value>
   </data>
-  <data name="PCCustomizeHelp0" xml:space="preserve">
+	<data name="PCCustomizeHelp0" xml:space="preserve">
     <value>Left-Click or press (Enter) to assign a key, or press (Delete) to clear highlighted command.</value>
   </data>
-  <data name="PCCustomizeHelp1" xml:space="preserve">
+	<data name="PCCustomizeHelp1" xml:space="preserve">
     <value>Press any key to assign it to this command...</value>
   </data>
-  <data name="Cheating" xml:space="preserve">
+	<data name="Cheating" xml:space="preserve">
     <value>Wouldn't it be cheating to change the difficulty while you are already dead?</value>
   </data>
-  <data name="PCControlsTitle" xml:space="preserve">
+	<data name="PCControlsTitle" xml:space="preserve">
     <value>Control Method:</value>
   </data>
-  <data name="PCPostProcessTitle" xml:space="preserve">
+	<data name="PCPostProcessTitle" xml:space="preserve">
     <value>Post Processing:</value>
   </data>
-  <data name="ColorBlindTitle" xml:space="preserve">
+	<data name="ColorBlindTitle" xml:space="preserve">
     <value>Color Blind Mode:</value>
   </data>
-  <data name="Difficulty2" xml:space="preserve">
+	<data name="Difficulty2" xml:space="preserve">
     <value>Tough</value>
   </data>
-  <data name="Difficulty3" xml:space="preserve">
+	<data name="Difficulty3" xml:space="preserve">
     <value>Hardcore</value>
   </data>
-  <data name="Difficulty0" xml:space="preserve">
+	<data name="Difficulty0" xml:space="preserve">
     <value>Casual</value>
   </data>
-  <data name="Difficulty1" xml:space="preserve">
+	<data name="Difficulty1" xml:space="preserve">
     <value>Normal</value>
   </data>
-  <data name="PCWeather" xml:space="preserve">
+	<data name="PCWeather" xml:space="preserve">
     <value>Toggle weather particle effects. Enable for a more immersive experience, disable for better performance.
 Default = (On).</value>
   </data>
-  <data name="PCControls" xml:space="preserve">
+	<data name="PCControls" xml:space="preserve">
     <value>Dust: An Elysian Tail will dynamically detect your input method and display the user interface accordingly.</value>
   </data>
 </root>

@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,128 +59,128 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="003_000" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="003_000" xml:space="preserve">
     <value>Welcome back, Dust. We always enjoy your company!</value>
   </data>
-  <data name="002_000" xml:space="preserve">
+	<data name="002_000" xml:space="preserve">
     <value>We've found some clumps of red moss for you.</value>
   </data>
-  <data name="002_020" xml:space="preserve">
+	<data name="002_020" xml:space="preserve">
     <value>Thank you, FloHop. Take care.</value>
   </data>
-  <data name="002_011" xml:space="preserve">
+	<data name="002_011" xml:space="preserve">
     <value>Ah, I appreciate the offer, but we're kind of in a rush.</value>
   </data>
-  <data name="002_010" xml:space="preserve">
+	<data name="002_010" xml:space="preserve">
     <value>Oh my, yes! These are lovely! They'll last me for quite a while! Here, why don't you stay for a while and have some soup? Guaranteed to be the best soup you've ever had!</value>
   </data>
-  <data name="002_013" xml:space="preserve">
+	<data name="002_013" xml:space="preserve">
     <value>That's a great idea! Alright, here you go! Enjoy, now!</value>
   </data>
-  <data name="002_012" xml:space="preserve">
+	<data name="002_012" xml:space="preserve">
     <value>So we'll take it to go!</value>
   </data>
-  <data name="001_020" xml:space="preserve">
+	<data name="001_020" xml:space="preserve">
     <value>We're still looking for clumps of red moss.</value>
   </data>
-  <data name="001_000" xml:space="preserve">
+	<data name="001_000" xml:space="preserve">
     <value>Hello again, FloHop.</value>
   </data>
-  <data name="001_010" xml:space="preserve">
+	<data name="001_010" xml:space="preserve">
     <value>Hello young man. I hope you're well!</value>
   </data>
-  <data name="000_100" xml:space="preserve">
+	<data name="000_100" xml:space="preserve">
     <value>In fact, take this ring. It'll provide a little bit of light in the darkest of places.</value>
   </data>
-  <data name="000_080" xml:space="preserve">
+	<data name="000_080" xml:space="preserve">
     <value>It's no trouble, really. If I come across any I'll bring them to you.</value>
   </data>
-  <data name="000_090" xml:space="preserve">
+	<data name="000_090" xml:space="preserve">
     <value>Well, aren't you a sweet one? Red moss clumps grow at base of the large red mushrooms, and they tend to prefer perfect darkness. Just don't hurt yourself on my account!</value>
   </data>
-  <data name="000_020" xml:space="preserve">
+	<data name="000_020" xml:space="preserve">
     <value>Well, it's been years since I've seen someone like you. And it's been maybe 30 years since I've seen a nimbat like your friend here. What a treat!</value>
   </data>
-  <data name="000_000" xml:space="preserve">
+	<data name="000_000" xml:space="preserve">
     <value>Hello dear. I'm going to hazard a guess that you're the outsider in town?</value>
   </data>
-  <data name="000_030" xml:space="preserve">
+	<data name="000_030" xml:space="preserve">
     <value>We don't like flying into caves. You know, the dark? The cramped spaces? The endless, endless gloom... That's endless? Forever?</value>
   </data>
-  <data name="000_035" xml:space="preserve">
+	<data name="000_035" xml:space="preserve">
     <value>Fidget, stop talking.</value>
   </data>
-  <data name="000_060" xml:space="preserve">
+	<data name="000_060" xml:space="preserve">
     <value>I could always help you find some of that red moss if you like.</value>
   </data>
-  <data name="000_010" xml:space="preserve">
+	<data name="000_010" xml:space="preserve">
     <value>I stand out that much, huh?</value>
   </data>
-  <data name="000_040" xml:space="preserve">
+	<data name="000_040" xml:space="preserve">
     <value>I'm sorry, look at me going on. My name is FloHop, and my husband Gappy is up there in the pen minding the sheep.</value>
   </data>
-  <data name="000_070" xml:space="preserve">
+	<data name="000_070" xml:space="preserve">
     <value>Oh, I couldn't bother you for something as silly as that. I know where they use to grow, but with all these monsters about I dare not leave Mudpot.</value>
   </data>
-  <data name="000_050" xml:space="preserve">
+	<data name="000_050" xml:space="preserve">
     <value>He's been so overworked that I was hoping to make him his favorite stew. But to be honest, I'm having trouble growing red moss with the wells running dry. I think I might've gone and made my last stew.</value>
   </data>
 </root>

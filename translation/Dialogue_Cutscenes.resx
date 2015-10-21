@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
+	<!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,260 +59,260 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="050_053" xml:space="preserve">
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" />
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string" />
+							<xsd:attribute name="type" type="xsd:string" />
+							<xsd:attribute name="mimetype" type="xsd:string" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string" />
+							<xsd:attribute name="name" type="xsd:string" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+							<xsd:attribute ref="xml:space" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="050_053" xml:space="preserve">
     <value>So, Mithrarin, you finally see the truth.</value>
   </data>
-  <data name="050_050" xml:space="preserve">
+	<data name="050_050" xml:space="preserve">
     <value>Those eyes... I know those eyes.</value>
   </data>
-  <data name="050_034" xml:space="preserve">
+	<data name="050_034" xml:space="preserve">
     <value>But how? How can I have helped destroy this village, but be a victim of that same act?</value>
   </data>
-  <data name="050_031" xml:space="preserve">
+	<data name="050_031" xml:space="preserve">
     <value>I... I remember now!</value>
   </data>
-  <data name="050_048" xml:space="preserve">
+	<data name="050_048" xml:space="preserve">
     <value>Ginger...</value>
   </data>
-  <data name="050_042" xml:space="preserve">
+	<data name="050_042" xml:space="preserve">
     <value>That's impossible...</value>
   </data>
-  <data name="050_044" xml:space="preserve">
+	<data name="050_044" xml:space="preserve">
     <value>Only impossible for a creature with a single soul.</value>
   </data>
-  <data name="050_018" xml:space="preserve">
+	<data name="050_018" xml:space="preserve">
     <value>Dust? What are you saying?</value>
   </data>
-  <data name="050_015" xml:space="preserve">
+	<data name="050_015" xml:space="preserve">
     <value>She couldn't know what I was about to do.</value>
   </data>
-  <data name="050_026" xml:space="preserve">
+	<data name="050_026" xml:space="preserve">
     <value>You mean...? You're...? But how!? WHAT'S GOING ON HERE?</value>
   </data>
-  <data name="050_021" xml:space="preserve">
+	<data name="050_021" xml:space="preserve">
     <value>She couldn't know that I was about to go avenge our parents.</value>
   </data>
-  <data name="050_008" xml:space="preserve">
+	<data name="050_008" xml:space="preserve">
     <value>But... I hesitated. I didn't want to wake her. Didn't want her to worry about me.</value>
   </data>
-  <data name="050_005" xml:space="preserve">
+	<data name="050_005" xml:space="preserve">
     <value>... on the night I came to say goodbye.</value>
   </data>
-  <data name="050_002" xml:space="preserve">
+	<data name="050_002" xml:space="preserve">
     <value>Ginger... she was sleeping right here...</value>
   </data>
-  <data name="060_041" xml:space="preserve">
+	<data name="060_041" xml:space="preserve">
     <value>Aaaaah!!</value>
   </data>
-  <data name="060_043" xml:space="preserve">
+	<data name="060_043" xml:space="preserve">
     <value>Hrawwww!!!</value>
   </data>
-  <data name="060_005" xml:space="preserve">
+	<data name="060_005" xml:space="preserve">
     <value>You murderer! My parents did nothing wrong!</value>
   </data>
-  <data name="060_024" xml:space="preserve">
+	<data name="060_024" xml:space="preserve">
     <value>You destroyed my village... murdered my friends and family! You will not survive this day!</value>
   </data>
-  <data name="060_019" xml:space="preserve">
+	<data name="060_019" xml:space="preserve">
     <value>What resistance there was, was led by your family alone.</value>
   </data>
-  <data name="060_011" xml:space="preserve">
+	<data name="060_011" xml:space="preserve">
     <value>You have been deceived, little one. Your parents turned against their king - an act of pure treason.</value>
   </data>
-  <data name="060_034" xml:space="preserve">
+	<data name="060_034" xml:space="preserve">
     <value>I take no joy in slaughtering one as young as you, child, but you have forced my hand.</value>
   </data>
-  <data name="000_023" xml:space="preserve">
+	<data name="000_023" xml:space="preserve">
     <value>and it was in this our most desperate hour that the greatest of Elysian tales began.</value>
   </data>
-  <data name="000_000" xml:space="preserve">
+	<data name="000_000" xml:space="preserve">
     <value>Our world has fallen to fade.</value>
   </data>
-  <data name="000_004" xml:space="preserve">
+	<data name="000_004" xml:space="preserve">
     <value>Its great works long-since complete, its storied civilizations long-since fallen to dust,</value>
   </data>
-  <data name="000_039" xml:space="preserve">
+	<data name="000_039" xml:space="preserve">
     <value>The mob stood no chance, and the soldier showed no mercy.</value>
   </data>
-  <data name="000_032" xml:space="preserve">
+	<data name="000_032" xml:space="preserve">
     <value>The lone warrior stood against an army, slashing his way through all who opposed him.</value>
   </data>
-  <data name="000_011" xml:space="preserve">
+	<data name="000_011" xml:space="preserve">
     <value>the greatest legends of Elysium long-since forgotten.</value>
   </data>
-  <data name="000_017" xml:space="preserve">
+	<data name="000_017" xml:space="preserve">
     <value>What was once a land of promise has fallen to the ravages of war,</value>
   </data>
-  <data name="000_046" xml:space="preserve">
+	<data name="000_046" xml:space="preserve">
     <value>But despite his victories, his skills, his ruthlessness, the valiant soldier would perish on this day.</value>
   </data>
-  <data name="000_056" xml:space="preserve">
+	<data name="000_056" xml:space="preserve">
     <value>Not to the mob, but to a single child.</value>
   </data>
-  <data name="010_012" xml:space="preserve">
+	<data name="010_012" xml:space="preserve">
     <value>Oh no no no no!  Doh!</value>
   </data>
-  <data name="010_010" xml:space="preserve">
+	<data name="010_010" xml:space="preserve">
     <value>Hey..... Hey!</value>
   </data>
-  <data name="010_008" xml:space="preserve">
+	<data name="010_008" xml:space="preserve">
     <value>Mmm. Mmm! Om nom nom nom nom.</value>
   </data>
-  <data name="010_000" xml:space="preserve">
+	<data name="010_000" xml:space="preserve">
     <value>A year has passed, and the world continues its decline, waiting for a hero to rise from the ashes.</value>
   </data>
-  <data name="010_006" xml:space="preserve">
+	<data name="010_006" xml:space="preserve">
     <value>Ahh!</value>
   </data>
-  <data name="010_004" xml:space="preserve">
+	<data name="010_004" xml:space="preserve">
     <value>Mmm mmm mmm, doo dee doo dee dooo... </value>
   </data>
-  <data name="030_000" xml:space="preserve">
+	<data name="030_000" xml:space="preserve">
     <value>Meanwhile, far to the north...</value>
   </data>
-  <data name="100_024" xml:space="preserve">
+	<data name="100_024" xml:space="preserve">
     <value>A cleansing storm to sweep across the land and purge it of your foul presence.</value>
   </data>
-  <data name="100_030" xml:space="preserve">
+	<data name="100_030" xml:space="preserve">
     <value>I am Dust. And your campaign ends here, now.</value>
   </data>
-  <data name="100_036" xml:space="preserve">
+	<data name="100_036" xml:space="preserve">
     <value>Throw down your weapons and surrender, or you will face an enemy unlike any this world has ever seen.</value>
   </data>
-  <data name="100_000" xml:space="preserve">
+	<data name="100_000" xml:space="preserve">
     <value>Jin is dead. As is Cassius. Their souls now live within me, constantly reliving that fateful day, forever in battle, forever at odds.</value>
   </data>
-  <data name="100_018" xml:space="preserve">
+	<data name="100_018" xml:space="preserve">
     <value>I am justice incarnate, brought to this world by forces beyond your comprehension.</value>
   </data>
-  <data name="100_012" xml:space="preserve">
+	<data name="100_012" xml:space="preserve">
     <value>But as long as I live, I still have a choice.</value>
   </data>
-  <data name="100_016" xml:space="preserve">
+	<data name="100_016" xml:space="preserve">
     <value>Then what are you!?</value>
   </data>
-  <data name="100_049" xml:space="preserve">
+	<data name="100_049" xml:space="preserve">
     <value>Let's end this.</value>
   </data>
-  <data name="100_044" xml:space="preserve">
+	<data name="100_044" xml:space="preserve">
     <value>Cassius, please - don't do this. You know you cannot win.</value>
   </data>
-  <data name="120_082" xml:space="preserve">
+	<data name="120_082" xml:space="preserve">
     <value>Goodbye... Dust.</value>
   </data>
-  <data name="120_009" xml:space="preserve">
+	<data name="120_009" xml:space="preserve">
     <value>Yes... you are. But Cassius is gone... as is the world we once loved.</value>
   </data>
-  <data name="120_002" xml:space="preserve">
+	<data name="120_002" xml:space="preserve">
     <value>You... you’re not Cassius...</value>
   </data>
-  <data name="120_006" xml:space="preserve">
+	<data name="120_006" xml:space="preserve">
     <value>Yes, I am.</value>
   </data>
-  <data name="120_019" xml:space="preserve">
+	<data name="120_019" xml:space="preserve">
     <value>Cherish it.</value>
   </data>
-  <data name="120_036" xml:space="preserve">
+	<data name="120_036" xml:space="preserve">
     <value>Dust!?</value>
   </data>
-  <data name="120_046" xml:space="preserve">
+	<data name="120_046" xml:space="preserve">
     <value>Dust!? Dust!</value>
   </data>
-  <data name="120_042" xml:space="preserve">
+	<data name="120_042" xml:space="preserve">
     <value>Fidget! There, I see him!</value>
   </data>
-  <data name="120_054" xml:space="preserve">
+	<data name="120_054" xml:space="preserve">
     <value>Not without you! C’mon, Dust! Get up!</value>
   </data>
-  <data name="120_050" xml:space="preserve">
+	<data name="120_050" xml:space="preserve">
     <value>Fidget, get out. Go.</value>
   </data>
-  <data name="120_067" xml:space="preserve">
+	<data name="120_067" xml:space="preserve">
     <value>And sometimes that’s not enough, Fidget. When the Life Thread calls-...</value>
   </data>
-  <data name="120_061" xml:space="preserve">
+	<data name="120_061" xml:space="preserve">
     <value>We did everything right, Dust... Everything we were supposed to do.</value>
   </data>
-  <data name="120_077" xml:space="preserve">
+	<data name="120_077" xml:space="preserve">
     <value>Fidget... thank you.</value>
   </data>
-  <data name="120_182" xml:space="preserve">
+	<data name="120_182" xml:space="preserve">
     <value>A current caught in the winds of change, a harbinger of storms yet to come...</value>
   </data>
-  <data name="120_191" xml:space="preserve">
+	<data name="120_191" xml:space="preserve">
     <value>Dust?</value>
   </data>
-  <data name="120_103" xml:space="preserve">
+	<data name="120_103" xml:space="preserve">
     <value>Dust... No...</value>
   </data>
-  <data name="120_148" xml:space="preserve">
+	<data name="120_148" xml:space="preserve">
     <value>We will never forget his sacrifice, or the deeds that saved our very world. We shall always remember what happened here.</value>
   </data>
-  <data name="120_141" xml:space="preserve">
+	<data name="120_141" xml:space="preserve">
     <value>Through the actions of our Sen-Mithrarin... Dust... the Moonblood race is finally free.</value>
   </data>
-  <data name="120_169" xml:space="preserve">
+	<data name="120_169" xml:space="preserve">
     <value>Though it may appear that Dust has fallen here today, a force of good is not so easily extinguished. Sen-Mithrarin was born of the dust...</value>
   </data>
-  <data name="120_156" xml:space="preserve">
+	<data name="120_156" xml:space="preserve">
     <value>Dust’s sacrifice will allow the Moonblood race to rise again - to rebuild our glorious civilization and live peacefully among the races of this world.</value>
   </data>
 </root>
