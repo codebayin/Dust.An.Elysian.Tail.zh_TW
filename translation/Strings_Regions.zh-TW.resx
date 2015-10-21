@@ -117,4 +117,67 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="cove" xml:space="preserve">
+		<value>隱秘海灣</value>
+	</data>
+	<data name="cavevillage" xml:space="preserve">
+		<value>沸泥潭</value>
+	</data>
+	<data name="glade" xml:space="preserve">
+		<value>林間空地</value>
+	</data>
+	<data name="lavacamp" xml:space="preserve">
+		<value>月血營地</value>
+	</data>
+	<data name="lava" xml:space="preserve">
+		<value>恆曉窪地</value>
+	</data>
+	<data name="sanctuary" xml:space="preserve">
+		<value>庇護所</value>
+	</data>
+	<data name="forest" xml:space="preserve">
+		<value>阿巴蒂斯森林</value>
+	</data>
+	<data name="cave" xml:space="preserve">
+		<value>西洛蒙洞穴</value>
+	</data>
+	<data name="farm" xml:space="preserve">
+		<value>吉亨的農場</value>
+	</data>
+	<data name="smith" xml:space="preserve">
+		<value>射手山隘</value>
+	</data>
+	<data name="zeplich" xml:space="preserve">
+		<value>澤普林奇村</value>
+	</data>
+	<data name="mansion1" xml:space="preserve">
+		<value>巴德爾宅邸</value>
+	</data>
+	<data name="mansion2" xml:space="preserve">
+		<value>朵莉茉宅邸</value>
+	</data>
+	<data name="mansion3" xml:space="preserve">
+		<value>薩瑪楚阿宅邸</value>
+	</data>
+	<data name="mansion4" xml:space="preserve">
+		<value>奈諾斯宅邸</value>
+	</data>
+	<data name="trial" xml:space="preserve">
+		<value>西萊利安試煉</value>
+	</data>
+	<data name="ivy" xml:space="preserve">
+		<value>藤蔓幽谷</value>
+	</data>
+	<data name="grave" xml:space="preserve">
+		<value>悲慟荒原</value>
+	</data>
+	<data name="aurora" xml:space="preserve">
+		<value>極光村</value>
+	</data>
+	<data name="denham" xml:space="preserve">
+		<value>峽谷村</value>
+	</data>
+	<data name="snow" xml:space="preserve">
+		<value>黑原山脈</value>
+	</data>
 </root>
