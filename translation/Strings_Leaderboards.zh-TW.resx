@@ -117,4 +117,59 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="controls" xml:space="preserve">
+		<value>[A] 查看玩家檔案     [B] 離開     [LT][RT] 上一頁/下一頁
+[LB][RB] 切換排行榜     [X] 切換過濾條件</value>
+	</data>
+	<data name="filter104" xml:space="preserve">
+		<value>殺敵數</value>
+	</data>
+	<data name="filter100" xml:space="preserve">
+		<value>完成度</value>
+	</data>
+	<data name="filter101" xml:space="preserve">
+		<value>財富值</value>
+	</data>
+	<data name="filter102" xml:space="preserve">
+		<value>最高連段</value>
+	</data>
+	<data name="filter103" xml:space="preserve">
+		<value>遊戲時間</value>
+	</data>
+	<data name="connectionlost" xml:space="preserve">
+		<value>與Xbox LIVE的連線已斷。請重新連線以查看排行榜。</value>
+	</data>
+	<data name="friendsnotranked" xml:space="preserve">
+		<value>你沒有好友列入此排行榜。</value>
+	</data>
+	<data name="playernotranked" xml:space="preserve">
+		<value>你尚未列入此排行榜。</value>
+	</data>
+	<data name="gamertag" xml:space="preserve">
+		<value>玩家暱稱</value>
+	</data>
+	<data name="totalplayers" xml:space="preserve">
+		<value>玩家總數：</value>
+	</data>
+	<data name="filter" xml:space="preserve">
+		<value>過濾條件：</value>
+	</data>
+	<data name="category1" xml:space="preserve">
+		<value>個人</value>
+	</data>
+	<data name="category0" xml:space="preserve">
+		<value>好友</value>
+	</data>
+	<data name="category2" xml:space="preserve">
+		<value>全球</value>
+	</data>
+	<data name="challengecontrols" xml:space="preserve">
+		<value>[A] 排行榜     [B] 離開</value>
+	</data>
+	<data name="live" xml:space="preserve">
+		<value>你必須登入Xbox LIVE才能查看排行榜。</value>
+	</data>
+	<data name="rank" xml:space="preserve">
+		<value>排名</value>
+	</data>
 </root>
