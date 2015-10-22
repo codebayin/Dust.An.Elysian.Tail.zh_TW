@@ -117,4 +117,223 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="PCDisabled" xml:space="preserve">
+		<value>關閉</value>
+	</data>
+	<data name="PCBlurTitle" xml:space="preserve">
+		<value>景深：</value>
+	</data>
+	<data name="PCControlsOption0" xml:space="preserve">
+		<value>Xbox 360手把</value>
+	</data>
+	<data name="SettingsControls" xml:space="preserve">
+		<value>[LTHUMB] 調整    [X] 預設    [A] 接受    [B] 取消</value>
+	</data>
+	<data name="PCCustomizeRestore" xml:space="preserve">
+		<value>恢復預設值</value>
+	</data>
+	<data name="PCResolutionConfirm" xml:space="preserve">
+		<value>接受新的影像設定？</value>
+	</data>
+	<data name="Rumble" xml:space="preserve">
+		<value>切換手把震動。
+預設 = （開啟）。</value>
+	</data>
+	<data name="RumbleTitle" xml:space="preserve">
+		<value>震動：</value>
+	</data>
+	<data name="PCFullscreenTitle" xml:space="preserve">
+		<value>全螢幕：</value>
+	</data>
+	<data name="SettingsTitle" xml:space="preserve">
+		<value>設定</value>
+	</data>
+	<data name="PCPortraitOption0" xml:space="preserve">
+		<value>普通</value>
+	</data>
+	<data name="PCPortraitOption1" xml:space="preserve">
+		<value>高</value>
+	</data>
+	<data name="PCWeatherTitle" xml:space="preserve">
+		<value>天氣效果：</value>
+	</data>
+	<data name="PCResolutionTitle" xml:space="preserve">
+		<value>解析度：</value>
+	</data>
+	<data name="PCStutterTitle" xml:space="preserve">
+		<value>動態更新率：</value>
+	</data>
+	<data name="On" xml:space="preserve">
+		<value>開啟</value>
+	</data>
+	<data name="SoundTitle" xml:space="preserve">
+		<value>音效音量：</value>
+	</data>
+	<data name="PCEnabled" xml:space="preserve">
+		<value>開啟</value>
+	</data>
+	<data name="Off" xml:space="preserve">
+		<value>關閉</value>
+	</data>
+	<data name="Music" xml:space="preserve">
+		<value>調整音樂音量。
+預設 = （100%）。</value>
+	</data>
+	<data name="Sound" xml:space="preserve">
+		<value>調整音效、對話和過場音量。
+預設 = （100%）。</value>
+	</data>
+	<data name="PCResolution" xml:space="preserve">
+		<value>調整影像解析度。</value>
+	</data>
+	<data name="DifficultyTitle" xml:space="preserve">
+		<value>難度：</value>
+	</data>
+	<data name="MusicTitle" xml:space="preserve">
+		<value>音樂音量：</value>
+	</data>
+	<data name="PCCustomizeCol2" xml:space="preserve">
+		<value>滑鼠</value>
+	</data>
+	<data name="PCCustomizeCol1" xml:space="preserve">
+		<value>鍵盤</value>
+	</data>
+	<data name="ColorBlindTitle" xml:space="preserve">
+		<value>色盲模式：</value>
+	</data>
+	<data name="Difficulty2" xml:space="preserve">
+		<value>困難</value>
+	</data>
+	<data name="Difficulty3" xml:space="preserve">
+		<value>硬派</value>
+	</data>
+	<data name="Difficulty0" xml:space="preserve">
+		<value>休閒</value>
+	</data>
+	<data name="Difficulty1" xml:space="preserve">
+		<value>普通</value>
+	</data>
+	<data name="PCWeather" xml:space="preserve">
+		<value>切換天氣粒子特效。開啟以獲得身臨其境的體驗，關閉以獲得更好的效能。
+預設 = （開啟）。</value>
+	</data>
+	<data name="PCPostProcessTitle" xml:space="preserve">
+		<value>後製處理：</value>
+	</data>
+	<data name="PCPortraitTitle" xml:space="preserve">
+		<value>肖像品質：</value>
+	</data>
+	<data name="PCPostProcess" xml:space="preserve">
+		<value>切換後製處理泛光、動態模糊和折射渲染特效。開啟以獲得身臨其境的體驗，關閉以獲得更好的效能。
+預設 = （開啟）。</value>
+	</data>
+	<data name="PCHUDControls1" xml:space="preserve">
+		<value>[MOUSEL] 移動     [MOUSER] 縮放</value>
+	</data>
+	<data name="PCHUDControlsKeyboard" xml:space="preserve">
+		<value>[LTHUMB] 移動     '+,-' 縮放     [Y] 切換敵人狀態
+[X] 預設    [A] 接受    [B] 取消</value>
+	</data>
+	<data name="PCHUDControls2" xml:space="preserve">
+		<value>切換敵人狀態</value>
+	</data>
+	<data name="PCFullScreen" xml:space="preserve">
+		<value>切換為全螢幕或視窗模式。</value>
+	</data>
+	<data name="PCCustomizeTitle" xml:space="preserve">
+		<value>自訂滑鼠和鍵盤</value>
+	</data>
+	<data name="HUDControls" xml:space="preserve">
+		<value>[LTHUMB] 移動     [RTHUMB] 縮放     [Y] 切換敵人狀態
+[X] 預設    [A] 接受    [B] 取消</value>
+	</data>
+	<data name="PCPortrait" xml:space="preserve">
+		<value>高品質肖像能在對話時顯示未壓縮的人物圖像，提供更好的視覺體驗。注意，這是非常耗記憶體的操作，並且遊戲會在必要時改用壓縮的肖像。
+預設 = （普通）。</value>
+	</data>
+	<data name="PCEnabledLocked" xml:space="preserve">
+		<value>鎖住</value>
+	</data>
+	<data name="PCControlsOption2" xml:space="preserve">
+		<value>滑鼠和鍵盤</value>
+	</data>
+	<data name="PCCustomizeCol0" xml:space="preserve">
+		<value>動作</value>
+	</data>
+	<data name="PCControlsTitle" xml:space="preserve">
+		<value>控制方式：</value>
+	</data>
+	<data name="PCControlsOption1" xml:space="preserve">
+		<value>僅限鍵盤</value>
+	</data>
+	<data name="PCCustomizeHelp1" xml:space="preserve">
+		<value>按任意鍵指定……</value>
+	</data>
+	<data name="PCCustomizeHelp0" xml:space="preserve">
+		<value>按滑鼠左鍵或Enter鍵以指定按鍵，或者按Delete鍵以清除選中的動作。</value>
+	</data>
+	<data name="PCControls" xml:space="preserve">
+		<value>《塵埃：幸福的軌跡》會動態偵測你的輸入方式，並顯示相應的介面。</value>
+	</data>
+	<data name="DifficultyChange" xml:space="preserve">
+		<value>變更目前的難度設定。
+你目前以[CURRENTDIFFICULTY]難度進行遊戲。
+
+注意，降低難度可能會喪失通關成就。</value>
+	</data>
+	<data name="ColorBlind" xml:space="preserve">
+		<value>開啟/關閉色盲模式。開啟的時候，菲基特會指示共鳴門的顏色。
+預設 = （關閉）。</value>
+	</data>
+	<data name="AutoLevelTitle" xml:space="preserve">
+		<value>自動升級：</value>
+	</data>
+	<data name="AutoHealTitle" xml:space="preserve">
+		<value>自動治療：</value>
+	</data>
+	<data name="AutoFireTitle" xml:space="preserve">
+		<value>自動攻擊：</value>
+	</data>
+	<data name="Cheating" xml:space="preserve">
+		<value>當死亡後變更難度，算不算作弊？</value>
+	</data>
+	<data name="PCBlur" xml:space="preserve">
+		<value>切換遠景物件的模糊度。開啟以獲得身臨其境的體驗，關閉以獲得更好的效能。
+預設 = （開啟）。</value>
+	</data>
+	<data name="AutoAdvanceTitle" xml:space="preserve">
+		<value>自動對話：</value>
+	</data>
+	<data name="AutoAdvance" xml:space="preserve">
+		<value>切換對話是否自動推進。建議非英語系和聽力有障礙者選擇關閉。
+預設 = （開啟）。</value>
+	</data>
+	<data name="PCStutter" xml:space="preserve">
+		<value>如果遊戲中感到畫面有微小卡頓就開啟這項功能，通常這種情況都是更新率的問題。注意，這項功能需要高速的多線程CPU和GPU才能正常運作，慢速的電腦上可能會造成問題。
+預設 = （關閉）。</value>
+	</data>
+	<data name="AutoLevel1" xml:space="preserve">
+		<value>自動分配技能寶石。
+休閒難度下永久開啟。</value>
+	</data>
+	<data name="AutoFire2" xml:space="preserve">
+		<value>開啟/關閉近戰和遠程的自動攻擊，玩起來更輕鬆。
+預設 = （關閉）。</value>
+	</data>
+	<data name="AutoHeal1" xml:space="preserve">
+		<value>需要時自動使用拾起的物品。
+休閒難度下永久開啟。</value>
+	</data>
+	<data name="AutoFire1" xml:space="preserve">
+		<value>近戰和遠程自動攻擊，玩起來更輕鬆。
+休閒難度下永久開啟。</value>
+	</data>
+	<data name="AutoHeal2" xml:space="preserve">
+		<value>選擇在必要之時，拾起治療物品就自動使用，還是一律放進物品欄再手動使用。
+預設 = （關閉）。</value>
+	</data>
+	<data name="AutoLevel2" xml:space="preserve">
+		<value>開啟/關閉自動分配技能寶石。想自訂玩法風格的玩家建議關閉，熱衷於探索和故事的玩家建議開啟。
+預設 = （關閉）。</value>
+	</data>
 </root>
