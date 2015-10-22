@@ -117,4 +117,109 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="Main6Desc" xml:space="preserve">
+		<value>離開並回到主選單。</value>
+	</data>
+	<data name="Main2Desc" xml:space="preserve">
+		<value>了解如何進行遊戲，調整遊戲設定和介面設定。</value>
+	</data>
+	<data name="Main3Desc" xml:space="preserve">
+		<value>載入先前的存檔。注意，任何未儲存的進度將會遺失！</value>
+	</data>
+	<data name="Main4Desc" xml:space="preserve">
+		<value>查看你的線上排名。</value>
+	</data>
+	<data name="Main5Desc" xml:space="preserve">
+		<value>欣賞你的成就。</value>
+	</data>
+	<data name="Main0Desc" xml:space="preserve">
+		<value>繼續進行遊戲。</value>
+	</data>
+	<data name="Main1Desc" xml:space="preserve">
+		<value>解鎖完整版遊戲。</value>
+	</data>
+	<data name="Option2Desc" xml:space="preserve">
+		<value>調整聲音、手把和遊戲設定。</value>
+	</data>
+	<data name="Option3Desc" xml:space="preserve">
+		<value>調整介面布局設定。</value>
+	</data>
+	<data name="Option4Desc" xml:space="preserve">
+		<value>查看製作團隊名單。</value>
+	</data>
+	<data name="Option0Desc" xml:space="preserve">
+		<value>閱讀遊戲手冊。</value>
+	</data>
+	<data name="Option1Desc" xml:space="preserve">
+		<value>查看控制方法。</value>
+	</data>
+	<data name="OptionsTitle" xml:space="preserve">
+		<value>說明與選項</value>
+	</data>
+	<data name="PauseBack" xml:space="preserve">
+		<value>返回</value>
+	</data>
+	<data name="PauseControls" xml:space="preserve">
+		<value>[A] 選擇     [B] 取消</value>
+	</data>
+	<data name="Main6" xml:space="preserve">
+		<value>離開遊戲</value>
+	</data>
+	<data name="Main4" xml:space="preserve">
+		<value>排行榜</value>
+	</data>
+	<data name="Main5" xml:space="preserve">
+		<value>成就</value>
+	</data>
+	<data name="Main2" xml:space="preserve">
+		<value>說明與選項</value>
+	</data>
+	<data name="Main3" xml:space="preserve">
+		<value>載入遊戲</value>
+	</data>
+	<data name="Main0" xml:space="preserve">
+		<value>繼續遊戲</value>
+	</data>
+	<data name="Main1" xml:space="preserve">
+		<value>解鎖完整遊戲</value>
+	</data>
+	<data name="Quit0" xml:space="preserve">
+		<value>是</value>
+	</data>
+	<data name="Quit1" xml:space="preserve">
+		<value>否</value>
+	</data>
+	<data name="Main3DescTrial" xml:space="preserve">
+		<value>試玩模式下無法使用。解鎖完整版遊戲以使用這項功能！</value>
+	</data>
+	<data name="PauseTitle" xml:space="preserve">
+		<value>遊戲暫停</value>
+	</data>
+	<data name="Option4" xml:space="preserve">
+		<value>製作團隊</value>
+	</data>
+	<data name="Option2" xml:space="preserve">
+		<value>設定</value>
+	</data>
+	<data name="Option3" xml:space="preserve">
+		<value>調整介面</value>
+	</data>
+	<data name="Option0" xml:space="preserve">
+		<value>遊戲指南</value>
+	</data>
+	<data name="Option1" xml:space="preserve">
+		<value>控制</value>
+	</data>
+	<data name="Quit0Desc" xml:space="preserve">
+		<value>離開至主選單。任何未儲存的進度將會遺失！</value>
+	</data>
+	<data name="Quit1Desc" xml:space="preserve">
+		<value>取消並返回暫停選單</value>
+	</data>
+	<data name="QuitTitle" xml:space="preserve">
+		<value>離開遊戲？</value>
+	</data>
+	<data name="PauseBackDesc" xml:space="preserve">
+		<value>返回暫停選單。</value>
+	</data>
 </root>
