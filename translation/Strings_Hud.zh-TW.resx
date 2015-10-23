@@ -117,4 +117,128 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="Fidget_AutoSaving" xml:space="preserve">
+		<value>儲存中……</value>
+	</data>
+	<data name="Fidget_Enter" xml:space="preserve">
+		<value>進入</value>
+	</data>
+	<data name="Gate_Rainbow" xml:space="preserve">
+		<value>彩虹門</value>
+	</data>
+	<data name="Gate_Green" xml:space="preserve">
+		<value>綠門</value>
+	</data>
+	<data name="Gate_White" xml:space="preserve">
+		<value>白門</value>
+	</data>
+	<data name="Gate_Yellow" xml:space="preserve">
+		<value>黃門</value>
+	</data>
+	<data name="Gate_Blue" xml:space="preserve">
+		<value>藍門</value>
+	</data>
+	<data name="Gate_Purple" xml:space="preserve">
+		<value>紫門</value>
+	</data>
+	<data name="Gate_Red" xml:space="preserve">
+		<value>紅門</value>
+	</data>
+	<data name="Fidget_Shop" xml:space="preserve">
+		<value>購物</value>
+	</data>
+	<data name="Mini_QuestUpdated" xml:space="preserve">
+		<value>任務更新！</value>
+	</data>
+	<data name="Mini_QuestCompleted" xml:space="preserve">
+		<value>任務完成！</value>
+	</data>
+	<data name="Mini_QuestAdded" xml:space="preserve">
+		<value>任務新增！</value>
+	</data>
+	<data name="Mini_Rescued" xml:space="preserve">
+		<value>救出好友！
++5% 生命加成</value>
+	</data>
+	<data name="Mini_RegionAdded" xml:space="preserve">
+		<value>新區域開啟！</value>
+	</data>
+	<data name="Mini_InvFull" xml:space="preserve">
+		<value>物品欄已滿</value>
+	</data>
+	<data name="Fidget_Save" xml:space="preserve">
+		<value>儲存/傳送</value>
+	</data>
+	<data name="Fidget_Score" xml:space="preserve">
+		<value>查看得分</value>
+	</data>
+	<data name="Mini_QuestReady" xml:space="preserve">
+		<value>任務備妥！</value>
+	</data>
+	<data name="Mini_NoteAdded" xml:space="preserve">
+		<value>筆記新增！</value>
+	</data>
+	<data name="Mini_GoldAcquired" xml:space="preserve">
+		<value>獲得金幣！</value>
+	</data>
+	<data name="Status_Critical" xml:space="preserve">
+		<value>暴擊！</value>
+	</data>
+	<data name="Status_Upgraded" xml:space="preserve">
+		<value>習得新技能！</value>
+	</data>
+	<data name="Mini_XPAcquired" xml:space="preserve">
+		<value>獲得經驗！</value>
+	</data>
+	<data name="Status_LevelUp" xml:space="preserve">
+		<value>升級！</value>
+	</data>
+	<data name="Status_Frozen" xml:space="preserve">
+		<value>凍結！</value>
+	</data>
+	<data name="Status_Poison" xml:space="preserve">
+		<value>中毒！</value>
+	</data>
+	<data name="Status_Blinded" xml:space="preserve">
+		<value>目盲！</value>
+	</data>
+	<data name="Status_Silenced" xml:space="preserve">
+		<value>沉默！</value>
+	</data>
+	<data name="Status_Burned" xml:space="preserve">
+		<value>燒傷！</value>
+	</data>
+	<data name="Mini_ShopRestock" xml:space="preserve">
+		<value>商店已補貨！</value>
+	</data>
+	<data name="Status_Revive" xml:space="preserve">
+		<value>使用了復活石！</value>
+	</data>
+	<data name="Status_Revive_Trial" xml:space="preserve">
+		<value>第二次試煉機會！</value>
+	</data>
+	<data name="Fidget_OpenChest" xml:space="preserve">
+		<value>開箱</value>
+	</data>
+	<data name="Status_ChainBreak" xml:space="preserve">
+		<value>連擊中斷！</value>
+	</data>
+	<data name="Mini_SkillGem" xml:space="preserve">
+		<value>可分配技能寶石！</value>
+	</data>
+	<data name="Status_Haunted" xml:space="preserve">
+		<value>鬧鬼！</value>
+	</data>
+	<data name="Fidget_NoEscape" xml:space="preserve">
+		<value>無處可逃！</value>
+	</data>
+	<data name="Fidget_Collect" xml:space="preserve">
+		<value>收集</value>
+	</data>
+	<data name="Mini_GoldRemoved" xml:space="preserve">
+		<value>失去金幣</value>
+	</data>
+	<data name="Mini_ItemsRemoved" xml:space="preserve">
+		<value>失去物品</value>
+	</data>
 </root>
