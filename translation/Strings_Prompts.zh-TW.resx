@@ -262,28 +262,28 @@
 		<value>確認升級？</value>
 	</data>
 	<data name="UpgradeIncompTitle" xml:space="preserve">
-		<value>升級不完全！</value>
+		<value>升級未完全！</value>
 	</data>
 	<data name="UpgradeCompDesc" xml:space="preserve">
-		<value>你確定要升級這些嗎？</value>
+		<value>你是否要確認這些升級？</value>
 	</data>
 	<data name="Teleport0Desc" xml:space="preserve">
 		<value>使用傳送石並返回世界地圖。
 你目前有[TELSTONES]顆傳送石。</value>
 	</data>
 	<data name="UpgradeIncompDesc" xml:space="preserve">
-		<value>你還沒分配完技能寶石！你想以後再分配這些寶石嗎？</value>
+		<value>你未分配所有技能寶石！你是否要以後再分配這些寶石？</value>
 	</data>
 	<data name="SkipTitle" xml:space="preserve">
-		<value>場景暫停</value>
+		<value>過場暫停</value>
 	</data>
 	<data name="Skip0Desc1" xml:space="preserve">
 		<value>跳過這段對話。</value>
 	</data>
 	<data name="Skip1Desc" xml:space="preserve">
-		<value>繼續這段場景。</value>
+		<value>繼續這段過場。</value>
 	</data>
 	<data name="Skip0Desc0" xml:space="preserve">
-		<value>跳過這段場景。</value>
+		<value>跳過這段過場。</value>
 	</data>
 </root>

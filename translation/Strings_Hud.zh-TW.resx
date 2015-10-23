@@ -185,7 +185,7 @@
 		<value>暴擊！</value>
 	</data>
 	<data name="Status_Upgraded" xml:space="preserve">
-		<value>習得新技能！</value>
+		<value>習得新能力！</value>
 	</data>
 	<data name="Mini_XPAcquired" xml:space="preserve">
 		<value>獲得經驗！</value>
@@ -233,7 +233,7 @@
 		<value>無處可逃！</value>
 	</data>
 	<data name="Fidget_Collect" xml:space="preserve">
-		<value>收集</value>
+		<value>獲取</value>
 	</data>
 	<data name="Mini_GoldRemoved" xml:space="preserve">
 		<value>失去金幣</value>
