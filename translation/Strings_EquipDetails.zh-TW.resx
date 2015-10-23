@@ -117,4 +117,79 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="Attack" xml:space="preserve">
+		<value>攻擊</value>
+	</data>
+	<data name="Fidget" xml:space="preserve">
+		<value>菲基特</value>
+	</data>
+	<data name="Flag10" xml:space="preserve">
+		<value>4x 防禦（30秒）</value>
+	</data>
+	<data name="Flag11" xml:space="preserve">
+		<value>1.2x 攻擊（15秒）</value>
+	</data>
+	<data name="Flag21" xml:space="preserve">
+		<value>1.5x 金幣掉落</value>
+	</data>
+	<data name="Flag20" xml:space="preserve">
+		<value>1.2x 金幣掉落</value>
+	</data>
+	<data name="Flag30" xml:space="preserve">
+		<value>1.5x 物品掉落</value>
+	</data>
+	<data name="Flag31" xml:space="preserve">
+		<value>3x 物品掉落</value>
+	</data>
+	<data name="Flag41" xml:space="preserve">
+		<value>1.2x 經驗加成</value>
+	</data>
+	<data name="Flag40" xml:space="preserve">
+		<value>1.1x 經驗加成</value>
+	</data>
+	<data name="Flag50" xml:space="preserve">
+		<value>2x 金幣、3x 物品、1.5x 經驗加成</value>
+	</data>
+	<data name="SymbolSubtraction" xml:space="preserve">
+		<value>-</value>
+	</data>
+	<data name="Health" xml:space="preserve">
+		<value>生命</value>
+	</data>
+	<data name="SymbolAddition" xml:space="preserve">
+		<value>+</value>
+	</data>
+	<data name="SymbolMultiplication" xml:space="preserve">
+		<value>x</value>
+	</data>
+	<data name="Defense" xml:space="preserve">
+		<value>防禦</value>
+	</data>
+	<data name="Luck" xml:space="preserve">
+		<value>幸運</value>
+	</data>
+	<data name="Flag60" xml:space="preserve">
+		<value>照亮黑暗</value>
+	</data>
+	<data name="Flag01" xml:space="preserve">
+		<value>治療中毒</value>
+	</data>
+	<data name="Flag03" xml:space="preserve">
+		<value>治療沉默</value>
+	</data>
+	<data name="Flag02" xml:space="preserve">
+		<value>治療燒傷</value>
+	</data>
+	<data name="Flag63" xml:space="preserve">
+		<value>免疫沉默</value>
+	</data>
+	<data name="Flag62" xml:space="preserve">
+		<value>免疫燒傷</value>
+	</data>
+	<data name="Flag61" xml:space="preserve">
+		<value>免疫中毒</value>
+	</data>
+	<data name="Regen" xml:space="preserve">
+		<value>生命再生</value>
+	</data>
 </root>
