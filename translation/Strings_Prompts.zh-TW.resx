@@ -117,4 +117,173 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="Dead0" xml:space="preserve">
+		<value>載入遊戲</value>
+	</data>
+	<data name="Purchase1" xml:space="preserve">
+		<value>取消</value>
+	</data>
+	<data name="Fail1" xml:space="preserve">
+		<value>取消</value>
+	</data>
+	<data name="Fail0" xml:space="preserve">
+		<value>繼續</value>
+	</data>
+	<data name="Dead1" xml:space="preserve">
+		<value>選單</value>
+	</data>
+	<data name="Save0" xml:space="preserve">
+		<value>是</value>
+	</data>
+	<data name="Save1" xml:space="preserve">
+		<value>否</value>
+	</data>
+	<data name="Purchase2" xml:space="preserve">
+		<value>返回主選單</value>
+	</data>
+	<data name="Save2" xml:space="preserve">
+		<value>世界地圖</value>
+	</data>
+	<data name="Skip0" xml:space="preserve">
+		<value>跳過</value>
+	</data>
+	<data name="Skip1" xml:space="preserve">
+		<value>繼續</value>
+	</data>
+	<data name="Skip2" xml:space="preserve">
+		<value>自動推進</value>
+	</data>
+	<data name="SaveSuccess" xml:space="preserve">
+		<value>繼續</value>
+	</data>
+	<data name="Purchase0" xml:space="preserve">
+		<value>解鎖完整遊戲</value>
+	</data>
+	<data name="FileCorruptTitle" xml:space="preserve">
+		<value>存檔損毀</value>
+	</data>
+	<data name="FileCorruptDesc" xml:space="preserve">
+		<value>存檔已損毀。請刪除存檔並再試一次。</value>
+	</data>
+	<data name="FailTitle" xml:space="preserve">
+		<value>無儲存裝置</value>
+	</data>
+	<data name="Save1Desc" xml:space="preserve">
+		<value>取消儲存。</value>
+	</data>
+	<data name="DeadTitle" xml:space="preserve">
+		<value>塵歸塵、土歸土……</value>
+	</data>
+	<data name="Dead1Desc" xml:space="preserve">
+		<value>進入暫停選單。</value>
+	</data>
+	<data name="Dead0Desc" xml:space="preserve">
+		<value>達斯特被敵人擊敗了。
+按 [A] 載入先前的存檔。</value>
+	</data>
+	<data name="Disconnect1Desc" xml:space="preserve">
+		<value>不儲存繼續遊戲。</value>
+	</data>
+	<data name="Disconnect0Desc" xml:space="preserve">
+		<value>儲存裝置已被移除！請插入儲存裝置並按 [A] 繼續。注意，更換儲存裝置後，你的自動存檔可能會被覆蓋。</value>
+	</data>
+	<data name="DisconnectedLiveDesc" xml:space="preserve">
+		<value>與Xbox LIVE的連線已斷。請重新連線至Xbox LIVE以使用這項功能。</value>
+	</data>
+	<data name="Fail0Desc" xml:space="preserve">
+		<value>未選擇儲存裝置！按 [A] 選擇儲存裝置。</value>
+	</data>
+	<data name="Fail1Desc" xml:space="preserve">
+		<value>在沒有儲存裝置的情況下繼續遊戲。你的進度將無法儲存。</value>
+	</data>
+	<data name="Save0Desc" xml:space="preserve">
+		<value>儲存進度。</value>
+	</data>
+	<data name="PurchaseAchievementTitle" xml:space="preserve">
+		<value>成就解鎖！</value>
+	</data>
+	<data name="Teleport1Desc" xml:space="preserve">
+		<value>取消傳送。</value>
+	</data>
+	<data name="TeleportTitle" xml:space="preserve">
+		<value>傳送？</value>
+	</data>
+	<data name="PurchaseAchievementDesc" xml:space="preserve">
+		<value>你獲得了一個成就！解鎖完整遊戲以增加你的成就積分！</value>
+	</data>
+	<data name="DisconnectedLiveTitle" xml:space="preserve">
+		<value>失去Xbox LIVE連線</value>
+	</data>
+	<data name="DisconnectTitle" xml:space="preserve">
+		<value>儲存裝置已被移除</value>
+	</data>
+	<data name="Save2Desc1" xml:space="preserve">
+		<value>你還不能查看世界地圖。</value>
+	</data>
+	<data name="Save2Desc2" xml:space="preserve">
+		<value>你沒有傳送石可進行傳送。請隨身攜帶一些！！</value>
+	</data>
+	<data name="Save2Desc3" xml:space="preserve">
+		<value>返回世界地圖。記住，這是一個單程旅行！</value>
+	</data>
+	<data name="SaveSuccessTitle" xml:space="preserve">
+		<value>儲存完成！</value>
+	</data>
+	<data name="SaveTitle" xml:space="preserve">
+		<value>儲存進度？</value>
+	</data>
+	<data name="SignOut" xml:space="preserve">
+		<value>登出</value>
+	</data>
+	<data name="SignTitle" xml:space="preserve">
+		<value>未登入</value>
+	</data>
+	<data name="SignOutDesc" xml:space="preserve">
+		<value>玩家檔案已被變更或登出。按 [A] 返回主選單。</value>
+	</data>
+	<data name="StorageFullTitle" xml:space="preserve">
+		<value>儲存裝置已滿</value>
+	</data>
+	<data name="SaveSuccessDesc" xml:space="preserve">
+		<value>你的進度已成功儲存。按 [A] 繼續。</value>
+	</data>
+	<data name="Skip2Desc0" xml:space="preserve">
+		<value>對話目前會自動推進。
+按 [A] 關閉自動推進。</value>
+	</data>
+	<data name="Skip2Desc1" xml:space="preserve">
+		<value>對話必須手動推進。
+按 [A] 開啟自動推進。</value>
+	</data>
+	<data name="StorageFullDesc" xml:space="preserve">
+		<value>儲存裝置已滿。請清除儲存裝置的空間以使用這項功能。</value>
+	</data>
+	<data name="UpgradeCompTitle" xml:space="preserve">
+		<value>確認升級？</value>
+	</data>
+	<data name="UpgradeIncompTitle" xml:space="preserve">
+		<value>升級不完全！</value>
+	</data>
+	<data name="UpgradeCompDesc" xml:space="preserve">
+		<value>你確定要升級這些嗎？</value>
+	</data>
+	<data name="Teleport0Desc" xml:space="preserve">
+		<value>使用傳送石並返回世界地圖。
+你目前有[TELSTONES]顆傳送石。</value>
+	</data>
+	<data name="UpgradeIncompDesc" xml:space="preserve">
+		<value>你還沒分配完技能寶石！你想以後再分配這些寶石嗎？</value>
+	</data>
+	<data name="SkipTitle" xml:space="preserve">
+		<value>場景暫停</value>
+	</data>
+	<data name="Skip0Desc1" xml:space="preserve">
+		<value>跳過這段對話。</value>
+	</data>
+	<data name="Skip1Desc" xml:space="preserve">
+		<value>繼續這段場景。</value>
+	</data>
+	<data name="Skip0Desc0" xml:space="preserve">
+		<value>跳過這段場景。</value>
+	</data>
 </root>
