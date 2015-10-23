@@ -117,4 +117,268 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="Blueprint" xml:space="preserve">
+		<value>藍圖</value>
+	</data>
+	<data name="CharControls" xml:space="preserve">
+		<value>[X] 移除     [A] 添加     [B] 離開</value>
+	</data>
+	<data name="ChallengeChallengeComplete" xml:space="preserve">
+		<value>挑戰完成！</value>
+	</data>
+	<data name="CharStatName0" xml:space="preserve">
+		<value>最大生命</value>
+	</data>
+	<data name="CharStatName1" xml:space="preserve">
+		<value>攻擊</value>
+	</data>
+	<data name="CharStatName2" xml:space="preserve">
+		<value>防禦</value>
+	</data>
+	<data name="CharStatName3" xml:space="preserve">
+		<value>菲基特</value>
+	</data>
+	<data name="CharStatName4" xml:space="preserve">
+		<value>幸運</value>
+	</data>
+	<data name="CharStatName5" xml:space="preserve">
+		<value>等級</value>
+	</data>
+	<data name="CharStatName6" xml:space="preserve">
+		<value>經驗/下一級</value>
+	</data>
+	<data name="CharStat0Desc" xml:space="preserve">
+		<value>你的最大生命值。</value>
+	</data>
+	<data name="ChallengeMiniBest" xml:space="preserve">
+		<value>最佳：</value>
+	</data>
+	<data name="ChallengeMiniTime" xml:space="preserve">
+		<value>時間：</value>
+	</data>
+	<data name="ChallengeMiniScore" xml:space="preserve">
+		<value>得分：</value>
+	</data>
+	<data name="ChallengePersonalBest" xml:space="preserve">
+		<value>個人最佳：</value>
+	</data>
+	<data name="EquipStatName0" xml:space="preserve">
+		<value>生命</value>
+	</data>
+	<data name="EquipStatName1" xml:space="preserve">
+		<value>攻擊</value>
+	</data>
+	<data name="EquipStatName2" xml:space="preserve">
+		<value>防禦</value>
+	</data>
+	<data name="EquipStatName3" xml:space="preserve">
+		<value>菲基特</value>
+	</data>
+	<data name="EquipStatName4" xml:space="preserve">
+		<value>幸運</value>
+	</data>
+	<data name="EquipStatName5" xml:space="preserve">
+		<value>金幣</value>
+	</data>
+	<data name="EquipStatName6" xml:space="preserve">
+		<value>經驗/下一級</value>
+	</data>
+	<data name="EquipCategoryControls4" xml:space="preserve">
+		<value>[A] 查看     [B] 離開</value>
+	</data>
+	<data name="EquipSelection5" xml:space="preserve">
+		<value>吊墜</value>
+	</data>
+	<data name="EquipSelection4" xml:space="preserve">
+		<value>左手戒指</value>
+	</data>
+	<data name="EquipSelection6" xml:space="preserve">
+		<value>右手戒指</value>
+	</data>
+	<data name="EquipSelection1" xml:space="preserve">
+		<value>護甲</value>
+	</data>
+	<data name="EquipSelection0" xml:space="preserve">
+		<value>快捷槽</value>
+	</data>
+	<data name="EquipSelection3" xml:space="preserve">
+		<value>物品與鑰匙</value>
+	</data>
+	<data name="EquipSelection2" xml:space="preserve">
+		<value>強化物</value>
+	</data>
+	<data name="InvCat2" xml:space="preserve">
+		<value>地圖</value>
+	</data>
+	<data name="InvCat3" xml:space="preserve">
+		<value>任務</value>
+	</data>
+	<data name="InvCat0" xml:space="preserve">
+		<value>人物</value>
+	</data>
+	<data name="InvCat1" xml:space="preserve">
+		<value>物品</value>
+	</data>
+	<data name="InvCat4" xml:space="preserve">
+		<value>材料</value>
+	</data>
+	<data name="InvCat5" xml:space="preserve">
+		<value>統計</value>
+	</data>
+	<data name="Exit" xml:space="preserve">
+		<value>[B] 離開</value>
+	</data>
+	<data name="EquipCategoryControls3c" xml:space="preserve">
+		<value>[A] 製作     [B] 返回</value>
+	</data>
+	<data name="EquipCategory5" xml:space="preserve">
+		<value>物品與鑰匙</value>
+	</data>
+	<data name="EquipCategory4" xml:space="preserve">
+		<value>戒指</value>
+	</data>
+	<data name="EquipCategory1" xml:space="preserve">
+		<value>吊墜</value>
+	</data>
+	<data name="EquipCategory3" xml:space="preserve">
+		<value>護甲</value>
+	</data>
+	<data name="EquipCategory2" xml:space="preserve">
+		<value>強化物</value>
+	</data>
+	<data name="EquipCategory0" xml:space="preserve">
+		<value>治療物品</value>
+	</data>
+	<data name="ChallengeMiniTotal" xml:space="preserve">
+		<value>總計：</value>
+	</data>
+	<data name="CharStat0DescStat" xml:space="preserve">
+		<value>營救加成。</value>
+	</data>
+	<data name="BlueprintReq" xml:space="preserve">
+		<value>所需材料</value>
+	</data>
+	<data name="BlueprintDesc" xml:space="preserve">
+		<value>鐵匠可用所需材料製作此物品。</value>
+	</data>
+	<data name="MapIcon0" xml:space="preserve">
+		<value>寶藏</value>
+	</data>
+	<data name="MapIcon4" xml:space="preserve">
+		<value>挑戰</value>
+	</data>
+	<data name="Material" xml:space="preserve">
+		<value>材料</value>
+	</data>
+	<data name="MapIcon2" xml:space="preserve">
+		<value>紀錄點</value>
+	</data>
+	<data name="MapIcon3" xml:space="preserve">
+		<value>商店</value>
+	</data>
+	<data name="MapIcon5" xml:space="preserve">
+		<value>目的地</value>
+	</data>
+	<data name="MapIcon1" xml:space="preserve">
+		<value>搜括一空</value>
+	</data>
+	<data name="MapExploredTotal" xml:space="preserve">
+		<value>已探索區域</value>
+	</data>
+	<data name="MapItemsTotal" xml:space="preserve">
+		<value>已獲取物品</value>
+	</data>
+	<data name="MapControls" xml:space="preserve">
+		<value>[LTHUMB] 移動     [X] 置中     [Y] 圖例     [B] 離開</value>
+	</data>
+	<data name="QuestCat2" xml:space="preserve">
+		<value>筆記</value>
+	</data>
+	<data name="QuestControls" xml:space="preserve">
+		<value>[LTHUMB]/[RTHUMB] 捲動     [B] 離開</value>
+	</data>
+	<data name="Return" xml:space="preserve">
+		<value>[B] 返回</value>
+	</data>
+	<data name="UpgradeRemaining" xml:space="preserve">
+		<value>剩餘寶石：</value>
+	</data>
+	<data name="StatName0" xml:space="preserve">
+		<value>遊戲時間</value>
+	</data>
+	<data name="WorldMapControlsSubMap" xml:space="preserve">
+		<value>[LTHUMB] 移動     [Y] 圖例     [A] 確認     [B] 取消</value>
+	</data>
+	<data name="WorldMapControlsSelect" xml:space="preserve">
+		<value>[A] 選擇</value>
+	</data>
+	<data name="WorldMapControlsReturn" xml:space="preserve">
+		<value>[B] 返回</value>
+	</data>
+	<data name="StatName1" xml:space="preserve">
+		<value>總完成度</value>
+	</data>
+	<data name="StatName4" xml:space="preserve">
+		<value>最高連擊數</value>
+	</data>
+	<data name="StatName2" xml:space="preserve">
+		<value>已探索世界</value>
+	</data>
+	<data name="StatName3" xml:space="preserve">
+		<value>已找到寶藏</value>
+	</data>
+	<data name="StatName5" xml:space="preserve">
+		<value>殺敵數</value>
+	</data>
+	<data name="StatName6" xml:space="preserve">
+		<value>已找到好友</value>
+	</data>
+	<data name="UpgradeComplete" xml:space="preserve">
+		<value>所有技能寶石已被分配！按 [A] 確認這些升級。</value>
+	</data>
+	<data name="QuestCat1" xml:space="preserve">
+		<value>已完成</value>
+	</data>
+	<data name="QuestCat0" xml:space="preserve">
+		<value>進行中</value>
+	</data>
+	<data name="MaterialValue" xml:space="preserve">
+		<value>價值：</value>
+	</data>
+	<data name="MaterialShopCatalogue" xml:space="preserve">
+		<value>商店目錄</value>
+	</data>
+	<data name="MaterialCatalogued" xml:space="preserve">
+		<value>已列入商店目錄！</value>
+	</data>
+	<data name="EquipCategoryControls3b" xml:space="preserve">
+		<value>[X] 卸下     [Y] 查看     [A] 製作     [B] 返回</value>
+	</data>
+	<data name="EquipCategoryControls3a" xml:space="preserve">
+		<value>[X] 卸下     [Y] 查看     [B] 返回</value>
+	</data>
+	<data name="EquipCategoryControls2" xml:space="preserve">
+		<value>[X] 卸下     [A] 裝備     [B] 返回</value>
+	</data>
+	<data name="EquipCategoryControls1" xml:space="preserve">
+		<value>[X] 卸下     [Y] 使用     [A] 裝備     [B] 返回</value>
+	</data>
+	<data name="EquipCategoryControls0" xml:space="preserve">
+		<value>[A] 修改     [B] 離開</value>
+	</data>
+	<data name="WorldMapNew" xml:space="preserve">
+		<value>新</value>
+	</data>
+	<data name="EquipCategory5Desc" xml:space="preserve">
+		<value>你收集的鑰匙、雜物和任務物品。</value>
+	</data>
+	<data name="CharStat1Desc" xml:space="preserve">
+		<value>基本攻擊力能決定你的近戰傷害。</value>
+	</data>
+	<data name="CharStat2Desc" xml:space="preserve">
+		<value>基本防禦力能降低敵人和危險物所造成的傷害。</value>
+	</data>
+	<data name="CharStat3Desc" xml:space="preserve">
+		<value>這能決定菲基特魔彈和沙塵暴的威力。</value>
+	</data>
 </root>
