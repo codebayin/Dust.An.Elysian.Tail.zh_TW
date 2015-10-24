@@ -118,7 +118,7 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="Main6Desc" xml:space="preserve">
-		<value>離開並回到主選單。</value>
+		<value>離開並返回主選單。</value>
 	</data>
 	<data name="Main2Desc" xml:space="preserve">
 		<value>了解如何進行遊戲，調整遊戲設定和介面設定。</value>

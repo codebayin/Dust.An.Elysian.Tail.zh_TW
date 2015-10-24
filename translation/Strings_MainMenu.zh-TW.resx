@@ -197,7 +197,7 @@
 		<value>離開遊戲</value>
 	</data>
 	<data name="Main5Desc" xml:space="preserve">
-		<value>離開並回到遊戲庫。</value>
+		<value>離開並返回遊戲庫。</value>
 	</data>
 	<data name="MainBackDesc" xml:space="preserve">
 		<value>返回主選單。</value>
