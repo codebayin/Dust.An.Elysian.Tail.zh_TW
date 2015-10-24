@@ -346,10 +346,10 @@
 		<value>價值：</value>
 	</data>
 	<data name="MaterialShopCatalogue" xml:space="preserve">
-		<value>商店目錄</value>
+		<value>商品目錄</value>
 	</data>
 	<data name="MaterialCatalogued" xml:space="preserve">
-		<value>已列入商店目錄！</value>
+		<value>已列入商品目錄！</value>
 	</data>
 	<data name="EquipCategoryControls3b" xml:space="preserve">
 		<value>[X] 卸下     [Y] 查看     [A] 製作     [B] 返回</value>
