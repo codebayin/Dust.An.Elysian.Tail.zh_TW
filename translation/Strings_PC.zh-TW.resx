@@ -117,4 +117,64 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="Legend" xml:space="preserve">
+		<value>圖例</value>
+	</data>
+	<data name="LoadConfirm" xml:space="preserve">
+		<value>載入遊戲？</value>
+	</data>
+	<data name="LoadControls" xml:space="preserve">
+		<value>[A] 選擇     [B] 取消
+[X] 複製     [Y] 刪除</value>
+	</data>
+	<data name="ShopBuy" xml:space="preserve">
+		<value>切換到購買模式</value>
+	</data>
+	<data name="ShopPurchaseMaterial" xml:space="preserve">
+		<value>商店材料</value>
+	</data>
+	<data name="ShopSell" xml:space="preserve">
+		<value>切換到出售模式</value>
+	</data>
+	<data name="Main5Desc" xml:space="preserve">
+		<value>離開並返回桌面。</value>
+	</data>
+	<data name="HighScores" xml:space="preserve">
+		<value>最高得分</value>
+	</data>
+	<data name="AchievementSecret" xml:space="preserve">
+		<value>這是一個隱藏成就！</value>
+	</data>
+	<data name="Begin" xml:space="preserve">
+		<value>按任意鍵開始</value>
+	</data>
+	<data name="MouseButtonLeft" xml:space="preserve">
+		<value>滑鼠左鍵</value>
+	</data>
+	<data name="MouseButtonMid" xml:space="preserve">
+		<value>滑鼠中鍵</value>
+	</data>
+	<data name="MouseButtonRight" xml:space="preserve">
+		<value>滑鼠右鍵</value>
+	</data>
+	<data name="UpgradeComplete" xml:space="preserve">
+		<value>所有技能寶石已被分配！</value>
+	</data>
+	<data name="DeleteConfirm" xml:space="preserve">
+		<value>刪除存檔？
+先前的存檔將會遺失。</value>
+	</data>
+	<data name="CopyConfirm" xml:space="preserve">
+		<value>覆蓋存檔？
+先前的存檔將會遺失。</value>
+	</data>
+	<data name="QuestControls" xml:space="preserve">
+		<value>[INVSUBLEFT]/[INVSUBRIGHT] 切換分類     [LTHUMB] 捲動     [B] 離開</value>
+	</data>
+	<data name="ShopPageSwitch" xml:space="preserve">
+		<value>[INVLEFT], [INVRIGHT] 切換分類</value>
+	</data>
+	<data name="AchievementLocal" xml:space="preserve">
+		<value>你正在查看當前遊戲過程中所獲得的成就。返回主選單可查看總體成就。</value>
+	</data>
 </root>
