@@ -117,4 +117,97 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="Ahrah" xml:space="preserve">
+		<value>阿拉</value>
+	</data>
+	<data name="Matti" xml:space="preserve">
+		<value>馬帝</value>
+	</data>
+	<data name="Fidget" xml:space="preserve">
+		<value>菲基特</value>
+	</data>
+	<data name="Dust" xml:space="preserve">
+		<value>達斯特</value>
+	</data>
+	<data name="Elder" xml:space="preserve">
+		<value>長老</value>
+	</data>
+	<data name="Haley" xml:space="preserve">
+		<value>海莉</value>
+	</data>
+	<data name="Ginger" xml:space="preserve">
+		<value>琴吉</value>
+	</data>
+	<data name="Bopo" xml:space="preserve">
+		<value>波普</value>
+	</data>
+	<data name="Sarahi" xml:space="preserve">
+		<value>莎拉比</value>
+	</data>
+	<data name="Lady" xml:space="preserve">
+		<value>泰希斯女士</value>
+	</data>
+	<data name="Reed" xml:space="preserve">
+		<value>里德</value>
+	</data>
+	<data name="Sanjin" xml:space="preserve">
+		<value>桑金</value>
+	</data>
+	<data name="Geehan" xml:space="preserve">
+		<value>吉亨</value>
+	</data>
+	<data name="Gianni" xml:space="preserve">
+		<value>賈尼</value>
+	</data>
+	<data name="Corbin" xml:space="preserve">
+		<value>科爾賓</value>
+	</data>
+	<data name="Cora" xml:space="preserve">
+		<value>科拉</value>
+	</data>
+	<data name="Colleen" xml:space="preserve">
+		<value>可琳</value>
+	</data>
+	<data name="Avgustin" xml:space="preserve">
+		<value>奧古斯汀</value>
+	</data>
+	<data name="Fale" xml:space="preserve">
+		<value>費爾</value>
+	</data>
+	<data name="Gaius" xml:space="preserve">
+		<value>蓋厄斯將軍</value>
+	</data>
+	<data name="Oneida" xml:space="preserve">
+		<value>奧奈達</value>
+	</data>
+	<data name="Moska" xml:space="preserve">
+		<value>莫斯卡</value>
+	</data>
+	<data name="SmoBop" xml:space="preserve">
+		<value>絲莫波普</value>
+	</data>
+	<data name="MaMop" xml:space="preserve">
+		<value>瑪莫普</value>
+	</data>
+	<data name="Blop" xml:space="preserve">
+		<value>布洛普</value>
+	</data>
+	<data name="Calum" xml:space="preserve">
+		<value>卡倫</value>
+	</data>
+	<data name="Bean" xml:space="preserve">
+		<value>比恩</value>
+	</data>
+	<data name="Bram" xml:space="preserve">
+		<value>布萊姆</value>
+	</data>
+	<data name="FloHop" xml:space="preserve">
+		<value>芙蘿哈普</value>
+	</data>
+	<data name="OldGappy" xml:space="preserve">
+		<value>老蓋皮</value>
+	</data>
+	<data name="Kane" xml:space="preserve">
+		<value>凱恩</value>
+	</data>
 </root>

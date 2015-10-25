@@ -117,4 +117,107 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="ButtonA" xml:space="preserve">
+		<value>跳躍</value>
+	</data>
+	<data name="HudInfo1" xml:space="preserve">
+		<value>生命條</value>
+	</data>
+	<data name="HudInfo8" xml:space="preserve">
+		<value>金幣</value>
+	</data>
+	<data name="ButtonStart" xml:space="preserve">
+		<value>暫停</value>
+	</data>
+	<data name="ButtonY" xml:space="preserve">
+		<value>沙塵暴/
+次要攻擊</value>
+	</data>
+	<data name="ButtonX" xml:space="preserve">
+		<value>普通攻擊/
+（按住）格擋</value>
+	</data>
+	<data name="HudInfo2" xml:space="preserve">
+		<value>生命/
+最大生命</value>
+	</data>
+	<data name="HudInfo3" xml:space="preserve">
+		<value>快捷槽</value>
+	</data>
+	<data name="HudInfo4" xml:space="preserve">
+		<value>目前等級</value>
+	</data>
+	<data name="HudInfo7" xml:space="preserve">
+		<value>目前經驗</value>
+	</data>
+	<data name="KeyboardMap" xml:space="preserve">
+		<value>查看地圖</value>
+	</data>
+	<data name="KeyboardJumpConfirm" xml:space="preserve">
+		<value>跳躍/確認</value>
+	</data>
+	<data name="ButtonBack" xml:space="preserve">
+		<value>物品欄</value>
+	</data>
+	<data name="ButtonLThumb" xml:space="preserve">
+		<value>移動
+（下）蹲伏
+（上）向上看、
+交談、購物、
+開箱、儲存</value>
+	</data>
+	<data name="ButtonRT" xml:space="preserve">
+		<value>向右閃避</value>
+	</data>
+	<data name="ButtonLT" xml:space="preserve">
+		<value>向左閃避</value>
+	</data>
+	<data name="ButtonRThumb" xml:space="preserve">
+		<value>向左/右閃避
+（壓下）小地圖</value>
+	</data>
+	<data name="ButtonLB" xml:space="preserve">
+		<value>使用
+快捷槽的物品</value>
+	</data>
+	<data name="ButtonRB" xml:space="preserve">
+		<value>切換魔彈</value>
+	</data>
+	<data name="ButtonB" xml:space="preserve">
+		<value>射出魔彈</value>
+	</data>
+	<data name="HudInfo6" xml:space="preserve">
+		<value>選擇的魔彈</value>
+	</data>
+	<data name="KeyboardInvLeft" xml:space="preserve">
+		<value>物品欄/商店
+上一頁</value>
+	</data>
+	<data name="KeyboardInvRight" xml:space="preserve">
+		<value>物品欄/商店
+下一頁</value>
+	</data>
+	<data name="KeyboardUp" xml:space="preserve">
+		<value>向上</value>
+	</data>
+	<data name="KeyboardRight" xml:space="preserve">
+		<value>向右</value>
+	</data>
+	<data name="KeyboardLeft" xml:space="preserve">
+		<value>向左</value>
+	</data>
+	<data name="KeyboardDown" xml:space="preserve">
+		<value>向下</value>
+	</data>
+	<data name="KeyboardInvSubRight" xml:space="preserve">
+		<value>物品欄
+下一分類</value>
+	</data>
+	<data name="KeyboardInvSubLeft" xml:space="preserve">
+		<value>物品欄
+上一分類</value>
+	</data>
+	<data name="HudInfo5" xml:space="preserve">
+		<value>能量條</value>
+	</data>
 </root>
