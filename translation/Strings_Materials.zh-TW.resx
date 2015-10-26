@@ -117,4 +117,256 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="005" xml:space="preserve">
+		<value>紙張</value>
+	</data>
+	<data name="004" xml:space="preserve">
+		<value>膠水</value>
+	</data>
+	<data name="007" xml:space="preserve">
+		<value>染料</value>
+	</data>
+	<data name="006" xml:space="preserve">
+		<value>棉花</value>
+	</data>
+	<data name="001" xml:space="preserve">
+		<value>鐵釘</value>
+	</data>
+	<data name="000" xml:space="preserve">
+		<value>木材</value>
+	</data>
+	<data name="002" xml:space="preserve">
+		<value>布料</value>
+	</data>
+	<data name="009" xml:space="preserve">
+		<value>絲線</value>
+	</data>
+	<data name="008" xml:space="preserve">
+		<value>廢金屬</value>
+	</data>
+	<data name="010" xml:space="preserve">
+		<value>瓶子</value>
+	</data>
+	<data name="011" xml:space="preserve">
+		<value>廢棄物</value>
+	</data>
+	<data name="012" xml:space="preserve">
+		<value>魔精皮</value>
+	</data>
+	<data name="013" xml:space="preserve">
+		<value>魔精爪</value>
+	</data>
+	<data name="014" xml:space="preserve">
+		<value>野獸矛</value>
+	</data>
+	<data name="015" xml:space="preserve">
+		<value>野獸皮</value>
+	</data>
+	<data name="016" xml:space="preserve">
+		<value>艾維爪</value>
+	</data>
+	<data name="017" xml:space="preserve">
+		<value>艾維翼</value>
+	</data>
+	<data name="018" xml:space="preserve">
+		<value>黏液膜</value>
+	</data>
+	<data name="019" xml:space="preserve">
+		<value>黏液刺</value>
+	</data>
+	<data name="021" xml:space="preserve">
+		<value>巨核</value>
+	</data>
+	<data name="020" xml:space="preserve">
+		<value>巨石</value>
+	</data>
+	<data name="025" xml:space="preserve">
+		<value>岩犬皮</value>
+	</data>
+	<data name="024" xml:space="preserve">
+		<value>岩犬牙</value>
+	</data>
+	<data name="023" xml:space="preserve">
+		<value>弗洛爾電光</value>
+	</data>
+	<data name="022" xml:space="preserve">
+		<value>弗洛恩觸手</value>
+	</data>
+	<data name="027" xml:space="preserve">
+		<value>石觸鬚</value>
+	</data>
+	<data name="026" xml:space="preserve">
+		<value>石甲殼</value>
+	</data>
+	<data name="029" xml:space="preserve">
+		<value>噴吐蟲肢</value>
+	</data>
+	<data name="028" xml:space="preserve">
+		<value>噴吐蟲眼</value>
+	</data>
+	<data name="030" xml:space="preserve">
+		<value>巨魔硬殼</value>
+	</data>
+	<data name="031" xml:space="preserve">
+		<value>巨魔手指</value>
+	</data>
+	<data name="032" xml:space="preserve">
+		<value>腐肉</value>
+	</data>
+	<data name="033" xml:space="preserve">
+		<value>骨頭</value>
+	</data>
+	<data name="035" xml:space="preserve">
+		<value>失落靈魂</value>
+	</data>
+	<data name="034" xml:space="preserve">
+		<value>靈質</value>
+	</data>
+	<data name="036" xml:space="preserve">
+		<value>蛆蟲</value>
+	</data>
+	<data name="037" xml:space="preserve">
+		<value>狼皮</value>
+	</data>
+	<data name="038" xml:space="preserve">
+		<value>空心碎片</value>
+	</data>
+	<data name="041" xml:space="preserve">
+		<value>軍牌</value>
+	</data>
+	<data name="040" xml:space="preserve">
+		<value>堅韌金屬</value>
+	</data>
+	<data name="039" xml:space="preserve">
+		<value>庫施皮</value>
+	</data>
+	<data name="003" xml:space="preserve">
+		<value>鐵線</value>
+	</data>
+	<data name="000_Desc_100" xml:space="preserve">
+		<value>法拉納最上等的木材。</value>
+	</data>
+	<data name="001_Desc_100" xml:space="preserve">
+		<value>一箱鐵釘。</value>
+	</data>
+	<data name="002_Desc_100" xml:space="preserve">
+		<value>一碼耐用的布料。</value>
+	</data>
+	<data name="003_Desc_100" xml:space="preserve">
+		<value>萬能鐵線。</value>
+	</data>
+	<data name="004_Desc_100" xml:space="preserve">
+		<value>強力木工膠。</value>
+	</data>
+	<data name="005_Desc_100" xml:space="preserve">
+		<value>數張白紙。</value>
+	</data>
+	<data name="006_Desc_100" xml:space="preserve">
+		<value>一團上等棉花。</value>
+	</data>
+	<data name="007_Desc_100" xml:space="preserve">
+		<value>一瓶染料。</value>
+	</data>
+	<data name="008_Desc_100" xml:space="preserve">
+		<value>數塊可鍛造的金屬。</value>
+	</data>
+	<data name="009_Desc_100" xml:space="preserve">
+		<value>縫紉必備。</value>
+	</data>
+	<data name="010_Desc_100" xml:space="preserve">
+		<value>多用途的空玻璃瓶。</value>
+	</data>
+	<data name="011_Desc_40" xml:space="preserve">
+		<value>毫無用處。賣掉吧。</value>
+	</data>
+	<data name="013_Desc_100" xml:space="preserve">
+		<value>魔精粗糙的爪子。</value>
+	</data>
+	<data name="012_Desc_100" xml:space="preserve">
+		<value>魔精又薄又髒的獸皮。</value>
+	</data>
+	<data name="014_Desc_100" xml:space="preserve">
+		<value>石製的原始矛頭。</value>
+	</data>
+	<data name="015_Desc_100" xml:space="preserve">
+		<value>小野獸的厚皮。</value>
+	</data>
+	<data name="016_Desc_150" xml:space="preserve">
+		<value>艾維的尖銳指甲。</value>
+	</data>
+	<data name="017_Desc_150" xml:space="preserve">
+		<value>艾維的皮翼。</value>
+	</data>
+	<data name="019_Desc_150" xml:space="preserve">
+		<value>黏液生物的硬化骨頭。</value>
+	</data>
+	<data name="018_Desc_150" xml:space="preserve">
+		<value>黏液生物的殘渣。</value>
+	</data>
+	<data name="020_Desc_200" xml:space="preserve">
+		<value>石巨人的身體碎片。</value>
+	</data>
+	<data name="021_Desc_200" xml:space="preserve">
+		<value>石巨人的硬化血液。</value>
+	</data>
+	<data name="022_Desc_100" xml:space="preserve">
+		<value>弗洛恩的黏滑觸手。</value>
+	</data>
+	<data name="023_Desc_100" xml:space="preserve">
+		<value>弗洛爾的發電腺體。</value>
+	</data>
+	<data name="024_Desc_100" xml:space="preserve">
+		<value>岩犬的發黃獸牙。</value>
+	</data>
+	<data name="025_Desc_100" xml:space="preserve">
+		<value>岩犬的厚片皮革。</value>
+	</data>
+	<data name="026_Desc_200" xml:space="preserve">
+		<value>削石獸的甲殼碎片。</value>
+	</data>
+	<data name="027_Desc_200" xml:space="preserve">
+		<value>削石獸腿上的纖細觸鬚。</value>
+	</data>
+	<data name="029_Desc_100" xml:space="preserve">
+		<value>噴吐蟲觸手般的肢節。</value>
+	</data>
+	<data name="028_Desc_100" xml:space="preserve">
+		<value>劇毒噴吐蟲的眼睛。</value>
+	</data>
+	<data name="030_Desc_400" xml:space="preserve">
+		<value>巨魔堅不可摧的皮膚。</value>
+	</data>
+	<data name="031_Desc_400" xml:space="preserve">
+		<value>巨魔粗糙的手指。</value>
+	</data>
+	<data name="032_Desc_40" xml:space="preserve">
+		<value>一大塊腐肉。</value>
+	</data>
+	<data name="033_Desc_40" xml:space="preserve">
+		<value>無肉的老骨頭。</value>
+	</data>
+	<data name="034_Desc_100" xml:space="preserve">
+		<value>神秘的黏性殘留物。</value>
+	</data>
+	<data name="035_Desc_1000" xml:space="preserve">
+		<value>眾生死後留下的縹緲之物。</value>
+	</data>
+	<data name="036_Desc_10" xml:space="preserve">
+		<value>蒼蠅蠕動的幼蟲。</value>
+	</data>
+	<data name="037_Desc_100" xml:space="preserve">
+		<value>狼掉下來的還能有什麼？</value>
+	</data>
+	<data name="038_Desc_400" xml:space="preserve">
+		<value>弗里茲美麗的冰晶碎片。</value>
+	</data>
+	<data name="039_Desc_1000" xml:space="preserve">
+		<value>大到足以野餐的毛皮。</value>
+	</data>
+	<data name="040_Desc_1000" xml:space="preserve">
+		<value>源自強大武器的一塊強化鋼。</value>
+	</data>
+	<data name="041_Desc_200" xml:space="preserve">
+		<value>陣亡士兵的身分識別牌。</value>
+	</data>
 </root>
