@@ -117,4 +117,151 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="005_000" xml:space="preserve">
+		<value>很高興能見到你們！</value>
+	</data>
+	<data name="004_060" xml:space="preserve">
+		<value>什麼？我們就是那樣簽名的。看，就寫在那！菲基──特!</value>
+	</data>
+	<data name="004_040" xml:space="preserve">
+		<value>啊哈！給你！</value>
+	</data>
+	<data name="004_020" xml:space="preserve">
+		<value>好了，給你。</value>
+	</data>
+	<data name="004_030" xml:space="preserve">
+		<value>你的朋友也可以簽！</value>
+	</data>
+	<data name="002_100" xml:space="preserve">
+		<value>嘿！</value>
+	</data>
+	<data name="002_010" xml:space="preserve">
+		<value>她還好嗎？</value>
+	</data>
+	<data name="002_040" xml:space="preserve">
+		<value>等等，什麼？</value>
+	</data>
+	<data name="002_120" xml:space="preserve">
+		<value>別擔心，我會拿張紙給你。</value>
+	</data>
+	<data name="002_060" xml:space="preserve">
+		<value>老實說我不覺得自己像個英雄。</value>
+	</data>
+	<data name="001_010" xml:space="preserve">
+		<value>噢……？大家……都還好嗎？</value>
+	</data>
+	<data name="000_060" xml:space="preserve">
+		<value>我不知道，為什麼這麼問？</value>
+	</data>
+	<data name="001_030" xml:space="preserve">
+		<value>什麼！？噢……不！不不不！</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>啊，所以你就是大家都在說的那個人！</value>
+	</data>
+	<data name="000_000" xml:space="preserve">
+		<value>哈嘍，我好像沒看過你！</value>
+	</data>
+	<data name="000_030" xml:space="preserve">
+		<value>大家都在說？</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>我們剛從西邊來的。</value>
+	</data>
+	<data name="000_040" xml:space="preserve">
+		<value>當然啊！你就是拯救奧奈達的那個人！我是莫斯卡，隨時為你效勞！假如你需要任何東西，跟我說就好了！</value>
+	</data>
+	<data name="000_050" xml:space="preserve">
+		<value>是說，你，嗯……你在這待很久了嗎？</value>
+	</data>
+	<data name="000_070" xml:space="preserve">
+		<value>好吧，如果你去過村子的西邊，能告訴我通往那的路是否安全嗎？</value>
+	</data>
+	<data name="000_080" xml:space="preserve">
+		<value>噢，別說安全了。城鎮守衛說怪物會襲擊村莊的四周，你現在最好留在牆內。</value>
+	</data>
+	<data name="000_120" xml:space="preserve">
+		<value>也是，她當然值得你鋌而走險！</value>
+	</data>
+	<data name="000_100" xml:space="preserve">
+		<value>我想那個某人對你來說很重要？</value>
+	</data>
+	<data name="000_110" xml:space="preserve">
+		<value>嗯，對……看，是為了這個女孩……</value>
+	</data>
+	<data name="000_090" xml:space="preserve">
+		<value>好吧，看，這就是我的問題所在 ── 我一直想去峽谷村拜訪某人。那是個在阿巴蒂斯森林邊緣的小村莊。</value>
+	</data>
+	<data name="000_130" xml:space="preserve">
+		<value>噢，她值得！她絕對值得。我只是……想知道她還好嗎。這麼多怪物包圍在峽谷村，那個地方已經難以用言語來形容了！</value>
+	</data>
+	<data name="000_140" xml:space="preserve">
+		<value>莫斯卡，如果我有到達那個地方，我會讓她知道你在想著她。</value>
+	</data>
+	<data name="000_150" xml:space="preserve">
+		<value>噢，非常謝謝你！你人太好了！你人真的真的超好的！</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>莫斯卡，我恐怕有個壞消息要告訴你。</value>
+	</data>
+	<data name="001_020" xml:space="preserve">
+		<value>我們到達峽谷村時那裡已經被燒毀了。</value>
+	</data>
+	<data name="001_040" xml:space="preserve">
+		<value>但那裡有張字條是留給你的，是個叫莎拉比的人寫的。</value>
+	</data>
+	<data name="001_050" xml:space="preserve">
+		<value>莎拉比？噢，感謝老天！她一定還活著！她肯定逃出來了！拜託，讓我看一下！</value>
+	</data>
+	<data name="001_060" xml:space="preserve">
+		<value>怎麼樣，莫斯卡？</value>
+	</data>
+	<data name="001_080" xml:space="preserve">
+		<value>拜託，達斯特……去那看看她是否安全！我會跟你一起去，但我不是戰士。</value>
+	</data>
+	<data name="001_070" xml:space="preserve">
+		<value>她提到了只有我們知道的一個地方！就在這附近的隱秘海灣。</value>
+	</data>
+	<data name="001_090" xml:space="preserve">
+		<value>如果你堅持要一起去，記得保持距離。</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>達斯特，我欠你太多了！我不敢相信莎拉比居然能通過那。要是沒有你的幫忙……嗯，我連想都不敢想。</value>
+	</data>
+	<data name="002_020" xml:space="preserve">
+		<value>還好，我在照顧她，她還是很不穩定。她失去很多朋友……</value>
+	</data>
+	<data name="002_030" xml:space="preserve">
+		<value>嘿，嗯……我知道這聽起來可能有點詭異，我能跟你要張簽名嗎？</value>
+	</data>
+	<data name="002_050" xml:space="preserve">
+		<value>好，只是……你為我們、村莊、所有人做的一切，真的，我真的很想要有個東西來紀念真正的英雄！</value>
+	</data>
+	<data name="002_080" xml:space="preserve">
+		<value>噢，好嘛！別那麼掃興！嘿，我也會簽！每個英雄身邊都有個搭檔！</value>
+	</data>
+	<data name="002_090" xml:space="preserve">
+		<value>對，通常是來搞笑的。</value>
+	</data>
+	<data name="004_010" xml:space="preserve">
+		<value>這樣寫如何……「給莫斯卡，我的頭號粉絲！」</value>
+	</data>
+	<data name="003_000" xml:space="preserve">
+		<value>你可以去那間商店買紙。</value>
+	</data>
+	<data name="004_050" xml:space="preserve">
+		<value>那是什麼？一個手印？</value>
+	</data>
+	<data name="004_000" xml:space="preserve">
+		<value>好，莫斯卡。雖然還是感覺有點怪，但算了，你希望我在簽名上面寫什麼字？</value>
+	</data>
+	<data name="004_070" xml:space="preserve">
+		<value>好吧，嗯……不錯！很好！你們兩個……很棒！祝你們好運還有謝謝你們救了莎拉比。我永遠不會忘記的！</value>
+	</data>
+	<data name="001_100" xml:space="preserve">
+		<value>沒錯，當達斯特在揮舞劍的時候，你絕對不會想在他附近的。你見過那種場面嗎？他會咻咻咻鏘鏘咻噗哧！</value>
+	</data>
+	<data name="002_110" xml:space="preserve">
+		<value>噢，該死！我身上沒有紙。你能幫我去商店買一些嗎？這裡有些錢 ── 我想自己去買但……我恐怕是那裡的黑名單。我是怎麼知道那些顯示器很容易倒的？</value>
+	</data>
 </root>
