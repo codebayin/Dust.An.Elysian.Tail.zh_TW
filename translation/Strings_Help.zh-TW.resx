@@ -117,4 +117,265 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="dialogueskip" xml:space="preserve">
+		<value>[B] 暫停/跳過</value>
+	</data>
+	<data name="dialogueprogress" xml:space="preserve">
+		<value>[A] 繼續</value>
+	</data>
+	<data name="jump" xml:space="preserve">
+		<value>按 [A] 跳躍。</value>
+	</data>
+	<data name="look" xml:space="preserve">
+		<value>按住 [UP] 或 [DOWN] 向上或向下看。</value>
+	</data>
+	<data name="healthItem" xml:space="preserve">
+		<value>治療物品已放置在快捷槽。
+按 [LB] 治療，或按 [BACK] 管理物品。</value>
+	</data>
+	<data name="gate" xml:space="preserve">
+		<value>共鳴門只在你擁有相同顏色的共鳴石之後才會開啟。</value>
+	</data>
+	<data name="drop" xml:space="preserve">
+		<value>你可以從這裡落下。
+按住 [DOWN] 蹲下，然後按 [A]。</value>
+	</data>
+	<data name="dropstairs" xml:space="preserve">
+		<value>你可以從樓梯落下。
+按住 [DOWN] 蹲下，然後按 [A]。</value>
+	</data>
+	<data name="exp" xml:space="preserve">
+		<value>介面上的藍條就是你的經驗值。
+藉由殺敵和獲取連擊獎勵來升級。</value>
+	</data>
+	<data name="menuHelp5" xml:space="preserve">
+		<value>歡迎來到統計頁。
+
+在這裡你可以查看各種遊戲統計數據。</value>
+	</data>
+	<data name="move" xml:space="preserve">
+		<value>使用 [LTHUMB] 或 [DPAD] 移動。</value>
+	</data>
+	<data name="multipledest" xml:space="preserve">
+		<value>你現在有多個目的地。壓下 [RTHUMB] 查看地圖。</value>
+	</data>
+	<data name="needbomb" xml:space="preserve">
+		<value>這堵牆用了合金進行強化了。
+某些爆炸物應該會有用。</value>
+	</data>
+	<data name="pcmove" xml:space="preserve">
+		<value>按 [LEFT] 或 [RIGHT] 移動。</value>
+	</data>
+	<data name="quest" xml:space="preserve">
+		<value>有一項任務更新了。
+前往物品欄的任務頁以查看細節。</value>
+	</data>
+	<data name="villager" xml:space="preserve">
+		<value>按 [UP] 與居民交談。</value>
+	</data>
+	<data name="slide" xml:space="preserve">
+		<value>你可以滑過這裡。
+按住 [DOWN] 再按 [A]。</value>
+	</data>
+	<data name="pcmultipledest" xml:space="preserve">
+		<value>你現在有多個目的地。按 [MAP] 查看地圖。</value>
+	</data>
+	<data name="menuHelp3" xml:space="preserve">
+		<value>歡迎來到任務頁。
+
+在這裡你可以查看進行中和已完成的任務，以及撿到的筆記。</value>
+	</data>
+	<data name="machinehint" xml:space="preserve">
+		<value>也許菲基特能幫忙。</value>
+	</data>
+	<data name="pctreasure" xml:space="preserve">
+		<value>如果附近有寶藏，菲基特會提醒你。
+按 [MAP] 查看地圖。</value>
+	</data>
+	<data name="pcunlocking" xml:space="preserve">
+		<value>在時間結束前用 [LTHUMB] 輸入方向順序以開鎖。</value>
+	</data>
+	<data name="parry" xml:space="preserve">
+		<value>按住 [X] 用自己的劍格擋襲來的攻擊。
+緊接著按 [X] 或 [Y] 施展強力反擊！</value>
+	</data>
+	<data name="pccarrybomb" xml:space="preserve">
+		<value>你發現了一顆爆彈果！
+利用沙塵暴 [Y] 來摘下並牽引果實。</value>
+	</data>
+	<data name="pcdamage" xml:space="preserve">
+		<value>你受傷了！介面上的綠條就是你的生命值。
+按 [LT] 或 [RT] 閃避。</value>
+	</data>
+	<data name="menuHelp0" xml:space="preserve">
+		<value>歡迎來到人物頁。
+
+在這裡你可以分配升級時所獲得的技能寶石提升屬性。
+注意，你的最高屬性不能超出最低屬性4顆寶石。</value>
+	</data>
+	<data name="menuHelp2" xml:space="preserve">
+		<value>歡迎來到地圖頁。
+
+在這裡你可以查看目前區域內探索過的地方，也可以大致得知寶藏的藏匿點。</value>
+	</data>
+	<data name="combat2" xml:space="preserve">
+		<value>浴火重生（地對空）
+[X]、[Y]</value>
+	</data>
+	<data name="carrybomb" xml:space="preserve">
+		<value>你發現了一顆爆彈果！
+利用沙塵暴 [Y] 來摘下並牽引果實。</value>
+	</data>
+	<data name="combat3" xml:space="preserve">
+		<value>天降之物（空對地）
+[DOWN] + [Y]</value>
+	</data>
+	<data name="combat0" xml:space="preserve">
+		<value>從何而來
+[X]、[X]、[X]、[X]</value>
+	</data>
+	<data name="combat1" xml:space="preserve">
+		<value>灰燼禁區（地面投摔）
+[X]、[X]、[Y]、[Y]</value>
+	</data>
+	<data name="challengescoreboard" xml:space="preserve">
+		<value>在石碑前按 [UP] 查看最高得分。</value>
+	</data>
+	<data name="blomb" xml:space="preserve">
+		<value>自爆怪在吸氣時非常脆弱。</value>
+	</data>
+	<data name="damage" xml:space="preserve">
+		<value>你受傷了！介面上的綠條就是你的生命值。
+使用 [LT] 和 [RT] 或 [RTHUMB] 閃避。</value>
+	</data>
+	<data name="combat4" xml:space="preserve">
+		<value>毀天滅地（空中投摔）
+[X]、[X]、[X]、[Y]</value>
+	</data>
+	<data name="attack" xml:space="preserve">
+		<value>按 [X] 開始近戰連擊。
+使用 [X] 和 [Y] 連續施展。</value>
+	</data>
+	<data name="defend" xml:space="preserve">
+		<value>按 [X] 開戰。</value>
+	</data>
+	<data name="blueprint" xml:space="preserve">
+		<value>你獲得了一張藍圖！射手山隘上的鐵匠能幫你製作此物品。查看物品欄能知道需要什麼材料。</value>
+	</data>
+	<data name="challenge" xml:space="preserve">
+		<value>歡迎來到挑戰競技場！擊敗敵人和破壞燈具以獲取得分。受傷時會失去得分。快速完成挑戰會有得分加成！祝你好運！</value>
+	</data>
+	<data name="menuHelp1" xml:space="preserve">
+		<value>歡迎來到物品頁。
+
+在這裡你可以管理裝備和物品。如果你的生命過低，你可以將治療物品指定至快捷槽，並在遊戲中按 [LB] 快速使用。
+
+注意，每頁下方的控制選項依內容會有所不同。</value>
+	</data>
+	<data name="menuHelp4" xml:space="preserve">
+		<value>歡迎來到材料頁。
+
+材料可從敵人身上收集，而且可交由鐵匠製作更好的裝備。
+
+材料還可以賣給商店。一旦列入商品目錄後，商店就會不時補充存貨。善用這點來補充稀少的材料。</value>
+	</data>
+	<data name="pcupgrade10" xml:space="preserve">
+		<value>習得衝刺！按 [LT] 或 [RT] 衝刺。
+衝刺會耗費能量，介面上的白色火焰條就是你的能量值。</value>
+	</data>
+	<data name="trialjump" xml:space="preserve">
+		<value>使用 [LT] 和 [RT] 或 [RTHUMB] 衝刺。
+衝刺會耗費能量，介面上的白色火焰條就是你的能量值。</value>
+	</data>
+	<data name="upgrade10" xml:space="preserve">
+		<value>習得衝刺！使用 [LT] 和 [RT] 或 [RTHUMB] 衝刺。
+衝刺會耗費能量，介面上的白色火焰條就是你的能量值。</value>
+	</data>
+	<data name="trialdestroywall" xml:space="preserve">
+		<value>某些牆壁可以破壞。睜大眼睛尋找埋藏的寶藏吧！</value>
+	</data>
+	<data name="treasure" xml:space="preserve">
+		<value>如果附近有寶藏，菲基特會提醒你。
+壓下 [RTHUMB] 查看地圖。</value>
+	</data>
+	<data name="triallocked" xml:space="preserve">
+		<value>某些道路，例如像上面這種，要等習得新能力後才能通行。</value>
+	</data>
+	<data name="trialmove" xml:space="preserve">
+		<value>歡迎來到《塵埃：幸福的軌跡》試玩版！
+使用 [LTHUMB] 或 [DPAD] 移動。</value>
+	</data>
+	<data name="shop" xml:space="preserve">
+		<value>按 [UP] 進入商店。</value>
+	</data>
+	<data name="saveheal" xml:space="preserve">
+		<value>根據遊戲難度，儲存古蹟也會恢復你的部分生命值。</value>
+	</data>
+	<data name="save" xml:space="preserve">
+		<value>穿過儲存古蹟以自動儲存進度。
+按 [UP] 手動儲存。</value>
+	</data>
+	<data name="rescued" xml:space="preserve">
+		<value>你找到了一位好友，獲得永久5%生命加成！你可以透過世界地圖拜訪在庇護所的好友。</value>
+	</data>
+	<data name="shopstock" xml:space="preserve">
+		<value>商人會不時補充商品目錄內的材料。確保商品目錄種類齊全對你是有幫助的。</value>
+	</data>
+	<data name="pcupgrade16" xml:space="preserve">
+		<value>習得鋼鐵之握！
+跳起並按 [LEFT] 或 [RIGHT] 靠向藤蔓開始攀牆。</value>
+	</data>
+	<data name="upgrade16" xml:space="preserve">
+		<value>習得鋼鐵之握！
+跳起並使用 [LTHUMB] 靠向藤蔓開始攀牆。</value>
+	</data>
+	<data name="questgiver" xml:space="preserve">
+		<value>頭上有 [ICON_360] 的人物為任務角色。
+與他們交談可開啟世界各地的任務與新區域。</value>
+	</data>
+	<data name="recharge" xml:space="preserve">
+		<value>你的能量已耗盡！
+注意介面上的白色火焰條。
+施展近戰連擊可恢復能量。</value>
+	</data>
+	<data name="pcwalljump" xml:space="preserve">
+		<value>當攀住時，你可以按 [UP]、[LEFT]、[DOWN]、[RIGHT] 決定方向再按 [A] 跳起。</value>
+	</data>
+	<data name="walljump" xml:space="preserve">
+		<value>當攀住時，你可以使用 [LTHUMB] 決定方向再按 [A] 跳起。</value>
+	</data>
+	<data name="trialupgrade1" xml:space="preserve">
+		<value>做得好！收集升級球以提升能力！</value>
+	</data>
+	<data name="unlocking" xml:space="preserve">
+		<value>在時間結束前輸入按鈕順序以開鎖。</value>
+	</data>
+	<data name="upgrade14" xml:space="preserve">
+		<value>習得滑鏟踢！
+按住 [DOWN] 再按 [A]。</value>
+	</data>
+	<data name="upgrade15" xml:space="preserve">
+		<value>習得二段跳！
+在空中時按 [A] 施展。</value>
+	</data>
+	<data name="trialupgrade2" xml:space="preserve">
+		<value>按 [B] 射出魔彈，然後立即按住 [Y] 施展沙塵暴。
+你也可以在空中施展沙塵暴以提升機動性！</value>
+	</data>
+	<data name="upgrade00" xml:space="preserve">
+		<value>習得沙塵暴！
+按 [B] 射出魔彈，然後立即按住 [Y] 施展沙塵暴。</value>
+	</data>
+	<data name="upgrade01" xml:space="preserve">
+		<value>菲基特習得了新型魔彈！
+按 [RB] 循環切換菲基特可用的魔彈類型。</value>
+	</data>
+	<data name="upgrade12" xml:space="preserve">
+		<value>習得空中沙塵暴！
+跳起並按住 [Y] 從遠處空中向敵人進攻！</value>
+	</data>
+	<data name="upgrade17" xml:space="preserve">
+		<value>習得乘風跳！
+當乘於氣流時按 [A] 能急速衝入高空。</value>
+	</data>
 </root>
