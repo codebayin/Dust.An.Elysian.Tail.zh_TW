@@ -117,4 +117,49 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="000_000" xml:space="preserve">
+		<value>嗯，午安，年輕人！</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>大家都是怎麼知道現在的時間呢！？</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>我聽說你們兩個幫助了保帕，他現在狀況很糟。</value>
+	</data>
+	<data name="003_000" xml:space="preserve">
+		<value>我們找到你的羊了，蓋皮。他們好像不太在意是不是迷路了。</value>
+	</data>
+	<data name="000_030" xml:space="preserve">
+		<value>太丟臉了，保帕發生了什麼事。儘管如此，我們依然永遠感謝你做的一切。</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>不好意思，我的朋友們。希望你們別介意，我必須回去找個東西。</value>
+	</data>
+	<data name="001_010" xml:space="preserve">
+		<value>你忘記什麼了嗎？</value>
+	</data>
+	<data name="001_040" xml:space="preserve">
+		<value>我會幫你注意他們的。</value>
+	</data>
+	<data name="003_010" xml:space="preserve">
+		<value>老實說我不知道你幹嘛帶這些東西。</value>
+	</data>
+	<data name="003_020" xml:space="preserve">
+		<value>謝謝你，兒子！你是個好人！來，這是我的羊身上的羊毛。相信我，這很值錢！</value>
+	</data>
+	<data name="004_000" xml:space="preserve">
+		<value>你使這世界變得更好，兒子。沸泥潭永遠歡迎像你這樣的人。</value>
+	</data>
+	<data name="001_020" xml:space="preserve">
+		<value>老實說，沒錯。我忘記把柵欄門關上了，因為我的羊似乎誤入歧途了。</value>
+	</data>
+	<data name="001_050" xml:space="preserve">
+		<value>嗯，謝謝你，兒子！有六隻羊跑到外面去了。相信你會在我接手前好好照顧他們的！</value>
+	</data>
+	<data name="001_030" xml:space="preserve">
+		<value>我怕他們可能已經跑到村莊的邊緣了。</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>如果你能幫我找到那六隻羊，我會非常感激你。你可以用閃閃發光的羊毛來認出他們。</value>
+	</data>
 </root>
