@@ -345,7 +345,7 @@
 		<value>當攀住時，你可以使用 [LTHUMB] 決定方向再按 [A] 跳起。</value>
 	</data>
 	<data name="trialupgrade1" xml:space="preserve">
-		<value>做得好！收集升級球以提升能力！</value>
+		<value>做得好！獲取能力球以提升能力！</value>
 	</data>
 	<data name="unlocking" xml:space="preserve">
 		<value>在時間結束前輸入按鈕順序以開鎖。</value>
