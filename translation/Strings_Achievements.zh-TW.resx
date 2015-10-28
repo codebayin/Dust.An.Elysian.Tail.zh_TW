@@ -117,4 +117,184 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="Achievement_01_Desc" xml:space="preserve">
+		<value>擊敗火種</value>
+	</data>
+	<data name="Achievement_01_Title" xml:space="preserve">
+		<value>平「熄」</value>
+	</data>
+	<data name="Achievement_02_Desc" xml:space="preserve">
+		<value>擊敗泰希斯女士</value>
+	</data>
+	<data name="Achievement_02_Title" xml:space="preserve">
+		<value>生命之水</value>
+	</data>
+	<data name="Achievement_03_Desc" xml:space="preserve">
+		<value>擊敗凱恩男爵</value>
+	</data>
+	<data name="Achievement_05_Title" xml:space="preserve">
+		<value>法拉納的朋友</value>
+	</data>
+	<data name="Achievement_07_Title" xml:space="preserve">
+		<value>法拉納的救星</value>
+	</data>
+	<data name="Achievement_07_Desc" xml:space="preserve">
+		<value>完成20個支線任務</value>
+	</data>
+	<data name="Achievement_06_Desc" xml:space="preserve">
+		<value>完成10個支線任務</value>
+	</data>
+	<data name="Achievement_05_Desc" xml:space="preserve">
+		<value>完成5個支線任務</value>
+	</data>
+	<data name="Achievement_04_Desc" xml:space="preserve">
+		<value>擊敗蓋厄斯將軍</value>
+	</data>
+	<data name="Achievement_06_Title" xml:space="preserve">
+		<value>法拉納的英雄</value>
+	</data>
+	<data name="Achievement_03_Title" xml:space="preserve">
+		<value>情緒高昂</value>
+	</data>
+	<data name="Achievement_04_Title" xml:space="preserve">
+		<value>……塵埃落定</value>
+	</data>
+	<data name="Achievement_08_Title" xml:space="preserve">
+		<value>好的開始……</value>
+	</data>
+	<data name="Achievement_09_Desc" xml:space="preserve">
+		<value>成功使出超過1000下的連擊</value>
+	</data>
+	<data name="Achievement_08_Desc" xml:space="preserve">
+		<value>成功使出超過200下的連擊</value>
+	</data>
+	<data name="Achievement_09_Title" xml:space="preserve">
+		<value>這才像話</value>
+	</data>
+	<data name="Achievement_10_Title" xml:space="preserve">
+		<value>死亡使者</value>
+	</data>
+	<data name="Achievement_11_Title" xml:space="preserve">
+		<value>壓住、旋轉</value>
+	</data>
+	<data name="Achievement_11_Desc" xml:space="preserve">
+		<value>解開一個寶箱</value>
+	</data>
+	<data name="Achievement_10_Desc" xml:space="preserve">
+		<value>殺死500個敵人</value>
+	</data>
+	<data name="Achievement_12_Desc" xml:space="preserve">
+		<value>解開一個籠子並救出好友</value>
+	</data>
+	<data name="Achievement_12_Title" xml:space="preserve">
+		<value>等等，你不是……？</value>
+	</data>
+	<data name="Achievement_13_Title" xml:space="preserve">
+		<value>好友13人</value>
+	</data>
+	<data name="Achievement_13_Desc" xml:space="preserve">
+		<value>在庇護所與12位好友齊聚</value>
+	</data>
+	<data name="Achievement_14_Desc" xml:space="preserve">
+		<value>對菲基特的魔彈施展沙塵暴</value>
+	</data>
+	<data name="Achievement_14_Title" xml:space="preserve">
+		<value>遙遠雷鳴</value>
+	</data>
+	<data name="Achievement_15_Desc" xml:space="preserve">
+		<value>獲取一顆能力球</value>
+	</data>
+	<data name="Achievement_15_Title" xml:space="preserve">
+		<value>漸入佳境</value>
+	</data>
+	<data name="Achievement_16_Desc" xml:space="preserve">
+		<value>透過分配技能寶石升級</value>
+	</data>
+	<data name="Achievement_16_Title" xml:space="preserve">
+		<value>擁有強大之力……</value>
+	</data>
+	<data name="Achievement_18_Desc" xml:space="preserve">
+		<value>在每個挑戰競技場中都獲得4星評價</value>
+	</data>
+	<data name="Achievement_17_Desc" xml:space="preserve">
+		<value>在任何一個挑戰競技場中獲得4星評價</value>
+	</data>
+	<data name="Achievement_18_Title" xml:space="preserve">
+		<value>傳說之物</value>
+	</data>
+	<data name="Achievement_17_Title" xml:space="preserve">
+		<value>令人讚嘆</value>
+	</data>
+	<data name="Achievement_19_Desc" xml:space="preserve">
+		<value>用一枚炸彈同時炸死6個敵人</value>
+	</data>
+	<data name="Achievement_19_Title" xml:space="preserve">
+		<value>藍色炸彈人</value>
+	</data>
+	<data name="Achievement_20_Title" xml:space="preserve">
+		<value>完人</value>
+	</data>
+	<data name="Achievement_20_Desc" xml:space="preserve">
+		<value>決定不將毒藤蔓放進賈尼的衣物裡</value>
+	</data>
+	<data name="Achievement_21_Desc" xml:space="preserve">
+		<value>將毒藤蔓放進賈尼的衣物裡來治治他</value>
+	</data>
+	<data name="Achievement_21_Title" xml:space="preserve">
+		<value>叛徒</value>
+	</data>
+	<data name="Achievement_22_Title" xml:space="preserve">
+		<value>不留餘地</value>
+	</data>
+	<data name="Achievement_22_Desc" xml:space="preserve">
+		<value>在生命值少於10%的情況下成功格擋</value>
+	</data>
+	<data name="Achievement_23_Desc" xml:space="preserve">
+		<value>根據藍圖製作一件物品</value>
+	</data>
+	<data name="Achievement_23_Title" xml:space="preserve">
+		<value>巧匠</value>
+	</data>
+	<data name="Achievement_25_Desc" xml:space="preserve">
+		<value>完成費爾的所有任務</value>
+	</data>
+	<data name="Achievement_25_Title" xml:space="preserve">
+		<value>失敗的相反</value>
+	</data>
+	<data name="Achievement_24_Title" xml:space="preserve">
+		<value>蹩腳治療師</value>
+	</data>
+	<data name="Achievement_24_Desc" xml:space="preserve">
+		<value>不斷打擾馬帝</value>
+	</data>
+	<data name="Achievement_26_Desc" xml:space="preserve">
+		<value>以困難或硬派難度完成遊戲</value>
+	</data>
+	<data name="Achievement_26_Title" xml:space="preserve">
+		<value>超越預期</value>
+	</data>
+	<data name="Achievement_27_Desc" xml:space="preserve">
+		<value>用滑鏟踢殺死一個敵人</value>
+	</data>
+	<data name="Achievement_27_Title" xml:space="preserve">
+		<value>一路悲慘</value>
+	</data>
+	<data name="Achievement_28_Desc" xml:space="preserve">
+		<value>完成波普想要雪的願望</value>
+	</data>
+	<data name="Achievement_28_Title" xml:space="preserve">
+		<value>最後的願望</value>
+	</data>
+	<data name="Achievement_29_Desc" xml:space="preserve">
+		<value>與海莉見面</value>
+	</data>
+	<data name="Achievement_29_Title" xml:space="preserve">
+		<value>射手山隘的鐵匠</value>
+	</data>
+	<data name="Achievement_30_Desc" xml:space="preserve">
+		<value>摧毀敵人的所有大炮</value>
+	</data>
+	<data name="Achievement_30_Title" xml:space="preserve">
+		<value>禁止鳴炮</value>
+	</data>
 </root>
