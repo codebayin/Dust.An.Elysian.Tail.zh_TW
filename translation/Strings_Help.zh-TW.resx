@@ -231,7 +231,7 @@
 [DOWN] + [Y]</value>
 	</data>
 	<data name="combat0" xml:space="preserve">
-		<value>從何而來
+		<value>何來有塵
 [X]、[X]、[X]、[X]</value>
 	</data>
 	<data name="combat1" xml:space="preserve">
@@ -268,7 +268,7 @@
 	<data name="menuHelp1" xml:space="preserve">
 		<value>歡迎來到物品頁。
 
-在這裡你可以管理裝備和物品。如果你的生命過低，你可以將治療物品指定至快捷槽，並在遊戲中按 [LB] 快速使用。
+在這裡你可以管理裝備和物品。如果你的生命過低，你可以將治療物品放置在快捷槽，並在遊戲中按 [LB] 快速使用。
 
 注意，每頁下方的控制選項依內容會有所不同。</value>
 	</data>
