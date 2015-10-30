@@ -224,7 +224,7 @@
 		<value>你沒有傳送石可進行傳送。請隨身攜帶一些！！</value>
 	</data>
 	<data name="Save2Desc3" xml:space="preserve">
-		<value>返回世界地圖。記住，這是一個單程旅行！</value>
+		<value>返回世界地圖。記住，這是一趟單程傳送！</value>
 	</data>
 	<data name="SaveSuccessTitle" xml:space="preserve">
 		<value>儲存完成！</value>
