@@ -117,4 +117,58 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="000_000" xml:space="preserve">
+		<value>誰在那裡？你是誰！？</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>拜託，後退！</value>
+	</data>
+	<data name="000_030" xml:space="preserve">
+		<value>莎拉比！</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>你是莎拉比嗎？別擔心，我們是一國的。</value>
+	</data>
+	<data name="000_060" xml:space="preserve">
+		<value>噢，莫斯卡！峽谷被摧毀了！所有人都死了！我……我好害怕！</value>
+	</data>
+	<data name="000_040" xml:space="preserve">
+		<value>莫斯卡？莫斯卡，是你嗎？</value>
+	</data>
+	<data name="000_050" xml:space="preserve">
+		<value>對，莎拉比！就是我！</value>
+	</data>
+	<data name="000_070" xml:space="preserve">
+		<value>你可以放心了，莎拉比。我的朋友達斯特，就是他，他在解決了峽谷的威脅。</value>
+	</data>
+	<data name="000_080" xml:space="preserve">
+		<value>那些怪物摧毀了我家，莫斯卡……我……我不知道該怎麼辦……</value>
+	</data>
+	<data name="000_090" xml:space="preserve">
+		<value>我們回去極光，好嗎？你跟我。我們會想出辦法的。</value>
+	</data>
+	<data name="000_100" xml:space="preserve">
+		<value>你們兩個可以嗎？</value>
+	</data>
+	<data name="000_110" xml:space="preserve">
+		<value>我想可以，達斯特。謝謝你做的一切。</value>
+	</data>
+	<data name="000_120" xml:space="preserve">
+		<value>全村唯一的倖存者……</value>
+	</data>
+	<data name="000_130" xml:space="preserve">
+		<value>有總比沒有好。走吧，我們離開這裡。</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>達斯特，是吧？剛剛很抱歉 ── 我太害怕了，忘記要謝謝你。</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>謝謝你，達斯特。</value>
+	</data>
+	<data name="001_020" xml:space="preserve">
+		<value>好多了，和莫斯卡在一起很安全。我只是……我有很多必須要考慮的事。保持安全，好嗎？</value>
+	</data>
+	<data name="001_010" xml:space="preserve">
+		<value>不用介意。你現在好點了嗎？</value>
+	</data>
 </root>
