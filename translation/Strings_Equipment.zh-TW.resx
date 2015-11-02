@@ -117,4 +117,703 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="001" xml:space="preserve">
+		<value>開心果</value>
+	</data>
+	<data name="003" xml:space="preserve">
+		<value>藍蘑菇</value>
+	</data>
+	<data name="002" xml:space="preserve">
+		<value>杯子蛋糕</value>
+	</data>
+	<data name="004" xml:space="preserve">
+		<value>神秘的牆烤雞</value>
+	</data>
+	<data name="010" xml:space="preserve">
+		<value>肉桂麵包</value>
+	</data>
+	<data name="012" xml:space="preserve">
+		<value>椒鹽卷餅</value>
+	</data>
+	<data name="014" xml:space="preserve">
+		<value>致命歡愉</value>
+	</data>
+	<data name="015" xml:space="preserve">
+		<value>熱可可</value>
+	</data>
+	<data name="016" xml:space="preserve">
+		<value>熱狗</value>
+	</data>
+	<data name="017" xml:space="preserve">
+		<value>大醬湯</value>
+	</data>
+	<data name="013" xml:space="preserve">
+		<value>紫菜包飯</value>
+	</data>
+	<data name="018" xml:space="preserve">
+		<value>什錦麵</value>
+	</data>
+	<data name="019" xml:space="preserve">
+		<value>冰淇淋</value>
+	</data>
+	<data name="023" xml:space="preserve">
+		<value>帝王蟹腳</value>
+	</data>
+	<data name="022" xml:space="preserve">
+		<value>千層麵</value>
+	</data>
+	<data name="021" xml:space="preserve">
+		<value>野牛漢堡</value>
+	</data>
+	<data name="020" xml:space="preserve">
+		<value>生日蛋糕</value>
+	</data>
+	<data name="024" xml:space="preserve">
+		<value>燒烤牛小排</value>
+	</data>
+	<data name="000" xml:space="preserve">
+		<value>渣渣果</value>
+	</data>
+	<data name="011" xml:space="preserve">
+		<value>生菜包飯</value>
+	</data>
+	<data name="060" xml:space="preserve">
+		<value>骯髒吊墜</value>
+	</data>
+	<data name="063" xml:space="preserve">
+		<value>兒童吊墜</value>
+	</data>
+	<data name="062" xml:space="preserve">
+		<value>樸素吊墜</value>
+	</data>
+	<data name="061" xml:space="preserve">
+		<value>彎曲吊墜</value>
+	</data>
+	<data name="065" xml:space="preserve">
+		<value>生物吊墜</value>
+	</data>
+	<data name="064" xml:space="preserve">
+		<value>裝飾吊墜</value>
+	</data>
+	<data name="072" xml:space="preserve">
+		<value>窮人吊墜</value>
+	</data>
+	<data name="073" xml:space="preserve">
+		<value>不祥吊墜</value>
+	</data>
+	<data name="070" xml:space="preserve">
+		<value>祖母吊墜</value>
+	</data>
+	<data name="071" xml:space="preserve">
+		<value>祖父吊墜</value>
+	</data>
+	<data name="074" xml:space="preserve">
+		<value>美麗吊墜</value>
+	</data>
+	<data name="076" xml:space="preserve">
+		<value>懦夫吊墜</value>
+	</data>
+	<data name="077" xml:space="preserve">
+		<value>狂人吊墜</value>
+	</data>
+	<data name="075" xml:space="preserve">
+		<value>聖者吊墜</value>
+	</data>
+	<data name="078" xml:space="preserve">
+		<value>沼澤吊墜</value>
+	</data>
+	<data name="079" xml:space="preserve">
+		<value>勇士吊墜</value>
+	</data>
+	<data name="081" xml:space="preserve">
+		<value>戰神吊墜</value>
+	</data>
+	<data name="080" xml:space="preserve">
+		<value>智慧吊墜</value>
+	</data>
+	<data name="120" xml:space="preserve">
+		<value>蛋殼</value>
+	</data>
+	<data name="121" xml:space="preserve">
+		<value>砂紙</value>
+	</data>
+	<data name="124" xml:space="preserve">
+		<value>魔精油</value>
+	</data>
+	<data name="122" xml:space="preserve">
+		<value>粗糙的磨刀石</value>
+	</data>
+	<data name="123" xml:space="preserve">
+		<value>光滑的磨刀石</value>
+	</data>
+	<data name="125" xml:space="preserve">
+		<value>矛頭粉</value>
+	</data>
+	<data name="126" xml:space="preserve">
+		<value>力量藥膏</value>
+	</data>
+	<data name="127" xml:space="preserve">
+		<value>野蠻木棒</value>
+	</data>
+	<data name="128" xml:space="preserve">
+		<value>碎片劍鞘</value>
+	</data>
+	<data name="129" xml:space="preserve">
+		<value>電擊棍</value>
+	</data>
+	<data name="130" xml:space="preserve">
+		<value>兇惡假牙</value>
+	</data>
+	<data name="132" xml:space="preserve">
+		<value>血肉劍鞘</value>
+	</data>
+	<data name="131" xml:space="preserve">
+		<value>巨拳石</value>
+	</data>
+	<data name="133" xml:space="preserve">
+		<value>瘟疫油</value>
+	</data>
+	<data name="136" xml:space="preserve">
+		<value>冰凍刃</value>
+	</data>
+	<data name="135" xml:space="preserve">
+		<value>高山油</value>
+	</data>
+	<data name="137" xml:space="preserve">
+		<value>金屬強化物</value>
+	</data>
+	<data name="139" xml:space="preserve">
+		<value>米斯拉林的靈石</value>
+	</data>
+	<data name="138" xml:space="preserve">
+		<value>軍用強化物</value>
+	</data>
+	<data name="134" xml:space="preserve">
+		<value>邪惡之物</value>
+	</data>
+	<data name="180" xml:space="preserve">
+		<value>綠葉背心</value>
+	</data>
+	<data name="181" xml:space="preserve">
+		<value>樹皮襯衫</value>
+	</data>
+	<data name="182" xml:space="preserve">
+		<value>棉質背心</value>
+	</data>
+	<data name="191" xml:space="preserve">
+		<value>黏液鎧甲</value>
+	</data>
+	<data name="190" xml:space="preserve">
+		<value>輕型鏈甲</value>
+	</data>
+	<data name="192" xml:space="preserve">
+		<value>輕型石甲</value>
+	</data>
+	<data name="195" xml:space="preserve">
+		<value>礦工裝</value>
+	</data>
+	<data name="194" xml:space="preserve">
+		<value>潛水衣</value>
+	</data>
+	<data name="193" xml:space="preserve">
+		<value>電工制服</value>
+	</data>
+	<data name="198" xml:space="preserve">
+		<value>荒謬背心</value>
+	</data>
+	<data name="197" xml:space="preserve">
+		<value>偵探風衣</value>
+	</data>
+	<data name="196" xml:space="preserve">
+		<value>巨魔夾克</value>
+	</data>
+	<data name="199" xml:space="preserve">
+		<value>幽靈背心</value>
+	</data>
+	<data name="200" xml:space="preserve">
+		<value>保暖毛衣</value>
+	</data>
+	<data name="205" xml:space="preserve">
+		<value>米斯拉林的長袍</value>
+	</data>
+	<data name="204" xml:space="preserve">
+		<value>士兵護甲</value>
+	</data>
+	<data name="203" xml:space="preserve">
+		<value>岩漿斗篷</value>
+	</data>
+	<data name="202" xml:space="preserve">
+		<value>登山裝</value>
+	</data>
+	<data name="201" xml:space="preserve">
+		<value>雪地服</value>
+	</data>
+	<data name="242" xml:space="preserve">
+		<value>光滑戒指</value>
+	</data>
+	<data name="241" xml:space="preserve">
+		<value>粗糙戒指</value>
+	</data>
+	<data name="240" xml:space="preserve">
+		<value>骯髒戒指</value>
+	</data>
+	<data name="249" xml:space="preserve">
+		<value>視力戒指</value>
+	</data>
+	<data name="250" xml:space="preserve">
+		<value>拾荒戒指</value>
+	</data>
+	<data name="252" xml:space="preserve">
+		<value>礦工戒指</value>
+	</data>
+	<data name="253" xml:space="preserve">
+		<value>富豪戒指</value>
+	</data>
+	<data name="251" xml:space="preserve">
+		<value>警覺戒指</value>
+	</data>
+	<data name="254" xml:space="preserve">
+		<value>學徒戒指</value>
+	</data>
+	<data name="255" xml:space="preserve">
+		<value>師匠戒指</value>
+	</data>
+	<data name="261" xml:space="preserve">
+		<value>結婚戒指</value>
+	</data>
+	<data name="260" xml:space="preserve">
+		<value>毀滅戒指</value>
+	</data>
+	<data name="256" xml:space="preserve">
+		<value>忍耐戒指</value>
+	</data>
+	<data name="257" xml:space="preserve">
+		<value>破損戒指</value>
+	</data>
+	<data name="258" xml:space="preserve">
+		<value>學習戒指</value>
+	</data>
+	<data name="259" xml:space="preserve">
+		<value>專注戒指</value>
+	</data>
+	<data name="300" xml:space="preserve">
+		<value>傳送石</value>
+	</data>
+	<data name="305" xml:space="preserve">
+		<value>寶藏鑰匙</value>
+	</data>
+	<data name="301" xml:space="preserve">
+		<value>復活石</value>
+	</data>
+	<data name="306" xml:space="preserve">
+		<value>紅球</value>
+	</data>
+	<data name="307" xml:space="preserve">
+		<value>菲基特娃娃</value>
+	</data>
+	<data name="308" xml:space="preserve">
+		<value>冰箱</value>
+	</data>
+	<data name="324" xml:space="preserve">
+		<value>黃色共鳴石</value>
+	</data>
+	<data name="325" xml:space="preserve">
+		<value>白色共鳴石</value>
+	</data>
+	<data name="326" xml:space="preserve">
+		<value>紫色共鳴石</value>
+	</data>
+	<data name="327" xml:space="preserve">
+		<value>水藍共鳴石</value>
+	</data>
+	<data name="321" xml:space="preserve">
+		<value>藍色共鳴石</value>
+	</data>
+	<data name="322" xml:space="preserve">
+		<value>紅色共鳴石</value>
+	</data>
+	<data name="323" xml:space="preserve">
+		<value>綠色共鳴石</value>
+	</data>
+	<data name="328" xml:space="preserve">
+		<value>彩虹共鳴石</value>
+	</data>
+	<data name="330" xml:space="preserve">
+		<value>老油畫</value>
+	</data>
+	<data name="320" xml:space="preserve">
+		<value>海莉的通話器</value>
+	</data>
+	<data name="337" xml:space="preserve">
+		<value>紅色苔蘚</value>
+	</data>
+	<data name="336" xml:space="preserve">
+		<value>蓋皮的綿羊</value>
+	</data>
+	<data name="331" xml:space="preserve">
+		<value>拐杖</value>
+	</data>
+	<data name="333" xml:space="preserve">
+		<value>私人日記</value>
+	</data>
+	<data name="332" xml:space="preserve">
+		<value>胸針</value>
+	</data>
+	<data name="339" xml:space="preserve">
+		<value>里德的盒子</value>
+	</data>
+	<data name="338" xml:space="preserve">
+		<value>賈尼的衣物</value>
+	</data>
+	<data name="335" xml:space="preserve">
+		<value>敲擊棒</value>
+	</data>
+	<data name="342" xml:space="preserve">
+		<value>裝滿雪的冰箱</value>
+	</data>
+	<data name="340" xml:space="preserve">
+		<value>里德的邪惡盒子</value>
+	</data>
+	<data name="341" xml:space="preserve">
+		<value>吉亨的懷錶</value>
+	</data>
+	<data name="000_Desc" xml:space="preserve">
+		<value>小顆多汁的果子，吃不飽的。</value>
+	</data>
+	<data name="001_Desc" xml:space="preserve">
+		<value>這結實的堅果是非常稀有的美味。</value>
+	</data>
+	<data name="002_Desc" xml:space="preserve">
+		<value>剛出爐的杯子蛋糕，細心地灑上了糖霜。</value>
+	</data>
+	<data name="003_Desc" xml:space="preserve">
+		<value>這神秘的蘑菇散發出苦澀的香氣。</value>
+	</data>
+	<data name="004_Desc" xml:space="preserve">
+		<value>被發現埋在牆內，這烤熟並調過味的雞來源不明。</value>
+	</data>
+	<data name="010_Desc" xml:space="preserve">
+		<value>麵包與糖衣完美融合的溼潤糕點。</value>
+	</data>
+	<data name="011_Desc" xml:space="preserve">
+		<value>包著新鮮生菜葉的燒肉配飯。</value>
+	</data>
+	<data name="012_Desc" xml:space="preserve">
+		<value>柔軟的椒鹽卷餅。</value>
+	</data>
+	<data name="013_Desc" xml:space="preserve">
+		<value>用海苔捲成條狀的熟米飯。</value>
+	</data>
+	<data name="014_Desc" xml:space="preserve">
+		<value>味道比賣相還差，而且看起來就很恐怖。</value>
+	</data>
+	<data name="015_Desc" xml:space="preserve">
+		<value>在棉花糖融化之前趕快喝！</value>
+	</data>
+	<data name="016_Desc" xml:space="preserve">
+		<value>喜歡芥末口味的嗎？一包十份。</value>
+	</data>
+	<data name="017_Desc" xml:space="preserve">
+		<value>濃濃的辣豆湯內放滿豆腐。加入的辣椒更增添風味！</value>
+	</data>
+	<data name="020_Desc" xml:space="preserve">
+		<value>生日快樂！</value>
+	</data>
+	<data name="019_Desc" xml:space="preserve">
+		<value>美味的冰品，加上巧克力醬味道更棒。</value>
+	</data>
+	<data name="021_Desc" xml:space="preserve">
+		<value>抹上奶油的鬆軟麵包夾著七分熟的牛肉。</value>
+	</data>
+	<data name="022_Desc" xml:space="preserve">
+		<value>起司的用量適當。</value>
+	</data>
+	<data name="023_Desc" xml:space="preserve">
+		<value>只要最好的部位。小心別切到自己的手指！</value>
+	</data>
+	<data name="024_Desc" xml:space="preserve">
+		<value>讓人心滿意足的美味烤牛肉饗宴。</value>
+	</data>
+	<data name="018_Desc" xml:space="preserve">
+		<value>豐富美味的肉湯盛滿手工麵條和各類海鮮。</value>
+	</data>
+	<data name="060_Desc" xml:space="preserve">
+		<value>這玩意很難被稱為「珠寶」。</value>
+	</data>
+	<data name="061_Desc" xml:space="preserve">
+		<value>曾經精美的飾品，如今已經彎曲變形。</value>
+	</data>
+	<data name="062_Desc" xml:space="preserve">
+		<value>一位青年送給愛人的禮物。</value>
+	</data>
+	<data name="063_Desc" xml:space="preserve">
+		<value>有點緊。</value>
+	</data>
+	<data name="064_Desc" xml:space="preserve">
+		<value>一位才華橫溢的藝術家花了大把時間雕刻了這件本來平凡的吊墜。</value>
+	</data>
+	<data name="065_Desc" xml:space="preserve">
+		<value>木枝和骨頭組成的古怪之物。</value>
+	</data>
+	<data name="070_Desc" xml:space="preserve">
+		<value>這件吊墜曾經屬於一位非常慈愛的奶奶。她本來希望將其傳給自己的孫子。</value>
+	</data>
+	<data name="071_Desc" xml:space="preserve">
+		<value>本來希望傳給孫子的貴族吊墜。它的主人曾經是個值得尊敬的人。</value>
+	</data>
+	<data name="072_Desc" xml:space="preserve">
+		<value>一位貧窮但有自信的戰士的生鏽吊墜。</value>
+	</data>
+	<data name="073_Desc" xml:space="preserve">
+		<value>這實際上會讓你變得虛弱。怎麼會有人想做這個呢？</value>
+	</data>
+	<data name="074_Desc" xml:space="preserve">
+		<value>一位藝術家費盡心思裝飾了這件吊墜。</value>
+	</data>
+	<data name="075_Desc" xml:space="preserve">
+		<value>一個能少量自動恢復生命的美麗吊墜。</value>
+	</data>
+	<data name="076_Desc" xml:space="preserve">
+		<value>原屬一名離棄崗位的逃兵之物。他苟活下來了，但恥辱將跟著他一輩子。</value>
+	</data>
+	<data name="077_Desc" xml:space="preserve">
+		<value>這件吊墜的主人曾經宣示效忠惡魔。</value>
+	</data>
+	<data name="078_Desc" xml:space="preserve">
+		<value>這件吊墜被埋在毒沼澤數百年了。</value>
+	</data>
+	<data name="079_Desc" xml:space="preserve">
+		<value>這件吊墜極具份量，仿佛身經百戰。</value>
+	</data>
+	<data name="080_Desc" xml:space="preserve">
+		<value>一位智者使這件吊墜充滿持續治癒的能量。</value>
+	</data>
+	<data name="081_Desc" xml:space="preserve">
+		<value>稀世珍寶，只有最偉大的戰士才配得上它。</value>
+	</data>
+	<data name="120_Desc" xml:space="preserve">
+		<value>用這個磨劍能帶來意想不到的效果。</value>
+	</data>
+	<data name="121_Desc" xml:space="preserve">
+		<value>你懷疑這玩意是不是使你的劍變鈍了。</value>
+	</data>
+	<data name="122_Desc" xml:space="preserve">
+		<value>這使你的劍鋒透出微微光芒。</value>
+	</data>
+	<data name="123_Desc" xml:space="preserve">
+		<value>你很滿意這磨刀石的拋光效果。</value>
+	</data>
+	<data name="124_Desc" xml:space="preserve">
+		<value>油性物質能助你揮劍如風。</value>
+	</data>
+	<data name="125_Desc" xml:space="preserve">
+		<value>少量金屬粉能提升傷害。</value>
+	</data>
+	<data name="126_Desc" xml:space="preserve">
+		<value>用強大元素混合調製的強效藥劑。</value>
+	</data>
+	<data name="127_Desc" xml:space="preserve">
+		<value>木頭和鐵釘湊成的難看組合物。</value>
+	</data>
+	<data name="128_Desc" xml:space="preserve">
+		<value>大量尖銳的碎片。</value>
+	</data>
+	<data name="132_Desc" xml:space="preserve">
+		<value>你希望這能引起感染。</value>
+	</data>
+	<data name="131_Desc" xml:space="preserve">
+		<value>用這些結實的礦石擊出重擊。</value>
+	</data>
+	<data name="130_Desc" xml:space="preserve">
+		<value>牙齒的殺傷力可不輸給其它武器！</value>
+	</data>
+	<data name="129_Desc" xml:space="preserve">
+		<value>這強化物釋放著神秘的電流。</value>
+	</data>
+	<data name="133_Desc" xml:space="preserve">
+		<value>這液體摻入了可怕的瘟疫。</value>
+	</data>
+	<data name="139_Desc" xml:space="preserve">
+		<value>傳說中的靈石，被月血長老召喚出來的。</value>
+	</data>
+	<data name="138_Desc" xml:space="preserve">
+		<value>國王士兵所用的軍用秘藥。</value>
+	</data>
+	<data name="137_Desc" xml:space="preserve">
+		<value>能強化任何金屬的質量，就連造出阿拉的神秘礦石也不例外。</value>
+	</data>
+	<data name="136_Desc" xml:space="preserve">
+		<value>劍上閃著寒光，能提供額外傷害。</value>
+	</data>
+	<data name="134_Desc" xml:space="preserve">
+		<value>受詛咒之物，能讓你的敵人後悔與你作對。</value>
+	</data>
+	<data name="135_Desc" xml:space="preserve">
+		<value>當地戰士調製的，用以對付高山生物。</value>
+	</data>
+	<data name="300_Desc" xml:space="preserve">
+		<value>一次性使用的石頭，可將使用者從儲存古蹟傳送到世界地圖。</value>
+	</data>
+	<data name="301_Desc" xml:space="preserve">
+		<value>一次性使用的石頭，據說能復活陣亡的戰士。一次重生的機會，就看你的意願。</value>
+	</data>
+	<data name="305_Desc" xml:space="preserve">
+		<value>一次性使用的鑰匙，可用來打開寶箱和籠子。</value>
+	</data>
+	<data name="306_Desc" xml:space="preserve">
+		<value>一顆不透光的水晶球。這有什麼用途呢？</value>
+	</data>
+	<data name="307_Desc" xml:space="preserve">
+		<value>你幾乎無法分辨這個娃娃是真的還是假的。太神奇了。</value>
+	</data>
+	<data name="321_Desc" xml:space="preserve">
+		<value>共鳴石可開啟相同顏色的所有共鳴門。</value>
+	</data>
+	<data name="308_Desc" xml:space="preserve">
+		<value>有趣的機器，能將放置在內的東西保持冰冷。</value>
+	</data>
+	<data name="342_Desc" xml:space="preserve">
+		<value>冰箱好用的不得了，雪完全不會融化。</value>
+	</data>
+	<data name="336_Desc" xml:space="preserve">
+		<value>蓋皮走失的一隻綿羊。</value>
+	</data>
+	<data name="337_Desc" xml:space="preserve">
+		<value>一搓紅色苔蘚，烹調的好食材。</value>
+	</data>
+	<data name="338_Desc" xml:space="preserve">
+		<value>一籃滿滿的衣物。這些衣服質地相當好。</value>
+	</data>
+	<data name="335_Desc" xml:space="preserve">
+		<value>布洛普最愛的武器。這上面的全是齒痕嗎？</value>
+	</data>
+	<data name="333_Desc" xml:space="preserve">
+		<value>皮革裝訂的日記，因頻繁使用已經磨損。</value>
+	</data>
+	<data name="332_Desc" xml:space="preserve">
+		<value>老舊但雕刻精美的胸針。</value>
+	</data>
+	<data name="331_Desc" xml:space="preserve">
+		<value>華麗的拐杖，鑲著銀邊。</value>
+	</data>
+	<data name="341_Desc" xml:space="preserve">
+		<value>這件懷錶承載著吉亨和奧奈達之間深厚的情感。</value>
+	</data>
+	<data name="339_Desc" xml:space="preserve">
+		<value>詭異，這盒子的每一面都有發光的符文裝飾。</value>
+	</data>
+	<data name="340_Desc" xml:space="preserve">
+		<value>盒子正在吸取你的生命！唯一的解脫只有……死！</value>
+	</data>
+	<data name="330_Desc" xml:space="preserve">
+		<value>這似乎是畫一對新婚夫妻的老油畫。他們笑得很幸福。</value>
+	</data>
+	<data name="320_Desc" xml:space="preserve">
+		<value>有了這部裝置，你可以在世界的各個角落與海莉交易。</value>
+	</data>
+	<data name="180_Desc" xml:space="preserve">
+		<value>用樹葉製成的簡陋背心。防護性不佳，但有總比沒有好。</value>
+	</data>
+	<data name="181_Desc" xml:space="preserve">
+		<value>這堅硬的襯衫好像隨時都會裂開似的。</value>
+	</data>
+	<data name="182_Desc" xml:space="preserve">
+		<value>它能保暖禦寒，但只有這個用處。</value>
+	</data>
+	<data name="190_Desc" xml:space="preserve">
+		<value>由上千個小型、相互嵌套的鋼圈組成。</value>
+	</data>
+	<data name="192_Desc" xml:space="preserve">
+		<value>這笨重、石質的護甲上面刻著有趣的圖案。</value>
+	</data>
+	<data name="191_Desc" xml:space="preserve">
+		<value>這護甲的黏液能使敵人的攻擊滑掉，以降低殺傷力。</value>
+	</data>
+	<data name="193_Desc" xml:space="preserve">
+		<value>專門處理電力的技工所穿的制服。</value>
+	</data>
+	<data name="194_Desc" xml:space="preserve">
+		<value>游走法拉納水域和深海的人所穿的服裝。</value>
+	</data>
+	<data name="195_Desc" xml:space="preserve">
+		<value>走遍王國許多採礦場的礦工所用的整套裝備。</value>
+	</data>
+	<data name="196_Desc" xml:space="preserve">
+		<value>簡約時尚的夾克，由巨魔的皮製成。</value>
+	</data>
+	<data name="197_Desc" xml:space="preserve">
+		<value>法拉納藏有許多秘密。穿上這件時髦的大衣來帥氣地解開秘密吧。</value>
+	</data>
+	<data name="240_Desc" xml:space="preserve">
+		<value>毫無用處的骯髒戒指。</value>
+	</data>
+	<data name="198_Desc" xml:space="preserve">
+		<value>用一些相當可怕的材料製成。雖然外觀不雅，但防禦力不錯。</value>
+	</data>
+	<data name="199_Desc" xml:space="preserve">
+		<value>物理特性不明的溫暖背心，不過防禦力很高。</value>
+	</data>
+	<data name="200_Desc" xml:space="preserve">
+		<value>用最上等的羊毛手工編織而成。提供保暖和更多的防護。</value>
+	</data>
+	<data name="201_Desc" xml:space="preserve">
+		<value>專門保護穿戴者抵禦凍傷及嚴寒的套裝。它也能保護你抵禦敵人的攻擊。</value>
+	</data>
+	<data name="202_Desc" xml:space="preserve">
+		<value>設計給穿戴者用來攀登法拉納最高峰的耐用全套裝備。</value>
+	</data>
+	<data name="203_Desc" xml:space="preserve">
+		<value>混入了取自恆曉窪地火山的極硬黑曜石。</value>
+	</data>
+	<data name="204_Desc" xml:space="preserve">
+		<value>極其堅韌的護甲，蓋厄斯軍團的最高階士兵所穿之物。</value>
+	</data>
+	<data name="205_Desc" xml:space="preserve">
+		<value>專為森．米斯拉林製作，為了激戰時穿的特殊長袍。</value>
+	</data>
+	<data name="241_Desc" xml:space="preserve">
+		<value>價值低廉的普通戒指。</value>
+	</data>
+	<data name="242_Desc" xml:space="preserve">
+		<value>價值昂貴的精緻戒指。</value>
+	</data>
+	<data name="249_Desc" xml:space="preserve">
+		<value>樣貌平平的戒指，能在黑暗中發光。</value>
+	</data>
+	<data name="250_Desc" xml:space="preserve">
+		<value>住在文明社會邊緣的窮人的戒指。</value>
+	</data>
+	<data name="251_Desc" xml:space="preserve">
+		<value>原屬於一名年輕戰士因其警覺性而獲得的獎賞。</value>
+	</data>
+	<data name="253_Desc" xml:space="preserve">
+		<value>極佳的商業頭腦讓這枚戒指的主人非常富有。</value>
+	</data>
+	<data name="254_Desc" xml:space="preserve">
+		<value>給希望早日出師的學徒之用。</value>
+	</data>
+	<data name="255_Desc" xml:space="preserve">
+		<value>戴著這枚戒指的工匠仿佛每天都能學到新技能。</value>
+	</data>
+	<data name="256_Desc" xml:space="preserve">
+		<value>幫助穿戴者在面對困境時學會忍耐。</value>
+	</data>
+	<data name="252_Desc" xml:space="preserve">
+		<value>這枚戒指的主人曾經冒險深入過法拉納的地心，發現了許多不可思議的礦石和礦物。</value>
+	</data>
+	<data name="261_Desc" xml:space="preserve">
+		<value>這枚戒指的束縛力遠超過一切。</value>
+	</data>
+	<data name="257_Desc" xml:space="preserve">
+		<value>代表主人與僕人之間緊密關係的戒指。</value>
+	</data>
+	<data name="258_Desc" xml:space="preserve">
+		<value>工匠協會在學徒見習前授予的獎勵。</value>
+	</data>
+	<data name="259_Desc" xml:space="preserve">
+		<value>稀有的禮物，賜予那些能克服生命中遇到障礙的人。</value>
+	</data>
+	<data name="260_Desc" xml:space="preserve">
+		<value>可怕的戒指，據說能提升隨從的力量至不可思議的程度。</value>
+	</data>
 </root>
