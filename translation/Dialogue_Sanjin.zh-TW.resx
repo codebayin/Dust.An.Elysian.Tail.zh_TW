@@ -117,4 +117,28 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="000_000" xml:space="preserve">
+		<value>阿，你及時趕上，米斯拉林。我是桑金 ── 我就是你所謂的......總工程師，我猜是這麼說的。</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>長老有提到說你需要幫忙？</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>對，的確。我們在下面的洞穴設置了機器，能夠為我們的營地提供電力和水。不幸的是，地震害那兩個系統停擺了，我們必須重新啟動它們。</value>
+	</data>
+	<data name="000_040" xml:space="preserve">
+		<value>當然，桑金。我會去看看的。</value>
+	</data>
+	<data name="000_030" xml:space="preserve">
+		<value>我一直都比較善於為戰鬥最準備，假如你能去下面檢查發電機，我會很感謝你。</value>
+	</data>
+	<data name="000_050" xml:space="preserve">
+		<value>謝謝你。你抵達那裡後需要重新啟動發電機和抽水機。我們需要那兩個系統同時運作才能夠對抗蓋厄斯將軍。</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>做得好，米斯拉林。電力及供水系統已經再次運作了，現在我們可以守住營地來對抗蓋厄斯的士兵了！你今天又拯救了許多人的生命。</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>米斯拉林，請找一條能下去洞窟重新啟動發電機和抽水機的路。</value>
+	</data>
 </root>
