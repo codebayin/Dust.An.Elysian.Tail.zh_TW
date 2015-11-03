@@ -117,4 +117,264 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="credits004" xml:space="preserve">
+		<value>故事與編劇
+Dean Dodrill &amp; Alex Kain</value>
+	</data>
+	<data name="credits003" xml:space="preserve">
+		<value>配音導演與團隊 (Toon Platoon Casting)
+Deven Mack, 副導 Edward Bosco</value>
+	</data>
+	<data name="credits001" xml:space="preserve">
+		<value>音樂與音效 (HyperDuck SoundWorks)
+Chris Geehan &amp; Dan Byrne-McCullough</value>
+	</data>
+	<data name="credits002" xml:space="preserve">
+		<value>追加音樂 (Funky Rustic)
+Alex Brandon</value>
+	</data>
+	<data name="credits000" xml:space="preserve">
+		<value>Dean Dodrill 創作的遊戲</value>
+	</data>
+	<data name="credits008" xml:space="preserve">
+		<value>
+
+
+
+
+
+
+
+
+
+
+獻給我最愛的伊莉莎白</value>
+	</data>
+	<data name="credits005" xml:space="preserve">
+		<value>配音陣容
+ 
+達斯特/金/卡西烏斯 - Lucien Dodge
+菲基特 - Kimlinh Tran
+阿拉 - Edward Bosco
+ 
+琴吉 - Amber Lee Connors
+灰眼長老 - Mick Lauer
+蓋厄斯將軍 - River Kanoff
+ 
+火種 - Edwyn Tiong
+泰希斯女士 - Eileen Montgomery
+凱恩男爵 - Josh Tomar
+ 
+海莉 - Anna Kingsley
+布萊姆村長 - Steven Kelly
+奧古斯汀 - Mike Varker
+里德 - Michael Johnston
+莫迪凱店主 - Nathaniel Arnold
+比恩 - Ty Konzak
+卡倫 - John Mondelli
+奧奈達 - Karen Kahler
+吉亨 - Kamran Nikhad
+科拉 - Francine L. Farley
+費爾 - Stephen Lynch
+賈尼 - Andrew Dennis
+可琳 - Amanda Gonzalez
+科爾賓 - Erica Mendez
+莫斯卡 - Justin Briner
+莎拉比 - Miranda Gauvin
+馬帝 - John Aponte 
+ 
+波普 - Elizabeth Freeman
+媽莫普 - Kira Buckland
+布洛普 - David Dixon
+芙蘿哈普 - Karen Kahler
+老蓋皮 - Matthew Gafford
+絲莫芭普 - Teresa Decher
+ 
+指揮官 - Chris Guerrero
+士兵 - Curtis Arnott
+
+錫雷特商人 - Xander Mobus
+桑金 - Sean Chiplock
+月血士兵A - Chris Niosi
+月血士兵B - Cody Coleman
+月血士兵C - Zach Holzman
+月血士兵D - Blake Swift
+月血士兵E - Noah Scammon</value>
+	</data>
+	<data name="credits006" xml:space="preserve">
+		<value>特別感謝他們的貢獻與啟發
+
+James Silva &amp; Michelle Juett
+Greg Kasavin &amp; Supergiant Games
+Derek Yu
+Edmund McMillen &amp; Tommy Refenes
+Jonathan Blow &amp; David Hellman
+Phil Fish &amp; Renaud Bédard
+Twisted Pixel
+
+
+
+Dean Dodrill 衷心感謝：
+
+Microsoft Studios and the XBLA Team
+The XNA Development Community
+All of my generous Playtesters
+My wife, children and family
+And to an everloving God
+
+
+
+HyperDuck SoundWorks 衷心感謝：
+
+Their friends and family for all their support and understanding, Kevin Carville for his advice and feedback over the last year, Michael Carville for an amazing logo, and Dean, for being such an inspiration throughout this project, and a good friend.
+
+
+
+Alex Kain 衷心感謝：
+
+Mom, Dad, Jen, Care, Rachel, Sean, David, the Venan Crew, and all family and friends near and far.
+
+
+
+Alex Brandon 衷心感謝：
+
+For the love and patience of my family:  Jeanette, Nicholas, Conner and Sean.
+
+
+
+Toon Platoon Casting 特別感謝：
+
+Jessie Thomson, Sunday Muse, Eric Schuran, Ryan "Frogs" McCormack
+Jeremy Harrington, Phillip Sacramento, Voice Acting Club &amp; Alliance
+Tom Fulp and Newgrounds.com, The Samurai Pizza Cats</value>
+	</data>
+	<data name="credits007" xml:space="preserve">
+		<value>Microsoft Studios
+
+Xbox LIVE Arcade Team
+
+監製
+Andrew Williams
+
+首席測試師
+Jason Wohlfeil
+Paul Loynd
+
+設計小組
+Daniel Fornace
+
+開發小組
+Jason Hewitt
+
+發行管理
+Josh Mulanax
+Tyler Keenan (Xtreme)
+
+首席監製
+Kevin Hathaway
+
+執行監製
+Mark Coates
+
+資深總監，XBLA 發行
+Ted Woolsey
+
+市場開發
+Cherie Lutz
+
+投資總監
+Chris Charla
+
+產品經理
+Daniel McConnell
+
+市場行銷
+Michael Wolf
+John Dongelmans
+Raymond Estrada (簡易諮詢)
+
+社群管理
+Alex Herbert
+
+歐洲本地化小組
+Gerard Dunne，軟體工程師
+Ricardo Cordoba，測試專案經理
+Tomasz Sobolewski，測試主管
+Magali Lucchini，翻譯專案經理
+Malika Kherfi，專案經理
+
+亞洲本地化小組
+Takashi Sasaki，軟體工程師
+Hiroshi Hosoda，軟體工程師
+Hiroya Horai，測試主管
+Yong Hong Park，測試師
+Tomoko Yamada，產品經理
+Shinya Muto，專案經理
+
+使用者研究小組
+Tim Nichols，使用者研究主管
+Kristie Fisher，使用者研究員
+
+特別感謝
+Brian Weiss, Kevin Salcedo, Craig Leigh
+Nicki Beaudry, Christopher Rubyor, Scott Fintel
+Andy Beaudoin, Jason York, Chad Long
+Matt Golz, Dan Smith, Joe Djorgee
+Nick Bodenham, Jared Barnhill (Aditi)
+Brian McCarty (Xtreme Consulting Group Inc)
+Mark Currie (CompuCom Systems Inc)
+Microsoft Studios Black Ops
+Shield Compatibility Lab
+
+
+
+Experis 
+
+資深測試主管
+Lloyd Bell 
+
+測試主管
+Amelia Hannon 
+
+軟體開發工程師（測試）
+Val Novytskyy 
+
+軟體測試工程師
+Nick Hardy, Eric Ranz 
+
+測試助理
+Alan Hume, April Culberson, Clayton Hopper
+Gillian Williams, Isaac Price, Jacob Martin
+Jae Yslas, Jason Fox, Jeff Woito
+Jonathan Tote, Josh Breese, Kevin Lourigan
+Marc Williams, Masha Reutovski, Matthew Howells
+Michael Arvat, Rickie Thornley, Rise Lugo
+Ryan Naegeli, Zack Cutri
+
+
+
+
+PC Team
+
+首席測試師
+Jason Wohlfeil
+
+特攻小組
+Bradley Shockey (Experis), Chad Stringer (Collabera)
+Chris Gaffney (Volt), David Yingling (Collabera)
+Jacob Farley (Aditi), Mark Bonagofski (Apex Systems, Inc.)
+
+本地化監製
+Zeb Wedell
+
+本地化專案經理
+JaeYoung Lee, Shinya Muto, Estelle Skeels
+
+本地化專案工程師
+Munetaka Fuse, Hiroshi Hosoda, Yong Zhao
+Production Managers, Natsuko Kudo, Yuko Yoshida 
+
+測試主管
+Yong Hong Park, Dustin Wood</value>
+	</data>
 </root>
