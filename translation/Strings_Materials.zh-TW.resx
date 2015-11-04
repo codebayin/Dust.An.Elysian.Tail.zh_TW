@@ -157,10 +157,10 @@
 		<value>魔精爪</value>
 	</data>
 	<data name="014" xml:space="preserve">
-		<value>野獸矛</value>
+		<value>野獸矛頭</value>
 	</data>
 	<data name="015" xml:space="preserve">
-		<value>野獸皮</value>
+		<value>野獸皮革</value>
 	</data>
 	<data name="016" xml:space="preserve">
 		<value>艾維爪</value>
@@ -187,7 +187,7 @@
 		<value>岩犬牙</value>
 	</data>
 	<data name="023" xml:space="preserve">
-		<value>弗洛爾電光</value>
+		<value>弗洛恩電光</value>
 	</data>
 	<data name="022" xml:space="preserve">
 		<value>弗洛恩觸手</value>
@@ -313,7 +313,7 @@
 		<value>弗洛恩的黏滑觸手。</value>
 	</data>
 	<data name="023_Desc_100" xml:space="preserve">
-		<value>弗洛爾的發電腺體。</value>
+		<value>弗洛恩的發電腺體。</value>
 	</data>
 	<data name="024_Desc_100" xml:space="preserve">
 		<value>岩犬的發黃獸牙。</value>
