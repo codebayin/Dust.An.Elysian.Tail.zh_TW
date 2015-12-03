@@ -117,4 +117,331 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="000_Title" xml:space="preserve">
+		<value>塵歸塵，土歸土</value>
+	</data>
+	<data name="001_Title" xml:space="preserve">
+		<value>聊勝於無</value>
+	</data>
+	<data name="003_Title" xml:space="preserve">
+		<value>黏不隆咚</value>
+	</data>
+	<data name="002_Title" xml:space="preserve">
+		<value>矛頭所向</value>
+	</data>
+	<data name="004_Title" xml:space="preserve">
+		<value>鐵匠</value>
+	</data>
+	<data name="005_Title" xml:space="preserve">
+		<value>新創事業</value>
+	</data>
+	<data name="006_Title" xml:space="preserve">
+		<value>晾乾</value>
+	</data>
+	<data name="007_Title" xml:space="preserve">
+		<value>連、連、連、連擊破壞者</value>
+	</data>
+	<data name="008_Title" xml:space="preserve">
+		<value>重逢</value>
+	</data>
+	<data name="009_Title" xml:space="preserve">
+		<value>盒子裡有什麼？</value>
+	</data>
+	<data name="010_Title" xml:space="preserve">
+		<value>頭號粉絲</value>
+	</data>
+	<data name="011_Title" xml:space="preserve">
+		<value>跨越藩籬</value>
+	</data>
+	<data name="012_Title" xml:space="preserve">
+		<value>紅苔蘚</value>
+	</data>
+	<data name="013_Title" xml:space="preserve">
+		<value>敲擊棒</value>
+	</data>
+	<data name="014_Title" xml:space="preserve">
+		<value>復仇雪恥</value>
+	</data>
+	<data name="015_Title" xml:space="preserve">
+		<value>人氣菲基特</value>
+	</data>
+	<data name="016_Title" xml:space="preserve">
+		<value>珍珠白</value>
+	</data>
+	<data name="017_Title" xml:space="preserve">
+		<value>鞏固強化</value>
+	</data>
+	<data name="018_Title" xml:space="preserve">
+		<value>來去自如</value>
+	</data>
+	<data name="019_Title" xml:space="preserve">
+		<value>電光石火</value>
+	</data>
+	<data name="021_Title" xml:space="preserve">
+		<value>雪花</value>
+	</data>
+	<data name="Quest_Complete" xml:space="preserve">
+		<value>任務完成！</value>
+	</data>
+	<data name="020_Title" xml:space="preserve">
+		<value>遺失的時間</value>
+	</data>
+	<data name="019_000" xml:space="preserve">
+		<value>費爾想利用飛行的帶電弗洛恩的獨特能力來強化極光村守衛的武裝。幫他弄來「3個弗洛恩觸手」和「3個弗洛恩電光」。</value>
+	</data>
+	<data name="019_001" xml:space="preserve">
+		<value>你已經湊齊了材料。帶回去交給極光村的費爾以換取報酬。</value>
+	</data>
+	<data name="018_001" xml:space="preserve">
+		<value>你已經湊齊了材料。帶回去交給極光村的費爾以換取報酬。</value>
+	</data>
+	<data name="017_001" xml:space="preserve">
+		<value>你已經湊齊了材料。帶回去交給極光村的費爾以換取報酬。</value>
+	</data>
+	<data name="018_000" xml:space="preserve">
+		<value>費爾想將艾維的特性融入他的裝備中。從飛行生物身上收集「6個艾維翼」和「6個艾維爪」。</value>
+	</data>
+	<data name="017_000" xml:space="preserve">
+		<value>為了強化極光村守衛的護甲，費爾請你幫他弄來「2個巨石」和「2個巨核」。</value>
+	</data>
+	<data name="003_001" xml:space="preserve">
+		<value>你已經湊齊了黏液物質。帶回去交給極光村的費爾以換取報酬。</value>
+	</data>
+	<data name="002_001" xml:space="preserve">
+		<value>你已經湊齊了矛頭。帶回去交給極光村的費爾以換取報酬。</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>為了強化守衛的武器，費爾需要從山谷出沒的野獸身上獲取「8個野獸矛頭」。</value>
+	</data>
+	<data name="001_001" xml:space="preserve">
+		<value>你已經湊齊了魔精皮。帶回去交給極光村的費爾以換取報酬。</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>費爾想要強化村鎮守衛所穿的護甲。帶「5張魔精皮」給他，以助他完成心願。</value>
+	</data>
+	<data name="003_000" xml:space="preserve">
+		<value>費爾想用「4個黏液刺」和「4個黏液膜」所提煉出來的化合物來強化極光村守衛的護甲。你認為這會有點棘手。</value>
+	</data>
+	<data name="021_000" xml:space="preserve">
+		<value>作為向父親最後的告別，波普請你幫他帶一些雪來。北方的山上有雪，但你需要一些方法將其運回沸泥潭。</value>
+	</data>
+	<data name="021_001" xml:space="preserve">
+		<value>你已經獲得了一個冰箱，用它來裝雪效果會很好。</value>
+	</data>
+	<data name="021_002" xml:space="preserve">
+		<value>你已經裝滿了雪。把它交給沸泥潭的波普。</value>
+	</data>
+	<data name="021_003" xml:space="preserve">
+		<value>波普將雪置於父親的墳墓上，履行了曾經對他的承諾。</value>
+	</data>
+	<data name="020_000" xml:space="preserve">
+		<value>奧奈達似乎很擔心她的丈夫。到極光村西邊入口附近確認吉亨的安危。</value>
+	</data>
+	<data name="020_002" xml:space="preserve">
+		<value>你已經找到了懷錶。把它交給極光村的吉亨。</value>
+	</data>
+	<data name="020_001" xml:space="preserve">
+		<value>吉亨請你搜索他農場附近的區域，幫他尋找懷錶。</value>
+	</data>
+	<data name="016_001" xml:space="preserve">
+		<value>你已經湊齊了岩犬牙。帶回去交給沸泥潭的布洛普。</value>
+	</data>
+	<data name="016_000" xml:space="preserve">
+		<value>布洛普請你幫他弄來「10顆岩犬牙」，這樣他就能製作一副新的假牙了。</value>
+	</data>
+	<data name="014_000" xml:space="preserve">
+		<value>為了替布洛普脆弱的自尊雪恥，你答應他要從住在洞穴的持盾巨魔身上收集「4根巨魔手指」。</value>
+	</data>
+	<data name="014_001" xml:space="preserve">
+		<value>你已經湊齊了巨魔手指。帶回去交給沸泥潭的布洛普，也許他的榮耀能藉此重返。</value>
+	</data>
+	<data name="015_000" xml:space="preserve">
+		<value>沸泥潭的絲莫芭普說她一定要得到菲基特。在抗拒要給她真人的同時，你決定去找一個合適的替代品，菲基特外型的布偶是最佳的方案。你最好去找極光村的商店主人求助。</value>
+	</data>
+	<data name="015_001" xml:space="preserve">
+		<value>商店主人同意要做一個菲基特布偶給你，但他需要「2碼布料」、「3團棉花」和「1瓶染料」來完成這項工作。</value>
+	</data>
+	<data name="015_002" xml:space="preserve">
+		<value>你已經獲得了所需的材料。極光村的商店主人現在應該能做出菲基特布偶了。</value>
+	</data>
+	<data name="015_003" xml:space="preserve">
+		<value>布偶已經完成了。雖然菲基特的參考圖非常糟糕，但成品做得還算不錯。把布偶交給沸泥潭的絲莫芭普。</value>
+	</data>
+	<data name="015_004" xml:space="preserve">
+		<value>絲莫芭普很喜歡那個布偶，作為交換她給了你一個古怪的盒子。</value>
+	</data>
+	<data name="013_000" xml:space="preserve">
+		<value>布洛普的「敲擊棒」掉在了沸泥潭的地底深處。儘快幫他把棒子找回來，這樣他就能繼續敲打東西了。</value>
+	</data>
+	<data name="013_001" xml:space="preserve">
+		<value>你找回布洛普的敲擊棒了。回去沸泥潭交給他。</value>
+	</data>
+	<data name="013_002" xml:space="preserve">
+		<value>布洛普很興奮能找回棒子。現在他又可以開始東敲西敲了。可惜的是，你一直有個疑問：當初他的棒子為什麼會被藏起來。</value>
+	</data>
+	<data name="012_000" xml:space="preserve">
+		<value>芙蘿哈普請你幫她弄來幾撮紅苔蘚，讓她能做飯給辛勞工作的丈夫吃。據說這些苔蘚只生長在陰暗、巨大紅蘑菇的菌傘下。</value>
+	</data>
+	<data name="012_001" xml:space="preserve">
+		<value>你已經採集了幾撮紅苔蘚。帶回去交給沸泥潭的芙蘿哈普。</value>
+	</data>
+	<data name="011_000" xml:space="preserve">
+		<value>老蓋皮請你幫他找回6隻他走失的綿羊。牠們可能會在洞穴的任何地方。你可以透過牠們烏黑亮麗的羊毛認出來的。</value>
+	</data>
+	<data name="011_001" xml:space="preserve">
+		<value>你已經成功地找到了所有走失的綿羊。把牠們送回到沸泥潭的老蓋皮那裡。</value>
+	</data>
+	<data name="010_000" xml:space="preserve">
+		<value>極光村的莫斯卡認定你會成為傳奇，一心一意只想得到你的簽名。如果你有一些紙的話……</value>
+	</data>
+	<data name="010_001" xml:space="preserve">
+		<value>你已經找到了適合簽名的紙。雖然你覺得有點蠢，但你還是會實現莫斯卡的心願的。</value>
+	</data>
+	<data name="009_000" xml:space="preserve">
+		<value>你遇到一個名叫里德的古怪傢伙。他似乎在找某個盒子。</value>
+	</data>
+	<data name="009_001" xml:space="preserve">
+		<value>為了交換布偶，絲莫芭普給了你一個盒子，這個盒子跟里德提過的那個很像。把盒子交給極光村的里德。</value>
+	</data>
+	<data name="009_002" xml:space="preserve">
+		<value>菲基特似乎不小心打開了里德的盒子。得知這件事之後，里德拒絕拿回盒子。雖然你現在有了精美的盒子，但裡頭的惡靈正慢慢地榨乾你的生命。唯一的「解藥」就是讓怪物殺了你。</value>
+	</data>
+	<data name="009_003" xml:space="preserve">
+		<value>在你承受致命一擊的瞬間，惡靈就被消滅了，而詛咒也解除了。把盒子交給極光村的里德，還有……記住這次別再打開了。</value>
+	</data>
+	<data name="008_000" xml:space="preserve">
+		<value>莫斯卡請你幫他確認一位女孩的安危，她就住在阿巴蒂斯森林邊上的峽谷村。</value>
+	</data>
+	<data name="008_001" xml:space="preserve">
+		<value>峽谷村成了一片廢墟，但你發現了一位名叫莎拉比的女孩留下的字條，是寫給莫斯卡的。把字條交給極光村的莫斯卡。</value>
+	</data>
+	<data name="008_002" xml:space="preserve">
+		<value>莫斯卡認為莎拉比在逃離峽谷村之後，可能正躲藏在隱秘海灣。</value>
+	</data>
+	<data name="008_003" xml:space="preserve">
+		<value>你救出了莎拉比，並幫她與莫斯卡重逢。這兩人已回到了極光村。</value>
+	</data>
+	<data name="007_000" xml:space="preserve">
+		<value>如果達成1000連擊的話，科爾賓會愛上你的。你有這個本事嗎？</value>
+	</data>
+	<data name="007_001" xml:space="preserve">
+		<value>你達成連擊了！科爾賓一定會很高興的！</value>
+	</data>
+	<data name="007_002" xml:space="preserve">
+		<value>果然，科爾賓高興得不得了！</value>
+	</data>
+	<data name="006_000" xml:space="preserve">
+		<value>可琳正在尋找她失蹤的哥哥，科爾賓。她說極光村的賈尼或許會知道他的下落。</value>
+	</data>
+	<data name="006_001" xml:space="preserve">
+		<value>賈尼讓科爾賓去藤蔓幽谷幫他洗衣服了。去確保科爾賓的安全。</value>
+	</data>
+	<data name="006_002" xml:space="preserve">
+		<value>你救出了科爾賓，把他安全地送回家了。現在該去找賈尼的衣服了。</value>
+	</data>
+	<data name="006_003" xml:space="preserve">
+		<value>你處理好了賈尼的衣服。把整籃衣服送回極光村還給他。</value>
+	</data>
+	<data name="005_000" xml:space="preserve">
+		<value>一位神秘的商人請你去尋找各種材料並賣給他。作為第一次賣給他新材料的回報，他會給你獎賞的。</value>
+	</data>
+	<data name="005_001" xml:space="preserve">
+		<value>你給商店補充了新材料。向商人領取獎賞。</value>
+	</data>
+	<data name="004_000" xml:space="preserve">
+		<value>奧古斯汀請你替他將一份藍圖送去給射手山隘的鐵匠，因為最近那裡好像非常危險。</value>
+	</data>
+	<data name="004_001" xml:space="preserve">
+		<value>你見到了鐵匠的女兒，海莉。現在她能按照你找到的藍圖製作裝備了。為了能大力地幫上忙，她請你去找一個特殊的裝置，可使你能在世界的各個角落與她通訊。去找出在阿巴蒂斯森林裡的藍色共鳴門。</value>
+	</data>
+	<data name="004_002" xml:space="preserve">
+		<value>你已經獲得了海莉的通話器。現在無論你在哪，海莉都能為你製作裝備了。進入物品欄，挑選一張藍圖並選擇「製作」即可。</value>
+	</data>
+	<data name="000_000" xml:space="preserve">
+		<value>你在山林中的一片空地醒來，完全失去了過去的記憶。一把名為阿拉的遠古魔劍，和它的守護者菲基特加入了你的行列。由於沒有其它可以前行的道路，你只能一路向東邁進。</value>
+	</data>
+	<data name="000_001" xml:space="preserve">
+		<value>遠處有一座村莊。或許那裡有你要找的答案？</value>
+	</data>
+	<data name="000_002" xml:space="preserve">
+		<value>你向極光村的村民們證明了你是一位英雄豪傑。或許現在你能從村民們那裡得到答案了。</value>
+	</data>
+	<data name="000_003" xml:space="preserve">
+		<value>極光村的村長請你前往東方的阿巴蒂斯森林，找到襲擊村莊的魔物首領。</value>
+	</data>
+	<data name="000_004" xml:space="preserve">
+		<value>你擊敗了魔物首領，一位名為火種的奇怪生物，但引出的問題比要得到的答案還多。回去極光村向布萊姆村長回報。</value>
+	</data>
+	<data name="000_005" xml:space="preserve">
+		<value>布萊姆村長建議你去找一位名叫琴吉的年輕女士談談。她似乎對火種提到的「月血族」有所了解。</value>
+	</data>
+	<data name="000_006" xml:space="preserve">
+		<value>極光村受到了襲擊！擊敗魔物，並查明他們是怎麼進到村裡來的。</value>
+	</data>
+	<data name="000_007" xml:space="preserve">
+		<value>你發現了一處美麗但危險的地底世界。往深處前進，找出那些魔物襲擊極光村的原因。</value>
+	</data>
+	<data name="000_008" xml:space="preserve">
+		<value>有個小孩似乎獨自一人在洞裡徘徊。或許你能從他那裡得知更多關於魔物襲擊的事情？</value>
+	</data>
+	<data name="000_009" xml:space="preserve">
+		<value>你在西洛蒙洞穴的深處發現了由沸泥潭構成的小村莊。波普的父親就快要死了，只有一位人稱「女士」的生物才救得了他。探索村莊，找到通往她居所的道路。</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>你聽說沸泥潭的地底有一件東西能助你一臂之力。</value>
+	</data>
+	<data name="000_011" xml:space="preserve">
+		<value>有了新習得的滑行能力，你現在能往沸泥潭的西邊前進，去尋找「女士」了。</value>
+	</data>
+	<data name="000_012" xml:space="preserve">
+		<value>你和泰希斯女士解決了問題，她已經恢復了礦物水的流動。回去找沸泥潭的波普。</value>
+	</data>
+	<data name="000_013" xml:space="preserve">
+		<value>雖然你成功地讓水再次流動了並拯救了山谷，但你還是沒能救活波普的父親。你現在必須向北前往悲慟荒原，去會見「凱恩男爵」。</value>
+	</data>
+	<data name="000_014" xml:space="preserve">
+		<value>通往山脈的道路被奇怪的屏障擋住了。在悲慟荒原中找到凱恩男爵並與他交談，了解如何解除屏障。</value>
+	</data>
+	<data name="000_015" xml:space="preserve">
+		<value>科拉請你從悲慟荒原各個角落的廢棄宅邸找回4件紀念物。</value>
+	</data>
+	<data name="000_016" xml:space="preserve">
+		<value>你找齊了科拉的紀念物。回去悲慟荒原的中心交給她。</value>
+	</data>
+	<data name="000_017" xml:space="preserve">
+		<value>在你的幫助下，科拉成功地趕走了被認為控制她丈夫的惡靈。凱恩告訴了你更多關於戰爭的詳情，還為你打開了在墓地入口處通往山脈的道路。</value>
+	</data>
+	<data name="000_018" xml:space="preserve">
+		<value>雖然這冰天雪地還算美麗，但往北去見琴吉的路上你有種不安的感覺。</value>
+	</data>
+	<data name="000_019" xml:space="preserve">
+		<value>北邊的道路被巨大的雪牆堵住了。找到通過的辦法。</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>你排除了山路上的障礙。抵達山頂與琴吉見面，並計畫對付蓋厄斯將軍的下一步行動。</value>
+	</data>
+	<data name="000_021" xml:space="preserve">
+		<value>你發現了關於自身的真相。到恆曉窪地底部的隱秘營地與琴吉和長老見面。</value>
+	</data>
+	<data name="000_022" xml:space="preserve">
+		<value>確認在營地邊緣奇爾的安危，並協助桑金恢復月血的補給系統。</value>
+	</data>
+	<data name="000_023" xml:space="preserve">
+		<value>將軍的刺客已經開始侵入營地。向長老回報這個消息。等補給系統恢復後，戰爭的準備就完成了。</value>
+	</data>
+	<data name="000_024" xml:space="preserve">
+		<value>與集結在營地東邊的月血戰士們會合。</value>
+	</data>
+	<data name="000_025" xml:space="preserve">
+		<value>近來的火山活動阻斷了道路。為月血戰士們開路。</value>
+	</data>
+	<data name="000_026" xml:space="preserve">
+		<value>向蓋厄斯將軍發動進攻，帶領月血戰士們投入戰鬥。</value>
+	</data>
+	<data name="000_027" xml:space="preserve">
+		<value>敵方的炮火阻斷了你的道路。想摧毀大炮，就必須從側翼進攻。</value>
+	</data>
+	<data name="000_028" xml:space="preserve">
+		<value>完成你的使命，擊敗你的老戰友「蓋厄斯將軍」。</value>
+	</data>
 </root>
