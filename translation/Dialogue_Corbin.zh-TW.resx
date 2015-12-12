@@ -117,4 +117,112 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="000_020" xml:space="preserve">
+		<value>我必須藏在這兒躲避那些怪物！</value>
+	</data>
+	<data name="000_000" xml:space="preserve">
+		<value>嘿，你是來幫助我的嗎？拜託告訴我你是來幫我的！</value>
+	</data>
+	<data name="000_030" xml:space="preserve">
+		<value>唔，他們已經走了，所以你現在安全了。你有受傷嗎？你回家需要我的幫助嗎？</value>
+	</data>
+	<data name="000_060" xml:space="preserve">
+		<value>但我需要找到賈尼先生的衣服。我把它丟在那裡了而我不想惹上麻煩。</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>我猜，你就是科爾賓吧。你知道你的姊姊在到處找你嗎？</value>
+	</data>
+	<data name="000_040" xml:space="preserve">
+		<value>我很好，我想。我知道怎麼自己回到家。我來這很多次，但以前從來沒有出現過怪物！</value>
+	</data>
+	<data name="000_050" xml:space="preserve">
+		<value>你最好趁現在安全時離開。</value>
+	</data>
+	<data name="000_120" xml:space="preserve">
+		<value>哇哦，謝謝！來，拿著這個。你下那邊會需要它。</value>
+	</data>
+	<data name="000_130" xml:space="preserve">
+		<value>一個白色共鳴石——應該派得上用場，謝謝你。現在走吧，快點回到鎮上。</value>
+	</data>
+	<data name="000_110" xml:space="preserve">
+		<value>不，科爾賓，你回家去。我會處理它。</value>
+	</data>
+	<data name="000_140" xml:space="preserve">
+		<value>你認真的嗎？我們要去找那個渾蛋的衣服？我們要做一個洗衣的任務？</value>
+	</data>
+	<data name="001_020" xml:space="preserve">
+		<value>好，好。再次謝謝你！你知道的，你是個超棒的戰士！</value>
+	</data>
+	<data name="001_030" xml:space="preserve">
+		<value>唔，我……</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>噢，又見面了！非常謝謝你之前的幫助！</value>
+	</data>
+	<data name="001_012" xml:space="preserve">
+		<value>……是的，就像那個衣服。</value>
+	</data>
+	<data name="001_010" xml:space="preserve">
+		<value>不客氣，科爾賓。只是下次聰明一點，好嗎？外面對於像你這樣的孩子來說太危險了。然後你不用擔心賈尼。我會解決他。</value>
+	</data>
+	<data name="001_011" xml:space="preserve">
+		<value>對，就像那個衣服！</value>
+	</data>
+	<data name="001_040" xml:space="preserve">
+		<value>你是如此強大，我敢打賭你拿到一個1,000連擊沒有問題！</value>
+	</data>
+	<data name="000_160" xml:space="preserve">
+		<value>哼。好吧，希望如此。</value>
+	</data>
+	<data name="000_150" xml:space="preserve">
+		<value>我不想讓那可憐的男孩因為這事被賈尼責備。來吧，在路上我們會殺一些怪物。那會很棒的。</value>
+	</data>
+	<data name="003_000" xml:space="preserve">
+		<value>事實上，我已經完成了。</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>一個1,000連擊？當然，為何不？</value>
+	</data>
+	<data name="002_020" xml:space="preserve">
+		<value>啊，不，我不會那樣做。但我會試著為了你來獲得連擊。</value>
+	</data>
+	<data name="002_010" xml:space="preserve">
+		<value>哇哦，真棒！嘿，當你連擊到1,000時，你應該說：「這是為了科爾賓！」</value>
+	</data>
+	<data name="001_060" xml:space="preserve">
+		<value>菲基特，冷靜！</value>
+	</data>
+	<data name="001_070" xml:space="preserve">
+		<value>哇！你真的認為你能做到？</value>
+	</data>
+	<data name="001_050" xml:space="preserve">
+		<value>他當然沒問題！他可以在睡覺時做到！睡眠連擊！</value>
+	</data>
+	<data name="006_000" xml:space="preserve">
+		<value>你是我的英雄，達斯特！</value>
+	</data>
+	<data name="005_060" xml:space="preserve">
+		<value>嗯，你當然能做到。來吧，該走了。</value>
+	</data>
+	<data name="005_040" xml:space="preserve">
+		<value>哦，你了解？</value>
+	</data>
+	<data name="005_050" xml:space="preserve">
+		<value>嘿！我已經拿過1,000連擊了！我無時無刻都能達到！永遠！</value>
+	</data>
+	<data name="005_020" xml:space="preserve">
+		<value>嗯，希望你永遠不必如此。</value>
+	</data>
+	<data name="005_030" xml:space="preserve">
+		<value>是的，相信我，擊中1,000需要一段時間。我了解。</value>
+	</data>
+	<data name="005_000" xml:space="preserve">
+		<value>好吧科爾賓，我已經達成了一個1,000連擊。</value>
+	</data>
+	<data name="005_010" xml:space="preserve">
+		<value>我就知道你能做到，達斯特！總有一天，我會像你一樣強大，然後我就能拿到一個1,000連擊！</value>
+	</data>
+	<data name="004_000" xml:space="preserve">
+		<value>如果你能做到1,000連擊就太棒了！那真的超酷！</value>
+	</data>
 </root>
