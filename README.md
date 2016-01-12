@@ -3,7 +3,7 @@
 不會 git 的人但有意見可以發 Issue，只要有 github 帳號就可以發了。
 
 # 標點符號準則
-符號一律使用全形符號，請參考[標點符號手冊](http://www.edu.tw/files/site_content/M0001/hau/haushou.htm)，
+符號一律使用全形符號，請參考[標點符號手冊](http://ws.moe.edu.tw/001/Upload/FILES/SITE_CONTENT/M0001/HAU/haushou.htm)，
 打不出來的符號，就直接複製此網頁上的符號，不要找相似的貼，有時樣子一樣但編碼不一樣，
 套上字型後的呈現就會不同。
 
