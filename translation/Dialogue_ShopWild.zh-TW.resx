@@ -117,4 +117,136 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="240_010" xml:space="preserve">
+		<value>你怎麼會這麼說？</value>
+	</data>
+	<data name="240_030" xml:space="preserve">
+		<value>是，這個嘛……我們只是做該做的事。</value>
+	</data>
+	<data name="000_000" xml:space="preserve">
+		<value>我一直在等你，陌生人。</value>
+	</data>
+	<data name="000_030" xml:space="preserve">
+		<value>噢，又見面了，我的朋友。我就知道你會回來。</value>
+	</data>
+	<data name="000_060" xml:space="preserve">
+		<value>謝謝你。</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>你是誰？</value>
+	</data>
+	<data name="000_040" xml:space="preserve">
+		<value>我在這裡服務。</value>
+	</data>
+	<data name="000_050" xml:space="preserve">
+		<value>小心後面，我的朋友。</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>在你離開以前，可以讓我協助你嗎？</value>
+	</data>
+	<data name="390_050" xml:space="preserve">
+		<value>非常好。</value>
+	</data>
+	<data name="001_010" xml:space="preserve">
+		<value>依你提供的協助決定可不可以。</value>
+	</data>
+	<data name="001_020" xml:space="preserve">
+		<value>我說這種話可能有點冒昧，你還沒有準備好面對未來的挑戰。而我能夠協助你。</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>只是一個賣許多東西的人。我們該來談生意了嗎？</value>
+	</data>
+	<data name="001_030" xml:space="preserve">
+		<value>請收下這張藍圖作為禮物。假如你能找到一位鐵匠及準備足夠的材料，就能將它製作出來。</value>
+	</data>
+	<data name="001_080" xml:space="preserve">
+		<value>你處理事情的能力是最令人欣賞的。</value>
+	</data>
+	<data name="001_070" xml:space="preserve">
+		<value>我……摁，好。我會。</value>
+	</data>
+	<data name="520_000" xml:space="preserve">
+		<value>看來我的祕密被發現了，是嗎？</value>
+	</data>
+	<data name="520_010" xml:space="preserve">
+		<value>老實說那根本不算秘密。</value>
+	</data>
+	<data name="100_050" xml:space="preserve">
+		<value>我了解。</value>
+	</data>
+	<data name="001_060" xml:space="preserve">
+		<value>啊，他會用高價買下的！</value>
+	</data>
+	<data name="520_040" xml:space="preserve">
+		<value>摁，非常感謝你的幫忙。</value>
+	</data>
+	<data name="520_050" xml:space="preserve">
+		<value>我很高興，朋友。假如你有什麼需求，就告訴我。</value>
+	</data>
+	<data name="520_020" xml:space="preserve">
+		<value>所以你一直在監視我們嗎？</value>
+	</data>
+	<data name="100_010" xml:space="preserve">
+		<value>我別無選擇。他失去理智，濫殺無辜。</value>
+	</data>
+	<data name="520_030" xml:space="preserve">
+		<value>在某種意義上，我只是要確定你是不是準備好踏上旅程。</value>
+	</data>
+	<data name="100_000" xml:space="preserve">
+		<value>所以你殺了一個火種。</value>
+	</data>
+	<data name="002_010" xml:space="preserve">
+		<value>我還與其他商人交換材料。有我們的幫忙，你就能節省收集材料的寶貴時間。</value>
+	</data>
+	<data name="001_050" xml:space="preserve">
+		<value>當你賣給我一個新的材料，我就會把那增加到我的商品中。我會給你兩倍的金額做為你第一次給我新材料的獎賞。</value>
+	</data>
+	<data name="100_030" xml:space="preserve">
+		<value>恕我冒昧的問一句，你是月血族嗎？</value>
+	</data>
+	<data name="390_010" xml:space="preserve">
+		<value>偉大的叛徒？你是指凱恩嗎？</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>你賣給我的材料真有用。我會隨時保持充足的現貨。</value>
+	</data>
+	<data name="100_040" xml:space="preserve">
+		<value>月血族……他們是個古老的種族，而他們不被允許生存於這塊土地上。在眾多溫血生物之中像汙點般的存在。</value>
+	</data>
+	<data name="390_030" xml:space="preserve">
+		<value>他似乎真的很後悔先前的所作所為。</value>
+	</data>
+	<data name="240_000" xml:space="preserve">
+		<value>我發現村莊的水重新流動了。我很難相信這件事與你無關。</value>
+	</data>
+	<data name="001_040" xml:space="preserve">
+		<value>我可以提供你材料，即使我不清楚什麼材料在這裡是有價值的。我……不是來自這附近，我敢肯定你現在是這麼想的。</value>
+	</data>
+	<data name="240_040" xml:space="preserve">
+		<value>就跟大家一樣，我的朋友。如果你不介意，可以告訴我發現了什麼嗎？</value>
+	</data>
+	<data name="240_020" xml:space="preserve">
+		<value>原本水沒有在流動，唯有這點我能肯定。</value>
+	</data>
+	<data name="240_060" xml:space="preserve">
+		<value>關於此事，世界會很感激你的。保重，我的朋友。</value>
+	</data>
+	<data name="390_000" xml:space="preserve">
+		<value>所以，偉大的叛徒終於找到了永恆的和平。</value>
+	</data>
+	<data name="390_040" xml:space="preserve">
+		<value>也許是。也許我們得接受他的道歉。我的家人再也不會回來了。我們永遠都別再提起他缺德的行徑。</value>
+	</data>
+	<data name="100_060" xml:space="preserve">
+		<value>我相信你不是，我的朋友，假如你不是，我就不會再糾結於此事。</value>
+	</data>
+	<data name="100_020" xml:space="preserve">
+		<value>這不是我的決定，朋友。他的死很令人哀傷，但別無選擇。</value>
+	</data>
+	<data name="240_050" xml:space="preserve">
+		<value>一個強大的生命體被自己的怒氣所吞噬。幸運的是，我們讓她有點感覺了。</value>
+	</data>
+	<data name="390_020" xml:space="preserve">
+		<value>我講不出他的名字。他殺害了很多無辜的生命，也許他的靈魂已經被赦免了，我們只記得他的所作所為以及他所造成的悲劇。</value>
+	</data>
 </root>
