@@ -406,7 +406,7 @@
 		<value>復活石</value>
 	</data>
 	<data name="306" xml:space="preserve">
-		<value>紅球</value>
+		<value>紅水晶</value>
 	</data>
 	<data name="307" xml:space="preserve">
 		<value>菲基特娃娃</value>
@@ -661,7 +661,7 @@
 		<value>一次性使用的鑰匙，可用來打開寶箱和籠子。</value>
 	</data>
 	<data name="306_Desc" xml:space="preserve">
-		<value>一顆不透光的水晶球。這有什麼用途呢？</value>
+		<value>一顆不透光的水晶球。這有什麼意義嗎？</value>
 	</data>
 	<data name="307_Desc" xml:space="preserve">
 		<value>你幾乎無法分辨這個娃娃是真的還是假的。太神奇了。</value>
@@ -706,7 +706,7 @@
 		<value>盒子正在吸取你的生命！唯一的解脫只有……死！</value>
 	</data>
 	<data name="330_Desc" xml:space="preserve">
-		<value>這似乎是畫一對新婚夫妻的老油畫。他們笑得很幸福。</value>
+		<value>這似乎是畫一對新婚夫妻的老油畫。他們笑得很開心。</value>
 	</data>
 	<data name="320_Desc" xml:space="preserve">
 		<value>有了這部裝置，你可以在世界的各個角落與海莉交易。</value>

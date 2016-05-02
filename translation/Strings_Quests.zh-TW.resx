@@ -367,22 +367,22 @@
 		<value>你向極光村的村民們證明了你是一位英雄豪傑。或許現在你能從村民們那裡得到答案了。</value>
 	</data>
 	<data name="000_003" xml:space="preserve">
-		<value>極光村的村長請你前往東方的阿巴蒂斯森林，找到襲擊村莊的魔物首領。</value>
+		<value>極光村的村長請你前往東邊的阿巴蒂斯森林，找到襲擊村莊的怪物首領。</value>
 	</data>
 	<data name="000_004" xml:space="preserve">
-		<value>你擊敗了魔物首領，一位名為火種的奇怪生物，但引出的問題比要得到的答案還多。回去極光村向布萊姆村長回報。</value>
+		<value>你擊敗了怪物首領，一位名為火種的奇怪生物，但引出的問題比要得到的答案還多。回去極光村向布萊姆村長回報。</value>
 	</data>
 	<data name="000_005" xml:space="preserve">
 		<value>布萊姆村長建議你去找一位名叫琴吉的年輕女士談談。她似乎對火種提到的「月血族」有所了解。</value>
 	</data>
 	<data name="000_006" xml:space="preserve">
-		<value>極光村受到了襲擊！擊敗魔物，並查明他們是怎麼進到村裡來的。</value>
+		<value>極光村受到了襲擊！擊敗怪物，並查明他們是怎麼進到村裡來的。</value>
 	</data>
 	<data name="000_007" xml:space="preserve">
-		<value>你發現了一處美麗但危險的地底世界。往深處前進，找出那些魔物襲擊極光村的原因。</value>
+		<value>你發現了一處美麗但危險的地底世界。往深處前進，找出那些怪物襲擊極光村的原因。</value>
 	</data>
 	<data name="000_008" xml:space="preserve">
-		<value>有個小孩似乎獨自一人在洞裡徘徊。或許你能從他那裡得知更多關於魔物襲擊的事情？</value>
+		<value>有個小孩似乎獨自一人在洞裡徘徊。或許你能從他那裡得知更多關於怪物襲擊的事情？</value>
 	</data>
 	<data name="000_009" xml:space="preserve">
 		<value>你在西洛蒙洞穴的深處發現了由沸泥潭構成的小村莊。波普的父親就快要死了，只有一位人稱「女士」的生物才救得了他。探索村莊，找到通往她居所的道路。</value>
@@ -403,7 +403,7 @@
 		<value>通往山脈的道路被奇怪的屏障擋住了。在悲慟荒原中找到凱恩男爵並與他交談，了解如何解除屏障。</value>
 	</data>
 	<data name="000_015" xml:space="preserve">
-		<value>科拉請你從悲慟荒原各個角落的廢棄宅邸找回4件紀念物。</value>
+		<value>科拉請你從悲慟荒原各個角落的廢棄府邸找回4件紀念物。</value>
 	</data>
 	<data name="000_016" xml:space="preserve">
 		<value>你找齊了科拉的紀念物。回去悲慟荒原的中心交給她。</value>
