@@ -117,4 +117,142 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="008_000" xml:space="preserve">
+		<value>看到了嗎，我就知道站在這裡會有效的。那個屏障承受不住，剛剛碎掉了！</value>
+	</data>
+	<data name="008_010" xml:space="preserve">
+		<value>幹得好，奧古斯汀，我就知道你值得依賴。</value>
+	</data>
+	<data name="008_020" xml:space="preserve">
+		<value>你要上山嗎？這條路很遠喔，不過舊的路很久以前就被堵住了，所以你也沒得選。</value>
+	</data>
+	<data name="008_030" xml:space="preserve">
+		<value>別擔心我們。你留在這裡守著這些岩石吧。</value>
+	</data>
+	<data name="008_040" xml:space="preserve">
+		<value>我會把它當作個人的挑戰！</value>
+	</data>
+	<data name="009_000" xml:space="preserve">
+		<value>你和我，達斯特。我們將會拯救世界！</value>
+	</data>
+	<data name="007_000" xml:space="preserve">
+		<value>喲，難以置信！達斯特？達斯特兄弟，是你嗎？</value>
+	</data>
+	<data name="007_010" xml:space="preserve">
+		<value>奧古斯汀？你大老遠跑來這裡做什麼？</value>
+	</data>
+	<data name="007_020" xml:space="preserve">
+		<value>呵唷，我正在聽從遠大冒險的召喚！在這片廣闊、原始的荒野中冒險追尋我的未來！</value>
+	</data>
+	<data name="007_040" xml:space="preserve">
+		<value>事實上，科拉請我帶她去什麼老荒原。</value>
+	</data>
+	<data name="007_050" xml:space="preserve">
+		<value>悲慟荒原。</value>
+	</data>
+	<data name="007_060" xml:space="preserve">
+		<value>沒錯，就是那個！我向來記不住這些。</value>
+	</data>
+	<data name="007_070" xml:space="preserve">
+		<value>她有說她為什麼要來這裡嗎？這個地方非常……荒涼。</value>
+	</data>
+	<data name="007_080" xml:space="preserve">
+		<value>沒有！只有請我給她帶路。她進入荒原不久後，這古怪的魔法屏障就出現了！這玩意真的很麻煩！</value>
+	</data>
+	<data name="007_090" xml:space="preserve">
+		<value>看來我們上不了山了。你說科拉剛剛進入了荒原？</value>
+	</data>
+	<data name="007_100" xml:space="preserve">
+		<value>不要看她那樣，她走路可快了！</value>
+	</data>
+	<data name="007_110" xml:space="preserve">
+		<value>好的。嗯，我們最好去找她。這片荒原並不安全。奧古斯汀，如果你不打算回極光村，那你最好在這裡等著。</value>
+	</data>
+	<data name="007_120" xml:space="preserve">
+		<value>早想到了，兄弟！我比任何人更擅長在這裡等著！祝你好運！</value>
+	</data>
+	<data name="000_000" xml:space="preserve">
+		<value>呵唷，你好！我總是很高興見到新面孔！即使是像你這樣整個蓋住的。</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>確實。嗯，我叫達斯特，這位叫菲基特。</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>你好！別在意這位臭臉先生。他不擅長用眼神交流。</value>
+	</data>
+	<data name="000_030" xml:space="preserve">
+		<value>菲基特和達斯特，是嗎？外地來的，對吧？嗯，我原本也是外地來的。但如果你們不趕時間的話，這裡是個好地方啊。</value>
+	</data>
+	<data name="000_040" xml:space="preserve">
+		<value>噢，我真是失禮！我叫奧古斯汀，是本地的大力士！嘿，你想要比腕力嗎？</value>
+	</data>
+	<data name="000_050" xml:space="preserve">
+		<value>呃……也許，改天吧。我們只是路過的。</value>
+	</data>
+	<data name="000_060" xml:space="preserve">
+		<value>啊，真遺憾。原以為你看起來像是比腕力的高手。</value>
+	</data>
+	<data name="000_065" xml:space="preserve">
+		<value>你知道嗎，我聽說了你救奧奈達的事。太了不起！也許我們可以互相幫助？</value>
+	</data>
+	<data name="000_070" xml:space="preserve">
+		<value>也許吧。你想說什麼？</value>
+	</data>
+	<data name="000_080" xml:space="preserve">
+		<value>我有個老朋友，是一位鐵匠。住在射手山隘的頂端。</value>
+	</data>
+	<data name="000_090" xml:space="preserve">
+		<value>很久以前我承諾會送一些材料給他，但好多年沒走那條路了。最近這片區域也很危險！也許你能幫我把東西送過去？</value>
+	</data>
+	<data name="000_100" xml:space="preserve">
+		<value>要不這樣吧！如果你幫我，我就送你這張藍圖！如果你把藍圖和這些多餘的材料給他，他會立刻依你的要求把東西做給你！</value>
+	</data>
+	<data name="000_110" xml:space="preserve">
+		<value>能按圖施工的鐵匠？我想我會接受你的提議，奧古斯汀。</value>
+	</data>
+	<data name="000_120" xml:space="preserve">
+		<value>好耶，太棒了！我就知道你值得依賴！等你見到他，就告訴他，老奧古斯汀向他問好！</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>說實話，這裡的東西並不多，但你可以在東邊的入口附近找到一間商店。</value>
+	</data>
+	<data name="001_010" xml:space="preserve">
+		<value>謝謝，奧古斯汀。也許我們會順道去看看。</value>
+	</data>
+	<data name="003_000" xml:space="preserve">
+		<value>今天天氣真好，是吧？想要比腕力嗎？</value>
+	</data>
+	<data name="003_010" xml:space="preserve">
+		<value>又要比腕力了。抱歉，奧古斯汀，也許改天吧。</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>你知道嗎，你真的需要多鍛鍊一下。多長些肌肉，兄弟！</value>
+	</data>
+	<data name="004_000" xml:space="preserve">
+		<value>哦，你看看這個！仿佛我們的村莊給自己挖了一個地下室！</value>
+	</data>
+	<data name="004_010" xml:space="preserve">
+		<value>你似乎不太擔心。</value>
+	</data>
+	<data name="004_020" xml:space="preserve">
+		<value>相信我，這可不是常見的喔，既然有東西爬出地面，你就拿張椅子來坐，好好欣賞表演吧！</value>
+	</data>
+	<data name="004_030" xml:space="preserve">
+		<value>好吧，奧古斯汀，但向我保證你會留在這裡。我不希望任何人受傷。</value>
+	</data>
+	<data name="004_040" xml:space="preserve">
+		<value>欸！然後讓你獨享所有樂趣？好吧，我想畢竟你有帶劍。</value>
+	</data>
+	<data name="005_000" xml:space="preserve">
+		<value>你怎麼還在這裡，奧古斯汀？你應該回村莊去的。</value>
+	</data>
+	<data name="005_010" xml:space="preserve">
+		<value>不，我想我能打贏第一個通過這裡的怪物。我早餐吃得很飽，我已經做好萬全的準備了！</value>
+	</data>
+	<data name="006_000" xml:space="preserve">
+		<value>我想你在下面沒有看到什麼吧？</value>
+	</data>
+	<data name="006_010" xml:space="preserve">
+		<value>別擔心，我保證我能應付的，兄弟。</value>
+	</data>
 </root>
