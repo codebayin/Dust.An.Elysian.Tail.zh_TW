@@ -154,10 +154,10 @@
 		<value>法拉納的英雄</value>
 	</data>
 	<data name="Achievement_03_Title" xml:space="preserve">
-		<value>情緒高昂</value>
+		<value>鬼采飛揚</value>
 	</data>
 	<data name="Achievement_04_Title" xml:space="preserve">
-		<value>……塵埃落定</value>
+		<value>塵埃落定</value>
 	</data>
 	<data name="Achievement_08_Title" xml:space="preserve">
 		<value>好的開始……</value>
@@ -178,13 +178,13 @@
 		<value>壓住、旋轉</value>
 	</data>
 	<data name="Achievement_11_Desc" xml:space="preserve">
-		<value>解開一個寶箱</value>
+		<value>解鎖一個寶箱</value>
 	</data>
 	<data name="Achievement_10_Desc" xml:space="preserve">
 		<value>殺死500個敵人</value>
 	</data>
 	<data name="Achievement_12_Desc" xml:space="preserve">
-		<value>解開一個籠子並救出好友</value>
+		<value>解鎖一個籠子並救出好友</value>
 	</data>
 	<data name="Achievement_12_Title" xml:space="preserve">
 		<value>等等，你不是……？</value>
@@ -259,7 +259,7 @@
 		<value>完成費爾的所有任務</value>
 	</data>
 	<data name="Achievement_25_Title" xml:space="preserve">
-		<value>失敗的相反</value>
+		<value>失敗的反面</value>
 	</data>
 	<data name="Achievement_24_Title" xml:space="preserve">
 		<value>蹩腳治療師</value>
@@ -277,7 +277,7 @@
 		<value>用滑鏟踢殺死一個敵人</value>
 	</data>
 	<data name="Achievement_27_Title" xml:space="preserve">
-		<value>一路悲慘</value>
+		<value>漫漫慘路</value>
 	</data>
 	<data name="Achievement_28_Desc" xml:space="preserve">
 		<value>完成波普想要雪的願望</value>
