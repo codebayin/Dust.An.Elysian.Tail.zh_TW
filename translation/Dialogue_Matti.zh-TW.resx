@@ -118,34 +118,34 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="004_000" xml:space="preserve">
-		<value>嘿，馬帝。所以是關於你姐姐嗎？</value>
+		<value>嘿，馬帝。你的姊姊過得好嗎？</value>
 	</data>
 	<data name="004_010" xml:space="preserve">
-		<value>好，很好！很高興跟你談話。</value>
+		<value>很好。好的！很高興我們這次的交談。</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
-		<value>市場是怎麼對待你的，馬帝？</value>
+		<value>你的生意如何啊，馬帝？</value>
 	</data>
 	<data name="003_010" xml:space="preserve">
 		<value>不錯，不錯。</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
-		<value>這是什麼字，馬帝？</value>
+		<value>有什麼好消息嗎，馬帝？</value>
 	</data>
 	<data name="002_010" xml:space="preserve">
-		<value>我一定會帶來好消息。</value>
+		<value>我一定會把好消息傳出去的。</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
-		<value>你想怎麼做，馬帝？</value>
+		<value>你好嗎，馬帝？</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
-		<value>太棒了！那太讚了。</value>
+		<value>太好了！那可真是好極了。</value>
 	</data>
 	<data name="000_020" xml:space="preserve">
-		<value>好吧。</value>
+		<value>那好吧。</value>
 	</data>
 	<data name="000_000" xml:space="preserve">
-		<value>嗨，馬帝。很高興認識你。</value>
+		<value>你好，馬帝。很高興認識你。</value>
 	</data>
 	<data name="000_010" xml:space="preserve">
 		<value>*嘟囔*</value>
