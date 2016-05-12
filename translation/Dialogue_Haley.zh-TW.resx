@@ -117,4 +117,214 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="000_000" xml:space="preserve">
+		<value>哇哦！呃……你好！</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>吼……</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>啊！別緊張，老大！</value>
+	</data>
+	<data name="000_030" xml:space="preserve">
+		<value>大家冷靜，拜託！所以！你們就是在上面又吵又鬧的人！</value>
+	</data>
+	<data name="000_040" xml:space="preserve">
+		<value>啊，不是故意的。順便問一下，妳知道閣樓裡有自爆怪嗎？</value>
+	</data>
+	<data name="000_050" xml:space="preserve">
+		<value>哦，那些啊？牠們沒打擾到我們，而且牠們會使其他怪物不敢靠近。如果我知道有客人要來的話，我就會自己清掉的。不好意思啊。</value>
+	</data>
+	<data name="000_060" xml:space="preserve">
+		<value>那麼，你們大老遠從極光村跑來有什麼事嗎？我想你們是從那裡來的吧？</value>
+	</data>
+	<data name="000_070" xml:space="preserve">
+		<value>我叫達斯特，她是我的同伴，菲基特。我們是替奧古斯汀送這些材料來的。</value>
+	</data>
+	<data name="000_080" xml:space="preserve">
+		<value>很高興見到你。我叫海莉，他是我的弟弟，馬帝。</value>
+	</data>
+	<data name="000_090" xml:space="preserve">
+		<value>*嘟囔*</value>
+	</data>
+	<data name="000_100" xml:space="preserve">
+		<value>別在意他。我看到你有一張藍圖，我能看看嗎？</value>
+	</data>
+	<data name="000_110" xml:space="preserve">
+		<value>嗯……這看起來並不難。這樣好了，如果你能找齊所需的材料給我，我就幫你製作這個物品。</value>
+	</data>
+	<data name="000_130" xml:space="preserve">
+		<value>謝謝，海莉。</value>
+	</data>
+	<data name="000_250" xml:space="preserve">
+		<value>還有，因為我喜歡你，我會給你一顆藍色共鳴石。雖然不曉得你上山的途中有沒有看到，但射手山隘的山腳下有一道巨大的藍門，可以用這個開啟。</value>
+	</data>
+	<data name="000_260" xml:space="preserve">
+		<value>門內剛好就是一個傳送點，可以把你送上來這裡！這樣往返就更容易了，所以你可以隨時過來看看。</value>
+	</data>
+	<data name="000_270" xml:space="preserve">
+		<value>說實話，就算有山下的捷徑，我也不確定能不能經常上來……</value>
+	</data>
+	<data name="000_280" xml:space="preserve">
+		<value>嗯……我老爹以前有小型的收發器，他會送給他的常客用來來回傳送物品。</value>
+	</data>
+	<data name="000_290" xml:space="preserve">
+		<value>不幸的是，我一個都沒有。讓我想想……</value>
+	</data>
+	<data name="000_300" xml:space="preserve">
+		<value>如果我沒記錯的話，我老爹的其中一位顧客把機器掉在阿巴蒂斯森林的某處了。如果你能找到，我就可以隨時製作你要的物品，再透過收發器傳給你了！</value>
+	</data>
+	<data name="000_310" xml:space="preserve">
+		<value>老爹通常會給他的顧客一顆藍色共鳴石，所以去阿巴蒂斯森林的藍色共鳴門附近找找吧。</value>
+	</data>
+	<data name="012_000" xml:space="preserve">
+		<value>還需要什麼嗎？</value>
+	</data>
+	<data name="010_Option_2" xml:space="preserve">
+		<value>沒事。</value>
+	</data>
+	<data name="010_Option_1" xml:space="preserve">
+		<value>我們來聊聊。</value>
+	</data>
+	<data name="010_Option_0" xml:space="preserve">
+		<value>我想製作物品。</value>
+	</data>
+	<data name="015_000" xml:space="preserve">
+		<value>我們來聊聊吧。</value>
+	</data>
+	<data name="015_Option_0" xml:space="preserve">
+		<value>馬帝是妳唯一的家人嗎？</value>
+	</data>
+	<data name="020_000" xml:space="preserve">
+		<value>我發現山上只有妳和馬帝。只有你們兩個人嗎？</value>
+	</data>
+	<data name="020_010" xml:space="preserve">
+		<value>不是所有時間都這樣。我老爹仍在經營這間鐵匠鋪，但他經常有事外出。此刻他正在海外採集礦物和礦石呢。他總是試著做出更好的武器和護甲。</value>
+	</data>
+	<data name="020_020" xml:space="preserve">
+		<value>聽起來他一直很忙啊。</value>
+	</data>
+	<data name="020_030" xml:space="preserve">
+		<value>是啊，不過我能自己過活。當然，馬帝也能。</value>
+	</data>
+	<data name="020_050" xml:space="preserve">
+		<value>什麼！？</value>
+	</data>
+	<data name="020_040" xml:space="preserve">
+		<value>我之前就想問……馬帝對我有什麼不滿嗎？</value>
+	</data>
+	<data name="020_090" xml:space="preserve">
+		<value>吼……</value>
+	</data>
+	<data name="020_060" xml:space="preserve">
+		<value>呃，就是……他似乎在我周圍一直碎碎唸。</value>
+	</data>
+	<data name="020_070" xml:space="preserve">
+		<value>我可以作證！碎碎唸連發。</value>
+	</data>
+	<data name="020_080" xml:space="preserve">
+		<value>我也說不準，達斯特。馬帝，你有什麼要說的嗎？</value>
+	</data>
+	<data name="020_100" xml:space="preserve">
+		<value>好了，希望那能解答你的問題！</value>
+	</data>
+	<data name="020_110" xml:space="preserve">
+		<value>不是吧，但──</value>
+	</data>
+	<data name="020_120" xml:space="preserve">
+		<value>算了，達斯特。算了吧。</value>
+	</data>
+	<data name="015_Option_1" xml:space="preserve">
+		<value>妳做鐵匠多久了？</value>
+	</data>
+	<data name="030_000" xml:space="preserve">
+		<value>所以，鍛造是家族事業嗎？</value>
+	</data>
+	<data name="030_010" xml:space="preserve">
+		<value>在某種程度上，我想是的。我老爹說我可以做任何我想做的，但當你在世界聞名的鐵匠身邊長大時，你的選擇是相當有限的。</value>
+	</data>
+	<data name="030_030" xml:space="preserve">
+		<value>所以生意很好囉？</value>
+	</data>
+	<data name="030_020" xml:space="preserve">
+		<value>不過我並不在意！擁有今日所需的技能是很好的。每個人總是會需要一些鍛造的東西，不論是項鏈還是護甲。</value>
+	</data>
+	<data name="030_040" xml:space="preserve">
+		<value>不……呃，不如以往了。不過，我們賺的夠讓我們維持下去，這才是最重要的。</value>
+	</data>
+	<data name="015_Option_2" xml:space="preserve">
+		<value>為什麼住在射手山隘？</value>
+	</data>
+	<data name="040_000" xml:space="preserve">
+		<value>你們的鐵匠鋪實在是人煙罕至，海莉。為什麼把店設在離極光村這麼遠的地方呢？</value>
+	</data>
+	<data name="040_010" xml:space="preserve">
+		<value>這個鐵匠鋪真的很古老了！是我老爹的老爹的老爹的老爹從他母親的祖父那繼承過來的。</value>
+	</data>
+	<data name="040_020" xml:space="preserve">
+		<value>它是在射手山隘之戰的期間建造的，已經好幾百年了。當時弓手從這裡高處抵禦敵人，但他們需要一間鐵匠鋪來補給箭矢。</value>
+	</data>
+	<data name="040_030" xml:space="preserve">
+		<value>所以他們就建在所在之地上了！它幫助了他們奪下射手山隘，從這裡，他們能夠解放整座山谷。</value>
+	</data>
+	<data name="040_040" xml:space="preserve">
+		<value>聽起來這間鐵匠鋪的背後有很多歷史。就算這樣……</value>
+	</data>
+	<data name="040_050" xml:space="preserve">
+		<value>地點，地點，地點。</value>
+	</data>
+	<data name="040_060" xml:space="preserve">
+		<value>嗯，你們說的我聽到了。我也希望它更接近人群，我們就會有更多的生意，這點我敢肯定。但我們又無法把它抬起來搬走。</value>
+	</data>
+	<data name="040_070" xml:space="preserve">
+		<value>我敢打賭，如果妳有一支訓練過的老鼠軍團，妳就可以輕鬆地把這塊地搬走！</value>
+	</data>
+	<data name="040_080" xml:space="preserve">
+		<value>呃，菲基特，我不認為那會有幫助──</value>
+	</data>
+	<data name="040_090" xml:space="preserve">
+		<value>你知道的！聰明的，變種老鼠！會魔法喔！</value>
+	</data>
+	<data name="040_100" xml:space="preserve">
+		<value>不用擔心她，達斯特。高山症。會讓某些生物發瘋喔。</value>
+	</data>
+	<data name="040_110" xml:space="preserve">
+		<value>菲基特原本就很瘋狂了。也許我們該走了。</value>
+	</data>
+	<data name="013_000" xml:space="preserve">
+		<value>謝謝你，達斯特。要常常回來喔！</value>
+	</data>
+	<data name="011_000" xml:space="preserve">
+		<value>啊，那就下次吧。</value>
+	</data>
+	<data name="010_000" xml:space="preserve">
+		<value>啊，我最愛的顧客！我能為您效勞嗎？</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>喂？喂？聽得到嗎？</value>
+	</data>
+	<data name="001_010" xml:space="preserve">
+		<value>海莉？是妳嗎？妳是從哪裡說話的？</value>
+	</data>
+	<data name="001_020" xml:space="preserve">
+		<value>從～陰～間～！</value>
+	</data>
+	<data name="001_030" xml:space="preserve">
+		<value>啊啊啊！魔鬼鐵匠！那是最可怕的鐵匠！</value>
+	</data>
+	<data name="001_040" xml:space="preserve">
+		<value>哈哈，妳冷靜點好嗎？我和馬帝在家啦。我知道你們找到了我老爹遺失的收發器了！</value>
+	</data>
+	<data name="001_050" xml:space="preserve">
+		<value>是啊，好像還能用呢。</value>
+	</data>
+	<data name="001_060" xml:space="preserve">
+		<value>那太好了！如果你需要製作物品，現在你可以直接從物品欄製作了。</value>
+	</data>
+	<data name="001_090" xml:space="preserve">
+		<value>我說，達斯特，這並不是說我不希望你親自來看我。但這樣至少我可以看著你，並在你需要我的時候幫助你。</value>
+	</data>
+	<data name="001_100" xml:space="preserve">
+		<value>當然，海莉。我真的很感謝妳的幫助。</value>
+	</data>
 </root>
