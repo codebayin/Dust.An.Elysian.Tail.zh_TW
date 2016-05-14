@@ -355,7 +355,7 @@
 		<value>不過，如果你被敵人擊中，連擊就會中斷，你也會失去額外的經驗。</value>
 	</data>
 	<data name="013_040" xml:space="preserve">
-		<value>好的，我想我明白了。</value>
+		<value>好，我想我明白了。</value>
 	</data>
 	<data name="013_050" xml:space="preserve">
 		<value>如果這對你來說太過複雜，你可以按 [START] 打開暫停選單來查看說明。</value>
