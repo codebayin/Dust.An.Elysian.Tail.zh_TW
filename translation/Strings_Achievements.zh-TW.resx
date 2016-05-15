@@ -232,16 +232,16 @@
 		<value>藍色炸彈人</value>
 	</data>
 	<data name="Achievement_20_Title" xml:space="preserve">
-		<value>完人</value>
+		<value>模範生</value>
 	</data>
 	<data name="Achievement_20_Desc" xml:space="preserve">
 		<value>決定不把毒藤蔓放進賈尼的衣服裡</value>
 	</data>
 	<data name="Achievement_21_Desc" xml:space="preserve">
-		<value>把毒藤蔓放進賈尼的衣服裡來治治他</value>
+		<value>把毒藤蔓放進賈尼的衣服裡來懲罰他</value>
 	</data>
 	<data name="Achievement_21_Title" xml:space="preserve">
-		<value>叛徒</value>
+		<value>叛逆者</value>
 	</data>
 	<data name="Achievement_22_Title" xml:space="preserve">
 		<value>不留餘地</value>
