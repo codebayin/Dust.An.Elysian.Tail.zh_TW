@@ -117,4 +117,139 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="000_000" xml:space="preserve">
+		<value>怎樣？</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>呃……早安？</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>嗯。然後呢？</value>
+	</data>
+	<data name="000_030" xml:space="preserve">
+		<value>我……呃，猜對了？</value>
+	</data>
+	<data name="000_040" xml:space="preserve">
+		<value>真會猜。了不起。好吧，也許你能猜到我現在根本不想和蠢貨說話。快滾，別煩我。</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>太美妙了，又一次與哲人王本尊共度的時刻。你為什麼不去煩奧古斯汀或是其他傻子呢？</value>
+	</data>
+	<data name="001_010" xml:space="preserve">
+		<value>你不用再問了。我們馬上走。</value>
+	</data>
+	<data name="003_000" xml:space="preserve">
+		<value>賈尼，我想向你打聽一個叫科爾賓的男孩。</value>
+	</data>
+	<data name="003_010" xml:space="preserve">
+		<value>啊，你見到他了？那個蠢男孩跑去哪了？</value>
+	</data>
+	<data name="003_020" xml:space="preserve">
+		<value>我本來還希望你能告訴我呢。</value>
+	</data>
+	<data name="003_030" xml:space="preserve">
+		<value>他一定還在藤蔓幽谷偷懶。我就知道我不應該信任那個男孩，讓他去洗我的衣服。</value>
+	</data>
+	<data name="003_040" xml:space="preserve">
+		<value>科爾賓正在……洗你的衣服？在村外？</value>
+	</data>
+	<data name="003_050" xml:space="preserve">
+		<value>我不明白這有那麼難懂嗎，不過我想是你的理解力差吧。如果你這麼擔心，也許你應該去找他，而不是在這裡東拉西扯？</value>
+	</data>
+	<data name="003_060" xml:space="preserve">
+		<value>哦，我會找到他的。然後我們再來單獨聊聊。</value>
+	</data>
+	<data name="003_070" xml:space="preserve">
+		<value>所以你找到我的衣服了？那你還站著浪費我的時間幹什麼？</value>
+	</data>
+	<data name="007_000" xml:space="preserve">
+		<value>好了，這就是科爾賓弄丟衣服的地方。不如幫他還回去吧。</value>
+	</data>
+	<data name="007_010" xml:space="preserve">
+		<value>是我眼花了嗎？還是他不小心把衣服掉在了毒藤蔓附近？</value>
+	</data>
+	<data name="007_020" xml:space="preserve">
+		<value>菲基特，妳那扭曲的小腦袋又怎麼了？</value>
+	</data>
+	<data name="007_030" xml:space="preserve">
+		<value>沒事！沒事。我只是想說！如果一些毒藤蔓掉進他的衣服裡，豈不是太遺憾了嗎？你知道的，完全是意外！或者，不是意外。</value>
+	</data>
+	<data name="007_040" xml:space="preserve">
+		<value>妳真是邪惡，菲基特。不過……</value>
+	</data>
+	<data name="007_Option_0" xml:space="preserve">
+		<value>不行，那太殘忍了。超出我的原意了。</value>
+	</data>
+	<data name="007_Option_1" xml:space="preserve">
+		<value>也好，用這些毒藤蔓，我就能懲罰惡劣的賈尼了。</value>
+	</data>
+	<data name="008_000" xml:space="preserve">
+		<value>噗！噗！你真沒意思，達斯特。不好玩。</value>
+	</data>
+	<data name="009_000" xml:space="preserve">
+		<value>很好，很好！就讓那個刻薄鬼不敢再使喚可憐的孩子們。</value>
+	</data>
+	<data name="009_010" xml:space="preserve">
+		<value>我同意妳說的。但記住囉，如果我們被抓了，我就要怪你了。</value>
+	</data>
+	<data name="009_030" xml:space="preserve">
+		<value>……什麼？</value>
+	</data>
+	<data name="009_020" xml:space="preserve">
+		<value>好啊，來啊。奉陪到底。那個刻薄鬼！我沒有取消他的臉的贖回權算他走運。</value>
+	</data>
+	<data name="009_040" xml:space="preserve">
+		<value>你知道的……就像，他沒有為他的臉支付貸款？那我就咬掉它。至於取消贖回權……好吧，當我沒說。</value>
+	</data>
+	<data name="004_000" xml:space="preserve">
+		<value>好了，賈尼，我們來聊聊吧。你能告訴我，你為什麼叫一個孩子到怪物環伺的村外辦事嗎？</value>
+	</data>
+	<data name="004_010" xml:space="preserve">
+		<value>當然是我不能自己在村外到處亂跑囉！那些怪物，非常危險！所以呢？科爾賓那個小鬼在哪裡？他很幸運我是個很有耐心的人，沒有把他偷衣服的事告訴守衛！</value>
+	</data>
+	<data name="004_020" xml:space="preserve">
+		<value>救了他之後，我們送他回村莊了。</value>
+	</data>
+	<data name="004_030" xml:space="preserve">
+		<value>妳說，救了他？他沒事吧？</value>
+	</data>
+	<data name="004_040" xml:space="preserve">
+		<value>是的，他沒事。受了點驚嚇，但──</value>
+	</data>
+	<data name="004_050" xml:space="preserve">
+		<value>很好，很好。那我的衣服呢？他在那裡花了大把時間，想必洗乾淨了吧？</value>
+	</data>
+	<data name="004_060" xml:space="preserve">
+		<value>是的，賈尼，拿去。拿好你的衣服，但你再也不會叫科爾賓去村外了，聽懂了嗎？</value>
+	</data>
+	<data name="004_070" xml:space="preserve">
+		<value>呃……好吧，你都語帶威脅了，我想我在這件事上沒有選擇的餘地。</value>
+	</data>
+	<data name="004_080" xml:space="preserve">
+		<value>很好。為了你好，你應該祈禱我們不用再聊了。</value>
+	</data>
+	<data name="004_090" xml:space="preserve">
+		<value>相信我，我避之唯恐不及。</value>
+	</data>
+	<data name="004_100" xml:space="preserve">
+		<value>你知道嗎？我有點討厭這傢伙，真想抓花他的臉。</value>
+	</data>
+	<data name="004_110" xml:space="preserve">
+		<value>要有禮貌，菲基特。這也是我們和禽獸不同的地方。</value>
+	</data>
+	<data name="010_000" xml:space="preserve">
+		<value>啊～有事嗎？</value>
+	</data>
+	<data name="010_010" xml:space="preserve">
+		<value>你……怎麼了嗎？</value>
+	</data>
+	<data name="010_020" xml:space="preserve">
+		<value>噢，全身像著火！好難受！好痛！</value>
+	</data>
+	<data name="010_030" xml:space="preserve">
+		<value>哦，也許讓一個手無寸鐵的男孩去村外的森林洗衣服並不適合你。</value>
+	</data>
+	<data name="010_040" xml:space="preserve">
+		<value>哦，老天──！走開！別來煩我。讓我平靜地受苦吧！</value>
+	</data>
 </root>
