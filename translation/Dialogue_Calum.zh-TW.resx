@@ -117,4 +117,103 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="045_000" xml:space="preserve">
+		<value>站在那裡別動！</value>
+	</data>
+	<data name="045_010" xml:space="preserve">
+		<value>牠們走了嗎？我什麼都聽不到！</value>
+	</data>
+	<data name="045_030" xml:space="preserve">
+		<value>牠們死了？！</value>
+	</data>
+	<data name="045_020" xml:space="preserve">
+		<value>如果你指的是巨人的話，我已經搞定牠們了。</value>
+	</data>
+	<data name="045_040" xml:space="preserve">
+		<value>是啊，死的徹徹底底！牠們不是我們的對手。不過那裡有一對老夫婦可能需要幫助。</value>
+	</data>
+	<data name="045_050" xml:space="preserve">
+		<value>那一定是奧奈達和她的丈夫吉亨。謝謝妳，我們馬上找人幫忙。</value>
+	</data>
+	<data name="045_070" xml:space="preserve">
+		<value>我想是的。</value>
+	</data>
+	<data name="045_060" xml:space="preserve">
+		<value>所以你是說你們只是剛好碰巧經過而已，是嗎？</value>
+	</data>
+	<data name="045_080" xml:space="preserve">
+		<value>有趣的巧合。</value>
+	</data>
+	<data name="045_090" xml:space="preserve">
+		<value>如果你是暗指我跟這次襲擊有關……</value>
+	</data>
+	<data name="045_100" xml:space="preserve">
+		<value>哇哦，哇哦，別激動。我必須替我的大朋友卡倫在這裡向你道歉。我們只是有點不知所措罷了。</value>
+	</data>
+	<data name="045_110" xml:space="preserve">
+		<value>這裡發生了什麼事？</value>
+	</data>
+	<data name="045_120" xml:space="preserve">
+		<value>我猜你們在來的路上沒遇到永無止境的成群殘暴怪物？</value>
+	</data>
+	<data name="045_130" xml:space="preserve">
+		<value>牠們原本都待在遠離村莊的山中。現在，牠們每天襲擊我們。</value>
+	</data>
+	<data name="045_140" xml:space="preserve">
+		<value>至少到目前為止……還沒有人受傷。如果巨人出現在奧奈達的農場附近，那事情遠比我們想像的更糟。</value>
+	</data>
+	<data name="045_150" xml:space="preserve">
+		<value>說起這個，你們到底從哪裡來的？這裡的西邊除了瘋狂老科拉什麼也沒有。</value>
+	</data>
+	<data name="045_160" xml:space="preserve">
+		<value>我們，呃……</value>
+	</data>
+	<data name="045_170" xml:space="preserve">
+		<value>探礦者！我們是……探礦者！我們外出……開鑿礦坑！為了尋找，呃，礦床！在山中！你知道嗎？金礦？銀礦？呃……錳礦？</value>
+	</data>
+	<data name="045_180" xml:space="preserve">
+		<value>探礦者，是吧？你肯定全副武裝上工了。</value>
+	</data>
+	<data name="045_190" xml:space="preserve">
+		<value>就像你說的，外面有很多怪物。</value>
+	</data>
+	<data name="045_200" xml:space="preserve">
+		<value>好吧，不管怎樣我們感謝你，過去吧。但我會盯著你們的。</value>
+	</data>
+	<data name="045_210" xml:space="preserve">
+		<value>請進，不必拘束。我叫比恩。雖然這裡沒有太多東西，但如果你需要補給，我們倒是有一位商人。</value>
+	</data>
+	<data name="045_220" xml:space="preserve">
+		<value>謝謝你，那我們上路了。</value>
+	</data>
+	<data name="000_000" xml:space="preserve">
+		<value>你穿的服裝真是有趣。</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>哦，妳還好意思說我！妳的朋友被那頂斗笠遮著還能看得見嗎？</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>真是不可思議，他能看得一清二楚呢！不用存有戒心啦，我們只是來幫忙的。</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>我盯上你們了。你和你的煩人寵物。</value>
+	</data>
+	<data name="002_010" xml:space="preserve">
+		<value>我不是寵物！達斯特，告訴他我不是你的寵物。</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>你真的應該好好準備，以防有什麼東西闖來這裡。</value>
+	</data>
+	<data name="001_010" xml:space="preserve">
+		<value>廢話！我可是製作了這支長矛。</value>
+	</data>
+	<data name="001_020" xml:space="preserve">
+		<value>是喔，好……很好。</value>
+	</data>
+	<data name="003_000" xml:space="preserve">
+		<value>喜歡嗎？</value>
+	</data>
+	<data name="001_030" xml:space="preserve">
+		<value>好啦，夠了。你們就不能別來煩我嗎？</value>
+	</data>
 </root>
