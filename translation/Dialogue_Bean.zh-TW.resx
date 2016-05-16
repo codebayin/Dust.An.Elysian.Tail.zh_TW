@@ -118,21 +118,21 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="002_000" xml:space="preserve">
-		<value>再次地感謝你。</value>
+		<value>再次感謝你。</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
-		<value>拜託，休息一會兒。你已經得到它了。</value>
+		<value>請休息一下吧。那是你應得的。</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
-		<value>感謝你的好意，但離我能休息前還有一段時間。</value>
+		<value>感謝你的好意，但我要再過一會兒才能休息。</value>
 	</data>
 	<data name="000_020" xml:space="preserve">
-		<value>別擔心我們。我不急著對抗巨人，不過我想我們並不危險。</value>
+		<value>別擔心我們。雖然我一個巨人也沒打，但我想我們安全了。</value>
 	</data>
 	<data name="000_000" xml:space="preserve">
-		<value>非常感謝你的幫助！請你千萬別客氣。</value>
+		<value>非常感謝你的幫助！請進，不必拘束。</value>
 	</data>
 	<data name="000_010" xml:space="preserve">
-		<value>你們兩個怎麼耽擱了？</value>
+		<value>你們還好嗎？</value>
 	</data>
 </root>
