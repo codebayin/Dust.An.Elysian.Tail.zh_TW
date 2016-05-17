@@ -117,4 +117,106 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="000_000" xml:space="preserve">
+		<value>喲，大傢伙你好！我沒聽錯街坊流言吧？你和你那會飛的貓鼬將要拯救我們的村莊？</value>
+	</data>
+	<data name="000_005" xml:space="preserve">
+		<value>貓鼬是什麼鬼東西！？</value>
+	</data>
+	<data name="000_010" xml:space="preserve">
+		<value>安靜，菲基特。是的，你沒聽錯。這條是通往女士居所的路嗎？</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>哈，嗯，沒錯，但我想你穿不過這牆上的洞。我們最近都不得不堵住通道，以防那些瘋狂的線蟲來襲擊村莊。</value>
+	</data>
+	<data name="000_025" xml:space="preserve">
+		<value>線蟲是什麼鬼東西！？</value>
+	</data>
+	<data name="000_030" xml:space="preserve">
+		<value>總之，我看你只能用滑的過去了。要我把你踢過去也行，但你知道的，我這雙短腿站都站不直了。</value>
+	</data>
+	<data name="000_040" xml:space="preserve">
+		<value>感謝你的好意，但我會找別條路繞過去的。</value>
+	</data>
+	<data name="000_050" xml:space="preserve">
+		<value>拿去，孩子，把這顆紅色共鳴石帶著。它能打開地下室的門，也許你會找到更好的路下去。只是小心別被尖石和荊棘刺傷了！</value>
+	</data>
+	<data name="000_060" xml:space="preserve">
+		<value>等等，你們地底洞穴還有一個地下室？那樣有意義嗎？</value>
+	</data>
+	<data name="000_070" xml:space="preserve">
+		<value>嘿，大傢伙，我拿東西塞住你那飛鼬的嘴，你意下如何？既然你們要去地下室，何不順便把我的敲擊棍找回來？</value>
+	</data>
+	<data name="000_080" xml:space="preserve">
+		<value>你的什麼東西？</value>
+	</data>
+	<data name="000_090" xml:space="preserve">
+		<value>你也知道，我用那支棍子敲打東西。但我把它落在地下室了，老實說，並不是我很懶不自己去找。畢竟他們讓我站在這裡可不是站好看的！總得有人守著這個洞口吧！</value>
+	</data>
+	<data name="000_100" xml:space="preserve">
+		<value>好，布洛普，如果我看到你的敲擊棍，我一定會把它撿回來的。</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>你找到我的棍子了嗎？還沒？那你還站在這裡做什麼！？沒有特製的敲擊棍，我該怎麼敲打東西啊！？</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>啊，我的棍子！你找到它了！我終於可以回去找那個把我腿弄傷的廢物巨魔算帳了！</value>
+	</data>
+	<data name="002_010" xml:space="preserve">
+		<value>哇哦，等等，布洛普。以你的……呃……狀況，最好別挑起戰鬥。</value>
+	</data>
+	<data name="002_020" xml:space="preserve">
+		<value>孩子，這是一件關乎榮耀！雪恥！用棍子敲打東西的大事！</value>
+	</data>
+	<data name="002_030" xml:space="preserve">
+		<value>這樣好了，我替你去痛毆巨魔吧。</value>
+	</data>
+	<data name="002_040" xml:space="preserve">
+		<value>把牠們邪惡的手指帶來給我！四根！不，四十根！不！四百根！為我受傷的腿討回公道！</value>
+	</data>
+	<data name="002_050" xml:space="preserve">
+		<value>我就替你收集四根巨魔手指如何？可以吧？</value>
+	</data>
+	<data name="002_060" xml:space="preserve">
+		<value>啊，這才是我的好孩子！</value>
+	</data>
+	<data name="004_000" xml:space="preserve">
+		<value>拿去吧，布洛普，四根巨魔手指。別一次用光了。</value>
+	</data>
+	<data name="003_000" xml:space="preserve">
+		<value>打倒那些巨魔，孩子！用豆子盛滿一整盤布洛普正義吧！因為豆子搭配正義會十分美味！耶！</value>
+	</data>
+	<data name="004_010" xml:space="preserve">
+		<value>呼～極品！我敢說我能用這些手指彈鋼琴！假如我知道什麼是鋼琴的話。你做得不錯，孩子。這是我的一點心意！</value>
+	</data>
+	<data name="004_020" xml:space="preserve">
+		<value>這樣吧？既然你有興致狩獵，也許你能幫我弄好我的牙齒？</value>
+	</data>
+	<data name="004_030" xml:space="preserve">
+		<value>我不明白那兩者有什麼關聯。再說，我也不想明白。</value>
+	</data>
+	<data name="004_035" xml:space="preserve">
+		<value>你的牙齒怎麼了，布洛普？</value>
+	</data>
+	<data name="004_040" xml:space="preserve">
+		<value>暫且不論實際上我只剩一顆牙齒？我一直想給自己裝幾顆假牙，如果你能弄十顆岩犬牙給我，我就能過得更舒適。或者，笑得更燦爛。</value>
+	</data>
+	<data name="004_050" xml:space="preserve">
+		<value>我一直有關注人們請你幫忙做的事，達斯特。這可能是到目前為止最奇怪的一個。</value>
+	</data>
+	<data name="004_070" xml:space="preserve">
+		<value>我同意妳說的，菲基特。好的，布洛普，我會弄些牙齒給你的。</value>
+	</data>
+	<data name="005_000" xml:space="preserve">
+		<value>我會愛上有牙齒的我！我好久沒有大口吃東西了！</value>
+	</data>
+	<data name="006_000" xml:space="preserve">
+		<value>這是你要的十顆岩犬牙，布洛普。我相信你的新牙會成為全村的話題。</value>
+	</data>
+	<data name="006_010" xml:space="preserve">
+		<value>我想一切妥當了！謝謝你，孩子。再也沒有人會跟布洛普講不能吃玉米了！</value>
+	</data>
+	<data name="010_000" xml:space="preserve">
+		<value>祝你一切順利，孩子！</value>
+	</data>
 </root>
