@@ -117,4 +117,61 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	<data name="000_010" xml:space="preserve">
+		<value>你的腿怎麼樣了？</value>
+	</data>
+	<data name="000_000" xml:space="preserve">
+		<value>啊，達斯特。再次感謝你的幫助。</value>
+	</data>
+	<data name="000_020" xml:space="preserve">
+		<value>我想沒有大礙的。只是需要一些時間想想事情。</value>
+	</data>
+	<data name="001_000" xml:space="preserve">
+		<value>還有別的事情嗎？你聽起來好像有心事。</value>
+	</data>
+	<data name="001_010" xml:space="preserve">
+		<value>這麼明顯啊？好吧。我還沒告訴奧奈達，我把懷錶弄丟了，但我確信是在巨人襲擊我們的時候弄丟的。</value>
+	</data>
+	<data name="001_020" xml:space="preserve">
+		<value>啊，很貴重嗎？</value>
+	</data>
+	<data name="001_030" xml:space="preserve">
+		<value>對我來說，是的。對我們兩個來說，更是。那是她父親送給我們的結婚禮物。事實上，那是我們唯一能紀念他的東西了。</value>
+	</data>
+	<data name="001_040" xml:space="preserve">
+		<value>我想我可能把它掉在農場外了，就在那群怪物追我們到這裡來之前。但我的腿現在這樣，我真的無法出門去找……</value>
+	</data>
+	<data name="001_050" xml:space="preserve">
+		<value>我會去幫你看看的。</value>
+	</data>
+	<data name="001_060" xml:space="preserve">
+		<value>謝謝你，達斯特。真的，你不知道那對我來說有多重要。</value>
+	</data>
+	<data name="010_000" xml:space="preserve">
+		<value>那群怪物徹底把這裡毀了。喂，菲基特，妳能用妳的第六感找到吉亨的懷錶嗎？</value>
+	</data>
+	<data name="010_010" xml:space="preserve">
+		<value>嗯……是的，確實！我有從那地面的可怕大洞底下感應到東西。為什麼地面總是有可怕大洞呢？</value>
+	</data>
+	<data name="010_020" xml:space="preserve">
+		<value>我回頭再告訴妳，菲基特。現在我們應該先幫吉亨和奧奈達找到懷錶。</value>
+	</data>
+	<data name="002_000" xml:space="preserve">
+		<value>你找到了！這是別人為我做過最好的事了！</value>
+	</data>
+	<data name="002_010" xml:space="preserve">
+		<value>這，呃，我們救過你的命，還記得嗎？</value>
+	</data>
+	<data name="002_020" xml:space="preserve">
+		<value>是的，呃，我是說除了那個！非常感謝你們。我沒有什麼能回報的，但拿去──收下這些寶藏鑰匙吧。</value>
+	</data>
+	<data name="002_030" xml:space="preserve">
+		<value>謝謝你，吉亨。很高興我們能幫上忙。</value>
+	</data>
+	<data name="003_000" xml:space="preserve">
+		<value>找回這個懷錶讓我輕鬆多了。謝謝你，達斯特！</value>
+	</data>
+	<data name="004_000" xml:space="preserve">
+		<value>我確信我把懷錶掉在農場外的某處了。如果你能找到它，我會非常感激的。</value>
+	</data>
 </root>
