@@ -1651,10 +1651,10 @@
 		<value>站住！是誰！噢，是你啊！抱歉，米斯拉林。請進吧。</value>
 	</data>
 	<data name="550_000" xml:space="preserve">
-		<value>很好，發電機在那裡。看看有什麼辦法能讓它重新運作吧。</value>
+		<value>很好，發電機在那裡。看看有什麼辦法能讓它恢復運作吧。</value>
 	</data>
 	<data name="550_010" xml:space="preserve">
-		<value>我感覺到這個裝置沒有能量散發出來，達斯特。或許有讓它重新發電的辦法？</value>
+		<value>我感覺到這個裝置沒有能量散發出來，達斯特。或許有讓它恢復發電的辦法？</value>
 	</data>
 	<data name="551_000" xml:space="preserve">
 		<value>做得好，菲基特。營地現在應該有電了。</value>
