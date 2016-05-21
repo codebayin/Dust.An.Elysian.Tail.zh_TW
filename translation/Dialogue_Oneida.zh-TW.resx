@@ -118,43 +118,43 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="043_080" xml:space="preserve">
-		<value>你的旅途才剛開始就要結束了，達斯特。村莊就在前面。</value>
+		<value>你旅程的起點就快到了，達斯特。村莊就在前面。</value>
 	</data>
 	<data name="043_090" xml:space="preserve">
-		<value>沒錯，我們到了 ── 太棒了，然後呢？</value>
+		<value>是的，我們到了──很好，但接下來呢？</value>
 	</data>
 	<data name="043_040" xml:space="preserve">
-		<value>噢，非常感謝你！</value>
+		<value>哦，非常感謝你們！</value>
 	</data>
 	<data name="043_050" xml:space="preserve">
-		<value>這裡發生什麼事？</value>
+		<value>這裡發生什麼事了？</value>
 	</data>
 	<data name="043_060" xml:space="preserve">
-		<value>我……我不知道！當巨人攻擊時我們正在檢查這個區域。</value>
+		<value>我、我不知道！當時我們正在這裡查看田地，然後那些巨人就襲擊了。</value>
 	</data>
 	<data name="043_070" xml:space="preserve">
-		<value>小野獸經常給我們製造很多麻煩，但這是第一次有巨人這麼靠近村莊。</value>
+		<value>雖然我們一直受到野獸的侵擾，但這是第一次有巨人這麼靠近村莊。</value>
 	</data>
 	<data name="043_000" xml:space="preserve">
-		<value>沒了嗎？我們把他們全部解決了嗎？</value>
+		<value>沒了嗎？全部解決了嗎？</value>
 	</data>
 	<data name="043_010" xml:space="preserve">
-		<value>對，我想是的。</value>
+		<value>嗯，我想是的。</value>
 	</data>
 	<data name="043_020" xml:space="preserve">
-		<value>做得好，達斯特。你證明了你是一個有價值的劍聖。而且正是時候。</value>
+		<value>幹得好，達斯特。你證明了你是一個傑出的劍豪。而且及時趕上了。</value>
 	</data>
 	<data name="043_030" xml:space="preserve">
-		<value>呸，他們才沒那麼猛！我大概可以解決掉四、五個。你知道的，如果有必要。而且達斯特也在那。</value>
+		<value>呿，牠們又不是很強！我大概能解決掉四、五隻。你知道的，如果有必要的話。況且達斯特也在。</value>
 	</data>
 	<data name="043_140" xml:space="preserve">
-		<value>嘿，你說誰軟弱了？</value>
+		<value>喂，妳說誰軟弱了？</value>
 	</data>
 	<data name="043_100" xml:space="preserve">
-		<value>那邊暫時沒什麼特別的跡象。這些人是安全的，而那是最重要的事情。我們繼續前進。</value>
+		<value>接下來我還不知道。這些人安全了，這才是最重要的。我們繼續前進吧。</value>
 	</data>
 	<data name="043_120" xml:space="preserve">
-		<value>還好，我只是需要休息一下。我不曉得你怎麼辦到的，你居然能憑一己之力解決三個巨人！</value>
+		<value>還好，我只是需要休息一下。我不知道你怎麼辦到的，你居然獨自就解決了三隻巨人！</value>
 	</data>
 	<data name="043_110" xml:space="preserve">
 		<value>你們兩個還好嗎？</value>
@@ -163,72 +163,72 @@
 		<value>小事一件！那是我們該做的！為軟弱無助的人伸張正義！</value>
 	</data>
 	<data name="005_000" xml:space="preserve">
-		<value>我不知道你怎麼辦到的，但吉亨變回以前的樣子了！</value>
+		<value>我不知道你做了什麼，但吉亨又恢復正常了！</value>
 	</data>
 	<data name="004_000" xml:space="preserve">
-		<value>那些怪物全都逃跑後，我感覺待在極光更安全了！</value>
+		<value>那些怪物到處橫行，我覺得待在極光村這裡安全多了！</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
-		<value>噢達斯特，我們很感謝你為我們做的一切。吉亨跟我正要去極光休息一下。</value>
+		<value>哦，達斯特，我們感激你為我們所做的一切。吉亨和我正打算在極光村這裡休息一下。</value>
 	</data>
 	<data name="003_010" xml:space="preserve">
-		<value>事實上，你可以跟他聊聊嗎？他永遠不會對我坦白，但我知道有什麼事困擾著他。</value>
+		<value>事實上，也許你能找他談談？他永遠不會對我坦白，但我知道有什麼事困擾著他。</value>
 	</data>
 	<data name="003_020" xml:space="preserve">
 		<value>當然。他現在在哪裡？</value>
 	</data>
 	<data name="003_030" xml:space="preserve">
-		<value>他在村莊的西邊入口附近，離你救我們的地方不遠。謝謝你的所作所為，達斯特。</value>
+		<value>他在村莊的西邊入口附近來回踱步，離你救我們的田地不遠。謝謝你所做的一切，達斯特。</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
-		<value>我的鏟子在哪！？</value>
+		<value>我的鏟子呢？</value>
 	</data>
 	<data name="002_020" xml:space="preserve">
-		<value>我只要拿到我的鏟子就會好了！</value>
+		<value>我只要拿到鏟子就會好多了！</value>
 	</data>
 	<data name="002_010" xml:space="preserve">
-		<value>別擔心，親愛的。等你好點的時候我們就去安全的地方。</value>
+		<value>別擔心鏟子了，親愛的。等你好點，我們就去安全的地方。</value>
 	</data>
 	<data name="002_040" xml:space="preserve">
-		<value>噢不，親愛的。他在逃離怪物時把鏟子弄壞了。等他腳好點的時候我會給他一個新鏟子。</value>
+		<value>哦不，親愛的。他在逃離怪物時把鏟子弄壞了。等他的腳好點，我會給他一個新鏟子的。</value>
 	</data>
 	<data name="002_030" xml:space="preserve">
-		<value>我該去找不見的鏟子嗎？</value>
+		<value>我該去找遺失的鏟子嗎？</value>
 	</data>
 	<data name="001_080" xml:space="preserve">
-		<value>噢，呸你自己啦！</value>
+		<value>噢，呿你自己啦！</value>
 	</data>
 	<data name="001_020" xml:space="preserve">
-		<value>這老頭在逃離怪物時扭傷他的腳了。很高興你能留下來保護你可憐的老婆！</value>
+		<value>這老頭在逃跑躲避怪物時扭傷了腳。你真好，留下來保護你可憐的老婆！</value>
 	</data>
 	<data name="001_030" xml:space="preserve">
-		<value>我當時要去搬救兵！</value>
+		<value>我當時是跑去搬救兵！</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
 		<value>那些怪物有傷害到你嗎？</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
-		<value>這個嘛，我是說……不……完全算吧？</value>
+		<value>呃，我想……算……沒有吧？</value>
 	</data>
 	<data name="001_060" xml:space="preserve">
-		<value>噢不，拜託別亂講了，我愛我的老公，就算他是個膽小鬼。</value>
+		<value>哦不，請不要會錯意，我仍然愛我的丈夫，就算他是個膽小鬼。</value>
 	</data>
 	<data name="001_070" xml:space="preserve">
-		<value>呸！</value>
+		<value>呿！</value>
 	</data>
 	<data name="001_040" xml:space="preserve">
-		<value>是阿，我敢肯定工具間能找到很多救兵。怎樣，你把小軍隊藏在那裡面嗎？</value>
+		<value>是啊，我敢肯定工具間有很多救兵。怎樣，你把小軍隊藏在那裡面了嗎？</value>
 	</data>
 	<data name="001_050" xml:space="preserve">
-		<value>也許我該走了……</value>
+		<value>或許我該走了……</value>
 	</data>
 	<data name="000_020" xml:space="preserve">
-		<value>等你好點的時候去找個安全的地方。我把這條路上大部分的怪物處理掉了，但我不知道他們什麼時候會回來。</value>
+		<value>你應該儘量找個安全的地方。雖然我沿路清除了不少怪物，但你永遠不知道牠們何時會回來。</value>
 	</data>
 	<data name="000_000" xml:space="preserve">
-		<value>我們有點被嚇到了，但我們會沒事的。</value>
+		<value>我們還心有餘悸，但我想我們會沒事的。</value>
 	</data>
 	<data name="000_010" xml:space="preserve">
-		<value>我只需要稍微坐著休息一下。我的腳還很痛。</value>
+		<value>我只需要在這裡坐一會兒。我的腳還很痛。</value>
 	</data>
 </root>
