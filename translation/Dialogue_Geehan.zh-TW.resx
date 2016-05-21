@@ -118,7 +118,7 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="000_010" xml:space="preserve">
-		<value>你的腿怎麼樣了？</value>
+		<value>你的腳怎麼樣了？</value>
 	</data>
 	<data name="000_000" xml:space="preserve">
 		<value>啊，達斯特。再次感謝你的幫助。</value>
@@ -136,10 +136,10 @@
 		<value>啊，很貴重嗎？</value>
 	</data>
 	<data name="001_030" xml:space="preserve">
-		<value>對我來說，是的。對我們兩個來說，更是。那是她父親送給我們的結婚禮物。事實上，那是我們唯一能紀念他的東西了。</value>
+		<value>對我來說，是的。對我們兩個來說，更是了。那是她父親送給我們的結婚禮物。事實上，那是我們唯一能紀念他的東西了。</value>
 	</data>
 	<data name="001_040" xml:space="preserve">
-		<value>我想我可能把它掉在農場外了，就在那群怪物追我們到這裡來之前。但我的腿現在這樣，我真的無法出門去找……</value>
+		<value>我想我可能把它掉在農場外了，就在那群怪物追我們到這裡來之前。但我的腳現在這樣，我真的無法出門去找……</value>
 	</data>
 	<data name="001_050" xml:space="preserve">
 		<value>我會去幫你看看的。</value>
