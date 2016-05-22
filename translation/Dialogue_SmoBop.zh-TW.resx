@@ -118,84 +118,84 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="003_000" xml:space="preserve">
-		<value>我愛我的娃娃！超級愛她的！超愛超愛超愛！</value>
+		<value>我愛我的娃娃！我愛死她了！超愛超愛超愛的！</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
-		<value>好吧絲莫芭普，這是菲基特娃娃，給你。這個比真的好！</value>
+		<value>好了，絲莫芭普，這是給妳的菲基特娃娃。比真的更好喔！</value>
 	</data>
 	<data name="002_020" xml:space="preserve">
 		<value>謝謝，絲莫芭普。</value>
 	</data>
 	<data name="000_130" xml:space="preserve">
-		<value>嘿！</value>
+		<value>喂！</value>
 	</data>
 	<data name="000_100" xml:space="preserve">
 		<value>絲莫芭普！</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
-		<value>你回來了！那個是我的娃娃嗎？</value>
+		<value>你回來了！那是我的娃娃嗎？</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
-		<value>不，莫芭普，那只是菲基特。</value>
+		<value>不是，絲莫芭普，那只是菲基特。</value>
 	</data>
 	<data name="000_010" xml:space="preserve">
-		<value>什麼？我？</value>
+		<value>什麼？我嗎？</value>
 	</data>
 	<data name="000_020" xml:space="preserve">
-		<value>一隻飛天貓！</value>
+		<value>是隻會飛的貓耶！</value>
 	</data>
 	<data name="000_000" xml:space="preserve">
-		<value>喔，是隻漂亮的小貓！</value>
+		<value>哦，是隻漂亮的小貓！</value>
 	</data>
 	<data name="000_030" xml:space="preserve">
-		<value>小女孩，她不是貓。她是…呃…我也不知道他是什麼。</value>
+		<value>她不是貓，小女孩。她是……我也不知道她是什麼。</value>
 	</data>
 	<data name="000_040" xml:space="preserve">
-		<value>我不是貓，你這個笨蛋。我是精靈！</value>
+		<value>我不是貓，你這笨蛋！我是靈蝠！</value>
 	</data>
 	<data name="000_060" xml:space="preserve">
-		<value>對，妳好！我叫做菲基特，我們是不是見過面？</value>
+		<value>是的，你好！我叫菲基特，也許我們見過面？</value>
 	</data>
 	<data name="000_050" xml:space="preserve">
-		<value>別人都這樣稱呼妳？精靈？</value>
+		<value>別人都那樣叫妳？靈蝠？</value>
 	</data>
 	<data name="000_120" xml:space="preserve">
-		<value>嗯…，絲莫芭普。我很遺憾，雖然菲基特看起來就像是玩具，但是她並不是。</value>
+		<value>嗯，絲莫芭普，我很抱歉，雖然菲基特看起來像玩具，但她並不是。</value>
 	</data>
 	<data name="000_140" xml:space="preserve">
-		<value>喔，我想要她！她會說話！我可以跟你交換嗎？我有這整箱的東西！</value>
+		<value>噢，我想要她！她會說話！我能跟你換嗎？你看！我有這個盒子！</value>
 	</data>
 	<data name="000_150" xml:space="preserve">
-		<value>嘿達斯特，你看！這應該是里德的箱子！</value>
+		<value>喂，達斯特，你看！那一定是里德的盒子！</value>
 	</data>
 	<data name="000_080" xml:space="preserve">
-		<value>達斯特！？做點什麼都好！快把我從小女孩手中弄走！</value>
+		<value>達斯特！？想想辦法！她要用她那小手來抓我了！</value>
 	</data>
 	<data name="000_090" xml:space="preserve">
-		<value>別擔心菲基特。不好意思，呃，妳的名字是？</value>
+		<value>別擔心，菲基特。抱歉，呃，妳叫什麼名字？</value>
 	</data>
 	<data name="000_070" xml:space="preserve">
-		<value>我可以擁有它嗎？我想要它！</value>
+		<value>我能抱抱嗎！？我好想要！</value>
 	</data>
 	<data name="002_010" xml:space="preserve">
-		<value>喔，她好漂亮！來，這個給你！</value>
+		<value>哦，她好漂亮！拿去，這個給你！</value>
 	</data>
 	<data name="002_040" xml:space="preserve">
-		<value>謝謝妳，好好享受妳的菲基特。</value>
+		<value>謝謝妳。好好享受妳的菲基特吧。</value>
 	</data>
 	<data name="000_180" xml:space="preserve">
-		<value>對，也許他可以幫我們做給絲莫芭普一些不同種的菲基特。畢竟絲莫芭普太年幼，沒有辦法照顧像妳這樣的寵物。</value>
+		<value>是啊，或許他能幫我們做菲基特造型娃娃給她。畢竟她還太小，無法照顧像妳這樣的寵物。</value>
 	</data>
 	<data name="000_190" xml:space="preserve">
-		<value>對，這責任對對她來說太...嘿！</value>
+		<value>是啊，責任太重了，照顧像我這樣的……喂！</value>
 	</data>
 	<data name="000_160" xml:space="preserve">
-		<value>嗯，跟妳說，下一次我去地表時如果我有找到合適的替代品，我會拿來跟妳交換。</value>
+		<value>嗯。這樣好了，下次我回地面，我看看能不能找到合適的替代品。然後我們再交換。</value>
 	</data>
 	<data name="000_170" xml:space="preserve">
-		<value>呦！好點子達斯特。你知道在極光村的那家商店有些東西，也許店長可以幫我們雕塑一個？</value>
+		<value>呼！好主意，達斯特。你知道極光村的那家商店有不少東西。或許商店主人能幫我們搞定？</value>
 	</data>
 	<data name="002_030" xml:space="preserve">
-		<value>不久前布洛普給我的！他是在地表附近找到的，我猜。</value>
+		<value>那是布洛普不久前送我的！我想他是在地面附近找到的！</value>
 	</data>
 </root>
