@@ -118,13 +118,13 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="000_000" xml:space="preserve">
-		<value>阿，我們傑出的救世主！我一直期待著你的到來，歡迎蒞臨我這不起眼的小店！</value>
+		<value>啊，我們大名鼎鼎的救世主！我早就期待您的到來。歡迎蒞臨我這不起眼的小店！</value>
 	</data>
 	<data name="000_030" xml:space="preserve">
 		<value>謝謝你。</value>
 	</data>
 	<data name="000_Option_0" xml:space="preserve">
-		<value>有賣什麼東西？</value>
+		<value>有賣什麼嗎？</value>
 	</data>
 	<data name="000_Option_1" xml:space="preserve">
 		<value>你有小孩的玩具嗎？</value>
@@ -136,90 +136,90 @@
 		<value>關於那個娃娃……</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
-		<value>歡迎回來！</value>
+		<value>歡迎再次光臨！</value>
 	</data>
 	<data name="007_Option_0" xml:space="preserve">
-		<value>好。</value>
+		<value>好的。</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
-		<value>選擇我這間商店是你最正確的決定，正好有你前所未見的產品！請隨意逛逛！</value>
+		<value>現在店裡正好有您能找到最好的產品！請隨意看看吧！</value>
 	</data>
 	<data name="004_000" xml:space="preserve">
-		<value>謝謝您的光臨。我大概可以保證讓您滿意，大概！</value>
+		<value>謝謝您的光臨。我保證讓您滿意！</value>
 	</data>
 	<data name="005_000" xml:space="preserve">
-		<value>您的光臨是我們莫大的榮幸！請跟您的朋友宣傳！您有錢的那些朋友！</value>
+		<value>您的光臨是我們莫大的榮幸！請向您的朋友宣傳！您有錢的那些朋友！</value>
 	</data>
 	<data name="006_000" xml:space="preserve">
-		<value>你有賣小孩的玩具嗎？或者是更特別的東西，像是精靈娃娃？</value>
+		<value>你有賣小孩的玩具嗎？或者更具體地說，靈蝠娃娃？</value>
 	</data>
 	<data name="006_010" xml:space="preserve">
-		<value>精靈娃娃？你是指像你身旁的這位朋友嗎？我想我們的倉庫裡沒有像那樣子的東西。</value>
+		<value>靈蝠娃娃？你是指像您那位會飛的朋友嗎？我想我們沒有那樣的現貨。</value>
 	</data>
 	<data name="006_020" xml:space="preserve">
-		<value>但我會滿足你的！我絕對會幫你製作一個，只要有合適的材料就行了。</value>
+		<value>但我會滿足您的！我絕對能幫您製作一個，前提是我要有合適的材料！</value>
 	</data>
 	<data name="006_030" xml:space="preserve">
-		<value>我看看…… 用一些棉花、布料和染料，我保證能幫你做個完美的精靈娃娃！</value>
+		<value>讓我想想……用一些棉花、布料和染料，我絕對能幫您製作一個最棒的靈蝠娃娃！</value>
 	</data>
 	<data name="007_Option_1" xml:space="preserve">
-		<value>再考慮一下……</value>
+		<value>改變主意了……</value>
 	</data>
 	<data name="006_040" xml:space="preserve">
-		<value>我必須講一下，達斯特。我對這件事感到不安！</value>
+		<value>我必須要說，達斯特。這整件事讓我感到有些不自在！</value>
 	</data>
 	<data name="006_060" xml:space="preserve">
-		<value>你變了，變得我都不認識你了。</value>
+		<value>我再也不理你了。</value>
 	</data>
 	<data name="006_050" xml:space="preserve">
-		<value>你對什麼感到不安，菲基特？你超可愛！我想叫他再多幫我做一個菲基特娃娃，我會把他帶在身上，永遠。</value>
+		<value>有什麼好不自在的，菲基特？妳真可愛！我想我可能會讓他再多做一個菲基特娃娃，那樣我就能抱著了，永遠地～</value>
 	</data>
 	<data name="007_000" xml:space="preserve">
-		<value>啊，太棒了！你把所有材料都帶來了！需要我馬上幫你製作娃娃嗎？</value>
+		<value>啊，好極了！您把所有材料都帶來了！需要我馬上幫您製作娃娃嗎？</value>
 	</data>
 	<data name="008_000" xml:space="preserve">
-		<value>太好了！現在只需要讓你的夥伴躺在這塊布上……</value>
+		<value>太好了！如果您的伙伴能躺在這塊布上……</value>
 	</data>
 	<data name="008_050" xml:space="preserve">
 		<value>呃……</value>
 	</data>
 	<data name="008_030" xml:space="preserve">
-		<value>這裡，給我一支筆。我自己畫。</value>
+		<value>來，給我一支筆。我自己畫。</value>
 	</data>
 	<data name="008_130" xml:space="preserve">
-		<value>我不要跟你講話了。</value>
+		<value>我再也不跟你說話了。</value>
 	</data>
 	<data name="008_010" xml:space="preserve">
-		<value>嘿，你沒幫我測量！</value>
+		<value>喂，你不要照著我描！</value>
 	</data>
 	<data name="008_060" xml:space="preserve">
-		<value>看吧？你可以用這個來測量你的娃娃。完美！</value>
+		<value>看到沒？你可以用這個來量你的娃娃。完美！</value>
 	</data>
 	<data name="008_020" xml:space="preserve">
-		<value>噢，對，我需要測量工具。我在附近很少看到精靈。</value>
+		<value>哦，我需要量些尺寸。我們這裡很少能看到靈蝠。</value>
 	</data>
 	<data name="008_040" xml:space="preserve">
-		<value>好，這樣，完工。看看我是如何描繪每一道細緻的曲線？</value>
+		<value>好了，這樣，完工。看我是如何把每道細微的曲線給表現出來吧？</value>
 	</data>
 	<data name="008_080" xml:space="preserve">
-		<value>閉嘴，去做那個蠢娃娃。</value>
+		<value>閉嘴，去做你的蠢娃娃。</value>
 	</data>
 	<data name="008_070" xml:space="preserve">
-		<value>哈！不，那真的不行！事實上，我從沒見過畫得這麼糟的。</value>
+		<value>哈！不，這真的不行！說實在的，這是我見過最糟的畫。</value>
 	</data>
 	<data name="008_090" xml:space="preserve">
-		<value>好，好。等我一下……一些棉花塞在這，再縫個幾針……</value>
+		<value>好，好。給我一點時間……這裡塞點棉花，那裡縫個幾針……</value>
 	</data>
 	<data name="008_100" xml:space="preserve">
-		<value>呃，頭的部分應該需要更多棉花。我覺得你沒有掌握到菲基特頭的比例。</value>
+		<value>呃，頭的部分也許要多塞點棉花。我覺得你沒有精確掌握到菲基特的頭的實際大小。</value>
 	</data>
 	<data name="008_105" xml:space="preserve">
-		<value>我的頭很好！你才是頭上有個蠢帽子的人！你們兩個可以組一個蠢帽團體！</value>
+		<value>我的頭很好！不像你們戴著那些愚蠢的帽子！或許你們兩個可以組一個傻帽團體！</value>
 	</data>
 	<data name="008_110" xml:space="preserve">
-		<value>還有中提琴！另一個開心的顧客！而我甚至有足夠的材料再多製作一個！</value>
+		<value>完成啦！這位開心的顧客！我甚至有足夠的材料能再多做一個喔！</value>
 	</data>
 	<data name="008_120" xml:space="preserve">
-		<value>噢。我沒想到可以再多拿一個。我會隨時帶著它，永遠。我覺得把這麼醜的東西給絲莫芭普不太好，但算了，我們走。</value>
+		<value>哦。我沒想到真的能得到一個。我想我得隨身帶著它了，永遠地。坦白說，我覺得把這麼醜的東西給絲莫芭普很過意不去，但我們出發吧。</value>
 	</data>
 </root>
