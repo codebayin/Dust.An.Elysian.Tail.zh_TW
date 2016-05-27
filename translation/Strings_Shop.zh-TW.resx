@@ -127,7 +127,7 @@
 		<value>[A] 確認     [B] 取消</value>
 	</data>
 	<data name="MyStock" xml:space="preserve">
-		<value>我的庫存</value>
+		<value>我的存貨</value>
 	</data>
 	<data name="Cost" xml:space="preserve">
 		<value>價格</value>
