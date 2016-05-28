@@ -139,7 +139,7 @@
 		<value>坦白講，是的。也不是我想給他們次等裝備！如果我有更好的材料，我能製作更好的裝備！</value>
 	</data>
 	<data name="000_070" xml:space="preserve">
-		<value>這樣吧？如果你能弄五張魔精皮給我，我會樂意用高於商店的價格買下的。</value>
+		<value>這樣吧？如果你能弄「5張魔精皮」給我，我會樂意用高於商店的價格買下的。</value>
 	</data>
 	<data name="000_080" xml:space="preserve">
 		<value>我會留意的。</value>
@@ -160,31 +160,31 @@
 		<value>我想強化我們的武器。野獸矛頭雖然原始，但我們可以用其細鑿的石尖作為箭頭！</value>
 	</data>
 	<data name="003_030" xml:space="preserve">
-		<value>如果你能弄八個野獸矛頭給我，我會高價買下的！</value>
+		<value>如果你能弄「8個野獸矛頭」給我，我會高價買下的！</value>
 	</data>
 	<data name="004_000" xml:space="preserve">
 		<value>我聽說有一種稀有的材料可以提煉成非常堅硬的護甲漆！</value>
 	</data>
 	<data name="004_010" xml:space="preserve">
-		<value>當然，我說的就是史萊姆。如果你能弄四個黏液刺和四個黏液膜給我，我會付你可觀的報酬的！我甚至還會多給一點，因為這個任務可能有點……呃，黏糊糊。</value>
+		<value>當然，我說的就是史萊姆。如果你能弄「4個黏液刺」和「4個黏液膜」給我，我會付你可觀的報酬的！我甚至還會多給一點，因為這個任務可能有點……呃，黏糊糊。</value>
 	</data>
 	<data name="005_000" xml:space="preserve">
 		<value>你提供的那些獸皮真的很好，但我想用那些巨人身上的材料來持續強化守衛的護甲。</value>
 	</data>
 	<data name="005_010" xml:space="preserve">
-		<value>如果你能弄兩個巨石和兩個巨核給我，我們就準備完成了！我會付你比賣給商店更高的金額！</value>
+		<value>如果你能弄「2個巨石」和「2個巨核」給我，我們就準備完成了！我會付你比賣給商店更高的金額！</value>
 	</data>
 	<data name="006_000" xml:space="preserve">
 		<value>那些強化真的把守衛的護甲增強了不少，但現在變得有點僵硬了。我想利用只能從飛行的粉紅艾維身上找到的材料來增加一些靈活性。</value>
 	</data>
 	<data name="006_010" xml:space="preserve">
-		<value>讓我想想……六個艾維翼和六個艾維爪應該就會有效了！當然，我會付你工錢的！</value>
+		<value>讓我想想……「6個艾維翼」和「6個艾維爪」應該就會有效了！當然，我會付你工錢的！</value>
 	</data>
 	<data name="007_000" xml:space="preserve">
 		<value>我有一份最後的工作要交給你，達斯特！這附近住著一種叫弗洛恩的奇怪飛行生物，牠能從觸手發射電球。非常難纏！</value>
 	</data>
 	<data name="007_010" xml:space="preserve">
-		<value>如果你能弄三個弗洛恩觸手和三個弗洛恩電光給我，我就能用它們來強化我們守衛的護甲，並給他們的武器附加一點額外效果！我會為此支付一大筆報酬的，遠高於附近的商店喔！</value>
+		<value>如果你能弄「3個弗洛恩觸手」和「3個弗洛恩電光」給我，我就能用它們來強化我們守衛的護甲，並給他們的武器附加一點額外效果！我會為此支付一大筆報酬的，遠高於附近的商店喔！</value>
 	</data>
 	<data name="100_000" xml:space="preserve">
 		<value>太棒了！這是你的報酬。我想已經夠了！我需要的都齊全了，謝謝你！</value>
