@@ -148,7 +148,7 @@
 		<value>我們不是來鬧事的，太太。事實上，我們剛才救了你的孩子。</value>
 	</data>
 	<data name="188_020" xml:space="preserve">
-		<value>啥？他們在說什麼，波普？</value>
+		<value>啥？他們在說什麼，啵波？</value>
 	</data>
 	<data name="188_030" xml:space="preserve">
 		<value>唔，呃……他們已經跟蹤我一陣子了。</value>
@@ -181,7 +181,7 @@
 		<value>走吧，達斯特，這裡顯然不需要我們。</value>
 	</data>
 	<data name="188_130" xml:space="preserve">
-		<value>夠了，波普！你該回去做家事了，趁我還沒拿出杓子！</value>
+		<value>夠了，啵波！你該回去做家事了，趁我還沒拿出杓子！</value>
 	</data>
 	<data name="188_140" xml:space="preserve">
 		<value>媽媽，我看過他們戰鬥。他們甚至有一把會說話的劍！我敢說他們能幫上忙的！</value>
@@ -241,7 +241,7 @@
 		<value>所以你們現在要下去找神女談談了嗎？你們會幫助我的爸爸？</value>
 	</data>
 	<data name="188_330" xml:space="preserve">
-		<value>我們會竭盡全力的，波普。只是別再跑出去了。</value>
+		<value>我們會竭盡全力的，啵波。只是別再跑出去了。</value>
 	</data>
 	<data name="188_340" xml:space="preserve">
 		<value>我保證不會了！</value>
@@ -259,7 +259,7 @@
 		<value>媽媽？怎麼了，媽媽？</value>
 	</data>
 	<data name="250_030" xml:space="preserve">
-		<value>波普，親愛的……跟我進來。</value>
+		<value>啵波，親愛的……跟我進來。</value>
 	</data>
 	<data name="250_020" xml:space="preserve">
 		<value>她和爸爸在屋裡！當水開始再次流動的時候，她就馬上送水去給爸爸了！哦，你看，她過來了！媽媽，他們在這！我就說他們會讓水再次流動的！</value>
@@ -295,7 +295,7 @@
 		<value>我不明白……我們讓水流動了。該做的我們都做了。</value>
 	</data>
 	<data name="260_010" xml:space="preserve">
-		<value>菲基特，就像波普媽媽說的：當生命之系召喚來臨時，你就必須離去。他注定要死，我們在怎麼努力也阻止不了。</value>
+		<value>菲基特，就像啵波媽媽說的：當生命之系召喚來臨時，你就必須離去。他注定要死，我們在怎麼努力也阻止不了。</value>
 	</data>
 	<data name="260_020" xml:space="preserve">
 		<value>那不是藉口，阿拉。你早就知道了？你早就知道我們會慢了一步？</value>
@@ -346,7 +346,7 @@
 		<value>再見，親愛的。</value>
 	</data>
 	<data name="265_030" xml:space="preserve">
-		<value>波普……</value>
+		<value>啵波……</value>
 	</data>
 	<data name="265_040" xml:space="preserve">
 		<value>謝謝你，達斯特。沒有你，我們不會有任何一滴水。你拯救了泥潭村！</value>
@@ -361,13 +361,13 @@
 		<value>現在爸爸已經走了，所以為了媽媽我必須堅強。像你一樣強！</value>
 	</data>
 	<data name="265_080" xml:space="preserve">
-		<value>你是個好孩子，波普。我想你父親會感到驕傲的。</value>
+		<value>你是個好孩子，啵波。我想你父親會感到驕傲的。</value>
 	</data>
 	<data name="265_090" xml:space="preserve">
 		<value>我也這麼想。我還覺得他會為我找到了像你這樣的朋友而高興。謝謝你，達斯特！</value>
 	</data>
 	<data name="265_100" xml:space="preserve">
-		<value>抱歉，波普，但我必須走了。我必須回到地面，去確保這樣的事不再發生。</value>
+		<value>抱歉，啵波，但我必須走了。我必須回到地面，去確保這樣的事不再發生。</value>
 	</data>
 	<data name="265_110" xml:space="preserve">
 		<value>不過你會回來的，對吧？你必須保證你會回來！</value>
@@ -382,7 +382,7 @@
 		<value>……我向你保證。</value>
 	</data>
 	<data name="280_000" xml:space="preserve">
-		<value>你還好嗎，波普？有什麼我能做的嗎？</value>
+		<value>你還好嗎，啵波？有什麼我能做的嗎？</value>
 	</data>
 	<data name="280_010" xml:space="preserve">
 		<value>這似乎不是真的。爸爸走了，我希望……</value>
@@ -397,7 +397,7 @@
 		<value>除非我幫助他！達斯特，你覺得……你有沒有辦法能……幫我弄一些雪來？我想爸爸會很感激的……</value>
 	</data>
 	<data name="280_050" xml:space="preserve">
-		<value>沒問題，波普。我明白了。如果我有上山，我會記得幫你帶回一些雪的。我保證。</value>
+		<value>沒問題，啵波。我明白了。如果我有上山，我會記得幫你帶回一些雪的。我保證。</value>
 	</data>
 	<data name="280_060" xml:space="preserve">
 		<value>謝謝你，達斯特！真的太謝謝你了！</value>
@@ -412,19 +412,19 @@
 		<value>謝謝你，達斯特。它對爸爸來說意義重大。</value>
 	</data>
 	<data name="281_000" xml:space="preserve">
-		<value>我們會把你要的雪帶來的，波普。</value>
+		<value>我們會把你要的雪帶來的，啵波。</value>
 	</data>
 	<data name="282_000" xml:space="preserve">
 		<value>達斯特，你做到了！你把雪帶來了！</value>
 	</data>
 	<data name="282_010" xml:space="preserve">
-		<value>我知道這對你意義重大，波普。</value>
+		<value>我知道這對你意義重大，啵波。</value>
 	</data>
 	<data name="282_020" xml:space="preserve">
 		<value>嗯，我沒有什麼能給的，除了這顆古怪的石頭。它似乎在泥潭村這裡毫無用處，但看起來很漂亮！拿去，就送給你吧！</value>
 	</data>
 	<data name="282_030" xml:space="preserve">
-		<value>謝謝，波普。</value>
+		<value>謝謝，啵波。</value>
 	</data>
 	<data name="283_000" xml:space="preserve">
 		<value>我和爸爸，我們共度了一段自己的時光。在雪中漫步，築碉堡，看著雪花從天空飄落……</value>
@@ -436,12 +436,12 @@
 		<value>為了媽媽，我現在必須堅強起來了。謝謝你所做的一切，達斯特。</value>
 	</data>
 	<data name="300_000" xml:space="preserve">
-		<value>嘿，你知道嗎，你可以用你的那個冰箱把波普的雪運下山！</value>
+		<value>嘿，你知道嗎，你可以用你的那個冰箱把啵波的雪運下山！</value>
 	</data>
 	<data name="300_010" xml:space="preserve">
 		<value>好，等我一下……</value>
 	</data>
 	<data name="300_020" xml:space="preserve">
-		<value>太好了，這樣雪應該就不會融化了。如果哪天我們回泥潭村，我一定會把它交給波普的。</value>
+		<value>太好了，這樣雪應該就不會融化了。如果哪天我們回泥潭村，我一定會把它交給啵波的。</value>
 	</data>
 </root>
