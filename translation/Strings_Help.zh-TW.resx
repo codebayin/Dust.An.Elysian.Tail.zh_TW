@@ -242,7 +242,7 @@
 		<value>在石碑前按 [UP] 查看最高得分。</value>
 	</data>
 	<data name="blomb" xml:space="preserve">
-		<value>自爆怪在吸氣時非常脆弱。</value>
+		<value>爆彈怪在吸氣時非常脆弱。</value>
 	</data>
 	<data name="damage" xml:space="preserve">
 		<value>你受傷了！介面上的綠條就是你的生命值。
