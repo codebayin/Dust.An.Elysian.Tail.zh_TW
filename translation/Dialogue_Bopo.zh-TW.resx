@@ -349,7 +349,7 @@
 		<value>波普……</value>
 	</data>
 	<data name="265_040" xml:space="preserve">
-		<value>謝謝你，達斯特。沒有你，我們不會有任何一滴水。你拯救了沸泥潭！</value>
+		<value>謝謝你，達斯特。沒有你，我們不會有任何一滴水。你拯救了泥潭村！</value>
 	</data>
 	<data name="265_050" xml:space="preserve">
 		<value>我只希望我能做得更多。</value>
@@ -421,7 +421,7 @@
 		<value>我知道這對你意義重大，波普。</value>
 	</data>
 	<data name="282_020" xml:space="preserve">
-		<value>嗯，我沒有什麼能給的，除了這顆古怪的石頭。它似乎在沸泥潭這裡毫無用處，但看起來很漂亮！拿去，就送給你吧！</value>
+		<value>嗯，我沒有什麼能給的，除了這顆古怪的石頭。它似乎在泥潭村這裡毫無用處，但看起來很漂亮！拿去，就送給你吧！</value>
 	</data>
 	<data name="282_030" xml:space="preserve">
 		<value>謝謝，波普。</value>
@@ -442,6 +442,6 @@
 		<value>好，等我一下……</value>
 	</data>
 	<data name="300_020" xml:space="preserve">
-		<value>太好了，這樣雪應該就不會融化了。如果哪天我們回沸泥潭，我一定會把它交給波普的。</value>
+		<value>太好了，這樣雪應該就不會融化了。如果哪天我們回泥潭村，我一定會把它交給波普的。</value>
 	</data>
 </root>

@@ -199,7 +199,7 @@
 		<value>在你離開前，或許我能報答你將我從瘋狂中解救出來。在北方山脈的底部有一塊廣闊的土地。那片土地的主人是一位叫凱恩的男爵。</value>
 	</data>
 	<data name="242_000" xml:space="preserve">
-		<value>我知道您覺得阻斷水流是做了正確的事，但沸泥潭現在比以往更需要水了。</value>
+		<value>我知道您覺得阻斷水流是做了正確的事，但泥潭村現在比以往更需要水了。</value>
 	</data>
 	<data name="242_030" xml:space="preserve">
 		<value>我已經能感覺到他軍隊的腳步……他們往北方去了，深入山區。</value>
@@ -208,10 +208,10 @@
 		<value>哦！是的，水流！我只希望還來得及……</value>
 	</data>
 	<data name="244_000" xml:space="preserve">
-		<value>抱歉，泰希斯女士，但我們必須趕路了。沸泥潭有個人快死了──</value>
+		<value>抱歉，泰希斯女士，但我們必須趕路了。泥潭村有個人快死了──</value>
 	</data>
 	<data name="244_020" xml:space="preserve">
-		<value>我們沒時間浪費了。有捷徑回沸泥潭嗎？</value>
+		<value>我們沒時間浪費了。有捷徑回泥潭村嗎？</value>
 	</data>
 	<data name="244_010" xml:space="preserve">
 		<value>我現在能感覺到……他的生命力非常微弱。我怎麼能讓這種事發生？我……我到底幹了什麼……？</value>
@@ -229,7 +229,7 @@
 		<value>希望如此，菲基特。再見，泰希斯女士。</value>
 	</data>
 	<data name="250_000" xml:space="preserve">
-		<value>謝謝你，達斯特。拜託，請趕快回沸泥潭。</value>
+		<value>謝謝你，達斯特。拜託，請趕快回泥潭村。</value>
 	</data>
 	<data name="230_130" xml:space="preserve">
 		<value>他帶領大軍橫越這片土地，濫殺無辜，利用我的水給他那充滿仇恨的戰爭賦予活力。我阻斷水流，我就能制止暴力了！</value>
@@ -250,13 +250,13 @@
 		<value>如果他們的死為拯救世界所必須的，那我願意作出如此犧牲。你說的都不重要──個人、家庭、村莊。他們的死，和你的一樣，在大義面前無足輕重。</value>
 	</data>
 	<data name="230_140" xml:space="preserve">
-		<value>但您卻把無辜的人當成罪人一樣懲罰！您在沸泥潭的追隨者沒有水會死的！</value>
+		<value>但您卻把無辜的人當成罪人一樣懲罰！您在泥潭村的追隨者沒有水會死的！</value>
 	</data>
 	<data name="230_090" xml:space="preserve">
 		<value>你，一個地面居民，竟敢質疑我的行為？你以為你是誰？居然命令我放出生命之水？</value>
 	</data>
 	<data name="230_080" xml:space="preserve">
-		<value>泰希斯女士，沸泥潭需要您的幫助。他們有人快死了，但您的治癒之水可以救他一命。</value>
+		<value>泰希斯女士，泥潭村需要您的幫助。他們有人快死了，但您的治癒之水可以救他一命。</value>
 	</data>
 	<data name="230_030" xml:space="preserve">
 		<value>你竟敢闖進我的地盤還敢質疑我？是的，水停止流動了。就是我阻斷水流的！</value>
@@ -265,7 +265,7 @@
 		<value>你是誰？</value>
 	</data>
 	<data name="230_020" xml:space="preserve">
-		<value>我是達斯特，她是菲基特。我們來自沸泥潭，正在尋找人們所稱的「女士」。他們的泉水乾涸了，我是來找出原因的。</value>
+		<value>我是達斯特，她是菲基特。我們來自泥潭村，正在尋找人們所稱的「女士」。他們的泉水乾涸了，我是來找出原因的。</value>
 	</data>
 	<data name="230_070" xml:space="preserve">
 		<value>好吧，達斯特，也許你該調整一下態度？她現在非常生氣。</value>

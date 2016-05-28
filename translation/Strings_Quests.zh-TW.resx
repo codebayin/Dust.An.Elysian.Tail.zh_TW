@@ -223,13 +223,13 @@
 		<value>費爾想用「4個黏液刺」和「4個黏液膜」所提煉出來的化合物來持續強化極光村守衛的護甲。你認為這會有點棘手。</value>
 	</data>
 	<data name="021_000" xml:space="preserve">
-		<value>作為向父親最後的告別，波普請你幫他帶一些雪來。北方的山上有雪，但你需要一些方法將其運回沸泥潭。</value>
+		<value>作為向父親最後的告別，波普請你幫他帶一些雪來。北方的山上有雪，但你需要一些方法將其運回泥潭村。</value>
 	</data>
 	<data name="021_001" xml:space="preserve">
 		<value>你已經獲得了一個冰箱，用它來裝雪效果會很好。</value>
 	</data>
 	<data name="021_002" xml:space="preserve">
-		<value>你已經裝滿了雪。把它交給沸泥潭的波普。</value>
+		<value>你已經裝滿了雪。把它交給泥潭村的波普。</value>
 	</data>
 	<data name="021_003" xml:space="preserve">
 		<value>波普將雪置於父親的墳墓上，履行了曾經對他的承諾。</value>
@@ -244,7 +244,7 @@
 		<value>吉亨請你搜索他農場附近的區域，幫他尋找懷錶。</value>
 	</data>
 	<data name="016_001" xml:space="preserve">
-		<value>你已經湊齊了岩犬牙。帶回去交給沸泥潭的布洛普。</value>
+		<value>你已經湊齊了岩犬牙。帶回去交給泥潭村的布洛普。</value>
 	</data>
 	<data name="016_000" xml:space="preserve">
 		<value>布洛普請你幫他弄來「10顆岩犬牙」，這樣他就能製作一副新的假牙了。</value>
@@ -253,10 +253,10 @@
 		<value>為了替布洛普脆弱的自尊雪恥，你答應他要從住在洞穴的持盾巨魔身上收集「4根巨魔手指」。</value>
 	</data>
 	<data name="014_001" xml:space="preserve">
-		<value>你已經湊齊了巨魔手指。帶回去交給沸泥潭的布洛普，也許他的榮耀能藉此重返。</value>
+		<value>你已經湊齊了巨魔手指。帶回去交給泥潭村的布洛普，也許他的榮耀能藉此重返。</value>
 	</data>
 	<data name="015_000" xml:space="preserve">
-		<value>沸泥潭的絲莫芭普說她一定要得到菲基特。在抗拒要給她真人的同時，你決定去找一個合適的替代品，菲基特外型的布偶是最佳的方案。你最好去找極光村的商店主人求助。</value>
+		<value>泥潭村的絲莫芭普說她一定要得到菲基特。在抗拒要給她真人的同時，你決定去找一個合適的替代品，菲基特外型的布偶是最佳的方案。你最好去找極光村的商店主人求助。</value>
 	</data>
 	<data name="015_001" xml:space="preserve">
 		<value>商店主人同意要做一個菲基特布偶給你，但他需要「2碼布料」、「3團棉花」和「1瓶染料」來完成這項工作。</value>
@@ -265,16 +265,16 @@
 		<value>你已經獲得了所需的材料。極光村的商店主人現在應該能做出菲基特布偶了。</value>
 	</data>
 	<data name="015_003" xml:space="preserve">
-		<value>布偶已經完成了。雖然菲基特的參考圖非常糟糕，但成品做得還算不錯。把布偶交給沸泥潭的絲莫芭普。</value>
+		<value>布偶已經完成了。雖然菲基特的參考圖非常糟糕，但成品做得還算不錯。把布偶交給泥潭村的絲莫芭普。</value>
 	</data>
 	<data name="015_004" xml:space="preserve">
 		<value>絲莫芭普很喜歡那個布偶，作為交換她給了你一個古怪的盒子。</value>
 	</data>
 	<data name="013_000" xml:space="preserve">
-		<value>布洛普的「敲擊棍」掉在了沸泥潭的地底深處。儘快幫他把棍子找回來，這樣他就能繼續敲打東西了。</value>
+		<value>布洛普的「敲擊棍」掉在了泥潭村的地底深處。儘快幫他把棍子找回來，這樣他就能繼續敲打東西了。</value>
 	</data>
 	<data name="013_001" xml:space="preserve">
-		<value>你找回布洛普的敲擊棍了。回去沸泥潭交給他。</value>
+		<value>你找回布洛普的敲擊棍了。回去泥潭村交給他。</value>
 	</data>
 	<data name="013_002" xml:space="preserve">
 		<value>布洛普很興奮能找回棍子。現在他又可以開始東敲西敲了。可惜的是，你一直有個疑問：當初他的棍子為什麼會被藏起來。</value>
@@ -283,13 +283,13 @@
 		<value>芙蘿哈普請你幫她弄來幾撮紅苔蘚，讓她能做飯給辛勞工作的丈夫吃。據說這些苔蘚只生長在陰暗、巨大紅蘑菇的菌傘下。</value>
 	</data>
 	<data name="012_001" xml:space="preserve">
-		<value>你已經採集了幾撮紅苔蘚。帶回去交給沸泥潭的芙蘿哈普。</value>
+		<value>你已經採集了幾撮紅苔蘚。帶回去交給泥潭村的芙蘿哈普。</value>
 	</data>
 	<data name="011_000" xml:space="preserve">
 		<value>老蓋皮請你幫他找回6隻他走丟的綿羊。牠們可能會在洞穴的任何地方。你可以透過牠們烏黑亮麗的羊毛認出牠們的。</value>
 	</data>
 	<data name="011_001" xml:space="preserve">
-		<value>你已經成功地找到了所有走丟的綿羊。把牠們送回到沸泥潭的老蓋皮那裡。</value>
+		<value>你已經成功地找到了所有走丟的綿羊。把牠們送回到泥潭村的老蓋皮那裡。</value>
 	</data>
 	<data name="010_000" xml:space="preserve">
 		<value>極光村的莫斯卡認定你會成為傳奇，一心一意只想得到你的簽名。如果你有一些紙的話……</value>
@@ -388,13 +388,13 @@
 		<value>你在西洛蒙洞穴的深處發現了由沸泥潭構成的小村莊。波普的父親就快要死了，只有一位人稱「女士」的生物才救得了他。探索村莊，找到通往她居所的道路。</value>
 	</data>
 	<data name="000_010" xml:space="preserve">
-		<value>你聽說沸泥潭的地底有一件東西能助你一臂之力。</value>
+		<value>你聽說泥潭村的地底有一件東西能助你一臂之力。</value>
 	</data>
 	<data name="000_011" xml:space="preserve">
-		<value>有了新習得的滑行能力，你現在能往沸泥潭的西邊前進，去尋找「女士」了。</value>
+		<value>有了新習得的滑行能力，你現在能往泥潭村的西邊前進，去尋找「女士」了。</value>
 	</data>
 	<data name="000_012" xml:space="preserve">
-		<value>你和泰希斯女士解決了問題，她已經恢復了礦物水的流動。回去找沸泥潭的波普。</value>
+		<value>你和泰希斯女士解決了問題，她已經恢復了礦物水的流動。回去找泥潭村的波普。</value>
 	</data>
 	<data name="000_013" xml:space="preserve">
 		<value>雖然你成功地讓水再次流動了並拯救了山谷，但你還是沒能救活波普的父親。你現在必須向北前往悲慟荒原，去會見「凱恩男爵」。</value>
