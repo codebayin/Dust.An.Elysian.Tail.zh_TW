@@ -282,7 +282,7 @@
 注意，降低難度可能會喪失通關成就。</value>
 	</data>
 	<data name="ColorBlind" xml:space="preserve">
-		<value>開啟/關閉色盲模式。開啟的時候，菲基特會指示共鳴門的顏色。
+		<value>開啟/關閉色盲模式。開啟的時候，小煩會指示共鳴門的顏色。
 預設 = （關閉）。</value>
 	</data>
 	<data name="AutoLevelTitle" xml:space="preserve">

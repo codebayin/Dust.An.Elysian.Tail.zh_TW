@@ -148,13 +148,13 @@
 		<value>她是誰？</value>
 	</data>
 	<data name="001_070" xml:space="preserve">
-		<value>我？我是菲基特！劍的守護者！</value>
+		<value>我？我是小煩！劍的守護者！</value>
 	</data>
 	<data name="001_Option_2" xml:space="preserve">
 		<value>這到底是什麼劍？</value>
 	</data>
 	<data name="001_Option_1" xml:space="preserve">
-		<value>妳叫菲基特？</value>
+		<value>妳叫小煩？</value>
 	</data>
 	<data name="001_Option_0" xml:space="preserve">
 		<value>我看妳不像是守護者。</value>
@@ -172,7 +172,7 @@
 		<value>我希望當時有人能告訴我這也是工作的一部分。或許他們有說……只是我沒注意？有時的確會這樣。</value>
 	</data>
 	<data name="002_100" xml:space="preserve">
-		<value>抱歉，我想我聽錯了。妳說妳叫菲基特？</value>
+		<value>抱歉，我想我聽錯了。妳說妳叫小煩？</value>
 	</data>
 	<data name="002_110" xml:space="preserve">
 		<value>喂，別說我了！拿了我的劍的人是你！何不說說你叫什麼？</value>
@@ -181,10 +181,10 @@
 		<value>我……啊……</value>
 	</data>
 	<data name="002_130" xml:space="preserve">
-		<value>別激動，菲基特。他叫達斯特，是他把我從沉睡中喚醒的。</value>
+		<value>別激動，小煩。他叫達斯特，是他把我從沉睡中喚醒的。</value>
 	</data>
 	<data name="002_140" xml:space="preserve">
-		<value>那……菲基特，對嗎？</value>
+		<value>那……小煩，對嗎？</value>
 	</data>
 	<data name="002_150" xml:space="preserve">
 		<value>沒錯，是我！你叫達斯特？</value>
@@ -202,7 +202,7 @@
 		<value>好了，好了，說完了吧，但我想差不多是時候讓我把劍送回部族了。</value>
 	</data>
 	<data name="002_230" xml:space="preserve">
-		<value>我不能讓妳帶著劍就離開，菲基特。現在只有它知道我是誰。我甚至不知道我怎麼會在這裡……</value>
+		<value>我不能讓妳帶著劍就離開，小煩。現在只有它知道我是誰。我甚至不知道我怎麼會在這裡……</value>
 	</data>
 	<data name="002_240" xml:space="preserve">
 		<value>哼！好吧，這可是你逼我的！我……我要挑戰你！誰贏，劍就是誰的！</value>
@@ -211,10 +211,10 @@
 		<value>夠了。</value>
 	</data>
 	<data name="003_100" xml:space="preserve">
-		<value>我沒有閒功夫陪妳玩，菲基特。</value>
+		<value>我沒有閒功夫陪妳玩，小煩。</value>
 	</data>
 	<data name="003_110" xml:space="preserve">
-		<value>確實。時間寶貴。菲基特，妳得加入我們。</value>
+		<value>確實。時間寶貴。小煩，妳得加入我們。</value>
 	</data>
 	<data name="003_120" xml:space="preserve">
 		<value>我嗎？哦，嗯，好吧。</value>
@@ -244,13 +244,13 @@
 		<value>然後你就會把劍還給我了嗎？我真真真的得在別人發現它不見之前放回去！</value>
 	</data>
 	<data name="003_060" xml:space="preserve">
-		<value>等我搞清楚我應該拿它做什麼之後，我就還給妳，菲基特。來吧，出發囉。</value>
+		<value>等我搞清楚我應該拿它做什麼之後，我就還給妳，小煩。來吧，出發囉。</value>
 	</data>
 	<data name="015_000" xml:space="preserve">
 		<value>嗯……</value>
 	</data>
 	<data name="015_010" xml:space="preserve">
-		<value>怎麼了，菲基特？</value>
+		<value>怎麼了，小煩？</value>
 	</data>
 	<data name="015_020" xml:space="preserve">
 		<value>這個嘛，我們種族有一種你們稱為第六感的能力，我感覺到前面有什麼東西！</value>
@@ -274,7 +274,7 @@
 		<value>啊啊啊！！有怪物！</value>
 	</data>
 	<data name="005_010" xml:space="preserve">
-		<value>冷靜點，菲基特。達斯特，集中精神！記住你目前所學的。</value>
+		<value>冷靜點，小煩。達斯特，集中精神！記住你目前所學的。</value>
 	</data>
 	<data name="005_020" xml:space="preserve">
 		<value>不、不！狂按按鈕！做點什麼啊！！</value>
@@ -304,7 +304,7 @@
 		<value>然後我們就安全了，對吧？不再有怪物了？</value>
 	</data>
 	<data name="006_080" xml:space="preserve">
-		<value>菲基特，我想事情正變得越來越糟。</value>
+		<value>小煩，我想事情正變得越來越糟。</value>
 	</data>
 	<data name="006_090" xml:space="preserve">
 		<value>仔細想想，這個早晨還真是個不錯的開始！</value>
@@ -334,13 +334,13 @@
 		<value>哼！好吧，也許我還是保留其餘的招式為妙。</value>
 	</data>
 	<data name="012_020" xml:space="preserve">
-		<value>抱歉，菲基特。我相信它會有用的。</value>
+		<value>抱歉，小煩。我相信它會有用的。</value>
 	</data>
 	<data name="012_030" xml:space="preserve">
 		<value>事實上，達斯特，對我們三個來說，這可能會非常有用。</value>
 	</data>
 	<data name="012_040" xml:space="preserve">
-		<value>沙塵暴能使菲基特的魔彈變成更強大的攻擊。看好了：</value>
+		<value>沙塵暴能使小煩的魔彈變成更強大的攻擊。看好了：</value>
 	</data>
 	<data name="013_000" xml:space="preserve">
 		<value>哇哦！</value>
@@ -349,7 +349,7 @@
 		<value>哦，對了，每次我使用自己的力量時，都會耗費一些能量。你可以利用近戰連擊來恢復能量。</value>
 	</data>
 	<data name="013_020" xml:space="preserve">
-		<value>沒錯，達斯特──配合你的連擊和菲基特的力量，你能達成更高的連擊數，那個會讓你在每場戰鬥後獲得更多經驗。</value>
+		<value>沒錯，達斯特──配合你的連擊和小煩的力量，你能達成更高的連擊數，那個會讓你在每場戰鬥後獲得更多經驗。</value>
 	</data>
 	<data name="013_030" xml:space="preserve">
 		<value>不過，如果你被敵人擊中，連擊就會中斷，你也會失去額外的經驗。</value>
@@ -361,7 +361,7 @@
 		<value>如果這對你來說太過複雜，你可以按 [START] 打開暫停選單來查看說明。</value>
 	</data>
 	<data name="013_060" xml:space="preserve">
-		<value>謝謝妳，菲基特。如果我遇到麻煩的話會看一看的。</value>
+		<value>謝謝妳，小煩。如果我遇到麻煩的話會看一看的。</value>
 	</data>
 	<data name="028_000" xml:space="preserve">
 		<value>喂，你剛剛升級了！</value>
@@ -400,7 +400,7 @@
 		<value>噢，我真糊塗！追著那把到處亂飛的劍的時候，我似乎把所有的地圖和導航裝備弄丟了。</value>
 	</data>
 	<data name="020_050" xml:space="preserve">
-		<value>抱歉，害妳卷了進來，菲基特。</value>
+		<value>抱歉，害妳卷了進來，小煩。</value>
 	</data>
 	<data name="020_060" xml:space="preserve">
 		<value>哎，的確！拿了我的劍，害我陷入麻煩……</value>
@@ -502,7 +502,7 @@
 		<value>去問問他們有沒有吃的。</value>
 	</data>
 	<data name="039_020" xml:space="preserve">
-		<value>我們在趕時間，菲基特。別擔心，等會我會餵妳的。</value>
+		<value>我們在趕時間，小煩。別擔心，等會我會餵妳的。</value>
 	</data>
 	<data name="039_030" xml:space="preserve">
 		<value>喂，人家才不是寵物！不過，呃……感謝你，謝謝。</value>
@@ -532,7 +532,7 @@
 		<value>使出渾身解數吧，達斯特。消滅這群邪惡的生物。</value>
 	</data>
 	<data name="050_000" xml:space="preserve">
-		<value>探礦者？菲基特，那就是妳能想到的？</value>
+		<value>探礦者？小煩，那就是妳能想到的？</value>
 	</data>
 	<data name="050_010" xml:space="preserve">
 		<value>我靈光乍現的就是那個啊！你又沒有更好的想法。快點，我們快離開這些守衛。</value>
@@ -553,7 +553,7 @@
 		<value>或許我們應該四處看看？如果你真的來過這裡，也許有人會認得你！</value>
 	</data>
 	<data name="050_100" xml:space="preserve">
-		<value>好主意，菲基特。我們去見見村民吧。我相信你的下一段旅程遲早會出現的。</value>
+		<value>好主意，小煩。我們去見見村民吧。我相信你的下一段旅程遲早會出現的。</value>
 	</data>
 	<data name="050_110" xml:space="preserve">
 		<value>好吧。但這裡……這裡有東西讓我感到很不安。就像暴風雨前的寧靜。</value>
@@ -583,7 +583,7 @@
 		<value>喂，冷靜，達斯特！她只是情緒低落。</value>
 	</data>
 	<data name="065_030" xml:space="preserve">
-		<value>我……我不知道我為什麼這麼說。對不起，菲基特，我……我不知道我剛才是怎麼了。走吧，繼續前進。</value>
+		<value>我……我不知道我為什麼這麼說。對不起，小煩，我……我不知道我剛才是怎麼了。走吧，繼續前進。</value>
 	</data>
 	<data name="075_000" xml:space="preserve">
 		<value>你有聽到什麼在……拍打翅膀嗎？</value>
@@ -613,19 +613,19 @@
 		<value>太出乎意料了。你知道為什麼嗎？</value>
 	</data>
 	<data name="073_010" xml:space="preserve">
-		<value>我不知道，菲基特。為什麼？</value>
+		<value>我不知道，小煩。為什麼？</value>
 	</data>
 	<data name="073_020" xml:space="preserve">
 		<value>噢，別這麼遲鈍。當然是因為她喜歡你啊！</value>
 	</data>
 	<data name="073_030" xml:space="preserve">
-		<value>菲基特，妳在說什麼啊？</value>
+		<value>小煩，妳在說什麼啊？</value>
 	</data>
 	<data name="073_040" xml:space="preserve">
 		<value>你沒看見信號嗎？她一直對你放電呢！</value>
 	</data>
 	<data name="073_050" xml:space="preserve">
-		<value>那可太好了，菲基特。真的，我會記住的。</value>
+		<value>那可太好了，小煩。真的，我會記住的。</value>
 	</data>
 	<data name="080_000" xml:space="preserve">
 		<value>終於，我們總算走出洞穴了。</value>
@@ -643,13 +643,13 @@
 		<value>哦，是嗎？我一定是忘了！就像你忘了我隨時都可能會掉下來耶！</value>
 	</data>
 	<data name="080_050" xml:space="preserve">
-		<value>我倒是沒想過。妳真是個有趣的傢伙，菲基特。</value>
+		<value>我倒是沒想過。妳真是個有趣的傢伙，小煩。</value>
 	</data>
 	<data name="315_010" xml:space="preserve">
 		<value>嗯嗯！唔嗯嗯！</value>
 	</data>
 	<data name="315_000" xml:space="preserve">
-		<value>菲基特？怎麼了？</value>
+		<value>小煩？怎麼了？</value>
 	</data>
 	<data name="315_020" xml:space="preserve">
 		<value>她被沉默了，達斯特！在這種狀態下，她無法射出魔彈。幸運的是，這種效果只是暫時的，過段時間就會消失了。</value>
@@ -658,7 +658,7 @@
 		<value>嗚嗯嗯……</value>
 	</data>
 	<data name="315_030" xml:space="preserve">
-		<value>你是說菲基特現在不能說話了？完全不能？太……太糟糕了。真的，糟透了。我該如何是好啊。</value>
+		<value>你是說小煩現在不能說話了？完全不能？太……太糟糕了。真的，糟透了。我該如何是好啊。</value>
 	</data>
 	<data name="082_000" xml:space="preserve">
 		<value>我們肯定快到了。</value>
@@ -688,7 +688,7 @@
 		<value>嗚嗚，我實在不想看到這種……</value>
 	</data>
 	<data name="090_010" xml:space="preserve">
-		<value>我們終於到了，菲基特。跟緊我妳就不會有事的。阿拉，你看見了什麼？有東西嗎？</value>
+		<value>我們終於到了，小煩。跟緊我妳就不會有事的。阿拉，你看見了什麼？有東西嗎？</value>
 	</data>
 	<data name="090_020" xml:space="preserve">
 		<value>又一個擋在你面前的敵人，但這傢伙……</value>
@@ -775,7 +775,7 @@
 		<value>我們辦到了。</value>
 	</data>
 	<data name="105_010" xml:space="preserve">
-		<value>他知道我是誰，菲基特。他之前見過我。要是他能再活久一點就好了……要是我能設法救活他就好了……</value>
+		<value>他知道我是誰，小煩。他之前見過我。要是他能再活久一點就好了……要是我能設法救活他就好了……</value>
 	</data>
 	<data name="105_020" xml:space="preserve">
 		<value>如你所見，村裡到處是屍體，那不會是個好主意。</value>
@@ -805,7 +805,7 @@
 		<value>有些人就是難以取悅。</value>
 	</data>
 	<data name="110_070" xml:space="preserve">
-		<value>那是英勇的舉動，菲基特。</value>
+		<value>那是英勇的舉動，小煩。</value>
 	</data>
 	<data name="112_000" xml:space="preserve">
 		<value>這些都是什麼啊？</value>
@@ -862,7 +862,7 @@
 		<value>我搞不懂！為什麼大家都想要幫助那可怕的蜥蜴怪物呢？那個叫火種的傢伙燒了整座村莊耶！</value>
 	</data>
 	<data name="121_010" xml:space="preserve">
-		<value>妳還不懂嗎，菲基特？他不是天生就那樣的，是蓋厄斯將軍和他的部下把他變成了那種怪物。</value>
+		<value>妳還不懂嗎，小煩？他不是天生就那樣的，是蓋厄斯將軍和他的部下把他變成了那種怪物。</value>
 	</data>
 	<data name="121_020" xml:space="preserve">
 		<value>而且火種可能也不是唯一一個被蓋厄斯將軍對月血族的憎恨而墮化的人。我們應該再跟娟潔談談，以進一步了解這場鬥爭。</value>
@@ -883,13 +883,13 @@
 		<value>吶吶吶！我看到前面有東西在動！你有看到嗎！？</value>
 	</data>
 	<data name="140_010" xml:space="preserve">
-		<value>菲基特，冷靜點。妳不是說妳不怕黑嗎？</value>
+		<value>小煩，冷靜點。妳不是說妳不怕黑嗎？</value>
 	</data>
 	<data name="140_020" xml:space="preserve">
 		<value>我是不怕黑！我只是怕黑暗中潛伏的東西！</value>
 	</data>
 	<data name="140_030" xml:space="preserve">
-		<value>我什麼都沒看到，菲基特。</value>
+		<value>我什麼都沒看到，小煩。</value>
 	</data>
 	<data name="140_040" xml:space="preserve">
 		<value>那頂大斗笠把你的眼睛都遮住了，在這裡你怎麼可能還看得到東西？我討厭洞穴！我們種族不是為了穴居而生的。我們應該翱翔在寬廣的高空。</value>
@@ -1003,7 +1003,7 @@
 		<value>別管他了！注意一下四周！這些蘑菇裡面有怪怪的東西。</value>
 	</data>
 	<data name="161_020" xml:space="preserve">
-		<value>這些不是蘑菇，菲基特。它們被稱為泡泡芽，而且聰明的話，最好是小心繞過它們。震動容易引起它們爆炸。</value>
+		<value>這些不是蘑菇，小煩。它們被稱為泡泡芽，而且聰明的話，最好是小心繞過它們。震動容易引起它們爆炸。</value>
 	</data>
 	<data name="161_030" xml:space="preserve">
 		<value>太妙了。</value>
@@ -1060,7 +1060,7 @@
 		<value>我們會趕上的！必須得趕上！該做的我們都做了！</value>
 	</data>
 	<data name="245_040" xml:space="preserve">
-		<value>這個世界還有很多妳需要學習的，菲基特。有些時候，即使妳竭盡所能，也無法阻止宿命的發生。來吧，我們趕快回村吧。</value>
+		<value>這個世界還有很多妳需要學習的，小煩。有些時候，即使妳竭盡所能，也無法阻止宿命的發生。來吧，我們趕快回村吧。</value>
 	</data>
 	<data name="190_000" xml:space="preserve">
 		<value>他睡得很安詳。我們別打擾他吧。</value>
@@ -1078,13 +1078,13 @@
 		<value>悲慟荒原？是那個介於血死峽谷和永痛之丘之間的地方？</value>
 	</data>
 	<data name="266_150" xml:space="preserve">
-		<value>它原本不叫那個名字，菲基特。它曾經是個平靜的地方，但現在，即使我們離它這麼遠，我還能感覺到它散發出來的邪惡。</value>
+		<value>它原本不叫那個名字，小煩。它曾經是個平靜的地方，但現在，即使我們離它這麼遠，我還能感覺到它散發出來的邪惡。</value>
 	</data>
 	<data name="266_160" xml:space="preserve">
 		<value>好吧，太棒啦。真的，我好興奮。你呢，達斯特？你興奮嗎？</value>
 	</data>
 	<data name="266_170" xml:space="preserve">
-		<value>我只有點興奮，菲基特。來吧，我們回地面吧。</value>
+		<value>我只有點興奮，小煩。來吧，我們回地面吧。</value>
 	</data>
 	<data name="605_000" xml:space="preserve">
 		<value>蓋厄斯將軍？您找我？</value>
@@ -1153,7 +1153,7 @@
 		<value>啊……喂……</value>
 	</data>
 	<data name="412_000" xml:space="preserve">
-		<value>菲基特！</value>
+		<value>小煩！</value>
 	</data>
 	<data name="420_000" xml:space="preserve">
 		<value>嗯，我看到上面有條路，但沒有幫助我夠不到那些壁緣。</value>
@@ -1168,7 +1168,7 @@
 		<value>小氣鬼。</value>
 	</data>
 	<data name="426_020" xml:space="preserve">
-		<value>別退縮，菲基特。</value>
+		<value>別退縮，小煩。</value>
 	</data>
 	<data name="440_000" xml:space="preserve">
 		<value>對不起，達斯特，我覺得你就算二段跳也過不去了。愚蠢的雪崩把一切都毀了！你說說看，這雪崩有幹過什麼好事嗎？</value>
@@ -1213,7 +1213,7 @@
 		<value>那顯然還不夠。我們需要打碎更多柱子！</value>
 	</data>
 	<data name="442_040" xml:space="preserve">
-		<value>菲基特，我覺得寒冷已經開始讓妳神智不清了。</value>
+		<value>小煩，我覺得寒冷已經開始讓妳神智不清了。</value>
 	</data>
 	<data name="442_050" xml:space="preserve">
 		<value>真可笑！我完全……完全……哈啾！</value>
@@ -1237,7 +1237,7 @@
 		<value>還不夠！要清掉那些雪我們還需要找到更多柱子！</value>
 	</data>
 	<data name="450_040" xml:space="preserve">
-		<value>我們真的應該給妳找個溫暖的地方，菲基特。我覺得妳快病倒了。</value>
+		<value>我們真的應該給妳找個溫暖的地方，小煩。我覺得妳快病倒了。</value>
 	</data>
 	<data name="450_050" xml:space="preserve">
 		<value>絕不！</value>
@@ -1246,13 +1246,13 @@
 		<value>那……真是美妙的歌聲。</value>
 	</data>
 	<data name="465_010" xml:space="preserve">
-		<value>停下來，菲基特。停下來。</value>
+		<value>停下來，小煩。停下來。</value>
 	</data>
 	<data name="465_020" xml:space="preserve">
 		<value>唉……我覺得我快病倒了。</value>
 	</data>
 	<data name="465_030" xml:space="preserve">
-		<value>是的，菲基特。我們只能靠自己了。走吧，達斯特，繼續前進。</value>
+		<value>是的，小煩。我們只能靠自己了。走吧，達斯特，繼續前進。</value>
 	</data>
 	<data name="470_000" xml:space="preserve">
 		<value>哦，哇！那真有效！快點，我們快回洞外吧！</value>
@@ -1516,7 +1516,7 @@
 		<value>等等！你們怎麼會認識對方？我們部族已經把劍藏了兩百多年了！！</value>
 	</data>
 	<data name="505_130" xml:space="preserve">
-		<value>灰眼大師活了很久了，菲基特。比你們任何人都久。</value>
+		<value>灰眼大師活了很久了，小煩。比你們任何人都久。</value>
 	</data>
 	<data name="505_140" xml:space="preserve">
 		<value>所以你是被派來監視我的？</value>
@@ -1555,7 +1555,7 @@
 		<value>不，我好得很！快點，我們去爆炸山脈吧！不騙你，我是認真的！</value>
 	</data>
 	<data name="506_100" xml:space="preserve">
-		<value>菲基特，妳應該對我要更有信心。</value>
+		<value>小煩，妳應該對我要更有信心。</value>
 	</data>
 	<data name="506_110" xml:space="preserve">
 		<value>你對自己有信心，我才會對你有信心！如何？說說看，你是誰？</value>
@@ -1588,22 +1588,22 @@
 		<value>你看吧！？你還是沒弄明白。蜥蜴長老都當面告訴你了，可你還是不了解！</value>
 	</data>
 	<data name="507_020" xml:space="preserve">
-		<value>菲基特，請冷靜。妳不該這樣測試妳的朋友。</value>
+		<value>小煩，請冷靜。妳不該這樣測試妳的朋友。</value>
 	</data>
 	<data name="507_040" xml:space="preserve">
-		<value>我明白，菲基特。妳說得對。我不能要求妳跟著我。</value>
+		<value>我明白，小煩。妳說得對。我不能要求妳跟著我。</value>
 	</data>
 	<data name="507_030" xml:space="preserve">
 		<value>我只是……如果我將跟著你到世界的盡頭，我得知道我跟隨的是誰，還有跟隨的理由。</value>
 	</data>
 	<data name="507_050" xml:space="preserve">
-		<value>但是我能。菲基特，這整個旅途上妳都在達斯特的身旁。妳目睹了他拯救這個世界。妳怎麼還能繼續質疑下去呢？</value>
+		<value>但是我能。小煩，這整個旅途上妳都在達斯特的身旁。妳目睹了他拯救這個世界。妳怎麼還能繼續質疑下去呢？</value>
 	</data>
 	<data name="507_060" xml:space="preserve">
 		<value>我只是不明白。我根本不在乎他認為自己是誰──他就是達斯特。這就是他。這就是我認識的他。</value>
 	</data>
 	<data name="507_070" xml:space="preserve">
-		<value>菲基特，拜託……我不能沒有妳。</value>
+		<value>小煩，拜託……我不能沒有妳。</value>
 	</data>
 	<data name="507_080" xml:space="preserve">
 		<value>……你能，呃……你能再說一遍嗎？</value>
@@ -1657,10 +1657,10 @@
 		<value>我感覺到這個裝置沒有能量散發出來，達斯特。或許有讓它恢復發電的辦法？</value>
 	</data>
 	<data name="551_000" xml:space="preserve">
-		<value>做得好，菲基特。營地現在應該有電了。</value>
+		<value>做得好，小煩。營地現在應該有電了。</value>
 	</data>
 	<data name="551_010" xml:space="preserve">
-		<value>坦白說，菲基特，沒有妳我會在哪裡呢？</value>
+		<value>坦白說，小煩，沒有妳我會在哪裡呢？</value>
 	</data>
 	<data name="551_030" xml:space="preserve">
 		<value>等等，什麼？</value>
@@ -1678,7 +1678,7 @@
 		<value>我不想冒著弄壞抽水機的風險砍掉藤蔓。或許我們能想辦法燒掉它們？</value>
 	</data>
 	<data name="553_000" xml:space="preserve">
-		<value>太好了，似乎是修好了！幹得好，菲基特！</value>
+		<value>太好了，似乎是修好了！幹得好，小煩！</value>
 	</data>
 	<data name="553_010" xml:space="preserve">
 		<value>噢，別說了。你說得我臉都紅了！</value>
@@ -1720,7 +1720,7 @@
 		<value>唔，那完全沒道理啊！</value>
 	</data>
 	<data name="430_010" xml:space="preserve">
-		<value>每一刻都有其意義，菲基特。妳只需要深入探索。</value>
+		<value>每一刻都有其意義，小煩。妳只需要深入探索。</value>
 	</data>
 	<data name="650_000" xml:space="preserve">
 		<value>啊，聖．米斯拉林──</value>
@@ -1795,7 +1795,7 @@
 		<value>是的，而你執行了命令。放下你的劍，老朋友。我們先徹底剷除這些月血族人，然後我再幫你除掉那些腐化你心靈的幻想！</value>
 	</data>
 	<data name="700_180" xml:space="preserve">
-		<value>那才是最重要的！那些人全是被我殺的，菲基特……我怎麼可能在短短幾天內救贖自己？</value>
+		<value>那才是最重要的！那些人全是被我殺的，小煩……我怎麼可能在短短幾天內救贖自己？</value>
 	</data>
 	<data name="700_190" xml:space="preserve">
 		<value>你不能，達斯特。這從來就不是為了救贖卡西斯。但話說回來，你也不是卡西斯。</value>
@@ -1810,7 +1810,7 @@
 		<value>妳為什麼一直這麼說！？</value>
 	</data>
 	<data name="910_030" xml:space="preserve">
-		<value>別激動，菲基特。他叫達斯特，是他把我從沉睡中喚醒的。</value>
+		<value>別激動，小煩。他叫達斯特，是他把我從沉睡中喚醒的。</value>
 	</data>
 	<data name="910_020" xml:space="preserve">
 		<value>喂，別說我了！拿了我的劍的人是你！何不說說你叫什麼？</value>
@@ -1825,7 +1825,7 @@
 		<value>沒錯，是我！你叫達斯特？</value>
 	</data>
 	<data name="910_040" xml:space="preserve">
-		<value>那……菲基特，對嗎？</value>
+		<value>那……小煩，對嗎？</value>
 	</data>
 	<data name="910_000" xml:space="preserve">
 		<value>呼、呼……別……別跑！</value>
@@ -1837,19 +1837,19 @@
 		<value>哼！好吧，這可是你逼我的！我……我要挑戰你！誰贏，劍就是誰的！</value>
 	</data>
 	<data name="910_080" xml:space="preserve">
-		<value>我不能讓妳帶著劍就離開，菲基特。現在只有它知道我是誰。我甚至不知道我怎麼會在這裡……</value>
+		<value>我不能讓妳帶著劍就離開，小煩。現在只有它知道我是誰。我甚至不知道我怎麼會在這裡……</value>
 	</data>
 	<data name="910_130" xml:space="preserve">
 		<value>來吧，達斯特。我們向東前進。</value>
 	</data>
 	<data name="910_110" xml:space="preserve">
-		<value>確實。時間寶貴。菲基特，妳得加入我們。</value>
+		<value>確實。時間寶貴。小煩，妳得加入我們。</value>
 	</data>
 	<data name="910_120" xml:space="preserve">
 		<value>我嗎？哦，嗯，好吧。</value>
 	</data>
 	<data name="910_100" xml:space="preserve">
-		<value>我沒有閒功夫陪妳玩，菲基特。</value>
+		<value>我沒有閒功夫陪妳玩，小煩。</value>
 	</data>
 	<data name="700_230" xml:space="preserve">
 		<value>因為你不只是卡西斯！京並沒有殺那些人！京拯救了極光村和泥潭村！京阻止了火種，拯救了忒媞斯神女，而現在他是唯一能對抗蓋厄斯將軍的人！</value>
@@ -1858,7 +1858,7 @@
 		<value>卡西斯會剷除月血族，可是京……他會保護他們。</value>
 	</data>
 	<data name="700_250" xml:space="preserve">
-		<value>不，菲基特。妳錯了……那些事沒有一件是京做的。</value>
+		<value>不，小煩。妳錯了……那些事沒有一件是京做的。</value>
 	</data>
 	<data name="700_260" xml:space="preserve">
 		<value>你終於醒悟過來了？</value>
@@ -1894,13 +1894,13 @@
 		<value>就在這裡做個了結吧，蓋厄斯！</value>
 	</data>
 	<data name="900_000" xml:space="preserve">
-		<value>等一下，菲基特。我們的路被堵住了，無法再前進了。</value>
+		<value>等一下，小煩。我們的路被堵住了，無法再前進了。</value>
 	</data>
 	<data name="900_010" xml:space="preserve">
 		<value>什麼，那扇門？撞開它啊！用你的旋轉大法！或用無剪輯作弊！</value>
 	</data>
 	<data name="900_020" xml:space="preserve">
-		<value>不，菲基特，這是試玩版的終點。如果要繼續冒險的話，我們需要買完整版。</value>
+		<value>不，小煩，這是試玩版的終點。如果要繼續冒險的話，我們需要買完整版。</value>
 	</data>
 	<data name="900_030" xml:space="preserve">
 		<value>哦！好吧，感謝試玩！解鎖完整版來體驗遊戲劇情……冒險……還有……呃，你知道的！希望很快能再見到你！</value>

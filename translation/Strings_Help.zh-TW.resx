@@ -186,10 +186,10 @@
 在這裡你可以查看進行中和已完成的任務，以及撿到的筆記。</value>
 	</data>
 	<data name="machinehint" xml:space="preserve">
-		<value>也許菲基特能幫忙。</value>
+		<value>也許小煩能幫忙。</value>
 	</data>
 	<data name="pctreasure" xml:space="preserve">
-		<value>如果附近有寶藏，菲基特會提醒你。
+		<value>如果附近有寶藏，小煩會提醒你。
 按 [MAP] 查看地圖。</value>
 	</data>
 	<data name="pcunlocking" xml:space="preserve">
@@ -295,7 +295,7 @@
 		<value>某些牆壁可以破壞。睜大眼睛尋找埋藏的寶藏吧！</value>
 	</data>
 	<data name="treasure" xml:space="preserve">
-		<value>如果附近有寶藏，菲基特會提醒你。
+		<value>如果附近有寶藏，小煩會提醒你。
 壓下 [RTHUMB] 查看地圖。</value>
 	</data>
 	<data name="triallocked" xml:space="preserve">
@@ -367,8 +367,8 @@
 按 [B] 射出魔彈，然後立即按住 [Y] 施展沙塵暴。</value>
 	</data>
 	<data name="upgrade01" xml:space="preserve">
-		<value>菲基特習得了新型魔彈！
-按 [RB] 循環切換菲基特可用的魔彈類型。</value>
+		<value>小煩習得了新型魔彈！
+按 [RB] 循環切換小煩可用的魔彈類型。</value>
 	</data>
 	<data name="upgrade12" xml:space="preserve">
 		<value>習得空中沙塵暴！

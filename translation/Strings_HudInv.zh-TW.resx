@@ -136,7 +136,7 @@
 		<value>防禦</value>
 	</data>
 	<data name="CharStatName3" xml:space="preserve">
-		<value>菲基特</value>
+		<value>小煩</value>
 	</data>
 	<data name="CharStatName4" xml:space="preserve">
 		<value>幸運</value>
@@ -172,7 +172,7 @@
 		<value>防禦</value>
 	</data>
 	<data name="EquipStatName3" xml:space="preserve">
-		<value>菲基特</value>
+		<value>小煩</value>
 	</data>
 	<data name="EquipStatName4" xml:space="preserve">
 		<value>幸運</value>
@@ -379,6 +379,6 @@
 		<value>基本防禦力能降低敵人和危險物所造成的傷害。</value>
 	</data>
 	<data name="CharStat3Desc" xml:space="preserve">
-		<value>這能決定菲基特魔彈和沙塵暴的威力。</value>
+		<value>這能決定小煩魔彈和沙塵暴的威力。</value>
 	</data>
 </root>
