@@ -301,7 +301,7 @@
 		<value>請你們兩個，不用擔心我。</value>
 	</data>
 	<data name="010_010" xml:space="preserve">
-		<value>京？哦……達斯特。是你。</value>
+		<value>靖？哦……達斯特。是你。</value>
 	</data>
 	<data name="010_020" xml:space="preserve">
 		<value>是的，是我。妳還好嗎？</value>
@@ -310,7 +310,7 @@
 		<value>我很好。只是有很多事要想一想。</value>
 	</data>
 	<data name="010_Option_0" xml:space="preserve">
-		<value>達斯特和京。</value>
+		<value>達斯特和靖。</value>
 	</data>
 	<data name="010_Option_1" xml:space="preserve">
 		<value>嗯，請保重。</value>
@@ -319,7 +319,7 @@
 		<value>嗯？</value>
 	</data>
 	<data name="011_000" xml:space="preserve">
-		<value>聽我說，關於京……</value>
+		<value>聽我說，關於靖……</value>
 	</data>
 	<data name="011_020" xml:space="preserve">
 		<value>他是什麼樣的人？</value>
@@ -370,7 +370,7 @@
 		<value>很抱歉事情會變成這樣。</value>
 	</data>
 	<data name="017_050" xml:space="preserve">
-		<value>不，你沒錯。我們都選擇了自己的路。京選擇了他的，看看現在的你，看看你做的事，我認為他作了正確的選擇。</value>
+		<value>不，你沒錯。我們都選擇了自己的路。靖選擇了他的，看看現在的你，看看你做的事，我認為他作了正確的選擇。</value>
 	</data>
 	<data name="017_060" xml:space="preserve">
 		<value>我也這麼認為，娟潔。</value>
@@ -397,13 +397,13 @@
 		<value>好的……你也是。</value>
 	</data>
 	<data name="011_Option_0" xml:space="preserve">
-		<value>我確信京也參與了這些。</value>
+		<value>我確信靖也參與了這些。</value>
 	</data>
 	<data name="013_000" xml:space="preserve">
-		<value>阿拉總是在考驗我。每當我作出決定，它都會告訴我是不是正確的選擇。無論我選擇接受京或是卡西斯。我相信他們都在試圖影響我的行為。</value>
+		<value>阿拉總是在考驗我。每當我作出決定，它都會告訴我是不是正確的選擇。無論我選擇接受靖或是卡西斯。我相信他們都在試圖影響我的行為。</value>
 	</data>
 	<data name="013_010" xml:space="preserve">
-		<value>而你接受了京。</value>
+		<value>而你接受了靖。</value>
 	</data>
 	<data name="013_020" xml:space="preserve">
 		<value>是的……他是個難以忽視的人。</value>
@@ -421,13 +421,13 @@
 		<value>他已經走了，娟潔。</value>
 	</data>
 	<data name="015_000" xml:space="preserve">
-		<value>不，娟潔，我想妳前面那句是對的。我認為京透過我的行動持續活著。他引導我，讓我不偏離正道。</value>
+		<value>不，娟潔，我想妳前面那句是對的。我認為靖透過我的行動持續活著。他引導我，讓我不偏離正道。</value>
 	</data>
 	<data name="015_010" xml:space="preserve">
 		<value>但你的另一半呢？卡西斯殺了我的家人，達斯特。他摧毀了我的村莊，殺害我的朋友。你怎麼有辦法控制如此可怕的存在？</value>
 	</data>
 	<data name="015_020" xml:space="preserve">
-		<value>每當我揮動阿拉之劍，我都能感覺到他的存在。我相信長老說得對──沒有他，我早就被幹掉了，另一方面……京也不停地阻止他奪得掌控權。</value>
+		<value>每當我揮動阿拉之劍，我都能感覺到他的存在。我相信長老說得對──沒有他，我早就被幹掉了，另一方面……靖也不停地阻止他奪得掌控權。</value>
 	</data>
 	<data name="015_030" xml:space="preserve">
 		<value>只要卡西斯活在你的體內，即使……總是有危險的。你很可能會被引入邪道的。</value>
@@ -454,13 +454,13 @@
 		<value>娟潔，妳真的必須放下了。我希望我能代替他，我願意，但……</value>
 	</data>
 	<data name="016_010" xml:space="preserve">
-		<value>不，你說得對。我必須接受京作了自己的選擇，並促使了此刻的我們。</value>
+		<value>不，你說得對。我必須接受靖作了自己的選擇，並促使了此刻的我們。</value>
 	</data>
 	<data name="016_030" xml:space="preserve">
 		<value>聽起來你對自己是誰還有很多的疑問。</value>
 	</data>
 	<data name="016_020" xml:space="preserve">
-		<value>我只希望我能記得更多。有時我都不知道我的想法到底是京的……還是卡西斯的……或者是我自己的。</value>
+		<value>我只希望我能記得更多。有時我都不知道我的想法到底是靖的……還是卡西斯的……或者是我自己的。</value>
 	</data>
 	<data name="016_050" xml:space="preserve">
 		<value>我想是吧。好了，我可能得出發了。</value>
