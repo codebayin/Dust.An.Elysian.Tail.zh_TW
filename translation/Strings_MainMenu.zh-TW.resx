@@ -151,7 +151,7 @@
 		<value>[X] 離開遊戲</value>
 	</data>
 	<data name="UpsellControls" xml:space="preserve">
-		<value>[A] 解鎖《塵埃：幸福的軌跡》！
+		<value>[A] 解鎖《塵埃：幸福的尾巴》！
 [B] 返回主選單     [Y] 觀看預告片</value>
 	</data>
 	<data name="QuitNo" xml:space="preserve">
@@ -300,7 +300,7 @@
 		<value>開始新的遊戲，繼續之前的進度，或者管理存檔。</value>
 	</data>
 	<data name="Main0Desc2" xml:space="preserve">
-		<value>開始新的試玩，《塵埃：幸福的軌跡》初體驗。</value>
+		<value>開始新的試玩，《塵埃：幸福的尾巴》初體驗。</value>
 	</data>
 	<data name="Main2Desc" xml:space="preserve">
 		<value>了解如何進行遊戲，調整遊戲設定和介面設定。</value>
@@ -312,7 +312,7 @@
 		<value>你的玩家檔案沒有權限使用Xbox LIVE功能。</value>
 	</data>
 	<data name="SaveHelp" xml:space="preserve">
-		<value>《塵埃：幸福的軌跡》除了手動存檔，也支援自動存檔。
+		<value>《塵埃：幸福的尾巴》除了手動存檔，也支援自動存檔。
 
 請注意，開始新遊戲或載入遊戲將會覆蓋自動存檔。</value>
 	</data>

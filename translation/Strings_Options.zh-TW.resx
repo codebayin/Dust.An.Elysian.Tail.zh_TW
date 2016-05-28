@@ -273,7 +273,7 @@
 		<value>按滑鼠左鍵或Enter鍵以指定按鍵，或者按Delete鍵以清除選中的動作。</value>
 	</data>
 	<data name="PCControls" xml:space="preserve">
-		<value>《塵埃：幸福的軌跡》會動態偵測你的輸入方式，並顯示相應的介面。</value>
+		<value>《塵埃：幸福的尾巴》會動態偵測你的輸入方式，並顯示相應的介面。</value>
 	</data>
 	<data name="DifficultyChange" xml:space="preserve">
 		<value>變更目前的難度設定。
