@@ -118,10 +118,10 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="003_000" xml:space="preserve">
-		<value>我愛我的娃娃！我愛死她了！超愛超愛超愛的！</value>
+		<value>我愛我的布偶！我愛死她了！超愛超愛超愛的！</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
-		<value>好了，絲莫芭普，這是給妳的小煩娃娃。比真的更好喔！</value>
+		<value>好了，絲莫芭普，這是給妳的小煩布偶。比真的更好喔！</value>
 	</data>
 	<data name="002_020" xml:space="preserve">
 		<value>謝謝，絲莫芭普。</value>
@@ -133,7 +133,7 @@
 		<value>絲莫芭普！</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
-		<value>你回來了！那是我的娃娃嗎？</value>
+		<value>你回來了！那是我的布偶嗎？</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
 		<value>不是，絲莫芭普，那只是小煩。</value>
@@ -184,7 +184,7 @@
 		<value>謝謝妳。好好享受妳的小煩吧。</value>
 	</data>
 	<data name="000_180" xml:space="preserve">
-		<value>是啊，或許他能幫我們做小煩造型娃娃給她。畢竟她還太小，無法照顧像妳這樣的寵物。</value>
+		<value>是啊，或許他能幫我們做小煩外型的布偶給她。畢竟她還太小，無法照顧像妳這樣的寵物。</value>
 	</data>
 	<data name="000_190" xml:space="preserve">
 		<value>是啊，責任太重了，照顧像我這樣的……喂！</value>

@@ -133,7 +133,7 @@
 		<value>沒事。</value>
 	</data>
 	<data name="000_Option_3" xml:space="preserve">
-		<value>關於那個娃娃……</value>
+		<value>關於那個布偶……</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
 		<value>歡迎再次光臨！</value>
@@ -151,16 +151,16 @@
 		<value>您的光臨是我們莫大的榮幸！請向您的朋友宣傳！您有錢的那些朋友！</value>
 	</data>
 	<data name="006_000" xml:space="preserve">
-		<value>你有賣小孩的玩具嗎？或者更具體地說，靈蝠娃娃？</value>
+		<value>你有賣小孩的玩具嗎？或者更具體地說，靈蝠布偶？</value>
 	</data>
 	<data name="006_010" xml:space="preserve">
-		<value>靈蝠娃娃？你是指像您那位會飛的朋友嗎？我想我們沒有那樣的現貨。</value>
+		<value>靈蝠布偶？你是指像您那位會飛的朋友嗎？我想我們沒有那樣的現貨。</value>
 	</data>
 	<data name="006_020" xml:space="preserve">
 		<value>但我會滿足您的！我絕對能幫您製作一個，前提是我要有合適的材料！</value>
 	</data>
 	<data name="006_030" xml:space="preserve">
-		<value>讓我想想……用一些棉花、布料和染料，我絕對能幫您製作一個最棒的靈蝠娃娃！</value>
+		<value>讓我想想……用一些棉花、布料和染料，我絕對能幫您製作一個最棒的靈蝠布偶！</value>
 	</data>
 	<data name="007_Option_1" xml:space="preserve">
 		<value>改變主意了……</value>
@@ -172,10 +172,10 @@
 		<value>我再也不理你了。</value>
 	</data>
 	<data name="006_050" xml:space="preserve">
-		<value>有什麼好不自在的，小煩？妳真可愛！我想我可能會讓他再多做一個小煩娃娃，那樣我就能抱著了，永遠地～</value>
+		<value>有什麼好不自在的，小煩？妳真可愛！我想我可能會讓他再多做一個小煩布偶，那樣我就能抱著了，永遠地～</value>
 	</data>
 	<data name="007_000" xml:space="preserve">
-		<value>啊，好極了！您把所有材料都帶來了！需要我馬上幫您製作娃娃嗎？</value>
+		<value>啊，好極了！您把所有材料都帶來了！需要我馬上幫您製作布偶嗎？</value>
 	</data>
 	<data name="008_000" xml:space="preserve">
 		<value>太好了！如果您的伙伴能躺在這塊布上……</value>
@@ -193,7 +193,7 @@
 		<value>喂，你不要照著我描！</value>
 	</data>
 	<data name="008_060" xml:space="preserve">
-		<value>看到沒？你可以用這個來量你的娃娃。完美！</value>
+		<value>看到沒？你可以用這個來量你的布偶。完美！</value>
 	</data>
 	<data name="008_020" xml:space="preserve">
 		<value>哦，我需要量些尺寸。我們這裡很少能看到靈蝠。</value>
@@ -202,7 +202,7 @@
 		<value>好了，這樣，完工。看我是如何把每道細微的曲線給表現出來吧？</value>
 	</data>
 	<data name="008_080" xml:space="preserve">
-		<value>閉嘴，去做你的蠢娃娃。</value>
+		<value>閉嘴，去做你的蠢布偶。</value>
 	</data>
 	<data name="008_070" xml:space="preserve">
 		<value>哈！不，這真的不行！說實在的，這是我見過最糟的畫。</value>
