@@ -118,7 +118,7 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="000_000" xml:space="preserve">
-		<value>歡迎你的到來，森．米斯拉林。戰爭的準備即將完成。</value>
+		<value>歡迎你的到來，聖．米斯拉林。戰爭的準備即將完成。</value>
 	</data>
 	<data name="000_Option_0" xml:space="preserve">
 		<value>這就是你們僅存的所有人？</value>
@@ -145,7 +145,7 @@
 		<value>你們怎麼能期望這麼少的士兵能贏？</value>
 	</data>
 	<data name="001_030" xml:space="preserve">
-		<value>我們不能。這就是為什麼我們創造了森．米斯拉林。你，達斯特，即將扭轉局勢。</value>
+		<value>我們不能。這就是為什麼我們創造了聖．米斯拉林。你，達斯特，即將扭轉局勢。</value>
 	</data>
 	<data name="001_040" xml:space="preserve">
 		<value>呃，好吧。毫無壓力。</value>
@@ -256,7 +256,7 @@
 		<value>謝謝你所做的一切，長老。</value>
 	</data>
 	<data name="008_050" xml:space="preserve">
-		<value>無論發生什麼，森．米斯拉林，你要知道，站在你的面前是我的榮幸。月血族人將誓死追隨你。去吧。還有，達斯特……祝你好運。</value>
+		<value>無論發生什麼，聖．米斯拉林，你要知道，站在你的面前是我的榮幸。月血族人將誓死追隨你。去吧。還有，達斯特……祝你好運。</value>
 	</data>
 	<data name="006_000" xml:space="preserve">
 		<value>米斯拉林，你還需要什麼嗎？</value>
