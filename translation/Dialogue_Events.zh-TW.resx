@@ -118,10 +118,10 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="000_000" xml:space="preserve">
-		<value>達斯特……</value>
+		<value>塵……</value>
 	</data>
 	<data name="000_010" xml:space="preserve">
-		<value>……達斯特</value>
+		<value>……塵</value>
 	</data>
 	<data name="000_020" xml:space="preserve">
 		<value>醒醒！</value>
@@ -181,13 +181,13 @@
 		<value>我……啊……</value>
 	</data>
 	<data name="002_130" xml:space="preserve">
-		<value>別激動，小煩。他叫達斯特，是他把我從沉睡中喚醒的。</value>
+		<value>別激動，小煩。他叫塵，是他把我從沉睡中喚醒的。</value>
 	</data>
 	<data name="002_140" xml:space="preserve">
 		<value>那……小煩，對嗎？</value>
 	</data>
 	<data name="002_150" xml:space="preserve">
-		<value>沒錯，是我！你叫達斯特？</value>
+		<value>沒錯，是我！你叫塵？</value>
 	</data>
 	<data name="002_160" xml:space="preserve">
 		<value>似乎是這樣，雖然我想不起來這個名字。</value>
@@ -196,7 +196,7 @@
 		<value>那麼……這把是什麼劍？</value>
 	</data>
 	<data name="002_210" xml:space="preserve">
-		<value>我是阿拉之劍，而你，達斯特，是我命中注定的持劍人。</value>
+		<value>我是阿拉之劍，而你，塵，是我命中注定的持劍人。</value>
 	</data>
 	<data name="002_220" xml:space="preserve">
 		<value>好了，好了，說完了吧，但我想差不多是時候讓我把劍送回部族了。</value>
@@ -220,7 +220,7 @@
 		<value>我嗎？哦，嗯，好吧。</value>
 	</data>
 	<data name="003_130" xml:space="preserve">
-		<value>來吧，達斯特。我們向東前進。</value>
+		<value>來吧，塵。我們向東前進。</value>
 	</data>
 	<data name="002_Option_0" xml:space="preserve">
 		<value>好吧，等我一下……</value>
@@ -265,7 +265,7 @@
 		<value>哎喲，你還在等什麼？砸開它啊！</value>
 	</data>
 	<data name="025_030" xml:space="preserve">
-		<value>那可不是明智之舉，達斯特。這些寶箱被上世紀的祕法鎖保護著，完全不是我能夠破壞的。</value>
+		<value>那可不是明智之舉，塵。這些寶箱被上世紀的祕法鎖保護著，完全不是我能夠破壞的。</value>
 	</data>
 	<data name="025_040" xml:space="preserve">
 		<value>我想我們是需要一把鑰匙了。</value>
@@ -274,7 +274,7 @@
 		<value>啊啊啊！！有怪物！</value>
 	</data>
 	<data name="005_010" xml:space="preserve">
-		<value>冷靜點，小煩。達斯特，集中精神！記住你目前所學的。</value>
+		<value>冷靜點，小煩。塵，集中精神！記住你目前所學的。</value>
 	</data>
 	<data name="005_020" xml:space="preserve">
 		<value>不、不！狂按按鈕！做點什麼啊！！</value>
@@ -295,7 +295,7 @@
 		<value>這就是我召喚你的原因嗎？為了控制這股力量？</value>
 	</data>
 	<data name="006_050" xml:space="preserve">
-		<value>不太可能，達斯特，我不會為了這麼自私的原因從沉睡中醒來的。</value>
+		<value>不太可能，塵，我不會為了這麼自私的原因從沉睡中醒來的。</value>
 	</data>
 	<data name="006_060" xml:space="preserve">
 		<value>這片森林的前方有一座村莊。或許找到它能助你恢復記憶。</value>
@@ -313,7 +313,7 @@
 		<value>至少帶上這些渣渣果。我有預感你會需要的。</value>
 	</data>
 	<data name="010_000" xml:space="preserve">
-		<value>慢著，達斯特。你習得了一項新能力。來見識一下沙塵暴吧！</value>
+		<value>慢著，塵。你習得了一項新能力。來見識一下沙塵暴吧！</value>
 	</data>
 	<data name="011_000" xml:space="preserve">
 		<value>我喜歡。</value>
@@ -337,7 +337,7 @@
 		<value>抱歉，小煩。我相信它會有用的。</value>
 	</data>
 	<data name="012_030" xml:space="preserve">
-		<value>事實上，達斯特，對我們三個來說，這可能會非常有用。</value>
+		<value>事實上，塵，對我們三個來說，這可能會非常有用。</value>
 	</data>
 	<data name="012_040" xml:space="preserve">
 		<value>沙塵暴能使小煩的魔彈變成更強大的攻擊。看好了：</value>
@@ -349,7 +349,7 @@
 		<value>哦，對了，每次我使用自己的力量時，都會耗費一些能量。你可以利用近戰連擊來恢復能量。</value>
 	</data>
 	<data name="013_020" xml:space="preserve">
-		<value>沒錯，達斯特──配合你的連擊和小煩的力量，你能達成更高的連擊數，那個會讓你在每場戰鬥後獲得更多經驗。</value>
+		<value>沒錯，塵──配合你的連擊和小煩的力量，你能達成更高的連擊數，那個會讓你在每場戰鬥後獲得更多經驗。</value>
 	</data>
 	<data name="013_030" xml:space="preserve">
 		<value>不過，如果你被敵人擊中，連擊就會中斷，你也會失去額外的經驗。</value>
@@ -370,13 +370,13 @@
 		<value>是我做到的？感覺真好！太棒了！</value>
 	</data>
 	<data name="028_020" xml:space="preserve">
-		<value>當然了，達斯特。你獲得了技能寶石。打開物品欄的人物頁來升級你的屬性，讓自己變得更加強大吧。</value>
+		<value>當然了，塵。你獲得了技能寶石。打開物品欄的人物頁來升級你的屬性，讓自己變得更加強大吧。</value>
 	</data>
 	<data name="027_000" xml:space="preserve">
 		<value>哇，怎麼回事？你剛剛傷到自己了？</value>
 	</data>
 	<data name="027_010" xml:space="preserve">
-		<value>達斯特，你一定要小心！就算最偉大的劍士也無法這麼長時間地施展沙塵暴！</value>
+		<value>塵，你一定要小心！就算最偉大的劍士也無法這麼長時間地施展沙塵暴！</value>
 	</data>
 	<data name="027_020" xml:space="preserve">
 		<value>唔……好的。以後我會更加小心的。</value>
@@ -415,7 +415,7 @@
 		<value>從這邊很難看見。要再靠近一點的話，我們得下去谷底。</value>
 	</data>
 	<data name="020_100" xml:space="preserve">
-		<value>很好。就照你說的吧，達斯特。</value>
+		<value>很好。就照你說的吧，塵。</value>
 	</data>
 	<data name="031_000" xml:space="preserve">
 		<value>那是帳篷嗎？有人在裡面嗎？</value>
@@ -436,7 +436,7 @@
 		<value>有四個鎖。我大膽猜測我們需要四把鑰匙。</value>
 	</data>
 	<data name="051_000" xml:space="preserve">
-		<value>達斯特，上面有東西！</value>
+		<value>塵，上面有東西！</value>
 	</data>
 	<data name="051_010" xml:space="preserve">
 		<value>難不倒我的。退後一點！</value>
@@ -460,10 +460,10 @@
 		<value>看來我們走的方向沒錯。</value>
 	</data>
 	<data name="033_010" xml:space="preserve">
-		<value>提防著點，達斯特。我感覺到前方有強大的敵人。</value>
+		<value>提防著點，塵。我感覺到前方有強大的敵人。</value>
 	</data>
 	<data name="033_020" xml:space="preserve">
-		<value>別擔心，達斯特！我會一路跟在你後頭的。</value>
+		<value>別擔心，塵！我會一路跟在你後頭的。</value>
 	</data>
 	<data name="033_030" xml:space="preserve">
 		<value>遠遠地跟。</value>
@@ -529,7 +529,7 @@
 		<value>啊，又來了！</value>
 	</data>
 	<data name="041_020" xml:space="preserve">
-		<value>使出渾身解數吧，達斯特。消滅這群邪惡的生物。</value>
+		<value>使出渾身解數吧，塵。消滅這群邪惡的生物。</value>
 	</data>
 	<data name="050_000" xml:space="preserve">
 		<value>探礦者？小煩，那就是妳能想到的？</value>
@@ -580,7 +580,7 @@
 		<value>感激一下又不會怎樣。那是什麼討厭的──？</value>
 	</data>
 	<data name="065_020" xml:space="preserve">
-		<value>喂，冷靜，達斯特！她只是情緒低落。</value>
+		<value>喂，冷靜，塵！她只是情緒低落。</value>
 	</data>
 	<data name="065_030" xml:space="preserve">
 		<value>我……我不知道我為什麼這麼說。對不起，小煩，我……我不知道我剛才是怎麼了。走吧，繼續前進。</value>
@@ -652,7 +652,7 @@
 		<value>小煩？怎麼了？</value>
 	</data>
 	<data name="315_020" xml:space="preserve">
-		<value>她被沉默了，達斯特！在這種狀態下，她無法射出魔彈。幸運的是，這種效果只是暫時的，過段時間就會消失了。</value>
+		<value>她被沉默了，塵！在這種狀態下，她無法射出魔彈。幸運的是，這種效果只是暫時的，過段時間就會消失了。</value>
 	</data>
 	<data name="315_040" xml:space="preserve">
 		<value>嗚嗯嗯……</value>
@@ -697,7 +697,7 @@
 		<value>怎麼了，阿拉？</value>
 	</data>
 	<data name="090_040" xml:space="preserve">
-		<value>滿腔……恨意。小心點，達斯特。</value>
+		<value>滿腔……恨意。小心點，塵。</value>
 	</data>
 	<data name="095_000" xml:space="preserve">
 		<value>哦，你來啦。</value>
@@ -829,7 +829,7 @@
 		<value>呃，我當然希望你別去。</value>
 	</data>
 	<data name="106_000" xml:space="preserve">
-		<value>達斯特，在戰鬥的過程，我研究了火種的招數。我想我可能已經領悟了他的技能！</value>
+		<value>塵，在戰鬥的過程，我研究了火種的招數。我想我可能已經領悟了他的技能！</value>
 	</data>
 	<data name="106_010" xml:space="preserve">
 		<value>我覺得我們會需要的。不使用武力，那群怪物可能不會讓我們離開的。</value>
@@ -916,7 +916,7 @@
 		<value>我們的搜尋沒有白費。來清理這個區域吧。</value>
 	</data>
 	<data name="148_000" xml:space="preserve">
-		<value>達斯特，等等。</value>
+		<value>塵，等等。</value>
 	</data>
 	<data name="148_010" xml:space="preserve">
 		<value>這生物對正面突擊的防守很強。</value>
@@ -934,7 +934,7 @@
 		<value>牠跪下了！</value>
 	</data>
 	<data name="150_010" xml:space="preserve">
-		<value>達斯特，你需要複習一下格擋嗎？</value>
+		<value>塵，你需要複習一下格擋嗎？</value>
 	</data>
 	<data name="150_Option_0" xml:space="preserve">
 		<value>請再教我。</value>
@@ -1018,13 +1018,13 @@
 		<value>專挑小傢伙，是吧？你肯定會後悔遇見我的。</value>
 	</data>
 	<data name="170_030" xml:space="preserve">
-		<value>小心這些泡泡芽，達斯特，不然這場戰鬥還沒開始就要結束了！</value>
+		<value>小心這些泡泡芽，塵，不然這場戰鬥還沒開始就要結束了！</value>
 	</data>
 	<data name="175_000" xml:space="preserve">
 		<value>他又跑了。不客氣，孩子。</value>
 	</data>
 	<data name="175_010" xml:space="preserve">
-		<value>別這樣，達斯特，他顯然被嚇壞了。我們去找他吧，也許還能離開這可怕的地方！</value>
+		<value>別這樣，塵，他顯然被嚇壞了。我們去找他吧，也許還能離開這可怕的地方！</value>
 	</data>
 	<data name="180_000" xml:space="preserve">
 		<value>我不覺得那些怪物聰明到能夠圍起籬笆。</value>
@@ -1066,7 +1066,7 @@
 		<value>他睡得很安詳。我們別打擾他吧。</value>
 	</data>
 	<data name="266_120" xml:space="preserve">
-		<value>你準備要離開了嗎，達斯特？</value>
+		<value>你準備要離開了嗎，塵？</value>
 	</data>
 	<data name="266_130" xml:space="preserve">
 		<value>我是這麼打算的。我們必須回到地面找到忒媞斯神女所說的府邸。</value>
@@ -1081,7 +1081,7 @@
 		<value>它原本不叫那個名字，小煩。它曾經是個平靜的地方，但現在，即使我們離它這麼遠，我還能感覺到它散發出來的邪惡。</value>
 	</data>
 	<data name="266_160" xml:space="preserve">
-		<value>好吧，太棒啦。真的，我好興奮。你呢，達斯特？你興奮嗎？</value>
+		<value>好吧，太棒啦。真的，我好興奮。你呢，塵？你興奮嗎？</value>
 	</data>
 	<data name="266_170" xml:space="preserve">
 		<value>我只有點興奮，小煩。來吧，我們回地面吧。</value>
@@ -1114,7 +1114,7 @@
 		<value>啊！那是什麼東西！？真嚇人！</value>
 	</data>
 	<data name="310_020" xml:space="preserve">
-		<value>但牠有邪惡的手刀！邪惡的手刀！小心啊，達斯特！</value>
+		<value>但牠有邪惡的手刀！邪惡的手刀！小心啊，塵！</value>
 	</data>
 	<data name="330_000" xml:space="preserve">
 		<value>那是什麼東西？！</value>
@@ -1129,7 +1129,7 @@
 		<value>那個叫柯菈的老婆婆最好解釋清楚！我受夠了！</value>
 	</data>
 	<data name="330_010" xml:space="preserve">
-		<value>達斯特，那個東西存在於我無法觸及的空間。快跑！</value>
+		<value>塵，那個東西存在於我無法觸及的空間。快跑！</value>
 	</data>
 	<data name="370_000" xml:space="preserve">
 		<value>這些就是全部了。我覺得這些東西都指向一個方向，但我們還是聽聽柯菈的解釋吧。我們回荒原的中心吧。</value>
@@ -1171,7 +1171,7 @@
 		<value>別退縮，小煩。</value>
 	</data>
 	<data name="440_000" xml:space="preserve">
-		<value>對不起，達斯特，我覺得你就算二段跳也過不去了。愚蠢的雪崩把一切都毀了！你說說看，這雪崩有幹過什麼好事嗎？</value>
+		<value>對不起，塵，我覺得你就算二段跳也過不去了。愚蠢的雪崩把一切都毀了！你說說看，這雪崩有幹過什麼好事嗎？</value>
 	</data>
 	<data name="440_010" xml:space="preserve">
 		<value>嗯，經妳這麼一說……這或許是個瘋狂的主意，但我們也許可以清掉那山坡上的雪。</value>
@@ -1222,7 +1222,7 @@
 		<value>呃。</value>
 	</data>
 	<data name="445_000" xml:space="preserve">
-		<value>達斯特，小心！注意頭頂，會落下來的不是只有雪。</value>
+		<value>塵，小心！注意頭頂，會落下來的不是只有雪。</value>
 	</data>
 	<data name="450_000" xml:space="preserve">
 		<value>第二根了。</value>
@@ -1252,13 +1252,13 @@
 		<value>唉……我覺得我快病倒了。</value>
 	</data>
 	<data name="465_030" xml:space="preserve">
-		<value>是的，小煩。我們只能靠自己了。走吧，達斯特，繼續前進。</value>
+		<value>是的，小煩。我們只能靠自己了。走吧，塵，繼續前進。</value>
 	</data>
 	<data name="470_000" xml:space="preserve">
 		<value>哦，哇！那真有效！快點，我們快回洞外吧！</value>
 	</data>
 	<data name="470_010" xml:space="preserve">
-		<value>小心，達斯特。我感覺到有一個強大的存在被你的行動引來了。</value>
+		<value>小心，塵。我感覺到有一個強大的存在被你的行動引來了。</value>
 	</data>
 	<data name="470_020" xml:space="preserve">
 		<value>那我們別讓他等太久囉。</value>
@@ -1300,7 +1300,7 @@
 		<value>為什麼！？為什麼摧毀如此寧靜的地方？我們都不希望這樣！</value>
 	</data>
 	<data name="485_010" xml:space="preserve">
-		<value>達斯特？你在說什麼？還有……誰是卡西斯？那不是──</value>
+		<value>塵？你在說什麼？還有……誰是卡西斯？那不是──</value>
 	</data>
 	<data name="485_020" xml:space="preserve">
 		<value>那不是我的名字。我會記得的。如果我聽過我會有印象的。</value>
@@ -1318,25 +1318,25 @@
 		<value>這曾經是娟潔的村莊。一年前……我就在這裡。根據火種和娟潔所言，我協助殺了村裡的所有人。</value>
 	</data>
 	<data name="490_040" xml:space="preserve">
-		<value>噢，達斯特……</value>
+		<value>噢，塵……</value>
 	</data>
 	<data name="490_050" xml:space="preserve">
 		<value>但我不記得詳情了！我記得這個地方，但感覺就像已經過去一年了！阿拉，這意味著什麼？</value>
 	</data>
 	<data name="490_060" xml:space="preserve">
-		<value>這意味著事情並不像表面看上去的那樣。繼續探索村莊，達斯特。讓我們看看它究竟隱藏了什麼樣的祕密。</value>
+		<value>這意味著事情並不像表面看上去的那樣。繼續探索村莊，塵。讓我們看看它究竟隱藏了什麼樣的祕密。</value>
 	</data>
 	<data name="495_000" xml:space="preserve">
 		<value>這棟房子……</value>
 	</data>
 	<data name="495_010" xml:space="preserve">
-		<value>你想起什麼了嗎，達斯特？</value>
+		<value>你想起什麼了嗎，塵？</value>
 	</data>
 	<data name="495_020" xml:space="preserve">
 		<value>不可能啊。</value>
 	</data>
 	<data name="496_000" xml:space="preserve">
-		<value>達斯特？</value>
+		<value>塵？</value>
 	</data>
 	<data name="496_010" xml:space="preserve">
 		<value>怎麼會……？</value>
@@ -1348,7 +1348,7 @@
 		<value>但怎麼會，阿拉？我不明白──</value>
 	</data>
 	<data name="496_040" xml:space="preserve">
-		<value>答案就在上面，達斯特。</value>
+		<value>答案就在上面，塵。</value>
 	</data>
 	<data name="500_000" xml:space="preserve">
 		<value>你是誰？</value>
@@ -1366,13 +1366,13 @@
 		<value>什麼！？</value>
 	</data>
 	<data name="500_040" xml:space="preserve">
-		<value>那雙眼睛確實看起來與妳哥哥的非常像。那是因為他的靈魂活在達斯特的體內。</value>
+		<value>那雙眼睛確實看起來與妳哥哥的非常像。那是因為他的靈魂活在塵的體內。</value>
 	</data>
 	<data name="500_070" xml:space="preserve">
 		<value>不……</value>
 	</data>
 	<data name="500_060" xml:space="preserve">
-		<value>不過，要符合我們的需求，我們需要兩個靈魂。純真的靈魂雖然高尚，但沒有本領、沒有力量的話，在那個命運到來之日，達斯特將會像妳的哥哥一樣輕易地被打倒。</value>
+		<value>不過，要符合我們的需求，我們需要兩個靈魂。純真的靈魂雖然高尚，但沒有本領、沒有力量的話，在那個命運到來之日，塵將會像妳的哥哥一樣輕易地被打倒。</value>
 	</data>
 	<data name="500_080" xml:space="preserve">
 		<value>所以我們將妳哥哥的靈魂與殺他的凶手，被稱為卡西斯的皇家刺客的靈魂融合了。他們同歸於盡，永遠緊密相連了。這種事我聞所未聞。</value>
@@ -1399,7 +1399,7 @@
 		<value>娟潔……我不知道。我、我不知道。</value>
 	</data>
 	<data name="501_070" xml:space="preserve">
-		<value>好了，達斯特，我想你有很多疑問。請儘管問吧。</value>
+		<value>好了，塵，我想你有很多疑問。請儘管問吧。</value>
 	</data>
 	<data name="501_Option_0" xml:space="preserve">
 		<value>我到底是什麼？</value>
@@ -1504,7 +1504,7 @@
 		<value>我……可能略過了那一章？</value>
 	</data>
 	<data name="505_080" xml:space="preserve">
-		<value>極樂之刃是被創造出來引導持劍者的，達斯特。我被召喚到你身邊是為了確保你體內的兩個靈魂能和平共存。</value>
+		<value>極樂之刃是被創造出來引導持劍者的，塵。我被召喚到你身邊是為了確保你體內的兩個靈魂能和平共存。</value>
 	</data>
 	<data name="505_090" xml:space="preserve">
 		<value>哦，老朋友啊……能再聽到你的聲音真是太好了。</value>
@@ -1549,7 +1549,7 @@
 		<value>哦，我知道！平靜的草原如何？或是寧靜的森林？或是其它不會每十分鐘就爆炸的地方！？</value>
 	</data>
 	<data name="506_080" xml:space="preserve">
-		<value>達斯特，你的朋友看起來非常緊張。</value>
+		<value>塵，你的朋友看起來非常緊張。</value>
 	</data>
 	<data name="506_090" xml:space="preserve">
 		<value>不，我好得很！快點，我們去爆炸山脈吧！不騙你，我是認真的！</value>
@@ -1561,7 +1561,7 @@
 		<value>你對自己有信心，我才會對你有信心！如何？說說看，你是誰？</value>
 	</data>
 	<data name="506_Option_2" xml:space="preserve">
-		<value>我是達斯特。</value>
+		<value>我是塵。</value>
 	</data>
 	<data name="506_Option_0" xml:space="preserve">
 		<value>我是正義的純真之魂，靖。</value>
@@ -1582,7 +1582,7 @@
 		<value>那我們就在恆曉盆地見了。</value>
 	</data>
 	<data name="507_150" xml:space="preserve">
-		<value>再會，達斯特。我們在那裡見了。</value>
+		<value>再會，塵。我們在那裡見了。</value>
 	</data>
 	<data name="507_010" xml:space="preserve">
 		<value>你看吧！？你還是沒弄明白。蜥蜴長老都當面告訴你了，可你還是不了解！</value>
@@ -1597,10 +1597,10 @@
 		<value>我只是……如果我將跟著你到世界的盡頭，我得知道我跟隨的是誰，還有跟隨的理由。</value>
 	</data>
 	<data name="507_050" xml:space="preserve">
-		<value>但是我能。小煩，這整個旅途上妳都在達斯特的身旁。妳目睹了他拯救這個世界。妳怎麼還能繼續質疑下去呢？</value>
+		<value>但是我能。小煩，這整個旅途上妳都在塵的身旁。妳目睹了他拯救這個世界。妳怎麼還能繼續質疑下去呢？</value>
 	</data>
 	<data name="507_060" xml:space="preserve">
-		<value>我只是不明白。我根本不在乎他認為自己是誰──他就是達斯特。這就是他。這就是我認識的他。</value>
+		<value>我只是不明白。我根本不在乎他認為自己是誰──他就是塵。這就是他。這就是我認識的他。</value>
 	</data>
 	<data name="507_070" xml:space="preserve">
 		<value>小煩，拜託……我不能沒有妳。</value>
@@ -1654,7 +1654,7 @@
 		<value>很好，發電機在那裡。看看有什麼辦法能讓它恢復運作吧。</value>
 	</data>
 	<data name="550_010" xml:space="preserve">
-		<value>我感覺到這個裝置沒有能量散發出來，達斯特。或許有讓它恢復發電的辦法？</value>
+		<value>我感覺到這個裝置沒有能量散發出來，塵。或許有讓它恢復發電的辦法？</value>
 	</data>
 	<data name="551_000" xml:space="preserve">
 		<value>做得好，小煩。營地現在應該有電了。</value>
@@ -1690,13 +1690,13 @@
 		<value>呃，你有聽到什麼聲音嗎？</value>
 	</data>
 	<data name="540_000" xml:space="preserve">
-		<value>噢不……達斯特，你看！</value>
+		<value>噢不……塵，你看！</value>
 	</data>
 	<data name="540_010" xml:space="preserve">
 		<value>是那個失蹤的哨兵。這裡發生什麼事了？</value>
 	</data>
 	<data name="540_020" xml:space="preserve">
-		<value>啊！達斯特，小心！</value>
+		<value>啊！塵，小心！</value>
 	</data>
 	<data name="560_000" xml:space="preserve">
 		<value>在那裡！戰士們正在集結。</value>
@@ -1726,10 +1726,10 @@
 		<value>啊，聖．米斯拉林──</value>
 	</data>
 	<data name="650_010" xml:space="preserve">
-		<value>請叫我達斯特就好。</value>
+		<value>請叫我塵就好。</value>
 	</data>
 	<data name="650_020" xml:space="preserve">
-		<value>嗯，達斯特，我們剛才設好了這個傳送點。如果你要去別的地方辦事，現在正是時候。一旦發動進攻，就沒有退路了。</value>
+		<value>嗯，塵，我們剛才設好了這個傳送點。如果你要去別的地方辦事，現在正是時候。一旦發動進攻，就沒有退路了。</value>
 	</data>
 	<data name="650_030" xml:space="preserve">
 		<value>我知道了。謝謝你，朋友。</value>
@@ -1783,7 +1783,7 @@
 		<value>你下令殺了無數的人。無數的月血族人……月血支持者……任何阻礙你的人！</value>
 	</data>
 	<data name="700_150" xml:space="preserve">
-		<value>達斯特，聽我說──</value>
+		<value>塵，聽我說──</value>
 	</data>
 	<data name="700_160" xml:space="preserve">
 		<value>卡西斯曾經是我的名字……</value>
@@ -1798,7 +1798,7 @@
 		<value>那才是最重要的！那些人全是被我殺的，小煩……我怎麼可能在短短幾天內救贖自己？</value>
 	</data>
 	<data name="700_190" xml:space="preserve">
-		<value>你不能，達斯特。這從來就不是為了救贖卡西斯。但話說回來，你也不是卡西斯。</value>
+		<value>你不能，塵。這從來就不是為了救贖卡西斯。但話說回來，你也不是卡西斯。</value>
 	</data>
 	<data name="700_200" xml:space="preserve">
 		<value>但我共擁他的形體、他的靈魂……</value>
@@ -1810,7 +1810,7 @@
 		<value>妳為什麼一直這麼說！？</value>
 	</data>
 	<data name="910_030" xml:space="preserve">
-		<value>別激動，小煩。他叫達斯特，是他把我從沉睡中喚醒的。</value>
+		<value>別激動，小煩。他叫塵，是他把我從沉睡中喚醒的。</value>
 	</data>
 	<data name="910_020" xml:space="preserve">
 		<value>喂，別說我了！拿了我的劍的人是你！何不說說你叫什麼？</value>
@@ -1822,7 +1822,7 @@
 		<value>似乎是這樣，雖然我想不起來這個名字。</value>
 	</data>
 	<data name="910_050" xml:space="preserve">
-		<value>沒錯，是我！你叫達斯特？</value>
+		<value>沒錯，是我！你叫塵？</value>
 	</data>
 	<data name="910_040" xml:space="preserve">
 		<value>那……小煩，對嗎？</value>
@@ -1840,7 +1840,7 @@
 		<value>我不能讓妳帶著劍就離開，小煩。現在只有它知道我是誰。我甚至不知道我怎麼會在這裡……</value>
 	</data>
 	<data name="910_130" xml:space="preserve">
-		<value>來吧，達斯特。我們向東前進。</value>
+		<value>來吧，塵。我們向東前進。</value>
 	</data>
 	<data name="910_110" xml:space="preserve">
 		<value>確實。時間寶貴。小煩，妳得加入我們。</value>

@@ -157,7 +157,7 @@
 		<value>那不算是答案！</value>
 	</data>
 	<data name="004_130" xml:space="preserve">
-		<value>喂，放輕鬆！達斯特不記得了，好嗎？他甚至不知道自己的真實姓名！妳要知道，妳應該更加感激──他剛剛拯救了這座村莊兩次，而我──呃，看著他做這些，我都快餓死了！</value>
+		<value>喂，放輕鬆！塵不記得了，好嗎？他甚至不知道自己的真實姓名！妳要知道，妳應該更加感激──他剛剛拯救了這座村莊兩次，而我──呃，看著他做這些，我都快餓死了！</value>
 	</data>
 	<data name="004_140" xml:space="preserve">
 		<value>小煩，拜託，冷靜點。她有懷疑的權利──雖然我不知道我是誰，但我穿著像蓋厄斯的士兵，這的確不太好。</value>
@@ -229,10 +229,10 @@
 		<value>沒問題。妳不應該待在這裡，娟潔，太危險了。往北方前進吧，等我們把這件事弄清楚了，我們會趕上妳的。</value>
 	</data>
 	<data name="008_030" xml:space="preserve">
-		<value>注意安全，達斯特。我們約在黑白山隘見，在黑荒山脈的山腳下。</value>
+		<value>注意安全，塵。我們約在黑白山隘見，在黑荒山脈的山腳下。</value>
 	</data>
 	<data name="009_000" xml:space="preserve">
-		<value>達斯特，爆炸是從地底傳來的！快！</value>
+		<value>塵，爆炸是從地底傳來的！快！</value>
 	</data>
 	<data name="010_000" xml:space="preserve">
 		<value>娟潔？</value>
@@ -250,7 +250,7 @@
 		<value>你是個安靜的人。</value>
 	</data>
 	<data name="000_040" xml:space="preserve">
-		<value>達斯特，要有禮貌！妳得原諒他，他有點累了。正在拯救村莊和所有東西，妳知道嗎？</value>
+		<value>塵，要有禮貌！妳得原諒他，他有點累了。正在拯救村莊和所有東西，妳知道嗎？</value>
 	</data>
 	<data name="000_050" xml:space="preserve">
 		<value>是的，我聽說了。</value>
@@ -268,7 +268,7 @@
 		<value>對此我們根本無能為力。失陪了。</value>
 	</data>
 	<data name="001_020" xml:space="preserve">
-		<value>達斯特？真的嗎？</value>
+		<value>塵？真的嗎？</value>
 	</data>
 	<data name="001_030" xml:space="preserve">
 		<value>有哪裡不對勁嗎？</value>
@@ -277,7 +277,7 @@
 		<value>又見面了。</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
-		<value>我之前還沒自我介紹。我叫達斯特，她是我的同伴，小煩。</value>
+		<value>我之前還沒自我介紹。我叫塵，她是我的同伴，小煩。</value>
 	</data>
 	<data name="001_040" xml:space="preserve">
 		<value>沒有，抱歉。那是一個有趣的名字。我叫娟潔。哦，關於你救了那些人……</value>
@@ -301,7 +301,7 @@
 		<value>請你們兩個，不用擔心我。</value>
 	</data>
 	<data name="010_010" xml:space="preserve">
-		<value>靖？噢……達斯特。是你。</value>
+		<value>靖？噢……塵。是你。</value>
 	</data>
 	<data name="010_020" xml:space="preserve">
 		<value>是的，是我。妳還好嗎？</value>
@@ -310,7 +310,7 @@
 		<value>我很好。只是有很多事要想一想。</value>
 	</data>
 	<data name="010_Option_0" xml:space="preserve">
-		<value>達斯特和靖。</value>
+		<value>塵和靖。</value>
 	</data>
 	<data name="010_Option_1" xml:space="preserve">
 		<value>嗯，請保重。</value>
@@ -340,7 +340,7 @@
 		<value>就像長老說的，也許我共擁妳哥哥的靈魂，但我所作的選擇是我自己的決定。</value>
 	</data>
 	<data name="014_010" xml:space="preserve">
-		<value>對不起，達斯特，我並不是說──</value>
+		<value>對不起，塵，我並不是說──</value>
 	</data>
 	<data name="014_020" xml:space="preserve">
 		<value>不，我才要對不起。我無法想像妳在澤普林奇村所經歷的悲痛……想著我可能是妳的哥哥。</value>
@@ -355,7 +355,7 @@
 		<value>也許吧。</value>
 	</data>
 	<data name="017_010" xml:space="preserve">
-		<value>是的，達斯特，你的行為使你成為了你。</value>
+		<value>是的，塵，你的行為使你成為了你。</value>
 	</data>
 	<data name="017_000" xml:space="preserve">
 		<value>我想我可能是。雖然我沒有他的記憶，但如果他的靈魂引導我以他的意願行動，也許沒有什麼不同。</value>
@@ -364,7 +364,7 @@
 		<value>也許妳的哥哥透過我持續活著。</value>
 	</data>
 	<data name="017_030" xml:space="preserve">
-		<value>我想是的，達斯特。這讓我相信他的死不是徒勞無功。</value>
+		<value>我想是的，塵。這讓我相信他的死不是徒勞無功。</value>
 	</data>
 	<data name="017_040" xml:space="preserve">
 		<value>很抱歉事情會變成這樣。</value>
@@ -376,13 +376,13 @@
 		<value>我也這麼認為，娟潔。</value>
 	</data>
 	<data name="017_070" xml:space="preserve">
-		<value>很高興我們這次的交談，達斯特。這讓我感覺好多了，讓我知道我的哥哥正在幫助拯救這個世界。你會很快回來嗎？</value>
+		<value>很高興我們這次的交談，塵。這讓我感覺好多了，讓我知道我的哥哥正在幫助拯救這個世界。你會很快回來嗎？</value>
 	</data>
 	<data name="017_080" xml:space="preserve">
 		<value>當然了。回頭見。</value>
 	</data>
 	<data name="019_000" xml:space="preserve">
-		<value>又見面了，達斯特。</value>
+		<value>又見面了，塵。</value>
 	</data>
 	<data name="020_000" xml:space="preserve">
 		<value>嗯？</value>
@@ -424,7 +424,7 @@
 		<value>不，娟潔，我想妳前面那句是對的。我認為靖透過我的行動持續活著。他引導我，讓我不偏離正道。</value>
 	</data>
 	<data name="015_010" xml:space="preserve">
-		<value>但你的另一半呢？卡西斯殺了我的家人，達斯特。他摧毀了我的村莊，殺害我的朋友。你怎麼有辦法控制如此可怕的存在？</value>
+		<value>但你的另一半呢？卡西斯殺了我的家人，塵。他摧毀了我的村莊，殺害我的朋友。你怎麼有辦法控制如此可怕的存在？</value>
 	</data>
 	<data name="015_020" xml:space="preserve">
 		<value>每當我揮動阿拉之劍，我都能感覺到他的存在。我相信長老說得對──沒有他，我早就被幹掉了，另一方面……靖也不停地阻止他奪得掌控權。</value>
@@ -442,7 +442,7 @@
 		<value>也許……某天吧。目前我還需要他來擊敗蓋厄斯。沒有別的辦法了。</value>
 	</data>
 	<data name="015_070" xml:space="preserve">
-		<value>我知道。不過，很高興能和你交談，達斯特。</value>
+		<value>我知道。不過，很高興能和你交談，塵。</value>
 	</data>
 	<data name="015_080" xml:space="preserve">
 		<value>我也是，娟潔。我很快就會回來的。</value>
@@ -466,10 +466,10 @@
 		<value>我想是吧。好了，我可能得出發了。</value>
 	</data>
 	<data name="016_060" xml:space="preserve">
-		<value>我明白了。祝你好運，達斯特。路上保重。</value>
+		<value>我明白了。祝你好運，塵。路上保重。</value>
 	</data>
 	<data name="018_030" xml:space="preserve">
-		<value>我也是，達斯特。你會很快回來嗎？</value>
+		<value>我也是，塵。你會很快回來嗎？</value>
 	</data>
 	<data name="018_020" xml:space="preserve">
 		<value>很高興能和妳交談，娟潔。</value>
@@ -481,6 +481,6 @@
 		<value>對不起，娟潔。但我不是。</value>
 	</data>
 	<data name="018_010" xml:space="preserve">
-		<value>沒關係，達斯特。我知道你不是。但知道他的一部分正在引導你去幫助那麼多的人……這讓我很高興。我想爸爸和媽媽也會高興的。</value>
+		<value>沒關係，塵。我知道你不是。但知道他的一部分正在引導你去幫助那麼多的人……這讓我很高興。我想爸爸和媽媽也會高興的。</value>
 	</data>
 </root>

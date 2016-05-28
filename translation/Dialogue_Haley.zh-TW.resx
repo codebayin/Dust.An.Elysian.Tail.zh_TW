@@ -139,7 +139,7 @@
 		<value>那麼，你們大老遠從極光村跑來有什麼事嗎？我想你們是從那裡來的吧？</value>
 	</data>
 	<data name="000_070" xml:space="preserve">
-		<value>我叫達斯特，她是我的同伴，小煩。我們是替奧古斯汀送這些材料來的。</value>
+		<value>我叫塵，她是我的同伴，小煩。我們是替奧古斯汀送這些材料來的。</value>
 	</data>
 	<data name="000_080" xml:space="preserve">
 		<value>很高興認識你。我叫海莉，他是我的弟弟，馬帝。</value>
@@ -223,7 +223,7 @@
 		<value>我可以作證！碎碎唸連發。</value>
 	</data>
 	<data name="020_080" xml:space="preserve">
-		<value>我也說不準，達斯特。馬帝，你有什麼要說的嗎？</value>
+		<value>我也說不準，塵。馬帝，你有什麼要說的嗎？</value>
 	</data>
 	<data name="020_100" xml:space="preserve">
 		<value>好了，希望那能解答你的問題！</value>
@@ -232,7 +232,7 @@
 		<value>不是吧，但──</value>
 	</data>
 	<data name="020_120" xml:space="preserve">
-		<value>算了，達斯特。算了吧。</value>
+		<value>算了，塵。算了吧。</value>
 	</data>
 	<data name="015_Option_1" xml:space="preserve">
 		<value>妳做鐵匠多久了？</value>
@@ -286,13 +286,13 @@
 		<value>你知道的！聰明的，變種老鼠！會魔法喔！</value>
 	</data>
 	<data name="040_100" xml:space="preserve">
-		<value>不用擔心她，達斯特。高山症。會讓某些生物發瘋喔。</value>
+		<value>不用擔心她，塵。高山症。會讓某些生物發瘋喔。</value>
 	</data>
 	<data name="040_110" xml:space="preserve">
 		<value>小煩原本就很瘋狂了。也許我們該走了。</value>
 	</data>
 	<data name="013_000" xml:space="preserve">
-		<value>謝謝你，達斯特。要常常回來喔！</value>
+		<value>謝謝你，塵。要常常回來喔！</value>
 	</data>
 	<data name="011_000" xml:space="preserve">
 		<value>啊，那就下次吧。</value>
@@ -322,7 +322,7 @@
 		<value>那太好了！如果你需要製作物品，現在你可以直接從物品欄製作了。</value>
 	</data>
 	<data name="001_090" xml:space="preserve">
-		<value>我說，達斯特，這並不是說我不希望你親自來看我。但這樣至少我可以看著你，並在你需要我的時候幫助你。</value>
+		<value>我說，塵，這並不是說我不希望你親自來看我。但這樣至少我可以看著你，並在你需要我的時候幫助你。</value>
 	</data>
 	<data name="001_100" xml:space="preserve">
 		<value>當然，海莉。我真的很感謝妳的幫助。</value>

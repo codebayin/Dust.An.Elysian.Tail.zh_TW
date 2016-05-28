@@ -178,7 +178,7 @@
 		<value>進入暫停選單。</value>
 	</data>
 	<data name="Dead0Desc" xml:space="preserve">
-		<value>達斯特被敵人擊敗了。
+		<value>塵被敵人擊敗了。
 按 [A] 載入先前的存檔。</value>
 	</data>
 	<data name="Disconnect1Desc" xml:space="preserve">

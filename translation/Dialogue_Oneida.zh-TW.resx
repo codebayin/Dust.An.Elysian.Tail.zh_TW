@@ -118,7 +118,7 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="043_080" xml:space="preserve">
-		<value>你旅程的起點就快到了，達斯特。村莊就在前面。</value>
+		<value>你旅程的起點就快到了，塵。村莊就在前面。</value>
 	</data>
 	<data name="043_090" xml:space="preserve">
 		<value>是的，我們到了──很好，但接下來呢？</value>
@@ -142,10 +142,10 @@
 		<value>嗯，我想是的。</value>
 	</data>
 	<data name="043_020" xml:space="preserve">
-		<value>幹得好，達斯特。你證明了你是一個傑出的劍豪。而且及時趕上了。</value>
+		<value>幹得好，塵。你證明了你是一個傑出的劍豪。而且及時趕上了。</value>
 	</data>
 	<data name="043_030" xml:space="preserve">
-		<value>呿，牠們又不是很強！我大概能解決掉四、五隻。你知道的，如果有必要的話。況且達斯特也在。</value>
+		<value>呿，牠們又不是很強！我大概能解決掉四、五隻。你知道的，如果有必要的話。況且塵也在。</value>
 	</data>
 	<data name="043_140" xml:space="preserve">
 		<value>喂，妳說誰軟弱了？</value>
@@ -169,7 +169,7 @@
 		<value>那些怪物到處橫行，我覺得待在極光村這裡安全多了！</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
-		<value>哦，達斯特，我們感激你為我們所做的一切。吉亨和我正打算在極光村這裡休息一下。</value>
+		<value>哦，塵，我們感激你為我們所做的一切。吉亨和我正打算在極光村這裡休息一下。</value>
 	</data>
 	<data name="003_010" xml:space="preserve">
 		<value>事實上，也許你能找他談談？他永遠不會對我坦白，但我知道有什麼事困擾著他。</value>
@@ -178,7 +178,7 @@
 		<value>當然。他現在在哪裡？</value>
 	</data>
 	<data name="003_030" xml:space="preserve">
-		<value>他在村莊的西邊入口附近來回踱步，離你救我們的田地不遠。謝謝你所做的一切，達斯特。</value>
+		<value>他在村莊的西邊入口附近來回踱步，離你救我們的田地不遠。謝謝你所做的一切，塵。</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
 		<value>我的鏟子呢？</value>
