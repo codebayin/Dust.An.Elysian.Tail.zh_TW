@@ -130,7 +130,7 @@
 		<value>我還要找回賈尼先生的衣服。它掉到下面去了，我不想惹上麻煩。</value>
 	</data>
 	<data name="000_010" xml:space="preserve">
-		<value>我猜，你就是科爾賓吧。你知道你的姊姊一直在到處找你嗎？</value>
+		<value>我猜，你就是可賓吧。你知道你的姊姊一直在到處找你嗎？</value>
 	</data>
 	<data name="000_040" xml:space="preserve">
 		<value>我想我沒事。我知道怎麼自己回家。我來這裡很多次，但從來沒有出現過怪物！</value>
@@ -145,7 +145,7 @@
 		<value>白色共鳴石──這應該派得上用場，謝謝你。現在走吧，快點回村。</value>
 	</data>
 	<data name="000_110" xml:space="preserve">
-		<value>不，科爾賓，你回家去。我會搞定的。</value>
+		<value>不，可賓，你回家去。我會搞定的。</value>
 	</data>
 	<data name="000_140" xml:space="preserve">
 		<value>你認真的嗎？我們要去找那個混蛋的衣服？我們要做一個洗衣任務？</value>
@@ -163,7 +163,7 @@
 		<value>……是的，菲基特。就像衣服那樣。</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
-		<value>不客氣，科爾賓。只是下次聰明一點，好嗎？外面對於像你這樣的孩子來說太危險了。還有，你不用擔心賈尼。我會搞定他的。</value>
+		<value>不客氣，可賓。只是下次聰明一點，好嗎？外面對於像你這樣的孩子來說太危險了。還有，你不用擔心賈尼。我會搞定他的。</value>
 	</data>
 	<data name="001_011" xml:space="preserve">
 		<value>沒錯，就像衣服那樣！</value>
@@ -187,7 +187,7 @@
 		<value>啊，不，我不會那樣做。但我會努力為你達成連擊的。</value>
 	</data>
 	<data name="002_010" xml:space="preserve">
-		<value>哦哇，酷斃了！嘿，當你連擊到1000下時，你應該說：「這是獻給科爾賓！」</value>
+		<value>哦哇，酷斃了！嘿，當你連擊到1000下時，你應該說：「這是獻給可賓！」</value>
 	</data>
 	<data name="001_060" xml:space="preserve">
 		<value>菲基特，冷靜！</value>
@@ -217,7 +217,7 @@
 		<value>是啊，相信我，連擊1000得花一段時間呢。我很清楚。</value>
 	</data>
 	<data name="005_000" xml:space="preserve">
-		<value>好了，科爾賓，我已經達成1000連擊了。</value>
+		<value>好了，可賓，我已經達成1000連擊了。</value>
 	</data>
 	<data name="005_010" xml:space="preserve">
 		<value>我就知道你能做到，達斯特！將來有一天，我會像你一樣強大，然後我就能達成1000連擊！</value>
