@@ -157,7 +157,7 @@
 		<value>謝謝，海莉。</value>
 	</data>
 	<data name="000_250" xml:space="preserve">
-		<value>還有，因為我喜歡你，我會給你一顆藍色共鳴石。雖然不曉得你上山的途中有沒有看到，但射手山隘的山腳下有一道巨大的藍門，可以用這個開啟。</value>
+		<value>還有，因為我喜歡你，我會給你一顆藍色共鳴石。雖然不曉得你上山的途中有沒有看到，但弓手山隘的山腳下有一道巨大的藍門，可以用這個開啟。</value>
 	</data>
 	<data name="000_260" xml:space="preserve">
 		<value>門內剛好就是一個傳送點，可以把你送上來這裡！這樣往返就更容易了，所以你可以隨時過來看看。</value>
@@ -253,7 +253,7 @@
 		<value>不……呃，不如以往了。不過，我們賺的夠讓我們維持下去，這才是最重要的。</value>
 	</data>
 	<data name="015_Option_2" xml:space="preserve">
-		<value>為什麼住在射手山隘？</value>
+		<value>為什麼住在弓手山隘？</value>
 	</data>
 	<data name="040_000" xml:space="preserve">
 		<value>你們的鐵匠鋪實在是人煙罕至，海莉。為什麼把店設在離極光村這麼遠的地方呢？</value>
@@ -262,10 +262,10 @@
 		<value>這個鐵匠鋪真的很古老了！是我老爹的老爹的老爹的老爹從他母親的祖父那繼承過來的。</value>
 	</data>
 	<data name="040_020" xml:space="preserve">
-		<value>它是在射手山隘之戰的期間建造的，已經好幾百年了。當時弓手從這裡高處抵禦敵人，但他們需要一間鐵匠鋪來補給箭矢。</value>
+		<value>它是在弓手山隘之戰的期間建造的，已經好幾百年了。當時弓手從這裡高處抵禦敵人，但他們需要一間鐵匠鋪來補給箭矢。</value>
 	</data>
 	<data name="040_030" xml:space="preserve">
-		<value>所以他們就建在所在之地上了！它幫助了他們奪下射手山隘，從這裡，他們能夠解放整座山谷。</value>
+		<value>所以他們就建在所在之地上了！它幫助了他們奪下弓手山隘，從這裡，他們能夠解放整座山谷。</value>
 	</data>
 	<data name="040_040" xml:space="preserve">
 		<value>聽起來這間鐵匠鋪的背後有很多歷史。就算這樣……</value>

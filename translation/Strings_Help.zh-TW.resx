@@ -260,7 +260,7 @@
 		<value>按 [X] 開戰。</value>
 	</data>
 	<data name="blueprint" xml:space="preserve">
-		<value>你獲得了一張藍圖！射手山隘上的鐵匠能幫你製作此物品。查看物品欄能知道需要什麼材料。</value>
+		<value>你獲得了一張藍圖！弓手山隘上的鐵匠能幫你製作此物品。查看物品欄能知道需要什麼材料。</value>
 	</data>
 	<data name="challenge" xml:space="preserve">
 		<value>歡迎來到挑戰競技場！擊敗敵人和破壞燈具以獲取得分。受傷時會失去得分。快速完成挑戰會有得分加成！祝你好運！</value>
