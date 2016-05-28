@@ -227,7 +227,7 @@
 		<value>可分配技能寶石！</value>
 	</data>
 	<data name="Status_Haunted" xml:space="preserve">
-		<value>鬧鬼！</value>
+		<value>附身！</value>
 	</data>
 	<data name="Fidget_NoEscape" xml:space="preserve">
 		<value>無處可逃！</value>
