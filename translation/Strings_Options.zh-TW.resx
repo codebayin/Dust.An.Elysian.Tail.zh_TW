@@ -306,7 +306,7 @@
 	</data>
 	<data name="AutoAdvance" xml:space="preserve">
 		<value>切換對話是否自動推進。建議非英語系和聽力有障礙者選擇關閉。
-預設 = （開啟）。</value>
+預設 = （關閉）。</value>
 	</data>
 	<data name="PCStutter" xml:space="preserve">
 		<value>如果遊戲中感到畫面有微小卡頓就開啟這項功能，通常這種情況都是更新率的問題。注意，這項功能需要高速的多線程CPU和GPU才能正常運作，慢速的電腦上可能會造成問題。
