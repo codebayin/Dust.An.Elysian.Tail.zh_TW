@@ -120,6 +120,24 @@
 	<data name="Title" xml:space="preserve">
 		<value>章節</value>
 	</data>
+	<data name="Title_0" xml:space="preserve">
+		<value>序章</value>
+	</data>
+	<data name="Title_1" xml:space="preserve">
+		<value>第壹章</value>
+	</data>
+	<data name="Title_2" xml:space="preserve">
+		<value>第貳章</value>
+	</data>
+	<data name="Title_3" xml:space="preserve">
+		<value>第參章</value>
+	</data>
+	<data name="Title_4" xml:space="preserve">
+		<value>第肆章</value>
+	</data>
+	<data name="Title_5" xml:space="preserve">
+		<value>第伍章</value>
+	</data>
 	<data name="Chapter_3" xml:space="preserve">
 		<value>愛</value>
 	</data>
