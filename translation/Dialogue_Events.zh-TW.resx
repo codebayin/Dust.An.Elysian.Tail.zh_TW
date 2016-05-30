@@ -127,19 +127,19 @@
 		<value>醒醒！</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
-		<value>什麼……一把會說話的劍？你是誰？</value>
+		<value>什麼……一把會說話的劍？你是什麼呀？</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
-		<value>只是被你召喚出來的東西。</value>
+		<value>我只是被你召喚來的劍。</value>
 	</data>
 	<data name="001_020" xml:space="preserve">
-		<value>召喚？怎麼可能？為了什麼？</value>
+		<value>召喚？怎麼會？為了什麼？</value>
 	</data>
 	<data name="001_030" xml:space="preserve">
-		<value>我不知道。但我們遲早會明白的。</value>
+		<value>這我也不知道。但我們早晚會知道的。</value>
 	</data>
 	<data name="001_040" xml:space="preserve">
-		<value>起來吧，握住阿拉之劍。</value>
+		<value>現在起身吧，握住阿拉之劍。</value>
 	</data>
 	<data name="001_050" xml:space="preserve">
 		<value>呼、呼……別……別跑！</value>
@@ -157,7 +157,7 @@
 		<value>妳叫小煩？</value>
 	</data>
 	<data name="001_Option_0" xml:space="preserve">
-		<value>我看妳不像是守護者。</value>
+		<value>我看妳不像是個守護者。</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
 		<value>不好意思，但妳是不是有點……呃，太小了？</value>
@@ -187,7 +187,7 @@
 		<value>那……小煩，對嗎？</value>
 	</data>
 	<data name="002_150" xml:space="preserve">
-		<value>沒錯，是我！你叫塵？</value>
+		<value>沒錯，是我！你叫……塵？</value>
 	</data>
 	<data name="002_160" xml:space="preserve">
 		<value>似乎是這樣，雖然我想不起來這個名字。</value>
@@ -232,7 +232,7 @@
 		<value>好吧，好吧！你贏了！但別以為我會空手而回！我會跟你一起走！</value>
 	</data>
 	<data name="003_020" xml:space="preserve">
-		<value>不過，嗯……你知道的，不管你打算做什麼……等你用完之後我真的得拿回來喔。</value>
+		<value>不過，嗯……不管你打算做什麼……等你做完之後我真的得拿回來喔。</value>
 	</data>
 	<data name="003_030" xml:space="preserve">
 		<value>我到底該做什麼，阿拉？</value>
@@ -244,7 +244,7 @@
 		<value>然後你就會把劍還給我了嗎？我真真真的得在別人發現它不見之前放回去！</value>
 	</data>
 	<data name="003_060" xml:space="preserve">
-		<value>等我搞清楚我應該拿它做什麼之後，我就還給妳，小煩。來吧，出發囉。</value>
+		<value>小煩，等我搞清楚我應該拿它做什麼之後，我就還給妳。來吧，出發囉。</value>
 	</data>
 	<data name="015_000" xml:space="preserve">
 		<value>嗯……</value>
