@@ -278,7 +278,7 @@
 	<data name="DifficultyChange" xml:space="preserve">
 		<value>變更目前的難度設定。
 你目前以[CURRENTDIFFICULTY]難度進行遊戲。
-
+[]
 注意，降低難度可能會喪失通關成就。</value>
 	</data>
 	<data name="ColorBlind" xml:space="preserve">

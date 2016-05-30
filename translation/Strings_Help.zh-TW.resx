@@ -150,7 +150,7 @@
 	</data>
 	<data name="menuHelp5" xml:space="preserve">
 		<value>歡迎來到統計頁。
-
+[]
 在這裡你可以查看各種遊戲統計數據。</value>
 	</data>
 	<data name="move" xml:space="preserve">
@@ -182,7 +182,7 @@
 	</data>
 	<data name="menuHelp3" xml:space="preserve">
 		<value>歡迎來到任務頁。
-
+[]
 在這裡你可以查看進行中和已完成的任務，以及撿到的筆記。</value>
 	</data>
 	<data name="machinehint" xml:space="preserve">
@@ -209,13 +209,13 @@
 	</data>
 	<data name="menuHelp0" xml:space="preserve">
 		<value>歡迎來到人物頁。
-
+[]
 在這裡你可以分配升級時所獲得的技能寶石提升屬性。
 注意，你的最高屬性不能超出最低屬性4顆寶石。</value>
 	</data>
 	<data name="menuHelp2" xml:space="preserve">
 		<value>歡迎來到地圖頁。
-
+[]
 在這裡你可以查看目前區域內探索過的地方，也可以大致得知寶藏的藏匿點。</value>
 	</data>
 	<data name="combat2" xml:space="preserve">
@@ -267,16 +267,16 @@
 	</data>
 	<data name="menuHelp1" xml:space="preserve">
 		<value>歡迎來到物品頁。
-
+[]
 在這裡你可以管理裝備和物品。如果你的生命過低，你可以將治療物品放置在快捷槽，並在遊戲中按 [LB] 快速使用。
-
+[]
 注意，每頁下方的控制選項依內容會有所不同。</value>
 	</data>
 	<data name="menuHelp4" xml:space="preserve">
 		<value>歡迎來到材料頁。
-
+[]
 材料可從敵人身上收集，而且可交由鐵匠製作更好的裝備。
-
+[]
 材料還可以賣給商店。一旦列入商品目錄後，商店就會不時補貨。善用這點來補充稀少的材料。</value>
 	</data>
 	<data name="pcupgrade10" xml:space="preserve">

@@ -313,7 +313,7 @@
 	</data>
 	<data name="SaveHelp" xml:space="preserve">
 		<value>《塵埃：幸福的尾巴》除了手動存檔，也支援自動存檔。
-
+[]
 請注意，開始新遊戲或載入遊戲將會覆蓋自動存檔。</value>
 	</data>
 	<data name="ChooseDiff1Desc" xml:space="preserve">
@@ -330,15 +330,15 @@
 	</data>
 	<data name="UpsellBullets" xml:space="preserve">
 		<value>*控制塵，一位探索真實自我的劍客，與神祕的阿拉之劍和其守護者，小煩，合力保護法拉納世界免於被前所未見的軍隊破壞！
-
+[]
 *探索驚人的手繪世界！
-
+[]
 *運用智慧和武器挑戰怪物！
-
+[]
 *完成生動角色提供的豐富任務！
-
+[]
 *製作眾多物品，發掘法拉納的稀世珍寶！
-
+[]
 *與好友較量在競技場的高分排名！</value>
 	</data>
 </root>
