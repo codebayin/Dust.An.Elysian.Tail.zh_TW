@@ -175,7 +175,7 @@
 		<value>死亡使者</value>
 	</data>
 	<data name="Achievement_11_Title" xml:space="preserve">
-		<value>壓住、旋轉</value>
+		<value>壓住再轉</value>
 	</data>
 	<data name="Achievement_11_Desc" xml:space="preserve">
 		<value>解鎖一個寶箱。</value>
@@ -199,7 +199,7 @@
 		<value>對小煩的魔彈施展沙塵暴。</value>
 	</data>
 	<data name="Achievement_14_Title" xml:space="preserve">
-		<value>遙遠雷鳴</value>
+		<value>遠方雷鳴</value>
 	</data>
 	<data name="Achievement_15_Desc" xml:space="preserve">
 		<value>獲取一顆能力球。</value>
