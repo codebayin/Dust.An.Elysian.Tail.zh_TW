@@ -162,8 +162,8 @@
 	<data name="ButtonLThumb" xml:space="preserve">
 		<value>移動
 （下）蹲伏
-（上）向上看、
-交談、購物、
+（上）向上看
+交談、購物
 開箱、儲存</value>
 	</data>
 	<data name="ButtonRT" xml:space="preserve">
@@ -177,8 +177,8 @@
 （壓下）小地圖</value>
 	</data>
 	<data name="ButtonLB" xml:space="preserve">
-		<value>使用
-快捷槽的物品</value>
+		<value>使用快捷槽
+的物品</value>
 	</data>
 	<data name="ButtonRB" xml:space="preserve">
 		<value>切換魔彈</value>

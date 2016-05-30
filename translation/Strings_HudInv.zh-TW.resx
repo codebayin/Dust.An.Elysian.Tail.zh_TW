@@ -367,7 +367,7 @@
 		<value>[A] 修改     [B] 離開</value>
 	</data>
 	<data name="WorldMapNew" xml:space="preserve">
-		<value>新</value>
+		<value>新區域</value>
 	</data>
 	<data name="EquipCategory5Desc" xml:space="preserve">
 		<value>你收集的鑰匙、雜物和任務物品。</value>

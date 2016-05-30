@@ -221,7 +221,7 @@
 		<value>後製處理：</value>
 	</data>
 	<data name="PCPortraitTitle" xml:space="preserve">
-		<value>肖像品質：</value>
+		<value>人像品質：</value>
 	</data>
 	<data name="PCPostProcess" xml:space="preserve">
 		<value>切換後製處理泛光、動態模糊和折射渲染特效。開啟以獲得身臨其境的體驗，關閉以獲得更好的效能。
@@ -248,8 +248,8 @@
 [X] 預設    [A] 接受    [B] 取消</value>
 	</data>
 	<data name="PCPortrait" xml:space="preserve">
-		<value>高品質肖像能在對話時顯示未壓縮的人物圖像，提供更好的視覺體驗。注意，這是非常耗記憶體的操作，並且遊戲會在必要時改用壓縮的肖像。
-預設 = （普通）。</value>
+		<value>高品質人像能在對話時顯示未壓縮的人物圖像，以提供更好的視覺體驗。注意，這是非常耗記憶體的操作，並且遊戲會在必要時改用壓縮的人像。
+預設 = （高）。</value>
 	</data>
 	<data name="PCEnabledLocked" xml:space="preserve">
 		<value>鎖住</value>
@@ -270,7 +270,7 @@
 		<value>按任意鍵指定……</value>
 	</data>
 	<data name="PCCustomizeHelp0" xml:space="preserve">
-		<value>按滑鼠左鍵或Enter鍵以指定按鍵，或者按Delete鍵以清除選中的動作。</value>
+		<value>按滑鼠左鍵或「Enter」鍵以指定按鍵，或者按「Delete」鍵以清除選中的動作。</value>
 	</data>
 	<data name="PCControls" xml:space="preserve">
 		<value>《塵埃：幸福的尾巴》會動態偵測你的輸入方式，並顯示相應的介面。</value>
@@ -321,7 +321,7 @@
 預設 = （關閉）。</value>
 	</data>
 	<data name="AutoHeal1" xml:space="preserve">
-		<value>需要時自動使用拾起的物品。
+		<value>必要時自動使用拾起的物品。
 休閒難度下永久開啟。</value>
 	</data>
 	<data name="AutoFire1" xml:space="preserve">
@@ -329,7 +329,7 @@
 休閒難度下永久開啟。</value>
 	</data>
 	<data name="AutoHeal2" xml:space="preserve">
-		<value>選擇在必要之時，拾起治療物品就自動使用，還是一律放進物品欄再手動使用。
+		<value>選擇是否在必要時自動使用拾起的治療物品，或是一律放進物品欄再手動使用。
 預設 = （關閉）。</value>
 	</data>
 	<data name="AutoLevel2" xml:space="preserve">
