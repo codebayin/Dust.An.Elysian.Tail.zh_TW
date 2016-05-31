@@ -280,16 +280,16 @@
 材料還可以賣給商店。一旦列入商品目錄後，商店就會不時補貨。善用這點來補充稀少的材料。</value>
 	</data>
 	<data name="pcupgrade10" xml:space="preserve">
-		<value>習得衝刺！按 [LT] 或 [RT] 衝刺。
-衝刺會耗費能量，介面上的白色火焰條就是你的能量值。</value>
+		<value>習得閃避！按 [LT] 或 [RT] 閃避。
+閃避會耗費能量，介面上的白色火焰條就是你的能量值。</value>
 	</data>
 	<data name="trialjump" xml:space="preserve">
-		<value>使用 [LT] 和 [RT] 或 [RTHUMB] 衝刺。
-衝刺會耗費能量，介面上的白色火焰條就是你的能量值。</value>
+		<value>使用 [LT] 和 [RT] 或 [RTHUMB] 閃避。
+閃避會耗費能量，介面上的白色火焰條就是你的能量值。</value>
 	</data>
 	<data name="upgrade10" xml:space="preserve">
-		<value>習得衝刺！使用 [LT] 和 [RT] 或 [RTHUMB] 衝刺。
-衝刺會耗費能量，介面上的白色火焰條就是你的能量值。</value>
+		<value>習得閃避！使用 [LT] 和 [RT] 或 [RTHUMB] 閃避。
+閃避會耗費能量，介面上的白色火焰條就是你的能量值。</value>
 	</data>
 	<data name="trialdestroywall" xml:space="preserve">
 		<value>某些牆壁可以破壞。睜大眼睛尋找埋藏的寶藏吧！</value>
