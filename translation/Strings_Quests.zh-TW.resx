@@ -199,10 +199,10 @@
 		<value>你已經湊齊了材料。帶回去交給極光村的施拜以換取報酬。</value>
 	</data>
 	<data name="018_000" xml:space="preserve">
-		<value>施拜想將艾維的特性融入裝備中。從飛行生物身上收集「6個艾維翼」和「6個艾維爪」。</value>
+		<value>施拜想將艾維的特性融入裝備之中。從飛行生物身上收集「6個艾維翼」和「6個艾維爪」。</value>
 	</data>
 	<data name="017_000" xml:space="preserve">
-		<value>為了持續強化極光村守衛的護甲，施拜請你弄「2個巨石」和「2個巨核」給他。</value>
+		<value>為了要持續強化極光村守衛的護甲，施拜請你弄「2個巨石」和「2個巨核」給他。</value>
 	</data>
 	<data name="003_001" xml:space="preserve">
 		<value>你已經湊齊了黏液物質。帶回去交給極光村的施拜以換取報酬。</value>
@@ -235,13 +235,13 @@
 		<value>啵波將雪置於父親的墳墓上，履行了曾經對他的承諾。</value>
 	</data>
 	<data name="020_000" xml:space="preserve">
-		<value>奧奈達似乎很擔心她的丈夫。到極光村西邊入口附近找吉亨談談。</value>
+		<value>奧奈達似乎很擔心她的丈夫。到極光村的西邊入口附近找吉亨談談。</value>
 	</data>
 	<data name="020_002" xml:space="preserve">
 		<value>你已經找到了懷錶。把它交給極光村的吉亨。</value>
 	</data>
 	<data name="020_001" xml:space="preserve">
-		<value>吉亨請你搜索他農場附近的區域，幫他尋找懷錶。</value>
+		<value>吉亨請你搜索他的農場周圍，幫他尋找懷錶。</value>
 	</data>
 	<data name="016_001" xml:space="preserve">
 		<value>你已經湊齊了岩犬牙。帶回去交給泥潭村的布洛普。</value>
@@ -259,7 +259,7 @@
 		<value>泥潭村的絲莫芭普說她一定要得到小煩。在抗拒要給她真人的同時，你決定去找一個合適的替代品，小煩外型的布偶是最佳的方案。你最好去找極光村的店主求助。</value>
 	</data>
 	<data name="015_001" xml:space="preserve">
-		<value>店主答應會製作一個小煩布偶了，但他需要「2碼布料」、「3團棉花」和「1瓶染料」來完成這項工作。</value>
+		<value>店主已經答應會製作一個小煩布偶了，但他需要「2碼布料」、「3團棉花」和「1瓶染料」來完成這項工作。</value>
 	</data>
 	<data name="015_002" xml:space="preserve">
 		<value>你已經獲得了所需的材料。極光村的店主現在應該能做出小煩布偶了。</value>
@@ -280,7 +280,7 @@
 		<value>布洛普很興奮能找回棍子。現在他又可以開始東敲西敲了。可惜的是，你一直有個疑問：當初他的棍子為什麼會被藏起來。</value>
 	</data>
 	<data name="012_000" xml:space="preserve">
-		<value>芙蘿哈普請你幫她尋找紅苔蘚，讓她能做飯給辛勞工作的丈夫吃。據說這些苔蘚只生長在陰暗、巨大紅蘑菇的菌傘下。</value>
+		<value>芙蘿哈普請你尋找紅苔蘚，讓她能做飯給辛勞工作的丈夫吃。據說這些苔蘚只生長在陰暗、巨大紅蘑菇的菌傘下。</value>
 	</data>
 	<data name="012_001" xml:space="preserve">
 		<value>你已經採集了幾撮紅苔蘚。帶回去交給泥潭村的芙蘿哈普。</value>
@@ -298,7 +298,7 @@
 		<value>你已經找到了適合簽名的紙。雖然你覺得有點蠢，但你還是會實現莫斯卡的心願的。</value>
 	</data>
 	<data name="009_000" xml:space="preserve">
-		<value>你遇到了一位叫里德的古怪傢伙。他似乎在找某個盒子。</value>
+		<value>你遇到一位叫里德的古怪傢伙。他似乎在找某個盒子。</value>
 	</data>
 	<data name="009_001" xml:space="preserve">
 		<value>為了交換布偶，絲莫芭普給了你一個盒子，這個盒子跟里德提過的那個很像。把盒子交給極光村的里德。</value>
@@ -307,10 +307,10 @@
 		<value>小煩似乎不小心打開了里德的盒子。得知這件事後，里德拒絕拿回盒子。雖然你現在有了精美的盒子，但裡頭的惡靈正慢慢地榨乾你的生命。唯一的「解藥」就是讓怪物殺了你。</value>
 	</data>
 	<data name="009_003" xml:space="preserve">
-		<value>在你承受致命一擊的瞬間，惡靈就被消滅了，而詛咒也解除了。把盒子交給極光村的里德，還有……記住這次別再打開了。</value>
+		<value>在你承受致命一擊的瞬間，惡靈就被消滅了，而詛咒也解除了。把盒子還給極光村的里德……記住這次別再打開了。</value>
 	</data>
 	<data name="008_000" xml:space="preserve">
-		<value>莫斯卡請你確認一位女孩的安危，她就住在阿巴蒂斯森林邊上的峽谷村。</value>
+		<value>莫斯卡請你幫他確認一位女孩的安危，她就住在阿巴蒂斯森林邊上的峽谷村。</value>
 	</data>
 	<data name="008_001" xml:space="preserve">
 		<value>峽谷村成了一片廢墟，但你發現了一張字條，是一位叫莎拉希的女孩寫給莫斯卡的。把字條交給極光村的莫斯卡。</value>
@@ -319,7 +319,7 @@
 		<value>莫斯卡認為莎拉希在逃出峽谷村後，可能正躲藏在隱祕海灣。</value>
 	</data>
 	<data name="008_003" xml:space="preserve">
-		<value>你救了莎拉希，並幫她與莫斯卡重逢了。這兩人已回到了極光村。</value>
+		<value>你救了莎拉希並幫她與莫斯卡重逢了。這兩人已回到了極光村。</value>
 	</data>
 	<data name="007_000" xml:space="preserve">
 		<value>如果達成1000連擊的話，可賓會愛上你的。你有這個本事嗎？</value>
@@ -334,7 +334,7 @@
 		<value>可琳正在尋找她失蹤的弟弟，可賓。她說極光村的賈尼或許會知道他的下落。</value>
 	</data>
 	<data name="006_001" xml:space="preserve">
-		<value>賈尼叫可賓去藤蔓幽谷洗衣服了。去確保可賓的安全。</value>
+		<value>賈尼叫可賓去藤蔓幽谷幫他洗衣服了。去確保可賓的安全。</value>
 	</data>
 	<data name="006_002" xml:space="preserve">
 		<value>你救了可賓，把他安全地送回家了。現在該去找賈尼的衣服了。</value>
@@ -352,7 +352,7 @@
 		<value>奧古斯汀請你替他將一份藍圖送去給弓手山隘的鐵匠，因為最近那裡好像非常危險。</value>
 	</data>
 	<data name="004_001" xml:space="preserve">
-		<value>你見到了鐵匠的女兒，海莉。現在她能按照你找到的藍圖製作裝備了。為了能大力地幫上忙，她請你去找一個特殊的裝置，可使你能在世界的各個角落與她通訊。去找出在阿巴蒂斯森林裡的藍色共鳴門。</value>
+		<value>你見到了鐵匠的女兒，海莉。現在她能按照你找到的藍圖製作裝備了。為了能大力地幫上忙，她請你去找一個特殊的裝置，可使你能在世界各處與她通訊。去找出在阿巴蒂斯森林裡的藍色共鳴門。</value>
 	</data>
 	<data name="004_002" xml:space="preserve">
 		<value>你已經獲得了海莉的收發器。現在無論在哪，海莉都能為你製作裝備了。進入物品欄，挑選一張藍圖並選擇「製作」即可。</value>
@@ -376,7 +376,7 @@
 		<value>布萊姆村長建議你去找一位叫娟潔的年輕女士談談。她似乎對火種提到的「月血族」有所了解。</value>
 	</data>
 	<data name="000_006" xml:space="preserve">
-		<value>極光村受到了襲擊！擊敗怪物，並查明他們是怎麼進到村裡來的。</value>
+		<value>極光村受到了襲擊！擊退怪物並查明牠們是怎麼進到村裡來的。</value>
 	</data>
 	<data name="000_007" xml:space="preserve">
 		<value>你發現了一處美麗但又危險的地底世界。往深處前進，找出那群怪物襲擊極光村的原因。</value>
@@ -397,10 +397,10 @@
 		<value>你和忒媞斯神女解決了問題，她已經恢復了礦物水的流動。回去找泥潭村的啵波。</value>
 	</data>
 	<data name="000_013" xml:space="preserve">
-		<value>雖然你成功地讓水再次流動了並拯救了山谷，但你還是沒能救活啵波的父親。你現在必須向北前往悲慟荒原，去會見「凱恩男爵」。</value>
+		<value>雖然你成功讓水再次流動並拯救了山谷，但你還是沒能救活啵波的父親。你現在必須向北前往悲慟荒原，去會見「凱恩男爵」。</value>
 	</data>
 	<data name="000_014" xml:space="preserve">
-		<value>通往山脈的道路被奇怪的魔法屏障擋住了。在悲慟荒原中找到凱恩男爵並與他交談，了解如何解除屏障。</value>
+		<value>通往山脈的道路被奇怪的屏障擋住了。在悲慟荒原中找到凱恩男爵並與他交談，了解如何解除屏障。</value>
 	</data>
 	<data name="000_015" xml:space="preserve">
 		<value>柯菈請你從悲慟荒原各個角落的廢棄府邸找回四件紀念物。</value>
@@ -409,19 +409,19 @@
 		<value>你找齊了柯菈的紀念物。回去悲慟荒原的中心交給她。</value>
 	</data>
 	<data name="000_017" xml:space="preserve">
-		<value>在你的幫助下，柯菈成功地趕走了被認為控制她丈夫的惡靈。凱恩告訴了你更多關於戰爭的詳情，還為你打開了在墓地入口處通往山脈的道路。</value>
+		<value>在你的幫助下，柯菈成功趕走了被認為控制她丈夫的惡靈。凱恩告訴了你更多關於戰爭的詳情，還為你打開了在墓地入口處通往山脈的道路。</value>
 	</data>
 	<data name="000_018" xml:space="preserve">
 		<value>雖然這冰天雪地還算美麗，但往北去見娟潔的路上你有種不安的感覺。</value>
 	</data>
 	<data name="000_019" xml:space="preserve">
-		<value>北邊的道路被巨大的雪牆堵住了。找到通過的辦法。</value>
+		<value>北邊道路被巨大的雪牆堵住了。找到通過的辦法。</value>
 	</data>
 	<data name="000_020" xml:space="preserve">
 		<value>你排除了山路上的障礙。抵達山頂與娟潔見面，並計劃著對付蓋厄斯將軍的下一步行動。</value>
 	</data>
 	<data name="000_021" xml:space="preserve">
-		<value>你發現了自身的真相。到恆曉盆地底部的隱祕營地與娟潔和長老見面。</value>
+		<value>你發現了關於自身的真相。到恆曉盆地底部的隱祕營地與娟潔和長老見面。</value>
 	</data>
 	<data name="000_022" xml:space="preserve">
 		<value>確認在營地邊緣奇爾的安危，並協助桑金恢復月血的補給系統。</value>
