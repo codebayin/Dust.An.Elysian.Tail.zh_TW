@@ -655,7 +655,7 @@
 		<value>一次性使用的石頭，可將使用者從儲存古蹟傳送到世界地圖。</value>
 	</data>
 	<data name="301_Desc" xml:space="preserve">
-		<value>一次性使用的石頭，據說能復活陣亡的戰士。一次重生的機會，就看你的意願。</value>
+		<value>一次性使用的石頭，據說能復活陣亡的戰士。一次重生的機會。</value>
 	</data>
 	<data name="305_Desc" xml:space="preserve">
 		<value>一次性使用的鑰匙，可用來打開寶箱和籠子。</value>
