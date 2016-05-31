@@ -117,32 +117,32 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
-	<data name="000_000" xml:space="preserve">
+	<data name="000_000.0" xml:space="preserve">
 		<value>我們的世界凋零了。</value>
 	</data>
-	<data name="000_004" xml:space="preserve">
+	<data name="000_003.6" xml:space="preserve">
 		<value>它的偉業早已完成，它的文明早已化作塵土，</value>
 	</data>
-	<data name="000_011" xml:space="preserve">
+	<data name="000_012.1" xml:space="preserve">
 		<value>偉大的樂土傳說早已被遺忘了。</value>
 	</data>
-	<data name="000_017" xml:space="preserve">
-		<value>曾經的應許之地遭到戰火蹂躪，</value>
+	<data name="000_017.6" xml:space="preserve">
+		<value>曾經的應許之地遭到了戰火蹂躪，</value>
 	</data>
-	<data name="000_023" xml:space="preserve">
-		<value>偉大的樂土傳說就在我們最絕望的時刻展開了。</value>
+	<data name="000_024.0" xml:space="preserve">
+		<value>就在我們最絕望的時刻，偉大的樂土傳說展開了。</value>
 	</data>
-	<data name="000_032" xml:space="preserve">
-		<value>戰士孤身以寡敵眾，在敵陣中殺出一條血路。</value>
+	<data name="000_032.7" xml:space="preserve">
+		<value>戰士孤身以寡敵眾，在人群中殺出一條血路。</value>
 	</data>
-	<data name="000_039" xml:space="preserve">
-		<value>敵眾毫無勝算，戰士毫不留情。</value>
+	<data name="000_039.8" xml:space="preserve">
+		<value>群眾毫無勝算，戰士毫不留情。</value>
 	</data>
-	<data name="000_046" xml:space="preserve">
+	<data name="000_046.8" xml:space="preserve">
 		<value>儘管他戰無不勝、身懷絕技、冷酷無情，但英勇的戰士將在這一天滅亡。</value>
 	</data>
-	<data name="000_056" xml:space="preserve">
-		<value>不是亡於敵眾，而是一名孩子。</value>
+	<data name="000_056.8" xml:space="preserve">
+		<value>不是亡於群眾，而是一名孩子。</value>
 	</data>
 	<data name="030_000" xml:space="preserve">
 		<value>與此同時，在遙遠的北方……</value>
