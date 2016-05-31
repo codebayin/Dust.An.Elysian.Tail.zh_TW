@@ -312,7 +312,7 @@
 		<value>根據遊戲難度，儲存古蹟也會恢復你的部分生命值。</value>
 	</data>
 	<data name="save" xml:space="preserve">
-		<value>穿過儲存古蹟以自動儲存進度。
+		<value>經過儲存古蹟以自動儲存進度。
 按 [UP] 手動儲存。</value>
 	</data>
 	<data name="rescued" xml:space="preserve">
