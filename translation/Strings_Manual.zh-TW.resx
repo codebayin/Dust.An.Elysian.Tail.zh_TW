@@ -121,10 +121,10 @@
 		<value>目錄</value>
 	</data>
 	<data name="Controls" xml:space="preserve">
-		<value>[LTHUMB] 捲動    [A] 目錄    [B] 離開</value>
+		<value>[LTHUMB] 捲動     [A] 目錄     [B] 離開</value>
 	</data>
 	<data name="ContentControls" xml:space="preserve">
-		<value>[A] 選擇    [B] 取消</value>
+		<value>[A] 選擇     [B] 取消</value>
 	</data>
 	<data name="Manual" xml:space="preserve">
 		<value>[BOOKMARK_-控制-]

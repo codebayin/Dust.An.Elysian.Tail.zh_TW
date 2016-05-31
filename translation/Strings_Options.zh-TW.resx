@@ -127,7 +127,7 @@
 		<value>Xbox 360手把</value>
 	</data>
 	<data name="SettingsControls" xml:space="preserve">
-		<value>[LTHUMB] 調整    [X] 預設    [A] 接受    [B] 取消</value>
+		<value>[LTHUMB] 調整     [X] 預設     [A] 接受     [B] 取消</value>
 	</data>
 	<data name="PCCustomizeRestore" xml:space="preserve">
 		<value>恢復預設值</value>
@@ -231,8 +231,8 @@
 		<value>[MOUSEL] 移動     [MOUSER] 縮放</value>
 	</data>
 	<data name="PCHUDControlsKeyboard" xml:space="preserve">
-		<value>[LTHUMB] 移動     '+,-' 縮放     [Y] 切換敵人狀態
-[X] 預設    [A] 接受    [B] 取消</value>
+		<value>[LTHUMB] 移動     '+/-' 縮放     [Y] 切換敵人狀態
+[X] 預設     [A] 接受     [B] 取消</value>
 	</data>
 	<data name="PCHUDControls2" xml:space="preserve">
 		<value>切換敵人狀態</value>
@@ -245,7 +245,7 @@
 	</data>
 	<data name="HUDControls" xml:space="preserve">
 		<value>[LTHUMB] 移動     [RTHUMB] 縮放     [Y] 切換敵人狀態
-[X] 預設    [A] 接受    [B] 取消</value>
+[X] 預設     [A] 接受     [B] 取消</value>
 	</data>
 	<data name="PCPortrait" xml:space="preserve">
 		<value>高品質人像能在對話時顯示未壓縮的人物圖像，以提供更好的視覺體驗。注意，這是非常耗記憶體的操作，並且遊戲會在必要時改用壓縮的人像。

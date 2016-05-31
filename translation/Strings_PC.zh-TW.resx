@@ -172,7 +172,7 @@
 		<value>[INVSUBLEFT]/[INVSUBRIGHT] 切換分類     [LTHUMB] 捲動     [B] 離開</value>
 	</data>
 	<data name="ShopPageSwitch" xml:space="preserve">
-		<value>[INVLEFT], [INVRIGHT] 切換分類</value>
+		<value>[INVLEFT]/[INVRIGHT] 切換分類</value>
 	</data>
 	<data name="AchievementLocal" xml:space="preserve">
 		<value>你正在查看當前遊戲過程中所獲得的成就。返回主選單可查看總體成就。</value>

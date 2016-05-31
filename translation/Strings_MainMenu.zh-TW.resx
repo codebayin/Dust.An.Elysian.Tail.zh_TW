@@ -236,8 +236,8 @@
 		<value>載入中……</value>
 	</data>
 	<data name="LoadControls" xml:space="preserve">
-		<value>[A] 選擇    [B] 取消    [X] 複製
-[Y] 刪除    [BACK] 選擇儲存裝置</value>
+		<value>[A] 選擇     [B] 取消     [X] 複製
+[Y] 刪除     [BACK] 選擇儲存裝置</value>
 	</data>
 	<data name="Options4Desc" xml:space="preserve">
 		<value>查看製作團隊名單。</value>
