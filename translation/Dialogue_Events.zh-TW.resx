@@ -259,7 +259,7 @@
 		<value>好耶！我們找到了寶箱！</value>
 	</data>
 	<data name="025_010" xml:space="preserve">
-		<value>訂正：我們找到了上鎖的寶箱。</value>
+		<value>更正：我們找到了「上鎖」的寶箱。</value>
 	</data>
 	<data name="025_020" xml:space="preserve">
 		<value>哎喲，你還在等什麼？砸開它啊！</value>
@@ -286,7 +286,7 @@
 		<value>真奇怪……我是從哪學到這些技能的？</value>
 	</data>
 	<data name="006_020" xml:space="preserve">
-		<value>你揮舞著阿拉之劍，拿著它，其內的所有技能就會被激發出來。</value>
+		<value>你持有阿拉之劍，揮舞它，其內的所有技能就會被激發。</value>
 	</data>
 	<data name="006_030" xml:space="preserve">
 		<value>呃，有人嗎？怪物們？！</value>
@@ -325,7 +325,7 @@
 		<value>那樣的話，也許我可以幫忙！如果你按 [B]，我就會施展超級華麗的攻擊，讓你有前所未有的感受。</value>
 	</data>
 	<data name="011_050" xml:space="preserve">
-		<value>在我示範的時候請不要太感動：</value>
+		<value>在我示範的時候請不要太感動喔：</value>
 	</data>
 	<data name="012_000" xml:space="preserve">
 		<value>還真是，呃……漂亮啊。</value>

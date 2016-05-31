@@ -257,7 +257,7 @@
 使用 [X] 和 [Y] 連續施展。</value>
 	</data>
 	<data name="defend" xml:space="preserve">
-		<value>按 [X] 開戰。</value>
+		<value>按 [X] 展開攻擊。</value>
 	</data>
 	<data name="blueprint" xml:space="preserve">
 		<value>你獲得了一張藍圖！弓手山隘上的鐵匠能幫你製作此物品。查看物品欄能知道需要什麼材料。</value>
