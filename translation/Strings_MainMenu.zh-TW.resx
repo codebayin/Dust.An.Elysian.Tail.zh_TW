@@ -199,6 +199,12 @@
 	<data name="Main5Desc" xml:space="preserve">
 		<value>離開並返回遊戲庫。</value>
 	</data>
+	<data name="Main6" xml:space="preserve">
+		<value>CodeBay.in 出品</value>
+	</data>
+	<data name="Main6Desc" xml:space="preserve">
+		<value>造訪 CodeBay.in 網站。</value>
+	</data>
 	<data name="MainBackDesc" xml:space="preserve">
 		<value>返回主選單。</value>
 	</data>
