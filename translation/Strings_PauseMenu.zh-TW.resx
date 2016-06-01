@@ -193,7 +193,7 @@
 		<value>試玩模式下無法使用。解鎖完整版遊戲以使用這項功能！</value>
 	</data>
 	<data name="PauseTitle" xml:space="preserve">
-		<value>遊戲暫停</value>
+		<value>暫停</value>
 	</data>
 	<data name="Option4" xml:space="preserve">
 		<value>製作團隊</value>
