@@ -127,7 +127,7 @@
 		<value>[A] 選擇     [B] 取消</value>
 	</data>
 	<data name="Manual" xml:space="preserve">
-		<value>[BOOKMARK_-控制-]
+		<value>[BOOKMARK_-操作-]
 [IMAGE_Controller1_0,0,450,312]
 []
 使用 [LTHUMB] 或 [DPAD] 移動。按住 [DOWN] 蹲伏。按住 [UP] 或 [DOWN] 調整相應視野。
@@ -190,7 +190,7 @@
 []
 你可以在物品欄中裝備和使用物品，提升屬性，以及查看地圖和任務。
 []
-按 [BACK] 進入物品欄。注意，每頁下方的控制選項依內容會有所不同以供輔助。
+按 [BACK] 進入物品欄。注意，每頁下方的操作選項依內容會有所不同以供輔助。
 []
 []
 [BOOKMARK_-經驗與連擊-]

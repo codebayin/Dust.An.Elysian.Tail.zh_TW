@@ -173,13 +173,13 @@
 		<value>調整介面</value>
 	</data>
 	<data name="Options1Desc" xml:space="preserve">
-		<value>查看控制方法。</value>
+		<value>查看操作方法。</value>
 	</data>
 	<data name="Options0Desc" xml:space="preserve">
 		<value>閱讀遊戲手冊。</value>
 	</data>
 	<data name="Options1" xml:space="preserve">
-		<value>控制</value>
+		<value>操作</value>
 	</data>
 	<data name="Options0" xml:space="preserve">
 		<value>遊戲指南</value>
@@ -329,7 +329,7 @@
 		<value>專為挑戰不可能的精英玩家所設計的，因為每場戰鬥都會是意志的考驗。僅僅選擇此難度都值得尊敬。</value>
 	</data>
 	<data name="UpsellBullets" xml:space="preserve">
-		<value>*控制塵，一位探索真實自我的劍客，與神祕的阿拉之劍和其守護者，小煩，合力保護法拉納世界免於被前所未見的軍隊破壞！
+		<value>*控制著塵，一位探索真實自我的劍客，與神祕的阿拉之劍和其守護者小煩，合力保護法拉納世界免於被前所未見的軍隊破壞！
 []
 *探索驚人的手繪世界！
 []

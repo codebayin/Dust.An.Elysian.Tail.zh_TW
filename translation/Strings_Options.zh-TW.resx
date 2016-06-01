@@ -261,7 +261,7 @@
 		<value>動作</value>
 	</data>
 	<data name="PCControlsTitle" xml:space="preserve">
-		<value>控制方式：</value>
+		<value>操作方式：</value>
 	</data>
 	<data name="PCControlsOption1" xml:space="preserve">
 		<value>僅限鍵盤</value>

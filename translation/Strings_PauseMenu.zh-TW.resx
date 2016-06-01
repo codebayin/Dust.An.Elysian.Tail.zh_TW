@@ -151,7 +151,7 @@
 		<value>閱讀遊戲手冊。</value>
 	</data>
 	<data name="Option1Desc" xml:space="preserve">
-		<value>查看控制方法。</value>
+		<value>查看操作方法。</value>
 	</data>
 	<data name="OptionsTitle" xml:space="preserve">
 		<value>說明與選項</value>
@@ -208,7 +208,7 @@
 		<value>遊戲指南</value>
 	</data>
 	<data name="Option1" xml:space="preserve">
-		<value>控制</value>
+		<value>操作</value>
 	</data>
 	<data name="Quit0Desc" xml:space="preserve">
 		<value>離開至主選單。任何未儲存的進度將會遺失！</value>
