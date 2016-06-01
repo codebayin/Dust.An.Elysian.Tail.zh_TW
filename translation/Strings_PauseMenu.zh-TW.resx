@@ -214,7 +214,7 @@
 		<value>離開至主選單。任何未儲存的進度將會遺失！</value>
 	</data>
 	<data name="Quit1Desc" xml:space="preserve">
-		<value>取消並返回暫停選單</value>
+		<value>取消並返回暫停選單。</value>
 	</data>
 	<data name="QuitTitle" xml:space="preserve">
 		<value>離開遊戲？</value>
