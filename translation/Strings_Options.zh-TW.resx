@@ -305,7 +305,7 @@
 		<value>自動對話：</value>
 	</data>
 	<data name="AutoAdvance" xml:space="preserve">
-		<value>切換對話是否自動推進。建議非英語系和聽力有障礙者選擇關閉。
+		<value>切換是否自動對話。建議非英語系和聽力有障礙者選擇關閉。
 預設 = （關閉）。</value>
 	</data>
 	<data name="PCStutter" xml:space="preserve">
