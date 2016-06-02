@@ -151,7 +151,7 @@
 		<value>繼續</value>
 	</data>
 	<data name="Skip2" xml:space="preserve">
-		<value>自動推進</value>
+		<value>自動對話</value>
 	</data>
 	<data name="SaveSuccess" xml:space="preserve">
 		<value>繼續</value>
@@ -248,12 +248,12 @@
 		<value>你的進度已成功儲存。按 [A] 繼續。</value>
 	</data>
 	<data name="Skip2Desc0" xml:space="preserve">
-		<value>對話目前會自動推進。
-按 [A] 關閉自動推進。</value>
+		<value>對話目前會自動。
+按 [A] 關閉自動對話。</value>
 	</data>
 	<data name="Skip2Desc1" xml:space="preserve">
-		<value>對話必須手動推進。
-按 [A] 開啟自動推進。</value>
+		<value>對話目前需要手動。
+按 [A] 開啟自動對話。</value>
 	</data>
 	<data name="StorageFullDesc" xml:space="preserve">
 		<value>儲存裝置已滿。請清除儲存裝置的空間以使用這項功能。</value>
@@ -275,13 +275,16 @@
 		<value>你未分配所有技能寶石！你是否要以後再分配這些寶石？</value>
 	</data>
 	<data name="SkipTitle" xml:space="preserve">
-		<value>過場暫停</value>
+		<value>暫停</value>
 	</data>
 	<data name="Skip0Desc1" xml:space="preserve">
 		<value>跳過這段對話。</value>
 	</data>
 	<data name="Skip1Desc" xml:space="preserve">
 		<value>繼續這段過場。</value>
+	</data>
+	<data name="Skip1Desc1" xml:space="preserve">
+		<value>繼續這段對話。</value>
 	</data>
 	<data name="Skip0Desc0" xml:space="preserve">
 		<value>跳過這段過場。</value>
