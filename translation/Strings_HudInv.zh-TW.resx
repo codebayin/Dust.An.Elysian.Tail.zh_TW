@@ -364,7 +364,7 @@
 		<value>[X] 卸下     [Y] 使用     [A] 裝備     [B] 返回</value>
 	</data>
 	<data name="EquipCategoryControls0" xml:space="preserve">
-		<value>[A] 修改     [B] 離開</value>
+		<value>[A] 變更     [B] 離開</value>
 	</data>
 	<data name="WorldMapNew" xml:space="preserve">
 		<value>新區域</value>
