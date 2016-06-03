@@ -170,7 +170,7 @@
 		<value>已售完</value>
 	</data>
 	<data name="ItemUnavailableMe" xml:space="preserve">
-		<value>無庫存</value>
+		<value>無存貨</value>
 	</data>
 	<data name="ShopControlsSort" xml:space="preserve">
 		<value>[Y] 整理</value>

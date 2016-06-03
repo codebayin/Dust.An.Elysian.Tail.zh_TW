@@ -179,7 +179,7 @@
 		<value>筆記新增！</value>
 	</data>
 	<data name="Mini_GoldAcquired" xml:space="preserve">
-		<value>獲得金幣！</value>
+		<value>金幣獲得！</value>
 	</data>
 	<data name="Status_Critical" xml:space="preserve">
 		<value>暴擊！</value>
@@ -188,7 +188,7 @@
 		<value>習得新能力！</value>
 	</data>
 	<data name="Mini_XPAcquired" xml:space="preserve">
-		<value>獲得經驗！</value>
+		<value>經驗獲得！</value>
 	</data>
 	<data name="Status_LevelUp" xml:space="preserve">
 		<value>升級！</value>
