@@ -201,7 +201,7 @@
 	</data>
 	<data name="pccarrybomb" xml:space="preserve">
 		<value>你發現了一顆爆彈果！
-利用沙塵暴 [Y] 來摘下並牽引果實。</value>
+利用沙塵暴 [Y] 摘下並牽引果實。</value>
 	</data>
 	<data name="pcdamage" xml:space="preserve">
 		<value>你受傷了！介面上的綠條就是你的生命值。
@@ -224,7 +224,7 @@
 	</data>
 	<data name="carrybomb" xml:space="preserve">
 		<value>你發現了一顆爆彈果！
-利用沙塵暴 [Y] 來摘下並牽引果實。</value>
+利用沙塵暴 [Y] 摘下並牽引果實。</value>
 	</data>
 	<data name="combat3" xml:space="preserve">
 		<value>天降之物（空對地）
