@@ -334,10 +334,10 @@
 		<value>哼！好吧，也許我還是保留其餘的招式為妙。</value>
 	</data>
 	<data name="012_020" xml:space="preserve">
-		<value>抱歉，小煩。我相信它會有用的。</value>
+		<value>抱歉，小煩，我相信它會有用的。</value>
 	</data>
 	<data name="012_030" xml:space="preserve">
-		<value>事實上，塵，對我們三個來說，這可能會非常有用。</value>
+		<value>確實，塵，那對我們三個來說，可能會非常有用。</value>
 	</data>
 	<data name="012_040" xml:space="preserve">
 		<value>沙塵暴能使小煩的魔彈變成更強大的攻擊。看好了：</value>
@@ -361,10 +361,10 @@
 		<value>如果這對你來說太過複雜，你可以按 [START] 打開暫停選單來查看說明。</value>
 	</data>
 	<data name="013_060" xml:space="preserve">
-		<value>謝謝妳，小煩。如果我遇到麻煩的話會看一看的。</value>
+		<value>謝謝妳，小煩，如果我遇到麻煩的話會看一看的。</value>
 	</data>
 	<data name="028_000" xml:space="preserve">
-		<value>喂，你剛剛升級了！</value>
+		<value>嘿，你剛剛升級了！</value>
 	</data>
 	<data name="028_010" xml:space="preserve">
 		<value>是我做到的？感覺真好！太棒了！</value>
@@ -376,22 +376,22 @@
 		<value>哇，怎麼回事？你剛剛傷到自己了？</value>
 	</data>
 	<data name="027_010" xml:space="preserve">
-		<value>塵，你一定要小心！就算最偉大的劍士也無法這麼長時間地施展沙塵暴！</value>
+		<value>塵，你一定要小心！就算最優秀的劍士也無法這麼長時間地施展沙塵暴！</value>
 	</data>
 	<data name="027_020" xml:space="preserve">
-		<value>唔……好的。以後我會更加小心的。</value>
+		<value>唔……好的，以後我會更加小心的。</value>
 	</data>
 	<data name="027_030" xml:space="preserve">
 		<value>注意你的顏色。如果你開始變紅，畫面開始抖動，就表示你快撐不住了。</value>
 	</data>
 	<data name="020_000" xml:space="preserve">
-		<value>……哇。</value>
+		<value>……哇哦。</value>
 	</data>
 	<data name="020_010" xml:space="preserve">
 		<value>這上面真的很漂亮。</value>
 	</data>
 	<data name="020_020" xml:space="preserve">
-		<value>是啊。那麼，知道我們現在在哪嗎？</value>
+		<value>是啊～那麼，知道我們現在在哪嗎？</value>
 	</data>
 	<data name="020_030" xml:space="preserve">
 		<value>我還希望妳能告訴我呢。</value>
@@ -400,10 +400,10 @@
 		<value>噢，我真糊塗！追著那把到處亂飛的劍的時候，我似乎把所有的地圖和導航裝備弄丟了。</value>
 	</data>
 	<data name="020_050" xml:space="preserve">
-		<value>抱歉，害妳卷了進來，小煩。</value>
+		<value>抱歉，害妳牽扯進來了，小煩。</value>
 	</data>
 	<data name="020_060" xml:space="preserve">
-		<value>哎，的確！拿了我的劍，害我陷入麻煩……</value>
+		<value>噢，都是你！拿了我的劍，害我陷入麻煩……</value>
 	</data>
 	<data name="020_070" xml:space="preserve">
 		<value>妳知道嗎，現在想起來，我不是第一次見到這種景色了。我曾經站在過這裡，就在這個地方。</value>
@@ -412,10 +412,10 @@
 		<value>那或許你能認出山崖底部的村莊？</value>
 	</data>
 	<data name="020_090" xml:space="preserve">
-		<value>從這邊很難看見。要再靠近一點的話，我們得下去谷底。</value>
+		<value>從這裡很難看見。要再靠近一點的話，我們得下去谷底。</value>
 	</data>
 	<data name="020_100" xml:space="preserve">
-		<value>很好。就照你說的吧，塵。</value>
+		<value>很好，就照你說的吧，塵。</value>
 	</data>
 	<data name="031_000" xml:space="preserve">
 		<value>那是帳篷嗎？有人在裡面嗎？</value>
@@ -424,10 +424,10 @@
 		<value>嘎！管它是什麼，裡面有邪惡的目光在閃爍！</value>
 	</data>
 	<data name="031_020" xml:space="preserve">
-		<value>只有等待顧客上門的商人。別被他的外表嚇到了，我覺得他只是想幫助我們。</value>
+		<value>只是一位野外商人。別被他的外表嚇到了，我覺得他只是想幫助我們。</value>
 	</data>
 	<data name="031_030" xml:space="preserve">
-		<value>呿！我可不是被嚇到了！只是……有點驚訝。對於，呃……我們的荷包！來吧，我們和他談談吧！</value>
+		<value>呿！我可不是被嚇到了！只是對於，呃……我們的資金……有些驚訝！來吧，我們和他談談吧！</value>
 	</data>
 	<data name="057_000" xml:space="preserve">
 		<value>籠子裡有東西！快，放他出來！</value>
@@ -688,7 +688,7 @@
 		<value>嗚嗚，我實在不想看到這種……</value>
 	</data>
 	<data name="090_010" xml:space="preserve">
-		<value>我們終於到了，小煩。跟緊我妳就不會有事的。阿拉，你看見了什麼？有東西嗎？</value>
+		<value>我們終於到了，小煩，跟緊我妳就不會有事的。阿拉，你看見了什麼？有東西嗎？</value>
 	</data>
 	<data name="090_020" xml:space="preserve">
 		<value>又一個擋在你面前的敵人，但這傢伙……</value>
@@ -775,7 +775,7 @@
 		<value>我們辦到了。</value>
 	</data>
 	<data name="105_010" xml:space="preserve">
-		<value>他知道我是誰，小煩。他之前見過我。要是他能再活久一點就好了……要是我能設法救活他就好了……</value>
+		<value>他知道我是誰，小煩，他之前見過我。要是他能再活久一點就好了……要是我能設法救活他就好了……</value>
 	</data>
 	<data name="105_020" xml:space="preserve">
 		<value>如你所見，村裡到處是屍體，那不會是個好主意。</value>
@@ -1237,7 +1237,7 @@
 		<value>還不夠！要清掉那些雪我們還需要找到更多柱子！</value>
 	</data>
 	<data name="450_040" xml:space="preserve">
-		<value>我們真的應該給妳找個溫暖的地方，小煩。我覺得妳快病倒了。</value>
+		<value>我們真的應該給妳找個溫暖的地方，小煩，我覺得妳快病倒了。</value>
 	</data>
 	<data name="450_050" xml:space="preserve">
 		<value>絕不！</value>
@@ -1246,13 +1246,13 @@
 		<value>那……真是美妙的歌聲。</value>
 	</data>
 	<data name="465_010" xml:space="preserve">
-		<value>停下來，小煩。停下來。</value>
+		<value>停下來，小煩，停下來。</value>
 	</data>
 	<data name="465_020" xml:space="preserve">
 		<value>唉……我覺得我快病倒了。</value>
 	</data>
 	<data name="465_030" xml:space="preserve">
-		<value>是的，小煩。我們只能靠自己了。走吧，塵，繼續前進。</value>
+		<value>是的，小煩，我們只能靠自己了。走吧，塵，繼續前進。</value>
 	</data>
 	<data name="470_000" xml:space="preserve">
 		<value>哦，哇！那真有效！快點，我們快回洞外吧！</value>
@@ -1516,7 +1516,7 @@
 		<value>等等！你們怎麼會認識對方？我們部族已經把劍藏了兩百多年了！！</value>
 	</data>
 	<data name="505_130" xml:space="preserve">
-		<value>灰眼大師活了很久了，小煩。比你們任何人都久。</value>
+		<value>灰眼大師活了很久了，小煩，比你們任何人都久。</value>
 	</data>
 	<data name="505_140" xml:space="preserve">
 		<value>所以你是被派來監視我的？</value>
@@ -1591,7 +1591,7 @@
 		<value>小煩，請冷靜。妳不該這樣測試妳的朋友。</value>
 	</data>
 	<data name="507_040" xml:space="preserve">
-		<value>我明白，小煩。妳說得對。我不能要求妳跟著我。</value>
+		<value>我明白，小煩。妳說得對，我不能要求妳跟著我。</value>
 	</data>
 	<data name="507_030" xml:space="preserve">
 		<value>我只是……如果我將跟著你到世界的盡頭，我得知道我跟隨的是誰，還有跟隨的理由。</value>
@@ -1657,7 +1657,7 @@
 		<value>我感覺到這個裝置沒有能量散發出來，塵。或許有讓它恢復發電的辦法？</value>
 	</data>
 	<data name="551_000" xml:space="preserve">
-		<value>做得好，小煩。營地現在應該有電了。</value>
+		<value>做得好，小煩，營地現在應該有電了。</value>
 	</data>
 	<data name="551_010" xml:space="preserve">
 		<value>坦白說，小煩，沒有妳我會在哪裡呢？</value>
@@ -1720,7 +1720,7 @@
 		<value>唔，那完全沒意義啊！</value>
 	</data>
 	<data name="430_010" xml:space="preserve">
-		<value>每一刻都有其意義，小煩。妳只需要深入探索。</value>
+		<value>每一刻都有其意義，小煩，妳只需要深入探索。</value>
 	</data>
 	<data name="650_000" xml:space="preserve">
 		<value>啊，聖．米斯拉林──</value>
@@ -1858,7 +1858,7 @@
 		<value>卡西斯會剷除月血族，可是靖……他會保護他們。</value>
 	</data>
 	<data name="700_250" xml:space="preserve">
-		<value>不，小煩。妳錯了……那些事沒有一件是靖做的。</value>
+		<value>不，小煩，妳錯了……那些事沒有一件是靖做的。</value>
 	</data>
 	<data name="700_260" xml:space="preserve">
 		<value>你終於醒悟過來了？</value>

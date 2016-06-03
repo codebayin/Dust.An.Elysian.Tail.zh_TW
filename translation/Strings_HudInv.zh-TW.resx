@@ -334,7 +334,8 @@
 		<value>已找到好友</value>
 	</data>
 	<data name="UpgradeComplete" xml:space="preserve">
-		<value>所有技能寶石已被分配！按 [A] 確認這些升級。</value>
+		<value>所有技能寶石已被分配！
+按 [A] 確認這些升級。</value>
 	</data>
 	<data name="QuestCat1" xml:space="preserve">
 		<value>已完成</value>

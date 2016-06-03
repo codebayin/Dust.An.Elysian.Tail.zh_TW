@@ -224,7 +224,7 @@
 		<value>連擊中斷！</value>
 	</data>
 	<data name="Mini_SkillGem" xml:space="preserve">
-		<value>可分配技能寶石！</value>
+		<value>分配技能寶石！</value>
 	</data>
 	<data name="Status_Haunted" xml:space="preserve">
 		<value>附身！</value>

@@ -160,8 +160,8 @@
 		<value>你現在有多個目的地。壓下 [RTHUMB] 查看地圖。</value>
 	</data>
 	<data name="needbomb" xml:space="preserve">
-		<value>這堵牆用了合金進行強化了。
-某些爆炸物應該會有用。</value>
+		<value>這堵牆是用合金強化的。
+某些爆炸物應該能炸開。</value>
 	</data>
 	<data name="pcmove" xml:space="preserve">
 		<value>按 [LEFT] 或 [RIGHT] 移動。</value>
@@ -372,7 +372,7 @@
 	</data>
 	<data name="upgrade12" xml:space="preserve">
 		<value>習得空中沙塵暴！
-跳起並按住 [Y] 從遠處空中向敵人進攻！</value>
+跳起並按住 [Y] 從遠處的空中向敵人進攻！</value>
 	</data>
 	<data name="upgrade17" xml:space="preserve">
 		<value>習得乘風跳！
