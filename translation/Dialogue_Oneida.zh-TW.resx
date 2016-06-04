@@ -127,7 +127,7 @@
 		<value>哦，非常感謝你們！</value>
 	</data>
 	<data name="043_050" xml:space="preserve">
-		<value>這裡發生什麼事了？</value>
+		<value>這裡發生了什麼事？</value>
 	</data>
 	<data name="043_060" xml:space="preserve">
 		<value>我、我不知道！當時我們正在這裡查看田地，然後那些巨人就襲擊了。</value>
@@ -151,7 +151,7 @@
 		<value>喂，妳說誰軟弱了？</value>
 	</data>
 	<data name="043_100" xml:space="preserve">
-		<value>接下來我還不知道。這些人安全了，這才是最重要的。我們繼續前進吧。</value>
+		<value>接下來的目標我還不知道。這些人安全了，這才是最重要的。我們繼續前進吧。</value>
 	</data>
 	<data name="043_120" xml:space="preserve">
 		<value>還好，我只是需要休息一下。我不知道你怎麼辦到的，你居然獨自就解決了三隻巨人！</value>
@@ -190,7 +190,7 @@
 		<value>別擔心鏟子了，親愛的。等你好點，我們就去安全的地方。</value>
 	</data>
 	<data name="002_040" xml:space="preserve">
-		<value>噢不，親愛的。他在逃離怪物時把鏟子弄壞了。等他的腳好點，我會給他一個新鏟子的。</value>
+		<value>不用，親愛的。他在逃跑時把鏟子弄壞了。等他的腳好點，我會給他一個新鏟子的。</value>
 	</data>
 	<data name="002_030" xml:space="preserve">
 		<value>我該去找遺失的鏟子嗎？</value>
@@ -199,7 +199,7 @@
 		<value>噢，呿你自己啦！</value>
 	</data>
 	<data name="001_020" xml:space="preserve">
-		<value>這老頭在逃跑躲避怪物時扭傷了腳。你真好，留下來保護你可憐的老婆！</value>
+		<value>這老頭在逃跑時扭傷了腳。你真好，留下來保護你可憐的老婆！</value>
 	</data>
 	<data name="001_030" xml:space="preserve">
 		<value>我當時是跑去搬救兵！</value>
