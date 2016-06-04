@@ -118,10 +118,10 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="000_000" xml:space="preserve">
-		<value>哦，你好！你嚇到我了──不要帶一群人離村莊這麼遠。</value>
+		<value>哦，你好！你嚇到我了──這村莊荒郊沒什麼人。</value>
 	</data>
 	<data name="000_010" xml:space="preserve">
-		<value>抱歉。很高興終於遇到一張親切的面孔。所以我們快到村莊了嗎？</value>
+		<value>抱歉嚇到妳了。很高興終於遇到一張親切的面孔。所以我們快到村莊了嗎？</value>
 	</data>
 	<data name="000_020" xml:space="preserve">
 		<value>你是指極光村嗎？是的，它就在那片田地的東邊。我想你可能還來得及。</value>
@@ -145,7 +145,7 @@
 		<value>拜託，你得加快腳步！</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
-		<value>哦，你們正在幫助那些人嗎？</value>
+		<value>哦，你們正在幫助村民們嗎？</value>
 	</data>
 	<data name="003_010" xml:space="preserve">
 		<value>我們正在盡最大努力。</value>

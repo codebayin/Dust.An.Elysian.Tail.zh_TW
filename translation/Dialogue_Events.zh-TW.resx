@@ -445,13 +445,13 @@
 		<value>很好，我抓住了！等等……不！啊～！</value>
 	</data>
 	<data name="053_000" xml:space="preserve">
-		<value>有困難嗎？</value>
+		<value>有難度嗎？</value>
 	</data>
 	<data name="053_010" xml:space="preserve">
-		<value>是啊，我不明白耶，我剛剛竟然抓不住。</value>
+		<value>不知道耶，我剛剛竟然抓不住。</value>
 	</data>
 	<data name="053_020" xml:space="preserve">
-		<value>唷～你剛剛想耍帥耶！真可愛。</value>
+		<value>喲～你剛剛想耍帥耶！真可愛。</value>
 	</data>
 	<data name="053_030" xml:space="preserve">
 		<value>別擔心，我相信有辦法上去的。我們以後再來吧。</value>
@@ -466,13 +466,13 @@
 		<value>別擔心，塵！我會一路跟在你後頭的。</value>
 	</data>
 	<data name="033_030" xml:space="preserve">
-		<value>遠遠地跟。</value>
+		<value>遠遠地。</value>
 	</data>
 	<data name="034_000" xml:space="preserve">
 		<value>啊！又是那種長刺的史萊姆！</value>
 	</data>
 	<data name="034_010" xml:space="preserve">
-		<value>牠們很頑強，這點我不得不承認。</value>
+		<value>牠們很頑強，這點我得承認。</value>
 	</data>
 	<data name="034_020" xml:space="preserve">
 		<value>雖然我對這隻墮落的野獸感到可憐，但現在也許是示範格擋技巧的好時機。</value>
@@ -484,7 +484,7 @@
 		<value>嘿，你打暈牠了！</value>
 	</data>
 	<data name="035_010" xml:space="preserve">
-		<value>在敵人攻擊的瞬間，攻擊並按住 [X]，你就能擋掉他們的攻擊，並取得反擊的機會。</value>
+		<value>在敵人攻擊的瞬間，攻擊並按住 [X]，你就能擋掉牠們的攻擊，並取得反擊的機會。</value>
 	</data>
 	<data name="035_020" xml:space="preserve">
 		<value>時機非常重要，而且你必須面向對手。</value>
@@ -499,13 +499,13 @@
 		<value>我看到那邊有人。</value>
 	</data>
 	<data name="039_010" xml:space="preserve">
-		<value>去問問他們有沒有吃的。</value>
+		<value>去問問她有沒有吃的。</value>
 	</data>
 	<data name="039_020" xml:space="preserve">
 		<value>我們在趕時間，小煩。別擔心，等會我會餵妳的。</value>
 	</data>
 	<data name="039_030" xml:space="preserve">
-		<value>喂，人家才不是寵物！不過，呃……感謝你，謝謝。</value>
+		<value>喂，人家才不是寵物！但，呃……感謝你，謝謝。</value>
 	</data>
 	<data name="040_000" xml:space="preserve">
 		<value>你看！</value>
