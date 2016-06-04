@@ -175,13 +175,13 @@
 		<value>呵唷，你好！我總是很高興見到新面孔！即使是像你這樣整個蓋住的。</value>
 	</data>
 	<data name="000_010" xml:space="preserve">
-		<value>確實。嗯，我叫塵，這位叫小煩。</value>
+		<value>確實。那個，我叫塵，這位叫小煩。</value>
 	</data>
 	<data name="000_020" xml:space="preserve">
 		<value>你好！別在意這位臭臉先生。他不擅長用眼神交流。</value>
 	</data>
 	<data name="000_030" xml:space="preserve">
-		<value>小煩和塵，是嗎？外地來的，對吧？嗯，我原本也是外地來的。但如果你們不趕時間的話，這裡是個好地方啊。</value>
+		<value>小煩和塵，是嗎？外地來的，對吧？我原本也是外地來的。但如果你們不趕時間的話，這裡是個好地方啊。</value>
 	</data>
 	<data name="000_040" xml:space="preserve">
 		<value>噢，我真是失禮！我叫奧古斯汀，是本地的大力士！嘿，你想要比腕力嗎？</value>
@@ -193,19 +193,19 @@
 		<value>啊，真遺憾。原以為你看起來像是比腕力的高手。</value>
 	</data>
 	<data name="000_065" xml:space="preserve">
-		<value>你知道嗎，我聽說了你救奧奈達的事。太了不起！也許我們可以互相幫助？</value>
+		<value>你知道嗎，我聽說你救了奧奈達。太了不起！也許我們可以互相幫助？</value>
 	</data>
 	<data name="000_070" xml:space="preserve">
 		<value>也許吧。你想說什麼？</value>
 	</data>
 	<data name="000_080" xml:space="preserve">
-		<value>我有個老朋友，是一位鐵匠。住在弓手山隘的頂端。</value>
+		<value>我有個老朋友，是一位鐵匠，住在弓手山隘的山頂。</value>
 	</data>
 	<data name="000_090" xml:space="preserve">
 		<value>很久以前我承諾會送一些材料給他，但好多年沒走那條路了。最近這片區域也很危險！也許你能幫我把東西送過去？</value>
 	</data>
 	<data name="000_100" xml:space="preserve">
-		<value>要不這樣吧！如果你幫我，我就送你這張藍圖！如果你把藍圖和這些多餘的材料給他，他會立刻依你的要求把東西做給你！</value>
+		<value>要不這樣吧！如果你幫我，我就送你這張藍圖！如果你把藍圖和這些多餘的材料給他，他會立刻照你的要求把東西做給你的！</value>
 	</data>
 	<data name="000_110" xml:space="preserve">
 		<value>能按圖施工的鐵匠？我想我會接受你的提議，奧古斯汀。</value>
@@ -217,7 +217,7 @@
 		<value>說實話，這裡的東西並不多，但你可以在東邊入口附近找到一間商店。</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
-		<value>謝謝，奧古斯汀。也許我們會順道去看看。</value>
+		<value>謝謝，奧古斯汀，也許我們會順道去看看。</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
 		<value>今天天氣真好，是吧？想要比腕力嗎？</value>

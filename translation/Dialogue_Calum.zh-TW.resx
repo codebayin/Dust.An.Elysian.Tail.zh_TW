@@ -154,10 +154,10 @@
 		<value>這裡發生了什麼事？</value>
 	</data>
 	<data name="045_120" xml:space="preserve">
-		<value>我猜你們在來的路上沒遇到成群的殘暴怪物？</value>
+		<value>我想你們在來的路上沒遇到成群的殘暴怪物？</value>
 	</data>
 	<data name="045_130" xml:space="preserve">
-		<value>牠們原本都待在遠離村莊的山中。現在，牠們每天襲擊我們。</value>
+		<value>牠們原本都待在遠離村莊的山中。現在，牠們每天都來襲擊我們。</value>
 	</data>
 	<data name="045_140" xml:space="preserve">
 		<value>至少目前為止……還沒有人受傷。如果巨人出現在奧奈達的農場附近，那事情遠比我們想像的更糟。</value>
@@ -184,7 +184,7 @@
 		<value>請進，不必拘束。我叫比恩。雖然這裡沒有太多東西，但如果你需要補給，我們倒是有一位商人。</value>
 	</data>
 	<data name="045_220" xml:space="preserve">
-		<value>謝謝你，那我們上路了。</value>
+		<value>謝謝你，那我們走了。</value>
 	</data>
 	<data name="000_000" xml:space="preserve">
 		<value>你穿的服裝真是有趣。</value>
@@ -202,7 +202,7 @@
 		<value>我不是寵物！塵，告訴他我不是你的寵物。</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
-		<value>你真的應該好好準備，以防有什麼東西闖來這裡。</value>
+		<value>你真的應該好好準備，以防有什麼東西闖進這裡。</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
 		<value>廢話！我可是製作了這支長矛。</value>

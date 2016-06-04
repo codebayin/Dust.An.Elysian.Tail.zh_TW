@@ -130,7 +130,7 @@
 		<value>他不在村莊內？</value>
 	</data>
 	<data name="000_000" xml:space="preserve">
-		<value>噢嗨！新面孔。你們是旅行者？</value>
+		<value>噢嗨！新面孔。你們是旅行者嗎？</value>
 	</data>
 	<data name="000_030" xml:space="preserve">
 		<value>不，他不在這裡！我找不到他，我已經到處找遍了！</value>
@@ -148,7 +148,7 @@
 		<value>我想他在幫賈尼先生做事，但每當我向他問起可賓時，他總說自己很忙。我真的很不喜歡那個人。</value>
 	</data>
 	<data name="000_050" xml:space="preserve">
-		<value>我叫可琳。噢，我懷疑他是不是離開了村莊！他會受傷的！</value>
+		<value>我叫可琳。噢，我懷疑他是不是離開村莊了！他會受傷的！</value>
 	</data>
 	<data name="002_010" xml:space="preserve">
 		<value>嗯，別太苛責他，可琳，他已經經歷了很多。保重了。</value>

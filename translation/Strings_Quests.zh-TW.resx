@@ -136,7 +136,7 @@
 		<value>新創事業</value>
 	</data>
 	<data name="006_Title" xml:space="preserve">
-		<value>晾乾</value>
+		<value>晾於險境</value>
 	</data>
 	<data name="007_Title" xml:space="preserve">
 		<value>連、連、連、連擊破壞者</value>
@@ -217,7 +217,7 @@
 		<value>你已經湊齊了魔精皮。帶回去交給極光村的施拜以換取報酬。</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
-		<value>施拜想要強化村鎮守衛所穿的護甲。帶「5張魔精皮」給他，以助他完成心願。</value>
+		<value>施拜想要強化村莊守衛所穿的護甲。帶「5張魔精皮」給他，以助他完成心願。</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
 		<value>施拜想用「4個黏液刺」和「4個黏液膜」所提煉出來的化合物來持續強化極光村守衛的護甲。你認為這會有點棘手。</value>
@@ -310,7 +310,7 @@
 		<value>在你承受致命一擊的瞬間，惡靈就被消滅了，而詛咒也解除了。把盒子還給極光村的里德……記住這次別再打開了。</value>
 	</data>
 	<data name="008_000" xml:space="preserve">
-		<value>莫斯卡請你幫他確認一位女孩的安危，她就住在阿巴蒂斯森林邊上的峽谷村。</value>
+		<value>莫斯卡請你幫他確認一位女孩的安危，她就住在阿巴蒂斯森林邊緣的峽谷村。</value>
 	</data>
 	<data name="008_001" xml:space="preserve">
 		<value>峽谷村成了一片廢墟，但你發現了一張字條，是一位叫莎拉希的女孩寫給莫斯卡的。把字條交給極光村的莫斯卡。</value>
