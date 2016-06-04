@@ -331,7 +331,7 @@
 		<value>殺敵數</value>
 	</data>
 	<data name="StatName6" xml:space="preserve">
-		<value>已找到好友</value>
+		<value>已救出好友</value>
 	</data>
 	<data name="UpgradeComplete" xml:space="preserve">
 		<value>所有技能寶石已被分配！

@@ -316,7 +316,7 @@
 按 [UP] 手動儲存。</value>
 	</data>
 	<data name="rescued" xml:space="preserve">
-		<value>你找到了一位好友，獲得永久5%生命加成！你可以透過世界地圖拜訪在庇護所的好友。</value>
+		<value>你救出了一位好友，獲得永久5%生命加成！你可以透過世界地圖拜訪在庇護所的好友。</value>
 	</data>
 	<data name="shopstock" xml:space="preserve">
 		<value>商人會不時補充商品目錄內的材料。確保商品目錄種類齊全對你是有幫助的。</value>
