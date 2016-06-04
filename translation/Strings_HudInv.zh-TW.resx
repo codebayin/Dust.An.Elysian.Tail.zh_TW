@@ -253,7 +253,7 @@
 		<value>總計：</value>
 	</data>
 	<data name="CharStat0DescStat" xml:space="preserve">
-		<value>營救加成。</value>
+		<value>生命加成。</value>
 	</data>
 	<data name="BlueprintReq" xml:space="preserve">
 		<value>所需材料</value>
