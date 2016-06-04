@@ -430,10 +430,10 @@
 		<value>呿！我可不是被嚇到了！只是對於，呃……我們的資金……有些驚訝！來吧，我們和他談談吧！</value>
 	</data>
 	<data name="057_000" xml:space="preserve">
-		<value>籠子裡有東西！快，放他出來！</value>
+		<value>籠子裡有東西！快救他出來！</value>
 	</data>
 	<data name="057_010" xml:space="preserve">
-		<value>有四個鎖。我大膽猜測我們需要四把鑰匙。</value>
+		<value>有四個鎖，我大膽地猜測我們需要四把鑰匙。</value>
 	</data>
 	<data name="051_000" xml:space="preserve">
 		<value>塵，上面有東西！</value>
@@ -454,7 +454,7 @@
 		<value>唷～你剛剛想耍帥耶！真可愛。</value>
 	</data>
 	<data name="053_030" xml:space="preserve">
-		<value>別擔心。我相信有辦法上去的。我們以後再來吧。</value>
+		<value>別擔心，我相信有辦法上去的。我們以後再來吧。</value>
 	</data>
 	<data name="033_000" xml:space="preserve">
 		<value>看來我們走的方向沒錯。</value>
