@@ -121,7 +121,7 @@
 		<value>站在那裡別動！</value>
 	</data>
 	<data name="045_010" xml:space="preserve">
-		<value>牠們走了嗎？我什麼都聽不到！</value>
+		<value>牠們走了嗎？我沒聽到任何動靜！</value>
 	</data>
 	<data name="045_030" xml:space="preserve">
 		<value>牠們死了？！</value>
@@ -178,7 +178,7 @@
 		<value>就像你說的，外面有很多怪物。</value>
 	</data>
 	<data name="045_200" xml:space="preserve">
-		<value>好吧，不管怎樣我們感謝你，過去吧。但我會盯著你們的。</value>
+		<value>好吧，不管怎樣，我們感謝你，過去吧。但我會盯著你們的。</value>
 	</data>
 	<data name="045_210" xml:space="preserve">
 		<value>請進，不必拘束。我叫比恩。雖然這裡沒有太多東西，但如果你需要補給，我們倒是有一位商人。</value>

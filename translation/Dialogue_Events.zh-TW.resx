@@ -427,7 +427,7 @@
 		<value>只是一位野外商人。別被他的外表嚇到了，我覺得他只是想幫助我們。</value>
 	</data>
 	<data name="031_030" xml:space="preserve">
-		<value>呿！我可不是被嚇到了！只是對於，呃……我們的資金……有些驚訝！來吧，我們和他談談吧！</value>
+		<value>呿！我可不是被嚇到了！只是對於，呃……我們的資金……有些驚訝！來吧，我們和他聊聊吧！</value>
 	</data>
 	<data name="057_000" xml:space="preserve">
 		<value>籠子裡有東西！快救他出來！</value>
@@ -586,7 +586,7 @@
 		<value>我……我不知道我為什麼這麼說。對不起，小煩，我、我不知道我剛才是怎麼了。走吧，繼續前進。</value>
 	</data>
 	<data name="075_000" xml:space="preserve">
-		<value>你有聽到什麼在……拍打翅膀嗎？</value>
+		<value>你有聽到什麼東西在……拍翅嗎？</value>
 	</data>
 	<data name="075_010" xml:space="preserve">
 		<value>什麼？不是妳嗎？</value>
@@ -598,19 +598,19 @@
 		<value>等等，妳說得對。小心！我們被盯上了！</value>
 	</data>
 	<data name="076_000" xml:space="preserve">
-		<value>噢，天哪。牠真應該以保命為先。</value>
+		<value>天哪，牠真的應該先保住性命。</value>
 	</data>
 	<data name="076_010" xml:space="preserve">
 		<value>爆彈怪。非常致命的生物。千萬別靠近。</value>
 	</data>
 	<data name="076_020" xml:space="preserve">
-		<value>如果太靠近的話牠們就會自爆，但在吸氣時卻非常脆弱。</value>
+		<value>如果你太靠近的話，牠們就會自爆，但在吸氣時卻非常脆弱。</value>
 	</data>
 	<data name="076_030" xml:space="preserve">
 		<value>遠程攻擊的絕佳標靶！交給我吧！</value>
 	</data>
 	<data name="073_000" xml:space="preserve">
-		<value>太出乎意料了。你知道為什麼嗎？</value>
+		<value>事情太順利了。你知道為什麼嗎？</value>
 	</data>
 	<data name="073_010" xml:space="preserve">
 		<value>我不知道，小煩。為什麼？</value>
@@ -637,7 +637,7 @@
 		<value>哼！我才不怕黑呢！其實，我是怕高。</value>
 	</data>
 	<data name="080_030" xml:space="preserve">
-		<value>等等，怕高？怎麼可能？妳整天飛著耶。無時無刻。</value>
+		<value>等等，怕高？怎麼可能？妳整天飛著耶，無時無刻。</value>
 	</data>
 	<data name="080_040" xml:space="preserve">
 		<value>哦，是嗎？我一定是忘了！就像你忘了我隨時都可能會掉下來耶！</value>
