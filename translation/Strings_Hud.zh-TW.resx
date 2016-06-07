@@ -173,7 +173,7 @@
 		<value>查看得分</value>
 	</data>
 	<data name="Mini_QuestReady" xml:space="preserve">
-		<value>任務備妥！</value>
+		<value>任務就緒！</value>
 	</data>
 	<data name="Mini_NoteAdded" xml:space="preserve">
 		<value>筆記新增！</value>
@@ -236,9 +236,9 @@
 		<value>獲取</value>
 	</data>
 	<data name="Mini_GoldRemoved" xml:space="preserve">
-		<value>失去金幣</value>
+		<value>金幣失去</value>
 	</data>
 	<data name="Mini_ItemsRemoved" xml:space="preserve">
-		<value>失去物品</value>
+		<value>物品失去</value>
 	</data>
 </root>
