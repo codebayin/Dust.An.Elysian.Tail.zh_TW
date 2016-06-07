@@ -667,7 +667,7 @@
 		<value>你幾乎無法分辨這個布偶是真的還是假的。太神奇了。</value>
 	</data>
 	<data name="321_Desc" xml:space="preserve">
-		<value>共鳴石可開啟相同顏色的所有共鳴門。</value>
+		<value>共鳴石可開啟同樣顏色的所有共鳴門。</value>
 	</data>
 	<data name="308_Desc" xml:space="preserve">
 		<value>有趣的機器，能將放置在內的東西保持冰冷。</value>

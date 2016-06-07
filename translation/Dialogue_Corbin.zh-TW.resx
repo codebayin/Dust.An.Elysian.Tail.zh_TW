@@ -124,7 +124,7 @@
 		<value>嘿，你是來幫我的嗎？拜託告訴我，你是來幫我的！</value>
 	</data>
 	<data name="000_030" xml:space="preserve">
-		<value>唔，牠們都走了，所以你應該安全了。你有受傷嗎？需要送你回家嗎？</value>
+		<value>牠們都走了，所以你應該安全了。你有受傷嗎？需要送你回家嗎？</value>
 	</data>
 	<data name="000_060" xml:space="preserve">
 		<value>我還要找回賈尼先生的衣服。它掉到下面去了，我不想惹上麻煩。</value>
@@ -133,22 +133,22 @@
 		<value>我猜，你就是可賓吧。你知道你的姊姊一直在到處找你嗎？</value>
 	</data>
 	<data name="000_040" xml:space="preserve">
-		<value>我想我沒事。我知道怎麼自己回家。我來這裡很多次，但從來沒有出現過怪物！</value>
+		<value>我想我沒事，我知道怎麼自己回家。我來過這裡很多次，但從來沒有出現過怪物！</value>
 	</data>
 	<data name="000_050" xml:space="preserve">
 		<value>你最好趁現在安全時離開。</value>
 	</data>
 	<data name="000_120" xml:space="preserve">
-		<value>哦哇，謝謝！來，拿著這個。你下去之後會需要它的。</value>
+		<value>哇，謝謝！來，拿著這個，你下去之後會需要的。</value>
 	</data>
 	<data name="000_130" xml:space="preserve">
 		<value>白色共鳴石──這應該派得上用場，謝謝你。現在走吧，快點回村。</value>
 	</data>
 	<data name="000_110" xml:space="preserve">
-		<value>不，可賓，你回家去。我會搞定的。</value>
+		<value>不，可賓，你回家去。衣服我會搞定的。</value>
 	</data>
 	<data name="000_140" xml:space="preserve">
-		<value>你認真的嗎？我們要去找那個混蛋的衣服？我們要做一個洗衣任務？</value>
+		<value>你認真的嗎？我們要去找那個混蛋的衣服？我們要做一個找衣任務？</value>
 	</data>
 	<data name="001_020" xml:space="preserve">
 		<value>好的，好的。再次感謝！你知道嗎，你是個超棒的戰士！</value>
@@ -163,7 +163,7 @@
 		<value>……是的，小煩，就像衣服那樣。</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
-		<value>不客氣，可賓。只是下次聰明一點，好嗎？外面對於像你這樣的孩子來說太危險了。還有，你不用擔心賈尼。我會搞定他的。</value>
+		<value>不客氣，可賓。只是下次聰明一點，好嗎？外面對於像你這樣的孩子來說太危險了。還有，你不用擔心賈尼，我會搞定他的。</value>
 	</data>
 	<data name="001_011" xml:space="preserve">
 		<value>沒錯，就像衣服那樣！</value>
@@ -175,7 +175,7 @@
 		<value>哼。好吧，希望如此。</value>
 	</data>
 	<data name="000_150" xml:space="preserve">
-		<value>我不想讓那可憐的孩子因為這事被賈尼責備。走啦，我們會沿路殺一些怪物的。多棒啊。</value>
+		<value>我不想讓那可憐的孩子因為這事被賈尼責備。走啦，我們會沿路殺一些怪物的，多棒啊！</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
 		<value>其實，我已經做到了。</value>
@@ -214,13 +214,13 @@
 		<value>好吧，希望你永遠不必如此。</value>
 	</data>
 	<data name="005_030" xml:space="preserve">
-		<value>是啊，相信我，連擊1000得花一段時間呢。我很清楚。</value>
+		<value>是啊，相信我，連擊1000下得花一段時間呢。我很清楚。</value>
 	</data>
 	<data name="005_000" xml:space="preserve">
 		<value>好了，可賓，我已經達成1000連擊了。</value>
 	</data>
 	<data name="005_010" xml:space="preserve">
-		<value>我就知道你能做到，塵！將來有一天，我會像你一樣強大，然後我就能達成1000連擊！</value>
+		<value>我就知道你能做到，塵！將來有一天，我會像你一樣強大，然後我就能達成1000連擊了！</value>
 	</data>
 	<data name="004_000" xml:space="preserve">
 		<value>如果你能達成1000連擊就太棒了！那真的超酷！</value>

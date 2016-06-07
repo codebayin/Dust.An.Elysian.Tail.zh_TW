@@ -134,7 +134,7 @@
 按 [LB] 治療，或按 [BACK] 管理物品。</value>
 	</data>
 	<data name="gate" xml:space="preserve">
-		<value>共鳴門只在你擁有相同顏色的共鳴石之後才會開啟。</value>
+		<value>共鳴門只在你擁有同樣顏色的共鳴石之後才會開啟。</value>
 	</data>
 	<data name="drop" xml:space="preserve">
 		<value>你可以從這裡落下。
