@@ -139,7 +139,7 @@
 		<value>你最好趁現在安全時離開。</value>
 	</data>
 	<data name="000_120" xml:space="preserve">
-		<value>哇，謝謝！來，拿著這個，你下去之後會需要的。</value>
+		<value>哦哇，謝謝！來，拿著這個，你下去後會需要的。</value>
 	</data>
 	<data name="000_130" xml:space="preserve">
 		<value>白色共鳴石──這應該派得上用場，謝謝你。現在走吧，快點回村。</value>
@@ -148,7 +148,7 @@
 		<value>不，可賓，你回家去。衣服我會搞定的。</value>
 	</data>
 	<data name="000_140" xml:space="preserve">
-		<value>你認真的嗎？我們要去找那個混蛋的衣服？我們要做一個找衣任務？</value>
+		<value>你認真的嗎？我們要去找那個混蛋的衣服？我們要做一個尋衣任務？</value>
 	</data>
 	<data name="001_020" xml:space="preserve">
 		<value>好的，好的。再次感謝！你知道嗎，你是個超棒的戰士！</value>
@@ -184,7 +184,7 @@
 		<value>1000連擊？當然，有何不能？</value>
 	</data>
 	<data name="002_020" xml:space="preserve">
-		<value>啊，不，我不會那樣做。但我會努力為你達成連擊的。</value>
+		<value>啊，不，我不會那樣說。但我會努力為你達成連擊的。</value>
 	</data>
 	<data name="002_010" xml:space="preserve">
 		<value>哦哇，酷斃了！嘿，當你連擊到1000下時，你應該說：「這是獻給可賓！」</value>
@@ -208,7 +208,7 @@
 		<value>哦，妳清楚？</value>
 	</data>
 	<data name="005_050" xml:space="preserve">
-		<value>哼！我已經拿過1000連擊了！我隨時都能達成！永遠！</value>
+		<value>哼！我已經拿過1000連擊了！我隨時都能達成！無時無刻！</value>
 	</data>
 	<data name="005_020" xml:space="preserve">
 		<value>好吧，希望你永遠不必如此。</value>
