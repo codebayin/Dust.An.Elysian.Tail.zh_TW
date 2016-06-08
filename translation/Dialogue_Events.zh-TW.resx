@@ -640,7 +640,7 @@
 		<value>等等，怕高？怎麼可能？妳整天飛著耶，無時無刻。</value>
 	</data>
 	<data name="080_040" xml:space="preserve">
-		<value>哦，是嗎？我一定是忘了！就像你忘了我隨時都可能會掉下來耶！</value>
+		<value>哦，是嗎？我一定是忘了！就像你一定忘了我隨時都可能會掉下來耶！</value>
 	</data>
 	<data name="080_050" xml:space="preserve">
 		<value>我倒是沒想過。妳真是個有趣的傢伙，小煩。</value>
@@ -670,7 +670,7 @@
 		<value>妳看。</value>
 	</data>
 	<data name="082_030" xml:space="preserve">
-		<value>我們或許還能救出其他人。動作快。</value>
+		<value>我們或許還能救出其他人。動作快！</value>
 	</data>
 	<data name="085_000" xml:space="preserve">
 		<value>這火才剛燒不久。</value>
@@ -685,13 +685,13 @@
 		<value>你傻歸傻，但這招還不賴。</value>
 	</data>
 	<data name="090_000" xml:space="preserve">
-		<value>嗚嗚，我實在不想看到這種……</value>
+		<value>嗚嗚，我實在不想看到這樣的……</value>
 	</data>
 	<data name="090_010" xml:space="preserve">
-		<value>我們終於到了，小煩，跟緊我妳就不會有事的。阿拉，你看見了什麼？有東西嗎？</value>
+		<value>我們終於到了，小煩，跟緊著我妳就不會有事的。你看到了什麼，阿拉？有東西嗎？</value>
 	</data>
 	<data name="090_020" xml:space="preserve">
-		<value>又一個擋在你面前的敵人，但這傢伙……</value>
+		<value>一個擋在你面前的敵人，但這傢伙……</value>
 	</data>
 	<data name="090_030" xml:space="preserve">
 		<value>怎麼了，阿拉？</value>
@@ -706,7 +706,7 @@
 		<value>你幹了什麼好事？你殺了這些無辜的人……</value>
 	</data>
 	<data name="096_000" xml:space="preserve">
-		<value>在你隨意殺害我無數的孩子之後，還敢跟我談無辜？</value>
+		<value>在你隨意殺害我無數的孩子之後，你還敢跟我談無辜？</value>
 	</data>
 	<data name="096_010" xml:space="preserve">
 		<value>你的孩子？你是說那群怪物嗎？你是誰？</value>
@@ -715,10 +715,10 @@
 		<value>這麼說，你不記得我的名字了？放心吧，朋友，這次不會讓你這麼容易忘的！</value>
 	</data>
 	<data name="097_000" xml:space="preserve">
-		<value>我才不在乎你叫什麼。你跟那些被我擊敗過的怪物沒有兩樣。而且也會跟牠們一樣，死在我劍下！</value>
+		<value>我才不在乎你叫什麼。你跟那些被我擊敗的怪物沒有兩樣，而且也會跟牠們一樣，死在我的劍下！</value>
 	</data>
 	<data name="097_010" xml:space="preserve">
-		<value>你才是這裡唯一的怪物，傀儡！等我把你的骨頭燒成焦炭之時，你的遺言將會是火種的勝利！現在，受死吧！</value>
+		<value>你才是這裡唯一的怪物，傀儡！等我把你的骨頭燒成灰時，你臨終將會記得火種的勝利！現在，受死吧！</value>
 	</data>
 	<data name="100_000" xml:space="preserve">
 		<value>樂土的光芒照耀著我。</value>
@@ -739,34 +739,34 @@
 		<value>被我？</value>
 	</data>
 	<data name="101_040" xml:space="preserve">
-		<value>被你和你的溫血族人。我們月血族被驅逐……隨風而居。你和跟你很像的人……來到我的村莊，殺害我的家人。</value>
+		<value>被你和你們溫血族人。我們月血族被驅逐……四處漂流。你和你的同類……來到我的村莊，殺害我的家人。</value>
 	</data>
 	<data name="101_050" xml:space="preserve">
-		<value>我沒……我不記得了……</value>
+		<value>我沒有……我不記得了……</value>
 	</data>
 	<data name="101_060" xml:space="preserve">
-		<value>你眼中透露著悲傷。但那不是內疚。可惜。在你對我們做了這些事之後，你仍然只想到你自己。</value>
+		<value>你眼中透露著悲傷，但那不是內疚。可惜，在你對我們做了那些事之後，你仍然只想到你自己。</value>
 	</data>
 	<data name="101_080" xml:space="preserve">
-		<value>也許這就是最好的結果吧。你的首領，蓋厄斯……他率領著你和你的刺客同袍作戰──</value>
+		<value>也許那樣是最好的選擇。你的首領，蓋厄斯……他率領著你和你的刺客伙伴發動戰爭──</value>
 	</data>
 	<data name="101_090" xml:space="preserve">
 		<value>刺客！？</value>
 	</data>
 	<data name="101_100" xml:space="preserve">
-		<value>他甚至連自己的族人都殺。我們在溫血族中最重要的盟友……好在有一個逃脫了。她是我在大屠殺中唯一拼命救出的人。</value>
+		<value>他甚至殺了自己的族人，那些我們在溫血族中最重要的盟友……但有一個逃脫了，她是我在大屠殺中唯一拼命救出的人。</value>
 	</data>
 	<data name="101_110" xml:space="preserve">
 		<value>她？你說的是誰？我殺了誰！？</value>
 	</data>
 	<data name="101_120" xml:space="preserve">
-		<value>誰曉得……誰又見得？我的視線漸漸模糊了。我現在要回到生命之系，回到我同胞的身邊了。</value>
+		<value>誰知道呢……誰曉得呢？我的視線模糊了，我現在要回到生命之系，回到我同胞的身邊了。</value>
 	</data>
 	<data name="101_130" xml:space="preserve">
 		<value>不、不！等等！</value>
 	</data>
 	<data name="101_140" xml:space="preserve">
-		<value>再會了，溫血。塵歸塵……</value>
+		<value>再見了，溫血。塵歸塵……</value>
 	</data>
 	<data name="101_150" xml:space="preserve">
 		<value>……土歸土。</value>
@@ -775,13 +775,13 @@
 		<value>我們辦到了。</value>
 	</data>
 	<data name="105_010" xml:space="preserve">
-		<value>他知道我是誰，小煩，他之前見過我。要是他能再活久一點就好了……要是我能設法救活他就好了……</value>
+		<value>他知道我是誰，小煩，他之前見過我。要是他能再活久一點就好了……要是我能設法救活他……</value>
 	</data>
 	<data name="105_020" xml:space="preserve">
 		<value>如你所見，村裡到處是屍體，那不會是個好主意。</value>
 	</data>
 	<data name="105_030" xml:space="preserve">
-		<value>我想你說得對。我們應該回極光村向布萊姆村長回報。還有那個名字……蓋厄斯。</value>
+		<value>我相信你說得對。我們應該回極光村向布萊姆村長回報。還有那個名字……蓋厄斯。</value>
 	</data>
 	<data name="110_010" xml:space="preserve">
 		<value>有什麼問題嗎？</value>
@@ -811,7 +811,7 @@
 		<value>這些都是什麼啊？</value>
 	</data>
 	<data name="112_010" xml:space="preserve">
-		<value>這些旗幟是警告。前方的地區是最危險的地方之一。</value>
+		<value>這些旗幟是警告。前方區域是最危險的地方之一。</value>
 	</data>
 	<data name="112_020" xml:space="preserve">
 		<value>裡面的挑戰和怪物與你解決過的完全不同。如果你沒有準備好，很快就會死的。</value>
@@ -829,7 +829,7 @@
 		<value>呃，我當然希望你別去。</value>
 	</data>
 	<data name="106_000" xml:space="preserve">
-		<value>塵，在戰鬥的過程，我研究了火種的招數。我想我可能已經領悟了他的技能！</value>
+		<value>塵，在戰鬥的過程中，我研究了火種的招式。我想我可能已經領悟了他的絕技！</value>
 	</data>
 	<data name="106_010" xml:space="preserve">
 		<value>我覺得我們會需要的。不使用武力，那群怪物可能不會讓我們離開的。</value>

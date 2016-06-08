@@ -151,7 +151,7 @@
 		<value>你的最大生命值。</value>
 	</data>
 	<data name="ChallengeMiniBest" xml:space="preserve">
-		<value>最佳：</value>
+		<value>最高得分：</value>
 	</data>
 	<data name="ChallengeMiniTime" xml:space="preserve">
 		<value>時間：</value>
@@ -160,7 +160,7 @@
 		<value>得分：</value>
 	</data>
 	<data name="ChallengePersonalBest" xml:space="preserve">
-		<value>個人最佳：</value>
+		<value>個人最高得分：</value>
 	</data>
 	<data name="EquipStatName0" xml:space="preserve">
 		<value>生命</value>
