@@ -208,7 +208,7 @@
 		<value>我們去了峽谷村。那裡已經被燒成灰燼了。</value>
 	</data>
 	<data name="001_040" xml:space="preserve">
-		<value>但那裡有張字條。是某個叫莎拉希的人寫給你的。</value>
+		<value>但那裡有張字條，是某個叫莎拉希的人寫給你的。</value>
 	</data>
 	<data name="001_050" xml:space="preserve">
 		<value>莎拉希？噢，謝天謝地！她一定還活著！她肯定逃脫了！拜託，讓我看看！</value>
@@ -217,10 +217,10 @@
 		<value>怎麼樣，莫斯卡？</value>
 	</data>
 	<data name="001_080" xml:space="preserve">
-		<value>拜託，塵……去那裡看看她是否安全！我會跟你去的，但我不是戰士。</value>
+		<value>拜託你，塵，去那裡看看她是否安全！我會跟你去的，但……我不會打鬥。</value>
 	</data>
 	<data name="001_070" xml:space="preserve">
-		<value>她提到了一個只有我們兩人知道的地方！是離這裡不遠的隱祕海灣。</value>
+		<value>她提到了一處只有我們兩個人知道的地方！是離這裡不遠的隱祕海灣。</value>
 	</data>
 	<data name="001_090" xml:space="preserve">
 		<value>如果你堅持要跟來，千萬要保持距離。</value>

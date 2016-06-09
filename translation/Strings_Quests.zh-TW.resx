@@ -184,7 +184,7 @@
 		<value>任務完成！</value>
 	</data>
 	<data name="020_Title" xml:space="preserve">
-		<value>遺失的時間</value>
+		<value>遺失的時光</value>
 	</data>
 	<data name="019_000" xml:space="preserve">
 		<value>施拜想利用飛行的帶電弗洛恩的獨特能力來強化極光村守衛的武裝。幫他弄來「3個弗洛恩觸手」和「3個弗洛恩電光」。</value>
@@ -202,7 +202,7 @@
 		<value>施拜想將艾維的特性融入裝備之中。從飛行生物身上收集「6個艾維翼」和「6個艾維爪」。</value>
 	</data>
 	<data name="017_000" xml:space="preserve">
-		<value>為了要持續強化極光村守衛的護甲，施拜請你弄「2個巨石」和「2個巨核」給他。</value>
+		<value>為了要補強極光村守衛的護甲，施拜請你弄「2個巨石」和「2個巨核」給他。</value>
 	</data>
 	<data name="003_001" xml:space="preserve">
 		<value>你已經湊齊了黏液物質。帶回去交給極光村的施拜以換取報酬。</value>
@@ -220,7 +220,7 @@
 		<value>施拜想要強化村莊守衛所穿的護甲。帶「5張魔精皮」給他，以助他完成心願。</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
-		<value>施拜想用「4個黏液刺」和「4個黏液膜」所提煉出來的化合物來持續強化極光村守衛的護甲。你認為這會有點棘手。</value>
+		<value>施拜想用「4個黏液刺」和「4個黏液膜」所提煉出來的化合物來補強極光村守衛的護甲。你預期這會有點黏手。</value>
 	</data>
 	<data name="021_000" xml:space="preserve">
 		<value>作為向父親最後的告別，啵波請你幫他帶一些雪來。北方的山上有雪，但你需要一些方法將其運回泥潭村。</value>
@@ -241,7 +241,7 @@
 		<value>你已經找到了懷錶。把它交給極光村的吉亨。</value>
 	</data>
 	<data name="020_001" xml:space="preserve">
-		<value>吉亨請你搜索他的農場周圍，幫他尋找懷錶。</value>
+		<value>吉亨請你搜索他的農場四周，幫他尋找懷錶。</value>
 	</data>
 	<data name="016_001" xml:space="preserve">
 		<value>你已經湊齊了岩犬牙。帶回去交給泥潭村的布洛普。</value>
