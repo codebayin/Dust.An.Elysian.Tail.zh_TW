@@ -229,13 +229,13 @@
 		<value>噢不……那只可能是峽谷村了。你有找到任何生還者嗎？</value>
 	</data>
 	<data name="004_050" xml:space="preserve">
-		<value>抱歉，布萊姆村長，但那裡空無一人。襲擊村莊的生物是某種蜥蜴，他穿著奇怪的鎧甲，自稱火種。</value>
+		<value>抱歉，布萊姆村長，無人生還。襲擊村莊的生物是某種蜥蜴，他穿著奇怪的鎧甲，自稱火種。</value>
 	</data>
 	<data name="004_060" xml:space="preserve">
-		<value>你說是蜥蜴？也許是月血族人。不知道娟潔會不會知道什麼。</value>
+		<value>你說是蜥蜴？也許是月血族人吧。不知道娟潔會不會知道什麼。</value>
 	</data>
 	<data name="004_070" xml:space="preserve">
-		<value>娟潔？在山丘上的那位女孩嗎？</value>
+		<value>娟潔？在山坡上的那位女孩嗎？</value>
 	</data>
 	<data name="004_080" xml:space="preserve">
 		<value>她的家人差不多一年前在澤普林奇村被殺了，就在去北方的幾天旅程中。當時蓋厄斯將軍和他的士兵正在尋找月血支持者。</value>
@@ -244,13 +244,13 @@
 		<value>蓋厄斯將軍？你知道他是誰嗎？</value>
 	</data>
 	<data name="004_100" xml:space="preserve">
-		<value>我……只聽說過。沒有正當的理由，他的名字不是我們能在這裡談論的。我從未親眼見過他或他的士兵，但悲劇往往緊隨在他們身後。</value>
+		<value>我……只聽說過。他的名字不是我們能在這裡隨便說的。我從未親眼見過他或他的士兵，但悲劇往往緊隨在他們身後。</value>
 	</data>
 	<data name="004_110" xml:space="preserve">
 		<value>為什麼他們殺了娟潔的家人？</value>
 	</data>
 	<data name="004_120" xml:space="preserve">
-		<value>當然，他們曾經幫助了月血族。幫助敵人就是叛國。娟潔逃脫了，但她的父母和哥哥卻都沒有。</value>
+		<value>無疑是他們一直在幫助月血族。幫助敵人就是叛國。娟潔逃脫了，但她的父母和哥哥卻都沒有。</value>
 	</data>
 	<data name="004_130" xml:space="preserve">
 		<value>不管怎樣，你制止了瘋狂的野獸靠近極光村，實在是感激不盡。</value>

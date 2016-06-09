@@ -127,7 +127,7 @@
 		<value>黏不隆咚</value>
 	</data>
 	<data name="002_Title" xml:space="preserve">
-		<value>矛頭所向</value>
+		<value>矛頭所指</value>
 	</data>
 	<data name="004_Title" xml:space="preserve">
 		<value>鐵匠</value>
@@ -211,7 +211,7 @@
 		<value>你已經湊齊了矛頭。帶回去交給極光村的施拜以換取報酬。</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
-		<value>為了強化守衛的武器，施拜需要從山谷出沒的野獸身上獲取「8個野獸矛頭」。</value>
+		<value>為了強化守衛的武器，施拜需要從山谷出沒的怪物身上獲取「8個野獸矛頭」。</value>
 	</data>
 	<data name="001_001" xml:space="preserve">
 		<value>你已經湊齊了魔精皮。帶回去交給極光村的施拜以換取報酬。</value>
@@ -373,7 +373,7 @@
 		<value>你擊敗了怪物首領，一位名為火種的奇怪生物，但引出的問題比要得到的答案還多。回去極光村向布萊姆村長回報。</value>
 	</data>
 	<data name="000_005" xml:space="preserve">
-		<value>布萊姆村長建議你去找一位叫娟潔的少女談談。她似乎對火種提到的「月血族」有所了解。</value>
+		<value>布萊姆村長建議你去找一位叫娟潔的女孩談談。她似乎對火種提到的「月血族」有所了解。</value>
 	</data>
 	<data name="000_006" xml:space="preserve">
 		<value>極光村受到了襲擊！擊退怪物並查明牠們是怎麼進到村裡來的。</value>

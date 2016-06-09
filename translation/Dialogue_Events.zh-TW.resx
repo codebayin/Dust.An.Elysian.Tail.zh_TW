@@ -835,10 +835,10 @@
 		<value>我覺得我們會需要的。不使用武力，那群怪物可能不會讓我們離開的。</value>
 	</data>
 	<data name="600_000" xml:space="preserve">
-		<value>長官，準備工作就快完成了。我們已經找到了他們另一處營地，但──</value>
+		<value>長官，準備工作就快完成了。我們已經找到了他們的另一處營地，但──</value>
 	</data>
 	<data name="600_010" xml:space="preserve">
-		<value>但已經廢棄了，預料之中。繼續搜索。他們逃到什麼地方，我們就找出那個地方。</value>
+		<value>但已經廢棄了，預料之中。繼續搜索──他們正逃往別處，我們必須找出那個地方。</value>
 	</data>
 	<data name="600_011" xml:space="preserve">
 		<value>遵命，長官。就算翻遍──</value>
@@ -847,10 +847,10 @@
 		<value>那些謠言呢，指揮官？有任何真實性嗎？</value>
 	</data>
 	<data name="600_020" xml:space="preserve">
-		<value>我們……還在調查，長官。但您真不相信……？</value>
+		<value>我們……正在調查，長官。但您真不相信……？</value>
 	</data>
 	<data name="600_030" xml:space="preserve">
-		<value>指揮官，你不該質疑我所相信的。我們光榮的時刻就要來臨了，而我想要答案。</value>
+		<value>指揮官，你不該質疑我所相信的。我們光榮的時刻就要來臨了，我要的是成果。</value>
 	</data>
 	<data name="600_040" xml:space="preserve">
 		<value>如您所願，將軍。</value>
