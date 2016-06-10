@@ -139,16 +139,16 @@
 		<value>這場戰爭把我們都變成了怪物。謝謝你……把火種從瘋狂中解脫出來。</value>
 	</data>
 	<data name="004_070" xml:space="preserve">
-		<value>就在最後，他似乎神智清醒了。他在死前告訴了我一些事。他試圖告訴我關於戰爭、你的家人──</value>
+		<value>就在最後，他似乎清醒了，他臨死前告訴了我一些事情。他試圖告訴我關於戰爭、你的家人──</value>
 	</data>
 	<data name="004_080" xml:space="preserve">
-		<value>是的，我家人被殺的那天他也在那裡。當時他正在運送補給要帶回去給他的族人。蓋厄斯將軍襲擊了我們的村莊，把村莊燒成了灰燼。我以為火種已經被殺了。現在我倒希望那樣就好了。</value>
+		<value>是的，我家人被殺的那天他也在那裡，當時他正在運送物資給他的族人。蓋厄斯將軍襲擊了我們的村莊，把村莊燒成了灰燼。我以為火種已經被殺了。現在我倒希望那樣就好了。</value>
 	</data>
 	<data name="004_090" xml:space="preserve">
 		<value>對不起。</value>
 	</data>
 	<data name="004_100" xml:space="preserve">
-		<value>還有為什麼？我最後一次看到像你這樣的服裝是我家人被殺的那天。那套服裝，是屬於蓋厄斯的士兵的。你到底是誰？</value>
+		<value>還有為什麼？我最後一次看到像你這樣的服裝，是我家人被殺的那天。那套服裝是蓋厄斯的士兵身上穿的。你到底是誰？</value>
 	</data>
 	<data name="004_110" xml:space="preserve">
 		<value>我……不知道。</value>
@@ -157,13 +157,13 @@
 		<value>那不算是答案！</value>
 	</data>
 	<data name="004_130" xml:space="preserve">
-		<value>喂，放輕鬆！塵不記得了，好嗎？他甚至不知道自己的真實姓名！妳要知道，妳應該更加感激──他剛剛拯救了這座村莊兩次，而我──呃，看著他做這些，我都快餓死了！</value>
+		<value>喂，放輕鬆！塵不記得了，好嗎？他甚至不知道自己的真名！妳要知道，妳應該更加感激，他剛剛拯救了這座村莊兩次，而我──呃，看著他做這些，我真的好餓喔！</value>
 	</data>
 	<data name="004_140" xml:space="preserve">
 		<value>小煩，拜託，冷靜點。她有懷疑的權利──雖然我不知道我是誰，但我穿著像蓋厄斯的士兵，這的確不太好。</value>
 	</data>
 	<data name="004_150" xml:space="preserve">
-		<value>也許吧。但你朋友說得對。你今天兩次拯救了我的村莊。蓋厄斯和他的士兵絕不會這麼做的。尤其如果他們知道我在這裡的話。</value>
+		<value>也許吧。但你朋友說得對，你今天拯救了我的村莊兩次。蓋厄斯和他的士兵絕不會這麼做的，尤其他們知道我在這裡的話。</value>
 	</data>
 	<data name="004_Option_0" xml:space="preserve">
 		<value>告訴我關於戰爭的事。</value>
@@ -205,7 +205,7 @@
 		<value>如果停止這場戰爭的唯一辦法是阻止蓋厄斯將軍，那我需要知道在哪能找到他。</value>
 	</data>
 	<data name="007_010" xml:space="preserve">
-		<value>他的戰火持續往北方延燒。如果你想幫忙補救你們同類的錯誤，隨時歡迎你加入我。我只怕──</value>
+		<value>他的戰火持續往北方延燒。如果你想補救你同胞的錯誤，隨時歡迎你加入我。我只怕──</value>
 	</data>
 	<data name="007_020" xml:space="preserve">
 		<value>哇！怎麼回事！？</value>
@@ -223,7 +223,7 @@
 		<value>那是最後一隻了。娟潔，妳沒事吧？</value>
 	</data>
 	<data name="008_010" xml:space="preserve">
-		<value>我……我沒事。你應該下去看看發生了什麼。</value>
+		<value>我……我沒事。你應該下去看看發生了什麼事。</value>
 	</data>
 	<data name="008_020" xml:space="preserve">
 		<value>沒問題。妳不應該待在這裡，娟潔，太危險了。往北方前進吧，等我們把這件事弄清楚了，我們會趕上妳的。</value>

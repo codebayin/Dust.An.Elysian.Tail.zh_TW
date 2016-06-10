@@ -238,10 +238,10 @@
 		<value>相信我，這可不是常見的喔，既然有東西爬出地面，你就拿張椅子來坐，好好欣賞表演吧！</value>
 	</data>
 	<data name="004_030" xml:space="preserve">
-		<value>好吧，奧古斯汀，但向我保證你會留在這裡。我不希望任何人受傷。</value>
+		<value>好吧，奧古斯汀，但向我保證你會待在這裡。我不希望有人受傷。</value>
 	</data>
 	<data name="004_040" xml:space="preserve">
-		<value>欸！然後讓你獨享所有樂趣？好吧，我想畢竟你有帶劍。</value>
+		<value>欸！然後讓你獨享所有樂趣？好吧，我想畢竟你手上有劍。</value>
 	</data>
 	<data name="005_000" xml:space="preserve">
 		<value>你怎麼還在這裡，奧古斯汀？你應該回村莊去的。</value>
@@ -250,9 +250,9 @@
 		<value>不，我想我能打贏第一個通過這裡的怪物。我早餐吃得很飽，我已經做好萬全的準備了！</value>
 	</data>
 	<data name="006_000" xml:space="preserve">
-		<value>我想你在下面沒有看到什麼吧？</value>
+		<value>我想你沒看過底下有什麼吧？</value>
 	</data>
 	<data name="006_010" xml:space="preserve">
-		<value>別擔心，我保證我能應付的，兄弟。</value>
+		<value>別擔心，我肯定能應付的，兄弟。</value>
 	</data>
 </root>

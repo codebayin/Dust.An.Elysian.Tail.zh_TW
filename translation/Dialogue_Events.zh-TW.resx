@@ -859,13 +859,13 @@
 		<value>你到底在哪，我的朋友？為什麼要躲著我？</value>
 	</data>
 	<data name="121_000" xml:space="preserve">
-		<value>我搞不懂！為什麼大家都想要幫助那可怕的蜥蜴怪物呢？那個叫火種的傢伙燒了整座村莊耶！</value>
+		<value>我搞不懂！為什麼大家都想要幫助那些可怕的蜥蜴呢？那個叫火種的傢伙燒了整座村莊耶！</value>
 	</data>
 	<data name="121_010" xml:space="preserve">
 		<value>妳還不懂嗎，小煩？他不是天生就那樣的，是蓋厄斯將軍和他的部下害他變成了那種怪物。</value>
 	</data>
 	<data name="121_020" xml:space="preserve">
-		<value>而且火種可能也不是唯一一個被蓋厄斯將軍對月血族的憎恨而墮化的人。我們應該再跟娟潔談談，以進一步了解這場鬥爭。</value>
+		<value>而且火種可能也不是唯一一個受到蓋厄斯將軍對月血族的憎恨而污染的人。我們應該再跟娟潔談談，以進一步了解這場鬥爭。</value>
 	</data>
 	<data name="135_000" xml:space="preserve">
 		<value>沒路了。看起來是個相當深的洞。</value>
@@ -874,7 +874,7 @@
 		<value>是的，非常深！我們應該繞路，我覺得。</value>
 	</data>
 	<data name="135_020" xml:space="preserve">
-		<value>沒時間另尋途徑了。那群怪物從這裡上來，那就肯定有路可以下去。</value>
+		<value>沒時間另尋他路了。那群怪物從這裡上來，那就肯定有路可以下去。</value>
 	</data>
 	<data name="135_030" xml:space="preserve">
 		<value>好了，豁出去了。</value>
@@ -892,7 +892,7 @@
 		<value>我什麼都沒看到，小煩。</value>
 	</data>
 	<data name="140_040" xml:space="preserve">
-		<value>那頂大斗笠把你的眼睛都遮住了，在這裡你怎麼可能還看得到東西？我討厭洞穴！我們種族不是為了穴居而生的。我們應該翱翔在寬廣的高空。</value>
+		<value>那頂大斗笠把你的眼睛都遮住了，在這裡你怎麼可能還看得到東西？我討厭洞穴！我們種族不是為了穴居而生的，我們應該翱翔在寬廣的高空。</value>
 	</data>
 	<data name="140_050" xml:space="preserve">
 		<value>我記得妳怕高耶。</value>
@@ -919,16 +919,16 @@
 		<value>塵，等等。</value>
 	</data>
 	<data name="148_010" xml:space="preserve">
-		<value>這生物對正面突擊的防守很強。</value>
+		<value>這生物對正面攻擊的防守很強。</value>
 	</data>
 	<data name="148_020" xml:space="preserve">
-		<value>等著瞧。</value>
+		<value>等著瞧吧。</value>
 	</data>
 	<data name="149_000" xml:space="preserve">
 		<value>啊！好吧，那是個餿主意。</value>
 	</data>
 	<data name="149_010" xml:space="preserve">
-		<value>牠幾乎刀槍不入，除非你用格擋擊暈牠。就像這樣。</value>
+		<value>牠幾乎刀槍不入，除非你用格擋擊暈牠。像這樣：</value>
 	</data>
 	<data name="150_000" xml:space="preserve">
 		<value>牠跪下了！</value>
@@ -949,16 +949,16 @@
 		<value>時機非常重要，而且你必須面向對手。</value>
 	</data>
 	<data name="150_020" xml:space="preserve">
-		<value>在敵人攻擊的瞬間，攻擊並按住 [X]，你就能擋掉他們的攻擊，並取得反擊的機會。</value>
+		<value>在敵人攻擊的瞬間，攻擊並按住 [X]，你就能擋掉牠們的攻擊，並取得反擊的機會。</value>
 	</data>
 	<data name="150_040" xml:space="preserve">
 		<value>成功的格擋能使對手短暫暈眩，還能完全恢復你的能量。</value>
 	</data>
 	<data name="150_050" xml:space="preserve">
-		<value>你無法對某些敵人造成傷害，除非他們陷入暈眩。這隻就是那種類型的。</value>
+		<value>你無法對某些敵人造成傷害，除非牠們陷入暈眩。這隻就是那種類型的。</value>
 	</data>
 	<data name="150_060" xml:space="preserve">
-		<value>鍛鍊耐心並觀察對手的攻擊模式，你就能得勝。</value>
+		<value>鍛鍊耐心並觀察對手的攻擊模式，你就能夠得勝。</value>
 	</data>
 	<data name="145_020" xml:space="preserve">
 		<value>大概不知道吧。走吧，繼續前進。</value>
@@ -982,7 +982,7 @@
 		<value>也許我能就這麼等毒消退……</value>
 	</data>
 	<data name="138_040" xml:space="preserve">
-		<value>別硬撐了！拿著，給你蘑菇！它能立即解毒，等會再謝我吧。</value>
+		<value>別硬撐了！來，給你蘑菇！它能立即解毒，等會再謝我吧。</value>
 	</data>
 	<data name="155_010" xml:space="preserve">
 		<value>等等！</value>
