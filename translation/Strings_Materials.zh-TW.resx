@@ -175,10 +175,10 @@
 		<value>黏液刺</value>
 	</data>
 	<data name="021" xml:space="preserve">
-		<value>巨核</value>
+		<value>巨岩芯</value>
 	</data>
 	<data name="020" xml:space="preserve">
-		<value>巨石</value>
+		<value>巨岩石</value>
 	</data>
 	<data name="025" xml:space="preserve">
 		<value>岩犬皮</value>
@@ -304,10 +304,10 @@
 		<value>黏液生物的殘渣。</value>
 	</data>
 	<data name="020_Desc_200" xml:space="preserve">
-		<value>石巨人的身體碎片。</value>
+		<value>巨人的身體碎片。</value>
 	</data>
 	<data name="021_Desc_200" xml:space="preserve">
-		<value>石巨人的硬化血液。</value>
+		<value>巨人的硬化血液。</value>
 	</data>
 	<data name="022_Desc_100" xml:space="preserve">
 		<value>弗洛恩的黏滑觸手。</value>
@@ -358,7 +358,7 @@
 		<value>狼掉下來的還能有什麼？</value>
 	</data>
 	<data name="038_Desc_400" xml:space="preserve">
-		<value>弗里茲美麗的冰晶碎片。</value>
+		<value>弗利特的美麗冰晶碎片。</value>
 	</data>
 	<data name="039_Desc_1000" xml:space="preserve">
 		<value>大到足以野餐的毛皮。</value>
