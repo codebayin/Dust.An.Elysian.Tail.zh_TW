@@ -124,7 +124,7 @@
 		<value>對不起，媽媽。</value>
 	</data>
 	<data name="186_000" xml:space="preserve">
-		<value>你爸爸聽到這件事，嚇都嚇死了！</value>
+		<value>你爸爸聽到這件事，嚇到心臟病都發了！</value>
 	</data>
 	<data name="186_020" xml:space="preserve">
 		<value>天哪，如果你受傷了，我該怎麼辦啊！？</value>
@@ -139,7 +139,7 @@
 		<value>她有看到我能飛，對吧？</value>
 	</data>
 	<data name="187_010" xml:space="preserve">
-		<value>我一定會告訴她的，小煩，我相信誤會會解開的。</value>
+		<value>我一定會告訴她的，小煩。我相信誤會會解開的。</value>
 	</data>
 	<data name="188_000" xml:space="preserve">
 		<value>回去！滾回去！你們這群野獸！我有這支杓子，我可不怕使用它！</value>
@@ -151,13 +151,13 @@
 		<value>啥？他們在說什麼，啵波？</value>
 	</data>
 	<data name="188_030" xml:space="preserve">
-		<value>唔，呃……他們已經跟蹤我一陣子了。</value>
+		<value>唔，呃……他們已經跟蹤我一段時間了。</value>
 	</data>
 	<data name="188_040" xml:space="preserve">
 		<value>什麼！？你到底跑了多遠！？我只好把杓子留著教訓你了！</value>
 	</data>
 	<data name="188_050" xml:space="preserve">
-		<value>抱歉，我們從地面下來只是要──</value>
+		<value>抱歉，我們從地面來這裡只是要──</value>
 	</data>
 	<data name="188_060" xml:space="preserve">
 		<value>妳以為我是鄉巴佬嗎？妳當然是從地面來的！如果我在這裡看過一隻能說、能飛的貓鼬，我想我才不會忘！</value>
@@ -166,22 +166,22 @@
 		<value>我想我們一開始就誤會了。我叫塵，她是小煩。一些生物襲擊了這些洞穴上方的村莊，我們正在找出原因。</value>
 	</data>
 	<data name="188_080" xml:space="preserve">
-		<value>你說襲擊地面村莊？那可真是怪事！我們地底人不愛與其他人來往──我們的麻煩已經夠多了。</value>
+		<value>你說襲擊地面村莊？那可真是聞所未聞！我們地底人往往只顧自的──自己的麻煩就已經夠多了。</value>
 	</data>
 	<data name="188_090" xml:space="preserve">
-		<value>真是遺憾。</value>
+		<value>很遺憾聽到這個消息。</value>
 	</data>
 	<data name="188_120" xml:space="preserve">
 		<value>等等！</value>
 	</data>
 	<data name="188_100" xml:space="preserve">
-		<value>其實我是說，在你們地面人來這裡胡言亂語之前，我們自己的麻煩就夠多了。所以，如果你不介意……</value>
+		<value>其實我是說，就算你們地面人不把那些麻煩帶來這裡，我們自己的麻煩就夠多了。所以，如果你不介意的話……</value>
 	</data>
 	<data name="188_110" xml:space="preserve">
-		<value>走吧，塵，這裡顯然不需要我們。</value>
+		<value>走吧，塵，這裡顯然不歡迎我們。</value>
 	</data>
 	<data name="188_130" xml:space="preserve">
-		<value>夠了，啵波！你該回去做家事了，趁我還沒拿出杓子！</value>
+		<value>夠了，啵波！你該回去做家事了，免得我再把杓子拿出來！</value>
 	</data>
 	<data name="188_140" xml:space="preserve">
 		<value>媽媽，我看過他們戰鬥。他們甚至有一把會說話的劍！我敢說他們能幫上忙的！</value>
@@ -193,7 +193,7 @@
 		<value>不要再那樣說了！如果我們不做點什麼，爸爸會死的！</value>
 	</data>
 	<data name="188_170" xml:space="preserve">
-		<value>死？發生什麼事了？</value>
+		<value>會死？發生什麼事了？</value>
 	</data>
 	<data name="188_180" xml:space="preserve">
 		<value>我們的治癒之泉已經乾涸了，而我爸爸得了重病。所以我才跑出去，想找到更多的水。</value>
@@ -211,10 +211,10 @@
 		<value>不知道那些地面上的怪物襲擊會不會與你們泉水的乾涸有關。</value>
 	</data>
 	<data name="188_230" xml:space="preserve">
-		<value>我一點也不驚訝。泉水乾涸已經有幾個星期了，但這裡的所有生物都受到了影響。我敢說那些衝破地面的生物是去尋找更多的水！</value>
+		<value>我一點也不訝異。泉水乾涸已經有幾個星期了，但這裡的所有生物都受到了影響。我敢說那些衝破地面的生物是去尋找更多的水！</value>
 	</data>
 	<data name="188_240" xml:space="preserve">
-		<value>媽媽，也許他們可以去和神女談談！</value>
+		<value>媽媽，也許他們可以去找神女談談！</value>
 	</data>
 	<data name="188_250" xml:space="preserve">
 		<value>神女？</value>
@@ -223,13 +223,13 @@
 		<value>哦，她是一個古老的神靈，住在洞穴深處，控制著水流。她並不經常在這裡現身，而且我們又不能只因為生活瑣事跑去找她。</value>
 	</data>
 	<data name="188_270" xml:space="preserve">
-		<value>既然如此，我會去和這位「神女」談談，看看她為何阻斷了水流。</value>
+		<value>既然如此，我會去找這位「神女」談談，看看她為何阻斷了水流。</value>
 	</data>
 	<data name="188_280" xml:space="preserve">
 		<value>你願意去？</value>
 	</data>
 	<data name="188_290" xml:space="preserve">
-		<value>這絕對不可能都是巧合──地面的襲擊、泉水的乾涸……我確定這位「神女」一定知道發生了什麼事。</value>
+		<value>這絕對不可能都是巧合──地面的襲擊、泉水的乾涸……我確定這位「神女」一定知道怎麼回事。</value>
 	</data>
 	<data name="188_310" xml:space="preserve">
 		<value>呃……謝謝……</value>

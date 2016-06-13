@@ -118,9 +118,9 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="001_000" xml:space="preserve">
-		<value>你盡力了，塵，我對此表示感謝。我們會撐過去的。我們一向如此。</value>
+		<value>你盡力了，塵，我對此表示感謝。我們會撐過去的，一直以來都是如此。</value>
 	</data>
 	<data name="000_000" xml:space="preserve">
-		<value>我錯怪你了，陌生人。請找神女談談。看看你是否能讓我們的水再次流動。</value>
+		<value>我錯怪你了，陌生人。拜託，請找神女談談，看看你是否能讓我們的水再次流動。</value>
 	</data>
 </root>
