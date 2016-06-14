@@ -160,7 +160,7 @@
 		<value>沒錯！它們告訴我盒子裡裝滿了杯子蛋糕。我打開了，裡面什麼也沒有！</value>
 	</data>
 	<data name="010_010" xml:space="preserve">
-		<value>放輕鬆，里德。只是個盒子。</value>
+		<value>放輕鬆，里德，只是個盒子。</value>
 	</data>
 	<data name="010_020" xml:space="preserve">
 		<value>只是個盒子？不……不，它不只是個盒子。你沒聽到它在對你低語嗎？低語著……謊言……</value>
@@ -172,22 +172,22 @@
 		<value>喂，你在做什麼？你不是想拿回你的盒子嗎？我歷經千辛萬苦才得到的！</value>
 	</data>
 	<data name="010_040" xml:space="preserve">
-		<value>噢！噢不。不、不……妳打開了盒子！妳為什麼打開了盒子！？我說過不要打開盒子的！快！拿回去！我不要了！</value>
+		<value>噢！噢不！不……妳打開了盒子！妳為什麼打開了盒子！？我說過不要打開盒子的！快！拿回去！我不要了！</value>
 	</data>
 	<data name="010_100" xml:space="preserve">
-		<value>聽著，我們不要再糾結「誰打開了盒子」這件事了。盒子已經被打開了。那是過去的事了。我們無法改變。我們應該著眼於未來，還有，你知道的，少針對我。</value>
+		<value>聽著，我們別再糾結「誰打開了盒子」這件事了。盒子已經被打開了，那是過去的事了，我們無法改變。我們應該著眼於未來，還有，你知道的，少針對我。</value>
 	</data>
 	<data name="010_090" xml:space="preserve">
-		<value>那麼已經開始了！噢，妳為什麼非得打開盒子？我說過不要打開盒子的！</value>
+		<value>那麼已經開始了！噢，妳為什麼非要打開盒子？我說過不要打開盒子的！</value>
 	</data>
 	<data name="010_081" xml:space="preserve">
 		<value>里德！怎麼回事？發生什麼事了？我感覺……我感覺很虛弱！就像有東西正在從我身上吸取生命！</value>
 	</data>
 	<data name="010_080" xml:space="preserve">
-		<value>好了，里德，我真的覺得你該進去睡個覺了。我想……等等……我怎麼了？我有點……有點不對勁！</value>
+		<value>好了，里德，我真的覺得你該進去睡個覺了。我覺得……等等……我怎麼了？有點……有點不對勁！</value>
 	</data>
 	<data name="010_070" xml:space="preserve">
-		<value>你知道你做了什麼嗎？你釋放了這古老牢獄裡的力量，它會吞噬你的靈魂的！</value>
+		<value>你知道你做了什麼嗎？你釋放了這古老牢籠裡的力量，它會吞噬你的靈魂的！</value>
 	</data>
 	<data name="010_060" xml:space="preserve">
 		<value>是啊！我們必須找到泥潭村的女孩，然後幫她做一個看起來像我的布偶，然後再用布偶交換盒子！老實說，有點繞彎子。</value>
@@ -199,22 +199,22 @@
 		<value>換句話說，塵，你必須自殺。</value>
 	</data>
 	<data name="010_110" xml:space="preserve">
-		<value>在盒子內的鬼怪……它纏住你的靈魂，企圖操控你的思想。阻止它的唯一辦法就是打破身體與靈魂間的隔閡。</value>
+		<value>在盒子內的惡靈……它纏住你的靈魂，企圖操控你的思想。阻止它的唯一辦法就是打破身體與靈魂之間的隔閡。</value>
 	</data>
 	<data name="010_140" xml:space="preserve">
 		<value>這真的是唯一的辦法，塵。你千萬別拖太久，否則……否則你的下場會跟我一樣。</value>
 	</data>
 	<data name="010_160" xml:space="preserve">
-		<value>閉嘴，小煩。我能感覺到自己的生命每分每秒都在流失……里德，我該怎麼做？</value>
+		<value>閉嘴，小煩！我能感覺到自己的生命每分每秒都在流失……里德，我該怎麼做？</value>
 	</data>
 	<data name="010_150" xml:space="preserve">
-		<value>你知道嗎？我喜歡這個計畫。我很高興能參一腳。</value>
+		<value>你知道嗎？我喜歡這個計畫，我很高興能參一腳。</value>
 	</data>
 	<data name="010_190" xml:space="preserve">
 		<value>塵，你不會真的想──！</value>
 	</data>
 	<data name="010_180" xml:space="preserve">
-		<value>如果你及時做到，纏住你靈魂的鬼怪就會被震開並回到盒子裡，然後你就會恢復正常了。假如你及時做到的話。</value>
+		<value>如果你及時做到，纏住你靈魂的惡靈就會被震走並回到盒子裡，然後你就會恢復正常了。假如你及時做到的話。</value>
 	</data>
 	<data name="010_170" xml:space="preserve">
 		<value>去村莊外，找些怪物對打……然後輸掉。</value>
@@ -226,13 +226,13 @@
 		<value>等等，你說「如果你的計畫失敗」是什麼意思？</value>
 	</data>
 	<data name="015_010" xml:space="preserve">
-		<value>我很高興結果是這樣。不管怎樣，如果我的計畫失敗了，我就打算對你用這顆復活石，但這應該還能當作一個不錯的回報。</value>
+		<value>我很高興結果是這樣。不管怎樣，如果我的計畫失敗了，我就打算對你用這顆復活石，但這應該還能當作一個不錯的獎賞。</value>
 	</data>
 	<data name="015_000" xml:space="preserve">
-		<value>你是對的，里德──不知為何，那致命一擊把鬼怪震走了。我恢復正常了。</value>
+		<value>你是對的，里德──不知為何，那致命一擊把惡靈震走了。我恢復正常了。</value>
 	</data>
 	<data name="012_010" xml:space="preserve">
-		<value>我……想是吧。我受到致命一擊的當下，有一種如釋重負的感覺。我們應該跟里德回報一下。</value>
+		<value>我想……是吧。我受到致命一擊的瞬間，有一種如釋重負的感覺。我們應該跟里德回報一下。</value>
 	</data>
 	<data name="012_000" xml:space="preserve">
 		<value>成功了嗎？你沒事了嗎？</value>
@@ -241,16 +241,16 @@
 		<value>是啊，你越早擺脫那個盒子越好！</value>
 	</data>
 	<data name="015_050" xml:space="preserve">
-		<value>我不會再讓它離開我的視線了。畢竟這是我該承受的重擔。祝你好運，塵。</value>
+		<value>我不會再讓它離開我的視線了，畢竟這是我該承受的重擔。祝你好運，塵。</value>
 	</data>
 	<data name="015_040" xml:space="preserve">
-		<value>好，呃……你把那個盒子鎖好，保管好鑰匙。我們只是幸運，剛好泥潭村的孩子知道不該打開它。</value>
+		<value>好，呃……你把那個盒子鎖好，把鑰匙收好。我們只是幸運，剛好泥潭村的孩子知道不該打開它。</value>
 	</data>
 	<data name="015_030" xml:space="preserve">
-		<value>反正成功了，不是嗎？所以我用不到這顆復活石了，你可以拿去。希望你永遠不會用到。</value>
+		<value>反正成功了，不是嗎？所以我用不到這顆復活石了，你可以收下。希望你永遠不會用到。</value>
 	</data>
 	<data name="020_000" xml:space="preserve">
-		<value>又有什麼在對我低語？不……不可能。樹木？那些樹在低吟著古老歌曲！必須要有人砍光它們，來制止它們的謊言！</value>
+		<value>又有什麼在對我低語？不……不可能。樹嗎？那些樹在低吟著古老歌曲！必須要有人砍光它們，來制止它們的謊言！</value>
 	</data>
 	<data name="020_010" xml:space="preserve">
 		<value>再見，里德。</value>

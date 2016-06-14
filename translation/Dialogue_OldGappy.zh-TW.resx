@@ -127,13 +127,13 @@
 		<value>我聽說你們正在幫助爸帕普。他病得很重。</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
-		<value>我們找到你的羊了，蓋皮。牠們似乎不太在意是不是走丟了。</value>
+		<value>我們找到你的綿羊了，蓋皮。牠們似乎不太在意是不是走丟了。</value>
 	</data>
 	<data name="000_030" xml:space="preserve">
 		<value>太遺憾了，爸帕普發生了這種事。不過，我們依然永遠感激你所做的一切。</value>
 	</data>
 	<data name="001_000" xml:space="preserve">
-		<value>不好意思，我的朋友們。希望你們別介意，但我得回去找東西了。</value>
+		<value>不好意思，我的朋友。希望你們別介意，但我得回去找東西了。</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
 		<value>你弄丟了什麼嗎？</value>
@@ -142,24 +142,24 @@
 		<value>我會留意牠們的。</value>
 	</data>
 	<data name="003_010" xml:space="preserve">
-		<value>老實說我不知道你是怎麼把那群羊帶著到處跑的。</value>
+		<value>老實說我不知道你是怎麼帶著那群綿羊到處跑的。</value>
 	</data>
 	<data name="003_020" xml:space="preserve">
-		<value>謝謝你，孩子！你是個好人！來，這是我的羊的羊毛。相信我，這很珍貴！</value>
+		<value>謝謝你，孩子！你是個好人！來，這是我的綿羊的羊毛。相信我，這很珍貴！</value>
 	</data>
 	<data name="004_000" xml:space="preserve">
 		<value>你使這世界變得更美好了，孩子。泥潭村永遠歡迎像你這樣的人。</value>
 	</data>
 	<data name="001_020" xml:space="preserve">
-		<value>老實說，是的。我一定是忘記關門了，因為我的羊似乎走丟了。</value>
+		<value>老實說，是的。我一定是忘記關門了，因為我的羊群似乎走丟了。</value>
 	</data>
 	<data name="001_050" xml:space="preserve">
-		<value>噢，謝謝你，孩子！有六隻跑出去，不知所終了。相信我，等我抓到牠們，我會好好教訓牠們的！</value>
+		<value>噢，謝謝你，孩子！有六隻不知去向了。相信我，等我抓到牠們，我會好好教訓牠們的！</value>
 	</data>
 	<data name="001_030" xml:space="preserve">
 		<value>我怕有些可能已經跑出村莊的邊緣了。</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
-		<value>如果你能找到我那六隻羊，我會非常感激的。你可以透過牠們烏黑亮麗的羊毛認出牠們的。</value>
+		<value>如果你能找到我的那六隻綿羊，我會非常感激的。你可以透過牠們烏黑亮麗的羊毛認出牠們的。</value>
 	</data>
 </root>
