@@ -721,7 +721,7 @@
 		<value>你才是這裡唯一的怪物，傀儡！等我把你的骨頭燒成灰時，你臨終將會記得火種的勝利！現在，受死吧！</value>
 	</data>
 	<data name="100_000" xml:space="preserve">
-		<value>樂土的光芒照耀著我。</value>
+		<value>淨土的光芒照耀著我。</value>
 	</data>
 	<data name="100_010" xml:space="preserve">
 		<value>但它能照進你內心的黑暗嗎？</value>
@@ -1045,22 +1045,22 @@
 		<value>你剛剛是不是把那隻羊塞進物品欄了？</value>
 	</data>
 	<data name="192_040" xml:space="preserve">
-		<value>呃，好吧。</value>
+		<value>好吧，沒事。</value>
 	</data>
 	<data name="245_000" xml:space="preserve">
-		<value>喂，看哪！是陽光！太好了！</value>
+		<value>喂，看哪！是陽光！太意外了！</value>
 	</data>
 	<data name="245_010" xml:space="preserve">
-		<value>看來是忒媞斯神女的道別之禮。</value>
+		<value>這似乎是忒媞斯神女的道別之禮。</value>
 	</data>
 	<data name="245_020" xml:space="preserve">
-		<value>等我們要回到地面的時候會用得著，但現在我們應該去找啵波。忒媞斯神女似乎確信我們會來不及。</value>
+		<value>等我們要回地面的時候，這會有幫助的，但現在我們應該去找啵波。忒媞斯神女似乎確信我們會來不及。</value>
 	</data>
 	<data name="245_030" xml:space="preserve">
 		<value>我們會趕上的！必須得趕上！該做的我們都做了！</value>
 	</data>
 	<data name="245_040" xml:space="preserve">
-		<value>這個世界還有很多妳需要學習的，小煩。有些時候，即使妳竭盡所能，也無法阻止宿命的發生。來吧，我們趕快回村吧。</value>
+		<value>這世界還有很多妳需要學習的，小煩。有些時候，即使妳竭盡所能，也無法阻止命運的發生。來吧，我們趕快回村吧。</value>
 	</data>
 	<data name="190_000" xml:space="preserve">
 		<value>他睡得正香。我們別打擾他吧。</value>
@@ -1084,7 +1084,7 @@
 		<value>好吧，太棒啦。真的，我好興奮。你呢，塵？你興奮嗎？</value>
 	</data>
 	<data name="266_170" xml:space="preserve">
-		<value>我只有點興奮，小煩。來吧，我們回地面吧。</value>
+		<value>我只有一點興奮，小煩。走吧，我們回地面吧。</value>
 	</data>
 	<data name="605_000" xml:space="preserve">
 		<value>蓋厄斯將軍？您找我？</value>
@@ -1483,7 +1483,7 @@
 		<value>阿拉與這一切有什麼關係？它到底是什麼？</value>
 	</data>
 	<data name="505_010" xml:space="preserve">
-		<value>它是五把極樂之刃的其中一把。是在我們族人還很多，無火之光之道還很普遍的時候所鍛造出來的上古兵器。</value>
+		<value>它是五把淨土之刃的其中一把。是在我們族人還很多，無火之光之道還很普遍的時候所鍛造出來的上古兵器。</value>
 	</data>
 	<data name="505_020" xml:space="preserve">
 		<value>等等、等等，「無火之光之道」是什麼鬼東西？</value>
@@ -1504,7 +1504,7 @@
 		<value>我……可能略過了那一章？</value>
 	</data>
 	<data name="505_080" xml:space="preserve">
-		<value>極樂之刃是被創造出來引導持劍者的，塵。我被召喚到你身邊是為了確保你體內的兩個靈魂能和平共存。</value>
+		<value>淨土之刃是被創造出來引導持劍者的，塵。我被召喚到你身邊是為了確保你體內的兩個靈魂能和平共存。</value>
 	</data>
 	<data name="505_090" xml:space="preserve">
 		<value>哦，老朋友啊……能再聽到你的聲音真是太好了。</value>

@@ -118,7 +118,7 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="242_Option_0" xml:space="preserve">
-		<value>您是怎麼知道的？</value>
+		<value>妳是怎麼知道的？</value>
 	</data>
 	<data name="242_Option_1" xml:space="preserve">
 		<value>我們必須趕快回去。</value>
@@ -127,28 +127,28 @@
 		<value>黑暗？</value>
 	</data>
 	<data name="240_Option_1" xml:space="preserve">
-		<value>您現在能把水放出來了嗎？</value>
+		<value>妳現在能把水放出來了嗎？</value>
 	</data>
 	<data name="260_000" xml:space="preserve">
 		<value>我很難過，我的行為犧牲了一條無辜的生命。如果你不能阻止蓋厄斯將軍，恐怕會有越來越多的生命犧牲。</value>
 	</data>
 	<data name="241_040" xml:space="preserve">
-		<value>極樂之刃？</value>
+		<value>淨土之刃？</value>
 	</data>
 	<data name="241_050" xml:space="preserve">
 		<value>我稍後再解釋。我們現在有更緊急的事要做。</value>
 	</data>
 	<data name="241_000" xml:space="preserve">
-		<value>您沒事吧，忒媞斯神女？阿拉說的黑暗是什麼東西？</value>
+		<value>妳沒事吧，忒媞斯神女？阿拉說的黑暗是什麼？</value>
 	</data>
 	<data name="241_010" xml:space="preserve">
-		<value>我看到了你的將軍的所作所為。我能感覺到那些被他屠殺的無辜之人的靈魂正在尖叫求助，而我……我向黑暗屈服了──那種不惜任何代價，對正義的渴望。</value>
+		<value>我看到了你的將軍的所作所為。我能感覺到那些被他屠殺的無辜靈魂正在尖叫求助，而我……我向黑暗屈服了──那種不惜任何代價，對正義的渴望。</value>
 	</data>
 	<data name="241_020" xml:space="preserve">
 		<value>正義必須兼顧仁慈，忒媞斯神女，否則那只不過是復仇而已。</value>
 	</data>
 	<data name="241_030" xml:space="preserve">
-		<value>我必須道歉，塵。現在我才看到你持有其中一把極樂之刃。如果我早點發現的話，我會對你更加尊重的。</value>
+		<value>我必須道歉，塵。現在我才看到你持有其中一把淨土之刃。如果我早點發現的話，我會對你更加尊重的。</value>
 	</data>
 	<data name="240_000" xml:space="preserve">
 		<value>你……你做了什麼？</value>
@@ -157,7 +157,7 @@
 		<value>我能感覺到黑暗正從她的靈魂中散去，塵。我們成功了，她現在安全了。</value>
 	</data>
 	<data name="240_010" xml:space="preserve">
-		<value>我希望您清醒一點！</value>
+		<value>我希望妳清醒一點！</value>
 	</data>
 	<data name="243_080" xml:space="preserve">
 		<value>她說得對，塵。如果我們要找男爵談談的話，我們得出發了！</value>
@@ -169,43 +169,43 @@
 		<value>你的體內有股強大的力量脈動著，塵。一個血肉之軀怎麼能承載如此殘破的靈魂，這已經超出我的理解範圍了。不過，現在那並不重要。</value>
 	</data>
 	<data name="243_040" xml:space="preserve">
-		<value>您能看透我的過去？</value>
+		<value>妳能看透我的過去？</value>
 	</data>
 	<data name="243_050" xml:space="preserve">
-		<value>你的靈魂已經四分五裂了，就像碎開的鏡子。我只能看到碎片中的反射，即使是我也看不出多大意義。</value>
+		<value>你的靈魂已經四分五裂了，就像碎開的鏡子。我只能看到碎片中的反射，即使是我也看不出多少。</value>
 	</data>
 	<data name="243_020" xml:space="preserve">
 		<value>他不是我的將軍。</value>
 	</data>
 	<data name="243_030" xml:space="preserve">
-		<value>或許現在不是。但我能看到你曾經與蓋厄斯將軍非常親近。</value>
+		<value>或許現在不是，但我能看到你曾經與蓋厄斯將軍非常親近。</value>
 	</data>
 	<data name="243_000" xml:space="preserve">
-		<value>您是怎麼知道那些的？</value>
+		<value>妳是怎麼知道那些的？</value>
 	</data>
 	<data name="243_010" xml:space="preserve">
-		<value>因為我與生命之系的頻率一致，親愛的。我能透過送到地面的水來感受所有生命。現在我能感受到地面居民因你的將軍的仇恨而感到前所未有的絕望。</value>
+		<value>因為我與生命之系的頻率一致。我能透過送到地面的水來感受所有生命。現在我能感受到地面居民因你的將軍的仇恨而感到前所未有的絕望。</value>
 	</data>
 	<data name="242_060" xml:space="preserve">
-		<value>他認識你的將軍，如果你幫助他，他會願意協助你終結蓋厄斯的戰爭。</value>
+		<value>他認識你的將軍，如果你幫助他，他就會願意幫助你終結蓋厄斯的戰爭。</value>
 	</data>
 	<data name="242_040" xml:space="preserve">
-		<value>那我們得快點了！吉琴也正往那裡過去！</value>
+		<value>那我們得快點了！娟潔也正前往那裡！</value>
 	</data>
 	<data name="242_020" xml:space="preserve">
-		<value>確實。雖然您的動機很高尚，但恐怕那對阻止蓋厄斯將軍和他在地面的戰爭沒多大用處。</value>
+		<value>確實。雖然妳的動機很高尚，但那恐怕對阻止蓋厄斯將軍和他在地面的戰爭沒多大用處。</value>
 	</data>
 	<data name="242_050" xml:space="preserve">
-		<value>在你離開前，或許我能報答你將我從瘋狂中解救出來。在北方山脈的底部有一座廣闊的莊園。領主是一位叫凱恩的男爵。</value>
+		<value>在你離開前，或許我能報答你將我從瘋狂中解救出來。在北方山脈的底部有一座廣闊的莊園，領主是一位叫凱恩的男爵。</value>
 	</data>
 	<data name="242_000" xml:space="preserve">
-		<value>我知道您覺得阻斷水流是做了正確的事，但泥潭村現在比以往更需要水了。</value>
+		<value>我知道妳覺得阻斷水流是做了正確的事，但泥潭村現在比以往更需要水了。</value>
 	</data>
 	<data name="242_030" xml:space="preserve">
-		<value>我已經能感覺到他軍隊的腳步……他們往北方去了，深入山區。</value>
+		<value>我早已能感覺到他軍隊的腳步……他們往北方去了，深入了山區。</value>
 	</data>
 	<data name="242_010" xml:space="preserve">
-		<value>哦！是的，水流！我只希望還來得及……</value>
+		<value>噢！水流，是的！我只希望還來得及……</value>
 	</data>
 	<data name="244_000" xml:space="preserve">
 		<value>抱歉，忒媞斯神女，但我們必須趕路了。泥潭村有個人快死了──</value>
@@ -214,13 +214,13 @@
 		<value>我們沒時間浪費了。有捷徑回泥潭村嗎？</value>
 	</data>
 	<data name="244_010" xml:space="preserve">
-		<value>我現在能感覺到……他的生命力非常微弱。我怎麼能讓這種事發生？我……我到底幹了什麼……？</value>
+		<value>我現在能感覺到……他的生命非常微弱。我怎麼能讓這種事發生？我……我到底幹了什麼……？</value>
 	</data>
 	<data name="244_040" xml:space="preserve">
-		<value>我們會趕上的！您就等著瞧吧！</value>
+		<value>我們會趕上的！妳就等著瞧吧！</value>
 	</data>
 	<data name="244_030" xml:space="preserve">
-		<value>當然有──就從這裡穿過去。不過恐怕可能來不及了。</value>
+		<value>當然有──就從這裡穿過去。不過恐怕來不及了。</value>
 	</data>
 	<data name="244_060" xml:space="preserve">
 		<value>再見，塵。祝你好運。</value>
@@ -232,60 +232,60 @@
 		<value>謝謝你，塵。拜託，請趕快回泥潭村。</value>
 	</data>
 	<data name="230_130" xml:space="preserve">
-		<value>他帶領大軍橫越這片土地，濫殺無辜，利用我的水給他那充滿仇恨的戰爭賦予活力。我阻斷水流，我就能制止暴力了！</value>
+		<value>他帶領大軍橫越這片土地，濫殺無辜，利用我的水給他那充滿仇恨的戰爭賦予活力。我阻斷水流，我就能制止暴力！</value>
 	</data>
 	<data name="230_120" xml:space="preserve">
-		<value>生物……像我？您是說？</value>
+		<value>生物……像我？妳是說──？</value>
 	</data>
 	<data name="230_110" xml:space="preserve">
-		<value>地面居民，當我的水流經你的土地的時候，我心中感到無比的掙扎。我看到這些水解了一個跟你很像的生物的渴，一個心靈殘破的殺手。</value>
+		<value>地面居民，當我的水流經你土地的時候，我心中感到無比的掙扎。我看到這些水解了一個生物的渴，他跟你很像，一個靈魂破碎的殺手。</value>
 	</data>
 	<data name="230_100" xml:space="preserve">
-		<value>我會質疑任何生物的動機，無論是神與否，那會害受到影響的對象毫無理由的滅亡。</value>
+		<value>無論是神與否，我會質疑任何動機，因為那會讓對象毫無理由的滅亡。</value>
 	</data>
 	<data name="230_160" xml:space="preserve">
 		<value>有一股可怕的殺氣，塵！準備應戰！</value>
 	</data>
 	<data name="230_150" xml:space="preserve">
-		<value>如果他們的死為拯救世界所必須的，那我願意作出如此犧牲。你說的都不重要──個人、家庭、村莊。他們的死，和你的一樣，在大義面前無足輕重。</value>
+		<value>如果他們的死為拯救世界所必須的，那我願意作出犧牲。你說的都不重要──個人、家庭、村莊。他們的死，和你的一樣，在大義面前無足輕重。</value>
 	</data>
 	<data name="230_140" xml:space="preserve">
-		<value>但您卻把無辜的人當成罪人一樣懲罰！您在泥潭村的追隨者沒有水會死的！</value>
+		<value>但妳卻把無辜的人當成罪人一樣懲罰！沒有水，妳在泥潭村的追隨者會死的！</value>
 	</data>
 	<data name="230_090" xml:space="preserve">
-		<value>你，一個地面居民，竟敢質疑我的行為？你以為你是誰？居然命令我放出生命之水？</value>
+		<value>你，區區地面居民，竟敢質疑我做的事？你以為你是誰？居然命令我放出生命之水？</value>
 	</data>
 	<data name="230_080" xml:space="preserve">
-		<value>忒媞斯神女，泥潭村需要您的幫助。他們有人快死了，但您的治癒之水可以救他一命。</value>
+		<value>忒媞斯神女，泥潭村需要妳的幫助。他們有人快死了，但妳的治癒之水可以救他一命。</value>
 	</data>
 	<data name="230_030" xml:space="preserve">
-		<value>你竟敢闖進我的地盤還敢質疑我？是的，水停止流動了。就是我阻斷水流的！</value>
+		<value>你竟敢闖進我的地盤還敢質問我？是的，水停止流動了，就是我阻斷的！</value>
 	</data>
 	<data name="230_010" xml:space="preserve">
-		<value>你是誰？</value>
+		<value>你們是誰？</value>
 	</data>
 	<data name="230_020" xml:space="preserve">
-		<value>我是塵，她是小煩。我們來自泥潭村，正在尋找人們所稱的「神女」。他們的泉水乾涸了，我是來找出原因的。</value>
+		<value>我是塵，她是小煩。我們來自泥潭村，正在尋找村民們所稱的「神女」。他們的泉水乾涸了，我是來找出原因的。</value>
 	</data>
 	<data name="230_070" xml:space="preserve">
-		<value>好吧，塵，也許你該調整一下態度？她現在非常生氣。</value>
+		<value>好的，塵，也許你該調整一下語氣？她現在非常生氣了。</value>
 	</data>
 	<data name="230_000" xml:space="preserve">
-		<value>你看，塵！</value>
+		<value>塵，你看！</value>
 	</data>
 	<data name="230_050" xml:space="preserve">
 		<value>我絕無不敬之意……呃……</value>
 	</data>
 	<data name="230_060" xml:space="preserve">
-		<value>我是忒媞斯神女，你要對我恭敬有禮，就像對世界上最有權勢的人一樣。</value>
+		<value>我是忒媞斯神女，你要對我恭敬有禮，就像對世界上最有威望的人一樣。</value>
 	</data>
 	<data name="230_040" xml:space="preserve">
-		<value>小心點，塵，我不認為她習慣別人隨性地和她交談。</value>
+		<value>小心點，塵，我不認為她習慣被人用這麼隨意的語氣說話。</value>
 	</data>
 	<data name="231_010" xml:space="preserve">
 		<value>那就來吧，地面居民！如果你要對我拔劍相向，你那受詛咒的靈魂就準備被我從身上剝下，用聖水淨化乾淨！</value>
 	</data>
 	<data name="231_000" xml:space="preserve">
-		<value>我看到您的死期了，忒媞斯神女，我不會讓您屈服於同樣的命運的。已經有太多無辜的人因蓋厄斯的戰爭而死了。</value>
+		<value>我看到妳的盡頭了，忒媞斯神女，我不會讓妳死於同樣的命運的。已經有太多無辜的人因蓋厄斯的戰爭而死了。</value>
 	</data>
 </root>

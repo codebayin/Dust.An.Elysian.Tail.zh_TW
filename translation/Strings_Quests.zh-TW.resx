@@ -157,7 +157,7 @@
 		<value>紅苔蘚</value>
 	</data>
 	<data name="013_Title" xml:space="preserve">
-		<value>敲擊棍</value>
+		<value>敲擊棒</value>
 	</data>
 	<data name="014_Title" xml:space="preserve">
 		<value>巨魔雪恥</value>
@@ -250,7 +250,7 @@
 		<value>布洛普請你弄「10顆岩犬牙」給他，這樣他就能製作一副新的假牙了。</value>
 	</data>
 	<data name="014_000" xml:space="preserve">
-		<value>為了替布洛普脆弱的自尊雪恥，你答應他要從住在洞穴的持盾巨魔身上收集「4根巨魔手指」。</value>
+		<value>為了替布洛普脆弱的自尊雪恥，你答應他要從洞穴內的持盾巨魔身上收集「4根巨魔手指」。</value>
 	</data>
 	<data name="014_001" xml:space="preserve">
 		<value>你已經湊齊了巨魔手指。帶回去交給泥潭村的布洛普，也許他的榮耀能藉此重返。</value>
@@ -271,13 +271,13 @@
 		<value>絲莫芭普很喜歡那個布偶，她給了你一個古怪的盒子作為交換。</value>
 	</data>
 	<data name="013_000" xml:space="preserve">
-		<value>布洛普的「敲擊棍」掉在了泥潭村的地下室。儘快幫他把棍子找回來，這樣他就能繼續敲打東西了。</value>
+		<value>布洛普的「敲擊棒」掉在了泥潭村的地下室。儘快找回棒子，那樣他就能繼續敲東西了。</value>
 	</data>
 	<data name="013_001" xml:space="preserve">
-		<value>你找回布洛普的敲擊棍了。回去泥潭村交給他。</value>
+		<value>你找回布洛普的敲擊棒了。回去泥潭村交給他。</value>
 	</data>
 	<data name="013_002" xml:space="preserve">
-		<value>布洛普很興奮能找回棍子。現在他又可以開始東敲西敲了。可惜的是，你一直有個疑問：當初他的棍子為什麼會被藏起來。</value>
+		<value>布洛普很高興能找回棒子。現在他又可以開始敲東西了。遺憾的是，你一直有個疑問：當初他的棒子為何會被藏起來。</value>
 	</data>
 	<data name="012_000" xml:space="preserve">
 		<value>芙蘿哈普請你去尋找紅苔蘚，那樣她就能做飯給辛勞工作的丈夫吃了。據說這些苔蘚只生長在陰暗、巨大紅蘑菇的菌傘底下。</value>
@@ -397,7 +397,7 @@
 		<value>你和忒媞斯神女解決了問題，她已經恢復了礦物水的流動。回去找泥潭村的啵波。</value>
 	</data>
 	<data name="000_013" xml:space="preserve">
-		<value>雖然你成功讓水再次流動並拯救了山谷，但你還是沒能救活啵波的父親。你現在必須向北前往悲慟荒原，去會見「凱恩男爵」。</value>
+		<value>雖然你成功讓水再次流動並拯救了溪谷，但你還是沒能救活啵波的父親。你現在必須向北前往悲慟荒原，去會見「凱恩男爵」。</value>
 	</data>
 	<data name="000_014" xml:space="preserve">
 		<value>通往山脈的道路被奇怪的屏障擋住了。在悲慟荒原中找到凱恩男爵並與他交談，了解如何解除屏障。</value>
