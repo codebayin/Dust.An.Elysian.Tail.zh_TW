@@ -1042,7 +1042,7 @@
 		<value>是啊。怎樣？</value>
 	</data>
 	<data name="192_020" xml:space="preserve">
-		<value>你剛剛是不是把那隻羊塞進物品欄了？</value>
+		<value>你剛剛是不是把那隻綿羊塞進物品欄了？</value>
 	</data>
 	<data name="192_040" xml:space="preserve">
 		<value>好吧，沒事。</value>
@@ -1054,7 +1054,7 @@
 		<value>這似乎是忒媞斯神女的道別之禮。</value>
 	</data>
 	<data name="245_020" xml:space="preserve">
-		<value>等我們要回地面的時候，這會有幫助的，但現在我們應該去找啵波。忒媞斯神女似乎確信我們會來不及。</value>
+		<value>等我們要回地面時，這會有幫助的，但現在我們應該去找啵波。忒媞斯神女似乎確信我們會來不及。</value>
 	</data>
 	<data name="245_030" xml:space="preserve">
 		<value>我們會趕上的！必須得趕上！該做的我們都做了！</value>
@@ -1069,13 +1069,13 @@
 		<value>你準備要離開了嗎，塵？</value>
 	</data>
 	<data name="266_130" xml:space="preserve">
-		<value>我是這麼打算的。我們必須回到地面找到忒媞斯神女所說的莊園。</value>
+		<value>是的，我是這麼打算的。我們必須回到地面找到忒媞斯神女所說的莊園。</value>
 	</data>
 	<data name="266_135" xml:space="preserve">
 		<value>好，我知道她說的那個地方。一座位於山腳下的老莊園，那裡被稱作悲慟荒原。</value>
 	</data>
 	<data name="266_140" xml:space="preserve">
-		<value>悲慟荒原？是那個介於血死峽谷和永痛之丘之間的地方？</value>
+		<value>悲慟荒原？是那個介於血死峽谷和永痛之丘之間的地方嗎？</value>
 	</data>
 	<data name="266_150" xml:space="preserve">
 		<value>它原本不叫那個名字，小煩。它曾經是個平靜的地方，但現在，即使我們離它這麼遠，我還能感覺到它散發出來的邪惡。</value>
@@ -1090,25 +1090,26 @@
 		<value>蓋厄斯將軍？您找我？</value>
 	</data>
 	<data name="605_010" xml:space="preserve">
-		<value>你的報告，指揮官。有什麼消息嗎？</value>
+		<value>向我匯報，指揮官。有什麼消息嗎？</value>
 	</data>
 	<data name="605_020" xml:space="preserve">
-		<value>我們的偵察兵認為他還活著，將軍。但他的行動……相當詭異。</value>
+		<value>我們的偵察兵認為他還活著，將軍。
+但他的行動……相當詭異。</value>
 	</data>
 	<data name="605_030" xml:space="preserve">
 		<value>詭異？怎麼說？</value>
 	</data>
 	<data name="605_040" xml:space="preserve">
-		<value>他冒險進入了西洛蒙洞穴，並拯救了當地的村莊。據我所知，他的行動讓水又開始流動了。如果您告訴我的是真的，卡西斯絕不會──</value>
+		<value>他冒險進入了西洛蒙洞穴，並拯救了當地的村莊。據我所知，他的行動讓水又開始流動了。如果您告訴我的是真的，卡西斯絕對不會──</value>
 	</data>
 	<data name="605_050" xml:space="preserve">
-		<value>不，卡西斯絕不會那麼做。隨時向我報告情況，指揮官。下去吧。</value>
+		<value>不，卡西斯絕對不會那樣做。隨時向我匯報情況，指揮官。下去吧。</value>
 	</data>
 	<data name="605_060" xml:space="preserve">
-		<value>你何時長出了一顆心啊，我的朋友？這不像你……</value>
+		<value>你何時有了一顆心啊，我的朋友？這不像你……</value>
 	</data>
 	<data name="310_010" xml:space="preserve">
-		<value>我們都一起經歷了這麼多，妳還這麼吃驚？</value>
+		<value>我們都走了這麼遠了，妳還這麼吃驚？</value>
 	</data>
 	<data name="310_000" xml:space="preserve">
 		<value>啊！那是什麼東西！？真嚇人！</value>

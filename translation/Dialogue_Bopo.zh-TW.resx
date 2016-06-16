@@ -262,7 +262,7 @@
 		<value>啵波，親愛的……跟我進來。</value>
 	</data>
 	<data name="250_020" xml:space="preserve">
-		<value>她和爸爸在屋裡！當水開始再次流動的時候，她就馬上送水去給爸爸了！哦，你看，她過來了！媽媽，他們在這！我就說他們會讓水再次流動的！</value>
+		<value>她和爸爸在屋裡！當水開始再次流動的時候，她就馬上給爸爸送水了！哦，你看，她過來了！媽媽，他們在這！我就說他們會讓水再次流動的！</value>
 	</data>
 	<data name="255_000" xml:space="preserve">
 		<value>他已經盡力撐住了……只是還不夠。</value>
@@ -280,10 +280,10 @@
 		<value>該死！我們慢了一步！</value>
 	</data>
 	<data name="255_020" xml:space="preserve">
-		<value>對不起，寶貝，真的對不起。他是勇敢的鬥士。只是……只是他的時間到了。當時間到來，你是無能為力的。</value>
+		<value>對不起，寶貝，真的對不起。他是個勇敢的鬥士。只是……只是他的時間到了。當時間到來，你是無能為力的。</value>
 	</data>
 	<data name="255_050" xml:space="preserve">
-		<value>塵，馬上停止你的悲嘆！你盡力了──你做的比任何人都多，我們所有人都很感謝你。雖然你可能可以早幾天讓水流動，但我想是他的傷太重了。</value>
+		<value>塵，馬上停止你的悲嘆！你盡力了──你做的比任何人都多，我們所有人都很感謝你。就算你能讓水早幾天流動，但我想他的病還是太重了。</value>
 	</data>
 	<data name="255_060" xml:space="preserve">
 		<value>爸爸？你聽到了嗎？他們讓水流動了！爸爸！？爸爸！？</value>
@@ -295,19 +295,19 @@
 		<value>我不明白……我們讓水流動了。該做的我們都做了。</value>
 	</data>
 	<data name="260_010" xml:space="preserve">
-		<value>小煩，就像啵波媽媽說的：當生命之系召喚來臨時，你就必須離去。他注定要死，我們再怎麼努力也阻止不了。</value>
+		<value>小煩，就像啵波的媽媽說的：當生命之系召喚來臨時，你就必須離去。他注定要死，我們再怎麼努力也阻止不了。</value>
 	</data>
 	<data name="260_020" xml:space="preserve">
 		<value>那不是藉口，阿拉。你早就知道了？你早就知道我們會慢了一步？</value>
 	</data>
 	<data name="260_030" xml:space="preserve">
-		<value>如果我之前告訴你，你還會努力去救他嗎？</value>
+		<value>如果我早先告訴你，你還會努力去救他嗎？</value>
 	</data>
 	<data name="260_040" xml:space="preserve">
-		<value>村莊需要水的供應。不管怎樣我都會去找神女的。</value>
+		<value>村莊需要水的供應，不管怎樣我都會去找神女的。</value>
 	</data>
 	<data name="260_045" xml:space="preserve">
-		<value>所以我知道什麼並不重要。這也是你仍有希望的原因，塵。</value>
+		<value>所以我早就知道什麼並不重要。這也是你還能抱有希望的原因，塵。</value>
 	</data>
 	<data name="260_046" xml:space="preserve">
 		<value>那是什麼意思？為什麼每當我作決定的時候，你都像在考驗我？你還有什麼沒告訴我，阿拉？</value>
@@ -322,7 +322,7 @@
 		<value>對不起，小煩，我不是故意──</value>
 	</data>
 	<data name="260_050" xml:space="preserve">
-		<value>別喊了！拜託……只求你，停下來。我受不了了。我們盡力了，塵。我們盡力了。</value>
+		<value>別喊了！只求你……拜託，停下來。我受不了了。我們盡力了，塵，我們盡力了。</value>
 	</data>
 	<data name="260_070" xml:space="preserve">
 		<value>別再煩惱你是誰了！你是塵！聽到了嗎？我不在乎你以前是誰，也不在乎你是否和那個將軍共事過，因為你現在是塵了！</value>
@@ -331,10 +331,10 @@
 		<value>說得好，小煩。塵，你的過去已然破碎，你的未來仍未書寫，但你猶如一盞明燈照遍了這個世界，這才是最重要的。</value>
 	</data>
 	<data name="260_090" xml:space="preserve">
-		<value>你們說得對。我太過煩惱我是誰，卻忽略了身為塵的我做過的善行。不管怎樣，很晚了。我們該找個地方休息了。</value>
+		<value>你們說得對，我太過煩惱我是誰，卻忽略了我以塵的身分做過的善行。不管怎樣，很晚了，我們該找個地方休息了。</value>
 	</data>
 	<data name="260_100" xml:space="preserve">
-		<value>明智的選擇。休息一晚會讓你清醒一點的。</value>
+		<value>明智的選擇。休息一晚會讓你頭腦清醒的。</value>
 	</data>
 	<data name="265_000" xml:space="preserve">
 		<value>隨著最後的話語，我們將爸帕普的靈魂託付給生命之系，在那裡，他融入來來往往的人，過去的，現在的。我們會再見的，老朋友。</value>
@@ -355,10 +355,10 @@
 		<value>我只希望我能做得更多。</value>
 	</data>
 	<data name="265_060" xml:space="preserve">
-		<value>不，你做了很多。你教會了我什麼是堅強，即使全世界都與你為敵。</value>
+		<value>不，你做了很多。你教會了我什麼是堅強，即使全世界都不站在你這邊。</value>
 	</data>
 	<data name="265_070" xml:space="preserve">
-		<value>現在爸爸已經走了，所以為了媽媽我必須堅強。像你一樣強！</value>
+		<value>現在爸爸已經走了，所以為了媽媽，我必須堅強。像你一樣強！</value>
 	</data>
 	<data name="265_080" xml:space="preserve">
 		<value>你是個好孩子，啵波。我想你父親會感到驕傲的。</value>
@@ -391,13 +391,13 @@
 		<value>希望怎樣？</value>
 	</data>
 	<data name="280_030" xml:space="preserve">
-		<value>嗯，我希望能給他體面的送行，你知道嗎？在我一生中，他一直跟我說起關於遊覽地面上那些雪山的事情……現在他再也看不到了。</value>
+		<value>嗯，我希望能給他體面的送行，你知道嗎？在我一生中，他一直跟我提起關於參觀那些地面雪山的事情……現在他再也看不到了。</value>
 	</data>
 	<data name="280_040" xml:space="preserve">
-		<value>除非我幫助他！塵，你覺得……你有沒有辦法能……幫我弄一些雪來？我想爸爸會很感激的……</value>
+		<value>除非我幫助他！塵，你覺得……你有沒有辦法……能幫我弄一些雪來？我想爸爸會很感激的……</value>
 	</data>
 	<data name="280_050" xml:space="preserve">
-		<value>沒問題，啵波。我明白了。如果我有上山，我會記得幫你帶回一些雪的。我保證。</value>
+		<value>沒問題，啵波，我明白了。如果我有上山，我會記得幫你帶回一些雪的。我保證。</value>
 	</data>
 	<data name="280_060" xml:space="preserve">
 		<value>謝謝你，塵！真的太謝謝你了！</value>

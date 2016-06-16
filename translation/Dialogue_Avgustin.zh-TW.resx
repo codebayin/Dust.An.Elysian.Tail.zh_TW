@@ -142,19 +142,19 @@
 		<value>奧古斯汀？你大老遠跑來這裡做什麼？</value>
 	</data>
 	<data name="007_020" xml:space="preserve">
-		<value>呵唷，我正在聽從遠大冒險的召喚！在這片廣闊、原始的荒野中冒險追尋我的未來！</value>
+		<value>呵唷，我正在聽從遠大冒險的召喚！在這片廣闊、原始的荒野中冒險追尋我的際遇！</value>
 	</data>
 	<data name="007_040" xml:space="preserve">
-		<value>事實上，柯拉請我帶她去什麼老荒原。</value>
+		<value>其實是柯拉請我帶她去什麼老荒原。</value>
 	</data>
 	<data name="007_050" xml:space="preserve">
 		<value>悲慟荒原。</value>
 	</data>
 	<data name="007_060" xml:space="preserve">
-		<value>沒錯，就是那個！我向來記不住這些。</value>
+		<value>沒錯，就是那個！我向來記不住這些名字。</value>
 	</data>
 	<data name="007_070" xml:space="preserve">
-		<value>她有說她為什麼要來這裡嗎？這個地方非常……荒涼。</value>
+		<value>她有說她為什麼要來嗎？這個地方非常……荒涼。</value>
 	</data>
 	<data name="007_080" xml:space="preserve">
 		<value>沒有！只有請我給她帶路。她進入荒原不久後，這奇怪的魔法屏障就出現了！這玩意真的很麻煩！</value>
@@ -166,10 +166,10 @@
 		<value>不要看她那樣，她走路可快了！</value>
 	</data>
 	<data name="007_110" xml:space="preserve">
-		<value>好的。嗯，我們最好去找她。這片荒原並不安全。奧古斯汀，如果你不打算回極光村，那你最好在這裡等著。</value>
+		<value>嗯，我們最好去找她，這片荒原並不安全。奧古斯汀，如果你不想回極光村，那你最好在這裡等著。</value>
 	</data>
 	<data name="007_120" xml:space="preserve">
-		<value>早想到了，兄弟！我比任何人更擅長在這裡等著！祝你好運！</value>
+		<value>早料到了，兄弟！我比任何人更擅長在這裡等著！祝你好運！</value>
 	</data>
 	<data name="000_000" xml:space="preserve">
 		<value>呵唷，你好！我總是很高興見到新面孔！即使是像你這樣整個蓋住的。</value>
