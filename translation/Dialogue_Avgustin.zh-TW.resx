@@ -127,10 +127,10 @@
 		<value>你要上山嗎？這條路很遠喔，不過舊的路很久以前就被堵住了，所以你也沒得選。</value>
 	</data>
 	<data name="008_030" xml:space="preserve">
-		<value>別擔心我們。你留在這裡守著這些岩石吧。</value>
+		<value>別擔心我們。你就待在這裡守著這些岩石吧。</value>
 	</data>
 	<data name="008_040" xml:space="preserve">
-		<value>我會把它當作個人的挑戰！</value>
+		<value>我會把它當作是自我的挑戰！</value>
 	</data>
 	<data name="009_000" xml:space="preserve">
 		<value>你和我，塵。我們將會拯救世界！</value>
@@ -145,7 +145,7 @@
 		<value>呵唷，我正在聽從遠大冒險的召喚！在這片廣闊、原始的荒野中冒險追尋我的際遇！</value>
 	</data>
 	<data name="007_040" xml:space="preserve">
-		<value>其實是柯拉請我帶她去什麼老荒原。</value>
+		<value>其實是科拉請我帶她去什麼老荒原。</value>
 	</data>
 	<data name="007_050" xml:space="preserve">
 		<value>悲慟荒原。</value>
@@ -160,7 +160,7 @@
 		<value>沒有！只有請我給她帶路。她進入荒原不久後，這奇怪的魔法屏障就出現了！這玩意真的很麻煩！</value>
 	</data>
 	<data name="007_090" xml:space="preserve">
-		<value>看來我們上不了山了。你說柯拉剛剛進入了荒原？</value>
+		<value>看來我們上不了山了。你說科拉剛剛進入了荒原？</value>
 	</data>
 	<data name="007_100" xml:space="preserve">
 		<value>不要看她那樣，她走路可快了！</value>

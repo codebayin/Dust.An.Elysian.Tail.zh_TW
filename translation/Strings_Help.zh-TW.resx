@@ -323,11 +323,11 @@
 	</data>
 	<data name="pcupgrade16" xml:space="preserve">
 		<value>習得鋼鐵之握！
-跳起並按 [LEFT] 或 [RIGHT] 靠向藤蔓開始攀牆。</value>
+跳起並按 [LEFT] 或 [RIGHT] 靠向藤蔓進行攀牆。</value>
 	</data>
 	<data name="upgrade16" xml:space="preserve">
 		<value>習得鋼鐵之握！
-跳起並使用 [LTHUMB] 靠向藤蔓開始攀牆。</value>
+跳起並使用 [LTHUMB] 靠向藤蔓進行攀牆。</value>
 	</data>
 	<data name="questgiver" xml:space="preserve">
 		<value>頭上有 [ICON_360] 的人物為任務角色。

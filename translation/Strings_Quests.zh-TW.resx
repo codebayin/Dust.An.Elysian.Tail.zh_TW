@@ -292,10 +292,10 @@
 		<value>你已經成功找到了所有走丟的綿羊。把牠們送回泥潭村的老蓋皮那裡。</value>
 	</data>
 	<data name="010_000" xml:space="preserve">
-		<value>極光村的莫斯卡認定你會成為傳奇人物，一心一意只想得到你的簽名。如果你有一些紙的話……</value>
+		<value>極光村的莫斯卡認定你會成為傳奇人物，一心一意想得到你的簽名。如果你有一些紙的話……</value>
 	</data>
 	<data name="010_001" xml:space="preserve">
-		<value>你已經找到了適合簽名的紙。雖然你覺得有點蠢，但你還是會實現莫斯卡的心願的。</value>
+		<value>你已經找到了適合簽名的紙。雖然你覺得有點蠢，但你還是會實現莫斯卡的願望。</value>
 	</data>
 	<data name="009_000" xml:space="preserve">
 		<value>你遇到一位叫里德的古怪傢伙。他似乎在找某個盒子。</value>
@@ -403,13 +403,13 @@
 		<value>通往山脈的道路被奇怪的屏障擋住了。在悲慟荒原中找到凱恩男爵並與他交談，以獲知解除屏障的方法。</value>
 	</data>
 	<data name="000_015" xml:space="preserve">
-		<value>柯拉請你從悲慟荒原各個角落的廢棄莊邸找回四件紀念物。</value>
+		<value>科拉請你從悲慟荒原各個角落的廢棄莊邸找回四件紀念物。</value>
 	</data>
 	<data name="000_016" xml:space="preserve">
-		<value>你找齊了柯拉的紀念物。回去悲慟荒原的中心交給她。</value>
+		<value>你找齊了科拉的紀念物。回去悲慟荒原的中心交給她。</value>
 	</data>
 	<data name="000_017" xml:space="preserve">
-		<value>在你的幫助下，柯拉成功趕走了被認為控制她丈夫的惡靈。凱恩告訴了你更多關於戰爭的詳情，還為你打開了在墓地入口處通往山脈的道路。</value>
+		<value>在你的幫助下，科拉成功驅走了控制她丈夫的惡靈。凱恩給了你更多關於戰爭的進一步詳情，也打開了在墓地入口處通往山脈的道路。</value>
 	</data>
 	<data name="000_018" xml:space="preserve">
 		<value>雖然這冰天雪地還算美麗，但往北去見娟潔的路上你有種不安的感覺。</value>

@@ -127,7 +127,7 @@
 		<value>杯子蛋糕</value>
 	</data>
 	<data name="004" xml:space="preserve">
-		<value>神祕的牆烤雞</value>
+		<value>神祕牆烤雞</value>
 	</data>
 	<data name="010" xml:space="preserve">
 		<value>肉桂麵包</value>
@@ -274,7 +274,7 @@
 		<value>瘟疫油</value>
 	</data>
 	<data name="136" xml:space="preserve">
-		<value>冰凍刃</value>
+		<value>冰封刃</value>
 	</data>
 	<data name="135" xml:space="preserve">
 		<value>高山油</value>
@@ -514,7 +514,7 @@
 		<value>喜歡芥末口味的嗎？一包十份。</value>
 	</data>
 	<data name="017_Desc" xml:space="preserve">
-		<value>濃濃的辣豆湯內放滿豆腐。加入的辣椒更增添風味！</value>
+		<value>濃濃的辣豆湯內放滿豆腐。加入的辣椒更添風味！</value>
 	</data>
 	<data name="020_Desc" xml:space="preserve">
 		<value>生日快樂！</value>
@@ -574,7 +574,7 @@
 		<value>一個能少量自動恢復生命的美麗吊墜。</value>
 	</data>
 	<data name="076_Desc" xml:space="preserve">
-		<value>原屬一名離棄崗位的逃兵之物。他苟活下來了，但恥辱將跟著他一輩子。</value>
+		<value>一名離棄崗位的逃兵之物。他苟活下來了，但恥辱將跟著他一輩子。</value>
 	</data>
 	<data name="077_Desc" xml:space="preserve">
 		<value>這件吊墜的主人曾經宣示效忠惡魔。</value>
@@ -670,7 +670,7 @@
 		<value>共鳴石可開啟同樣顏色的所有共鳴門。</value>
 	</data>
 	<data name="308_Desc" xml:space="preserve">
-		<value>有趣的機器，能將放置在內的東西保持冰冷。</value>
+		<value>有趣的機器，能將放置其內的東西保持冰冷。</value>
 	</data>
 	<data name="342_Desc" xml:space="preserve">
 		<value>冰箱好用的不得了，雪完全不會融化。</value>
@@ -784,7 +784,7 @@
 		<value>生活在文明社會邊緣的窮人的戒指。</value>
 	</data>
 	<data name="251_Desc" xml:space="preserve">
-		<value>原屬於一名年輕戰士因其警覺性而獲得的獎勵。</value>
+		<value>一名年輕戰士因其警覺心而獲得的戒指。</value>
 	</data>
 	<data name="253_Desc" xml:space="preserve">
 		<value>極佳的商業頭腦讓這枚戒指的主人非常富有。</value>

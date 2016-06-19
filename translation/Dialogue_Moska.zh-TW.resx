@@ -121,13 +121,13 @@
 		<value>總是很高興見到你們！</value>
 	</data>
 	<data name="004_060" xml:space="preserve">
-		<value>什麼？那就是我們簽名的方式。你看，上面寫著！小──煩！</value>
+		<value>什麼？這就是我們簽名的方式。你看，上面寫著！小──煩！</value>
 	</data>
 	<data name="004_040" xml:space="preserve">
-		<value>啊哈！就這樣吧！</value>
+		<value>啊哈！簽好了！</value>
 	</data>
 	<data name="004_020" xml:space="preserve">
-		<value>好，就這樣吧。</value>
+		<value>好，簽好了。</value>
 	</data>
 	<data name="004_030" xml:space="preserve">
 		<value>你的朋友也可以簽！</value>
@@ -136,7 +136,7 @@
 		<value>喂！</value>
 	</data>
 	<data name="002_010" xml:space="preserve">
-		<value>她還好嗎？</value>
+		<value>她好點了嗎？</value>
 	</data>
 	<data name="002_040" xml:space="preserve">
 		<value>等等，什麼？</value>
@@ -226,10 +226,10 @@
 		<value>如果你堅持要跟來，千萬要保持距離。</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
-		<value>塵，我欠你太多了！我無法相信莎拉希所經歷的一切。要是沒有你的幫助……唔，我不敢想下去了！</value>
+		<value>塵，我欠你太多了！我無法相信莎拉希所經歷的。如果沒有你的幫助……唔，我不敢想下去了！</value>
 	</data>
 	<data name="002_020" xml:space="preserve">
-		<value>還好，我正在照顧她。她仍心有餘悸。她失去了很多朋友……</value>
+		<value>是的，我正在照顧她。她還是心有餘悸。她失去了很多朋友……</value>
 	</data>
 	<data name="002_030" xml:space="preserve">
 		<value>嘿，呃……我知道這聽起來可能有點奇怪，但我能跟你要張簽名嗎？</value>
@@ -247,7 +247,7 @@
 		<value>這樣寫如何……「致莫斯卡，我的頭號粉絲！」</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
-		<value>你可以去商店買紙。</value>
+		<value>你可以從商店買到紙。</value>
 	</data>
 	<data name="004_050" xml:space="preserve">
 		<value>那是什麼？一個爪印？</value>
@@ -256,12 +256,12 @@
 		<value>好了，莫斯卡。雖然感覺怪怪的，不過我們開始吧。你希望我在簽名上面寫什麼？</value>
 	</data>
 	<data name="004_070" xml:space="preserve">
-		<value>好吧，呃……很好！太好了！你們兩個……非常棒！祝你們好運，再次謝謝你們救了莎拉希。我永遠不會忘記的！</value>
+		<value>呃……好！很好！你們……太棒了！祝你們好運，再次謝謝你們救了莎拉希。我永遠不會忘記的！</value>
 	</data>
 	<data name="001_100" xml:space="preserve">
 		<value>沒錯，當塵開始揮那把劍的時候，你絕對不會想靠近他的。你見過那種場面嗎？他只會咻咻咻鏘鏘咻噗哧噗噓！</value>
 	</data>
 	<data name="002_110" xml:space="preserve">
-		<value>噢，該死！我身上沒有紙。你能去商店買一些嗎？這裡有些錢──雖然我想自己去買，但我……可以算是被列入黑名單了。我怎麼知道那些陳設會這麼容易就倒呢？</value>
+		<value>噢，該死！我身上沒有紙。你能去商店買一些嗎？這裡有些錢──雖然我想自己去買，但我……算、算是被列入黑名單了。我怎麼會知道那些陳設這麼容易就倒呢？</value>
 	</data>
 </root>
