@@ -229,10 +229,10 @@
 		<value>你已經獲得了一個冰箱，用它來裝雪效果會很好。</value>
 	</data>
 	<data name="021_002" xml:space="preserve">
-		<value>你已經裝滿了雪。把它交給泥潭村的啵波。</value>
+		<value>你已經裝了一些雪。把它交給泥潭村的啵波。</value>
 	</data>
 	<data name="021_003" xml:space="preserve">
-		<value>啵波將雪置於父親的墳墓上，履行了曾經對他的承諾。</value>
+		<value>啵波將雪置於父親的墳上，履行了曾經對他的承諾。</value>
 	</data>
 	<data name="020_000" xml:space="preserve">
 		<value>奧奈達似乎很擔心她的丈夫。到極光村的西邊入口附近找吉亨談談。</value>
@@ -370,7 +370,7 @@
 		<value>極光村的村長請你前往東邊的阿巴蒂斯森林，找到襲擊村莊的怪物首領。</value>
 	</data>
 	<data name="000_004" xml:space="preserve">
-		<value>你擊敗了怪物首領，一位名為火種的奇怪生物，但引出的問題比要得到的答案還多。回去極光村向布萊姆村長回報。</value>
+		<value>你已經擊敗了怪物首領，一位名為火種的奇怪生物，但引出的問題比要得到的答案還多。回去極光村向布萊姆村長回報。</value>
 	</data>
 	<data name="000_005" xml:space="preserve">
 		<value>布萊姆村長建議你去找一位叫娟潔的女孩談談。她似乎對火種提到的「月血族」有所了解。</value>
@@ -406,22 +406,22 @@
 		<value>科拉請你從悲慟荒原各個角落的廢棄莊邸找回四件紀念物。</value>
 	</data>
 	<data name="000_016" xml:space="preserve">
-		<value>你找齊了科拉的紀念物。回去悲慟荒原的中心交給她。</value>
+		<value>你已經找齊了科拉的紀念物。回去悲慟荒原的中心交給她。</value>
 	</data>
 	<data name="000_017" xml:space="preserve">
 		<value>在你的幫助下，科拉成功驅走了控制她丈夫的惡靈。凱恩給了你更多關於戰爭的進一步詳情，也打開了在墓地入口處通往山脈的道路。</value>
 	</data>
 	<data name="000_018" xml:space="preserve">
-		<value>雖然這冰天雪地還算美麗，但往北去見娟潔的路上你有種不安的感覺。</value>
+		<value>雖然這冰天雪地美麗至極，但在前往北方與娟潔會合的路上，你有種不安的感覺。</value>
 	</data>
 	<data name="000_019" xml:space="preserve">
-		<value>北邊道路被巨大的雪牆堵住了。找到通過的辦法。</value>
+		<value>通往北方的山路被巨大的雪牆堵住了。找到通過的辦法。</value>
 	</data>
 	<data name="000_020" xml:space="preserve">
-		<value>你排除了山路上的障礙。抵達山頂與娟潔見面，並計劃著對付蓋厄斯將軍的下一步行動。</value>
+		<value>你已經清除了山路上的障礙。前往山頂與娟潔會合，並計劃對付蓋厄斯將軍的下一步行動。</value>
 	</data>
 	<data name="000_021" xml:space="preserve">
-		<value>你發現了關於自身的真相。到恆曉盆地底部的隱祕營地與娟潔和長老見面。</value>
+		<value>你發現了關於自身的真相。到恆曉盆地底部的隱祕營地與娟潔和長老會合。</value>
 	</data>
 	<data name="000_022" xml:space="preserve">
 		<value>確認在營地邊緣奇爾的安危，並協助桑金恢復月血的補給系統。</value>

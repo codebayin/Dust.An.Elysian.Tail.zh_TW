@@ -1100,10 +1100,10 @@
 		<value>詭異？怎麼說？</value>
 	</data>
 	<data name="605_040" xml:space="preserve">
-		<value>他冒險進入了西洛蒙洞穴，並拯救了當地的村莊。據我所知，他的行動讓水又開始流動了。如果您告訴我的是真的，卡西斯絕對不會──</value>
+		<value>他冒險進入了西洛蒙洞穴，並拯救了當地的村莊。據我所知，他的行動讓水又開始流動了。如果您告訴我的是真的，卡西厄斯絕對不會──</value>
 	</data>
 	<data name="605_050" xml:space="preserve">
-		<value>不，卡西斯絕對不會那樣做。隨時向我匯報情況，指揮官。下去吧。</value>
+		<value>不，卡西厄斯絕對不會那樣做。隨時向我匯報情況，指揮官。下去吧。</value>
 	</data>
 	<data name="605_060" xml:space="preserve">
 		<value>你何時有了一顆心啊，我的朋友？這不像你……</value>
@@ -1142,52 +1142,52 @@
 		<value>喂！</value>
 	</data>
 	<data name="410_010" xml:space="preserve">
-		<value>看來這些雪還有點鬆動。我們應該小心點，一點小閃失都會再次引起雪崩的。</value>
+		<value>看來這些雪還有點鬆動。我們應該小心點，任何小震動都會再次引起雪崩的。</value>
 	</data>
 	<data name="410_020" xml:space="preserve">
-		<value>別看我喔！是你自己不會飛的。</value>
+		<value>別看我喔！不會飛的人是你。</value>
 	</data>
 	<data name="410_030" xml:space="preserve">
-		<value>是啊，可妳是個大嘴巴啊。</value>
+		<value>是啊，但有大嘴巴的人是妳。</value>
 	</data>
 	<data name="412_010" xml:space="preserve">
-		<value>啊……喂……</value>
+		<value>啊……</value>
 	</data>
 	<data name="412_000" xml:space="preserve">
 		<value>小煩！</value>
 	</data>
 	<data name="420_000" xml:space="preserve">
-		<value>嗯，我看到上面有條路，但沒有幫助我夠不到那些壁緣。</value>
+		<value>我看到上面有條路，但沒有幫助我上不去。</value>
 	</data>
 	<data name="420_010" xml:space="preserve">
-		<value>我們四處找找吧。或許能找到應付這座峭壁的辦法。</value>
+		<value>我們四處找找吧，或許能找到攀上峭壁的方法。</value>
 	</data>
 	<data name="426_000" xml:space="preserve">
 		<value>耶，看招！</value>
 	</data>
 	<data name="426_010" xml:space="preserve">
-		<value>小氣鬼。</value>
+		<value>混蛋。</value>
 	</data>
 	<data name="426_020" xml:space="preserve">
 		<value>別退縮，小煩。</value>
 	</data>
 	<data name="440_000" xml:space="preserve">
-		<value>對不起，塵，我覺得你就算二段跳也過不去了。愚蠢的雪崩把一切都毀了！你說說看，這雪崩有幹過什麼好事嗎？</value>
+		<value>抱歉，塵，我覺得你就算二段跳也過不去了。愚蠢的雪崩把一切都毀了！你說說看，這雪崩有幹過什麼好事嗎？</value>
 	</data>
 	<data name="440_010" xml:space="preserve">
-		<value>嗯，經妳這麼一說……這或許是個瘋狂的主意，但我們也許可以清掉那山坡上的雪。</value>
+		<value>嗯，聽妳這麼一說……這或許是個瘋狂的主意，但我們也許能清掉那山坡上的雪。</value>
 	</data>
 	<data name="440_020" xml:space="preserve">
 		<value>你是說……再製造一場雪崩？</value>
 	</data>
 	<data name="440_030" xml:space="preserve">
-		<value>是的，就是這個意思。</value>
+		<value>沒錯，就是這個意思。</value>
 	</data>
 	<data name="440_040" xml:space="preserve">
 		<value>你真瘋狂。我喜歡。</value>
 	</data>
 	<data name="440_050" xml:space="preserve">
-		<value>真的假的？需要我提醒你嗎？需要我解釋製造雪崩會給我們帶來多大的危險嗎？</value>
+		<value>真的假的？還要我提醒嗎？難道還要我解釋製造雪崩會給我們帶來多大的危險嗎？</value>
 	</data>
 	<data name="440_080" xml:space="preserve">
 		<value>是的。</value>
@@ -1196,7 +1196,7 @@
 		<value>真的只有這個辦法了，阿拉。</value>
 	</data>
 	<data name="440_070" xml:space="preserve">
-		<value>是啊，阿拉！真的是這樣！是吧？</value>
+		<value>是啊，阿拉！真的只能這樣了！是吧？</value>
 	</data>
 	<data name="440_090" xml:space="preserve">
 		<value>很好！我們動手吧！</value>
@@ -1211,13 +1211,13 @@
 		<value>當然囉！你知道我在想什麼嗎？我想我們再找一根吧。</value>
 	</data>
 	<data name="442_030" xml:space="preserve">
-		<value>那顯然還不夠。我們需要打碎更多柱子！</value>
+		<value>那顯然還不夠，我們需要打碎更多柱子！</value>
 	</data>
 	<data name="442_040" xml:space="preserve">
 		<value>小煩，我覺得寒冷已經開始讓妳神智不清了。</value>
 	</data>
 	<data name="442_050" xml:space="preserve">
-		<value>真可笑！我完全……完全……哈啾！</value>
+		<value>呵呵呵，真可笑！我完全……完全……哈啾！</value>
 	</data>
 	<data name="442_060" xml:space="preserve">
 		<value>呃。</value>
@@ -1238,31 +1238,31 @@
 		<value>還不夠！要清掉那些雪我們還需要找到更多柱子！</value>
 	</data>
 	<data name="450_040" xml:space="preserve">
-		<value>我們真的應該給妳找個溫暖的地方，小煩，我覺得妳快病倒了。</value>
+		<value>我們真的應該給妳找個溫暖的地方，小煩，我覺得妳生病了。</value>
 	</data>
 	<data name="450_050" xml:space="preserve">
-		<value>絕不！</value>
+		<value>我才沒病！</value>
 	</data>
 	<data name="465_000" xml:space="preserve">
 		<value>那……真是美妙的歌聲。</value>
 	</data>
 	<data name="465_010" xml:space="preserve">
-		<value>停下來，小煩，停下來。</value>
+		<value>別聽了，小煩，快停下來。</value>
 	</data>
 	<data name="465_020" xml:space="preserve">
-		<value>唉……我覺得我快病倒了。</value>
+		<value>唔……我覺得我生病了。</value>
 	</data>
 	<data name="465_030" xml:space="preserve">
-		<value>是的，小煩，我們只能靠自己了。走吧，塵，繼續前進。</value>
+		<value>是的，小煩，我們早就發現了。來吧，塵，我們繼續前進。</value>
 	</data>
 	<data name="470_000" xml:space="preserve">
-		<value>哦，哇！那真有效！快點，我們快回洞外吧！</value>
+		<value>哦，哇！顯然有效了！快點，我們快回洞外吧！</value>
 	</data>
 	<data name="470_010" xml:space="preserve">
-		<value>小心，塵。我感覺到有一個強大的存在被你的行動引來了。</value>
+		<value>小心，塵，我感覺到有個強大的怪物被你的行動引來了。</value>
 	</data>
 	<data name="470_020" xml:space="preserve">
-		<value>那我們別讓他等太久囉。</value>
+		<value>那我們別讓牠等太久囉。</value>
 	</data>
 	<data name="471_000" xml:space="preserve">
 		<value>上面的路已經暢通了。繼續往上走。</value>
@@ -1280,31 +1280,32 @@
 		<value>站住！</value>
 	</data>
 	<data name="481_020" xml:space="preserve">
-		<value>卡西斯！</value>
+		<value>卡西厄斯！</value>
 	</data>
 	<data name="481_000" xml:space="preserve">
 		<value>什麼？不、不可能！</value>
 	</data>
 	<data name="475_010" xml:space="preserve">
-		<value>大老遠跑來這裡？你覺得那是凱恩所說的月血營地嗎？</value>
+		<value>在這麼遠的山上？你覺得那是凱恩所說的月血營地嗎？</value>
 	</data>
 	<data name="475_020" xml:space="preserve">
-		<value>不，這是別的地方。這是……不多說了，我們過去吧。</value>
+		<value>不，這是別的地方。這是……先不說了，我們過去吧。</value>
 	</data>
 	<data name="481_030" xml:space="preserve">
 		<value>你叫我什麼？你是誰！你在這個地方做什麼！</value>
 	</data>
 	<data name="481_040" xml:space="preserve">
-		<value>你、你明明死了！不，這不可能。我不知道你是何方妖孽，但你不能再靠近了！殺了……這個怪物！</value>
+		<value>你、你明明死了！不，這不可能。我不知道你是何方妖孽，但你不能再靠近了！殺了這個……怪物！</value>
 	</data>
 	<data name="485_000" xml:space="preserve">
 		<value>為什麼！？為什麼摧毀如此寧靜的地方？我們都不希望這樣！</value>
 	</data>
 	<data name="485_010" xml:space="preserve">
-		<value>塵？你在說什麼？還有……誰是卡西斯？那不是──</value>
+		<value>塵？你在說什麼？還有……誰是卡西厄斯？
+那不是──</value>
 	</data>
 	<data name="485_020" xml:space="preserve">
-		<value>那不是我的名字。我會記得的。如果我聽過我會有印象的。</value>
+		<value>那不是我的名字。如果我聽過我會知道的。</value>
 	</data>
 	<data name="490_000" xml:space="preserve">
 		<value>看起來這個地方被摧毀好長一段時間了。</value>
@@ -1325,7 +1326,7 @@
 		<value>但我不記得詳情了！我記得這個地方，但感覺就像已經過去一年了！阿拉，這意味著什麼？</value>
 	</data>
 	<data name="490_060" xml:space="preserve">
-		<value>這意味著事情並不像表面看上去的那樣。繼續探索村莊，塵。讓我們看看它究竟隱藏了什麼樣的祕密。</value>
+		<value>這意味著事情並不像表面看上去的那樣。繼續探索村莊，塵。讓我們看看它究竟隱藏了什麼祕密。</value>
 	</data>
 	<data name="495_000" xml:space="preserve">
 		<value>這棟房子……</value>
@@ -1355,10 +1356,10 @@
 		<value>你是誰？</value>
 	</data>
 	<data name="500_010" xml:space="preserve">
-		<value>我是灰眼長老，月血族的領袖。嗯，確切地說，月血殘存者的領袖。</value>
+		<value>我是灰眼長老，月血族的領袖。確切地說，月血殘存者的領袖。</value>
 	</data>
 	<data name="500_020" xml:space="preserve">
-		<value>你剛才那句是什麼意思？我終於能知道真相了？你對我了解多少？</value>
+		<value>你剛才那句是什麼意思？我終於知道真相了？你對我了解多少？</value>
 	</data>
 	<data name="500_030" xml:space="preserve">
 		<value>他的眼睛，長老……那是靖的眼睛……</value>
@@ -1376,10 +1377,10 @@
 		<value>不過，要符合我們的需求，我們需要兩個靈魂。純真的靈魂雖然高尚，但沒有本領、沒有力量的話，在那個命運到來之日，塵將會像妳的哥哥一樣輕易地被打倒。</value>
 	</data>
 	<data name="500_080" xml:space="preserve">
-		<value>所以我們將妳哥哥的靈魂與殺他的凶手，被稱為卡西斯的皇家刺客的靈魂融合了。他們同歸於盡，永遠緊密相連了。這種事我聞所未聞。</value>
+		<value>所以我們將妳哥哥的靈魂與殺他的凶手，被稱為卡西厄斯的皇家刺客的靈魂融合了。他們同歸於盡，永遠緊密相連了。這種事我前所未聞。</value>
 	</data>
 	<data name="501_000" xml:space="preserve">
-		<value>那天發生了極為不公的事。卡西斯殺了毫無防備的靖，但他的傲慢自大導致了他的毀滅。</value>
+		<value>那天發生了極為不平的事。卡西厄斯殺了毫無防備的靖，但他的傲慢自大導致了他的毀滅。</value>
 	</data>
 	<data name="501_010" xml:space="preserve">
 		<value>但怎麼會？這、這傢伙怎麼會是我的哥哥？</value>
@@ -1388,10 +1389,10 @@
 		<value>這不可能……我們初遇的時候我甚至不認得妳。</value>
 	</data>
 	<data name="501_030" xml:space="preserve">
-		<value>你是靖沒錯。但你同時也是卡西斯。兩個永不相交的靈魂，一個純真善良，一個力量強大。兩者合而為一，你便成為了我們所稱的米斯拉林。「生於塵土之人」。</value>
+		<value>你是靖沒錯，但你同時也是卡西厄斯。兩個永不相交的靈魂，一個純真善良，一個力量強大。兩者合而為一，你便成為了我們所稱的米斯拉林──生於塵土之人。</value>
 	</data>
 	<data name="501_040" xml:space="preserve">
-		<value>我一直不知道發生什麼事了。靖在一夜之間就消失了……我總是希望他某天會活著出現……</value>
+		<value>我一直不知道發生了什麼事。靖在一夜之間就消失了……我總是希望他某天會活著出現……</value>
 	</data>
 	<data name="501_050" xml:space="preserve">
 		<value>會回到我身邊……但……你真的是他嗎？</value>
@@ -1418,40 +1419,41 @@
 		<value>我是誰？或者說，我是什麼？</value>
 	</data>
 	<data name="502_010" xml:space="preserve">
-		<value>你就是我們族人所稱的聖．米斯拉林。「生於塵土之人」，由生命之系的靈質所創造出來的。</value>
+		<value>你就是我們族人所稱的聖．米斯拉林──生於塵土之人，由生命之系的靈質所創造出來的。</value>
 	</data>
 	<data name="502_020" xml:space="preserve">
-		<value>你知道，我們種族長年以來都處於瀕臨滅絕的邊緣。蓋厄斯將軍計劃要徹底剷除我們，雖然我們的戰士自豪又強壯，但對抗如此強大的敵人，我們又有多少勝算？</value>
+		<value>你知道的，我們種族長年以來都處於瀕臨滅絕的邊緣。蓋厄斯將軍計劃要徹底剷除我們，雖然我們的戰士自豪又強壯，但對抗如此強大的敵人，我們又有多少勝算呢？</value>
 	</data>
 	<data name="502_030" xml:space="preserve">
 		<value>要擊敗蓋厄斯將軍並拯救我們族人，我們需要一位能夠橫掃千軍的戰士。這位戰士還必須要有純潔、不受污染的心靈。</value>
 	</data>
 	<data name="502_040" xml:space="preserve">
-		<value>難怪你選擇了卡西斯和靖。就像你曾說的……兩個極端。</value>
+		<value>難怪你選擇了卡西厄斯和靖。就像你曾說的……
+兩個極端。</value>
 	</data>
 	<data name="502_050" xml:space="preserve">
-		<value>沒錯，卡西斯是這個世上難得一見的頂尖戰士，而靖的純潔之心會引導我們的戰士拯救我們種族。從他們陷落的靈魂中，你降生了。為拯救我們、拯救世界而生。</value>
+		<value>沒錯，卡西厄斯是世上難得一見的頂尖戰士，而靖的純潔之心會引導我們的戰士拯救我們的種族。從他們陷落的靈魂中，你降生了。為拯救我們、拯救世界而生。</value>
 	</data>
 	<data name="503_000" xml:space="preserve">
 		<value>為什麼我現在才想起來？初遇娟潔的時候我甚至沒有認出她來……</value>
 	</data>
 	<data name="503_010" xml:space="preserve">
-		<value>儘管你擁有兩個獨立存在的靈魂，但你的身體和思想都是你自己的。你是被創造出來拯救這個世界的，所以我們覺得給你任何一方的記憶，只會使你無法專注於眼前的任務。</value>
+		<value>儘管你有兩個獨立存在的靈魂，但你的身體和思想都是你自己的。你是被創造出來拯救這個世界的，所以我們覺得給你任何一方的記憶，只會使你無法專注於眼前的任務。</value>
 	</data>
 	<data name="503_020" xml:space="preserve">
 		<value>我是誰、我的使命是什麼，我根本不知道……</value>
 	</data>
 	<data name="503_030" xml:space="preserve">
-		<value>雖然你這麼說，但就目前而言，你做的正是我們期望你去做的事。你在極光村外救了完全不認識的人。你阻止了我們任性的兄弟，火種，阻止了他摧毀我們試圖拯救的一切。</value>
+		<value>雖然你這麼說，但就目前而言，你做的正是我們期望你去做的。你在極光村外救了完全不認識的人。你阻止了我們任性的兄弟，火種，阻止了他摧毀我們試圖拯救的一切。</value>
 	</data>
 	<data name="503_040" xml:space="preserve">
-		<value>你拯救了泥潭村並將生命之水重新帶回了這片土地。你淨化了這片土地上的惡靈憤怒，還幫助兩個古老的靈魂找回了平靜。儘管你不知道你的使命，但那並無法阻止你去完成它。</value>
+		<value>你拯救了泥潭村並將生命之水帶回了這片土地。你淨化了這片土地上的惡靈憤怒，還幫助兩個古老的靈魂找回了平靜。儘管你不知道你的使命，但那並沒有阻止你去完成它。</value>
 	</data>
 	<data name="503_050" xml:space="preserve">
 		<value>現在我來到了這裡。</value>
 	</data>
 	<data name="503_060" xml:space="preserve">
-		<value>是的，現在你來到了這裡，我們可以徹底終結這場戰鬥了。</value>
+		<value>是的，現在你來到了這裡，我們可以徹底終結這場戰爭了。</value>
 	</data>
 	<data name="503_Option_0" xml:space="preserve">
 		<value>火種是誰？</value>
@@ -1469,16 +1471,16 @@
 		<value>那次襲擊導致他的容顏盡毀。他只有穿著我協助製造的魔法鎧甲才能活命。他要求我們立即向蓋厄斯將軍發動進攻，但我堅決不聽他的。到時蓋厄斯將軍會以復仇的名義殺光我們，我們便毫無勝算了。</value>
 	</data>
 	<data name="504_040" xml:space="preserve">
-		<value>當我拒絕派我們的戰士前去戰鬥時，他叫我懦夫，並發誓無論有沒有我的幫助，他都要滅了蓋厄斯。我怕是我們為了救他而製造的鎧甲徹底腐化了他的內心和身體。</value>
+		<value>當我拒絕派我們的戰士前去戰鬥時，他罵我懦夫，並發誓就算沒有我的幫助，他都要滅了蓋厄斯。我怕是我們為了救他而製造的鎧甲徹底腐化了他的內心和身體。</value>
 	</data>
 	<data name="504_050" xml:space="preserve">
 		<value>可憐的傢伙……要是我們能設法說服他……</value>
 	</data>
 	<data name="504_060" xml:space="preserve">
-		<value>不，殺了他的決定是對的。如果他還活著，說不定他還會搞出什麼破壞。</value>
+		<value>不，殺了他的決定是對的。如果他還活著，說不定還會搞出什麼破壞。</value>
 	</data>
 	<data name="504_070" xml:space="preserve">
-		<value>娟潔說得沒錯。火種無可救藥了。為了大家都好，我希望他試圖保護的世界不要那樣。</value>
+		<value>娟潔說得沒錯，火種無可救藥了。為了大家都好，我希望他試圖保護的世界不要再發生同樣的事。</value>
 	</data>
 	<data name="505_000" xml:space="preserve">
 		<value>阿拉與這一切有什麼關係？它到底是什麼？</value>
@@ -1496,7 +1498,7 @@
 		<value>你還沒有回答我的問題。</value>
 	</data>
 	<data name="505_030" xml:space="preserve">
-		<value>一條我們月血族所持續遵循的道路。它是一種生存之道、思想之道，讓我們能利用一種既古老又強大的力量。沒有魔法的魔法。</value>
+		<value>一條我們月血族所持續遵循的道路。它是一種生存之道、思想之道，讓我們能使用一種既古老又強大的力量。沒有魔法的魔法。</value>
 	</data>
 	<data name="505_050" xml:space="preserve">
 		<value>作為靈蝠守劍者，想必妳已經學習了古老教義？妳要知道這把劍萬一被它真正的主人召喚，妳有義務追隨他。</value>
@@ -1544,7 +1546,7 @@
 		<value>唉，真是太棒了。</value>
 	</data>
 	<data name="506_060" xml:space="preserve">
-		<value>是的。有什麼地方比整個王國最不穩定的陸地更適合躲藏呢？</value>
+		<value>是的，有什麼地方比整個王國最不穩定的陸地更適合躲藏呢？</value>
 	</data>
 	<data name="506_070" xml:space="preserve">
 		<value>哦，我知道！平靜的草原如何？或是寧靜的森林？或是其它不會每十分鐘就爆炸的地方！？</value>
@@ -1568,7 +1570,7 @@
 		<value>我是正義的純真之魂，靖。</value>
 	</data>
 	<data name="506_Option_1" xml:space="preserve">
-		<value>我是復仇的力量之魂，卡西斯。</value>
+		<value>我是復仇的力量之魂，卡西厄斯。</value>
 	</data>
 	<data name="507_000" xml:space="preserve">
 		<value>我、我是……呃……</value>
@@ -1583,7 +1585,7 @@
 		<value>那我們就在恆曉盆地見了。</value>
 	</data>
 	<data name="507_150" xml:space="preserve">
-		<value>再會，塵。我們在那裡見了。</value>
+		<value>再見，塵。我們在那裡見了。</value>
 	</data>
 	<data name="507_010" xml:space="preserve">
 		<value>你看吧！？你還是沒弄明白。蜥蜴長老都當面告訴你了，可你還是不了解！</value>
@@ -1598,10 +1600,10 @@
 		<value>我只是……如果我將跟著你到世界的盡頭，我得知道我跟隨的是誰，還有跟隨的理由。</value>
 	</data>
 	<data name="507_050" xml:space="preserve">
-		<value>但是我能。小煩，這整個旅途上妳都在塵的身旁。妳目睹了他拯救這個世界。妳怎麼還能繼續質疑下去呢？</value>
+		<value>但是我能。小煩，這整個旅途上妳都在塵的身旁，妳目睹了他拯救這個世界，妳怎麼還能繼續質疑下去呢？</value>
 	</data>
 	<data name="507_060" xml:space="preserve">
-		<value>我只是不明白。我根本不在乎他認為自己是誰──他就是塵。這就是他。這就是我認識的他。</value>
+		<value>我只是不明白。我根本不在乎他認為自己是誰──他就是塵，這就是他，這就是我認識的他。</value>
 	</data>
 	<data name="507_070" xml:space="preserve">
 		<value>小煩，拜託……我不能沒有妳。</value>
@@ -1625,7 +1627,7 @@
 		<value>有什麼消息，指揮官？</value>
 	</data>
 	<data name="610_002" xml:space="preserve">
-		<value>我真的不敢相信，但卡西斯現在正在幫助月血族。他背叛我們了。</value>
+		<value>我真的不敢相信，卡西厄斯現在正在幫助月血族。他背叛我們了。</value>
 	</data>
 	<data name="610_010" xml:space="preserve">
 		<value>背叛與否會由我來決定。我們的道路將會在月血營地交匯，這點我很肯定。我會親自與他談談的。</value>
@@ -1634,19 +1636,19 @@
 		<value>那樣做……明智嗎？</value>
 	</data>
 	<data name="610_030" xml:space="preserve">
-		<value>我們勝券在握，指揮官。我們的人數是他們的十倍，我們擁有出眾的科技，而且我們還有奇襲之策。</value>
+		<value>我們勝券在握，指揮官。我們的人數是他們的十倍，我們擁有出眾的科技，而且還有奇襲之策。</value>
 	</data>
 	<data name="610_040" xml:space="preserve">
-		<value>但為何要歡迎那個不定時炸彈？他都已經殺了您的手下，您還要什麼證據才會相信他是我們偉大事業的叛徒？</value>
+		<value>但為何要歡迎那個不定時炸彈？他都已經殺了您的手下，您還要什麼樣的證據才會相信他是我們偉大事業的叛徒？</value>
 	</data>
 	<data name="610_060" xml:space="preserve">
 		<value>但……遵命，長官，如您所願。</value>
 	</data>
 	<data name="610_050" xml:space="preserve">
-		<value>卡西斯不是什麼不定時炸彈，指揮官。是月血那幫人腐化了他的心靈，強迫他對我們犯下這些罪行。一旦我能與他交談，他就會記起他的真實身分，我確信他會回到我們身邊的。</value>
+		<value>卡西厄斯並不是什麼不定時炸彈，指揮官。是月血那幫人腐化了他的心靈，強迫他對我們犯下了這些罪行。一旦我能與他交談，他就會記起他的真實身分，我確信他會回到我們身邊的。</value>
 	</data>
 	<data name="610_070" xml:space="preserve">
-		<value>卡西斯，我的老朋友……只要你還活著，我便會盡我所能地拯救你崩壞的心靈。我保證。</value>
+		<value>卡西厄斯，我的老朋友……只要你還活著，我便會盡我所能地拯救你崩壞的心靈。我保證。</value>
 	</data>
 	<data name="510_000" xml:space="preserve">
 		<value>站住！是誰！噢，是你啊！抱歉，米斯拉林。請進吧。</value>
@@ -1754,10 +1756,10 @@
 		<value>你得為此付出慘痛的代價，將軍。</value>
 	</data>
 	<data name="700_050" xml:space="preserve">
-		<value>你……怎麼了，卡西斯？</value>
+		<value>你……怎麼了，卡西厄斯？</value>
 	</data>
 	<data name="700_060" xml:space="preserve">
-		<value>卡西斯……？</value>
+		<value>卡西厄斯……？</value>
 	</data>
 	<data name="700_030" xml:space="preserve">
 		<value>那你呢，我的朋友？一年前我就聽說了你的死訊。居然死在一名孩子的手上！如今你卻站在這裡，不僅活著，還帶領著我們負責要消滅的生物！</value>
@@ -1766,7 +1768,7 @@
 		<value>你不記得自己的名字了？那群該死的月血族人對你做了什麼？</value>
 	</data>
 	<data name="700_090" xml:space="preserve">
-		<value>卡西斯！這就是你的名字！</value>
+		<value>卡西厄斯！這就是你的名字！</value>
 	</data>
 	<data name="700_080" xml:space="preserve">
 		<value>你叫我什麼？</value>
@@ -1787,7 +1789,7 @@
 		<value>塵，聽我說──</value>
 	</data>
 	<data name="700_160" xml:space="preserve">
-		<value>卡西斯曾經是我的名字……</value>
+		<value>卡西厄斯曾經是我的名字……</value>
 	</data>
 	<data name="700_170" xml:space="preserve">
 		<value>那並不重要。</value>
@@ -1799,7 +1801,7 @@
 		<value>那才是最重要的！那些人全是被我殺的，小煩……我怎麼可能在短短幾天內救贖自己？</value>
 	</data>
 	<data name="700_190" xml:space="preserve">
-		<value>你不能，塵。這從來就不是為了救贖卡西斯。但話說回來，你也不是卡西斯。</value>
+		<value>你不能，塵。這從來就不是為了救贖卡西厄斯。但話說回來，你也不是卡西厄斯。</value>
 	</data>
 	<data name="700_200" xml:space="preserve">
 		<value>但我共擁他的形體、他的靈魂……</value>
@@ -1853,10 +1855,10 @@
 		<value>我沒有閒功夫陪妳玩，小煩。</value>
 	</data>
 	<data name="700_230" xml:space="preserve">
-		<value>因為你不只是卡西斯！靖並沒有殺那些人！靖拯救了極光村和泥潭村！靖阻止了火種，拯救了忒媞斯神女，而現在他是唯一能對抗蓋厄斯將軍的人！</value>
+		<value>因為你不只是卡西厄斯！靖並沒有殺那些人！靖拯救了極光村和泥潭村！靖阻止了火種，拯救了忒媞斯神女，而現在他是唯一能對抗蓋厄斯將軍的人！</value>
 	</data>
 	<data name="700_240" xml:space="preserve">
-		<value>卡西斯會剷除月血族，可是靖……他會保護他們。</value>
+		<value>卡西厄斯會剷除月血族，可是靖……他會保護他們。</value>
 	</data>
 	<data name="700_250" xml:space="preserve">
 		<value>不，小煩，妳錯了……那些事沒有一件是靖做的。</value>
@@ -1865,10 +1867,10 @@
 		<value>你終於醒悟過來了？</value>
 	</data>
 	<data name="710_010" xml:space="preserve">
-		<value>別再叫我卡西斯！</value>
+		<value>別再叫我卡西厄斯！</value>
 	</data>
 	<data name="710_000" xml:space="preserve">
-		<value>你贏不了的，卡西斯！你永遠無法打敗我。</value>
+		<value>你贏不了的，卡西厄斯！你永遠無法打敗我。</value>
 	</data>
 	<data name="710_020" xml:space="preserve">
 		<value>過去有一段時間，你站在我的身邊。我們曾經是戰友啊！</value>
@@ -1877,16 +1879,16 @@
 		<value>不再是了，將軍。我不是你的戰友，也不是你的朋友。現在舉起你的劍或扔掉它。</value>
 	</data>
 	<data name="710_040" xml:space="preserve">
-		<value>你永遠嚇唬不了我的，卡西斯。很好，去死吧！</value>
+		<value>你永遠嚇唬不了我的，卡西厄斯。很好，去死吧！</value>
 	</data>
 	<data name="720_000" xml:space="preserve">
-		<value>你什麼都不記得了嗎，卡西斯？為什麼你會拔劍揮向你的戰友？為什麼你會拔劍揮向我？</value>
+		<value>你什麼都不記得了嗎，卡西厄斯？為什麼你會拔劍揮向你的戰友？為什麼你會拔劍揮向我？</value>
 	</data>
 	<data name="720_010" xml:space="preserve">
 		<value>你正在摧毀這個世界，蓋厄斯。你和你的士兵不能再繼續下去了。</value>
 	</data>
 	<data name="720_020" xml:space="preserve">
-		<value>這個世界是屬於強者的，卡西斯！它是屬於我們的！你不記得你的使命了嗎？你不記得你的朋友了嗎？</value>
+		<value>這個世界是屬於強者的，卡西厄斯！它是屬於我們的！你不記得你的使命了嗎？你不記得你的朋友了嗎？</value>
 	</data>
 	<data name="720_030" xml:space="preserve">
 		<value>我全都記得。但它改變不了什麼！</value>

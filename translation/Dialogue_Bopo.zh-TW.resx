@@ -421,19 +421,20 @@
 		<value>我知道這對你意義重大，啵波。</value>
 	</data>
 	<data name="282_020" xml:space="preserve">
-		<value>嗯，我沒有什麼能給的，除了這顆古怪的石頭。它似乎在泥潭村這裡毫無用處，但看起來很漂亮！拿去，就送給你吧！</value>
+		<value>我沒有什麼能給的，除了這顆古怪的石頭。它似乎在泥潭村這裡毫無用處，但看起來很漂亮！拿去，就送給你吧！</value>
 	</data>
 	<data name="282_030" xml:space="preserve">
 		<value>謝謝，啵波。</value>
 	</data>
 	<data name="283_000" xml:space="preserve">
-		<value>我和爸爸，我們共度了一段自己的時光。在雪中漫步，築碉堡，看著雪花從天空飄落……</value>
+		<value>我和爸爸，我們共度了一段美好的時光。在雪中漫步，築碉堡，看著雪花從天空飄落……</value>
 	</data>
 	<data name="283_010" xml:space="preserve">
 		<value>我知道那些都不是真的，但我會永遠記得這段回憶的，謝謝你。</value>
 	</data>
 	<data name="284_000" xml:space="preserve">
-		<value>為了媽媽，我現在必須堅強起來了。謝謝你所做的一切，塵。</value>
+		<value>為了媽媽，我現在必須堅強起來了。
+謝謝你所做的一切，塵。</value>
 	</data>
 	<data name="300_000" xml:space="preserve">
 		<value>嘿，你知道嗎，你可以用你的那個冰箱把啵波的雪運下山！</value>
