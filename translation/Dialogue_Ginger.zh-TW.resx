@@ -301,13 +301,13 @@
 		<value>請你們兩個，不用擔心我。</value>
 	</data>
 	<data name="010_010" xml:space="preserve">
-		<value>靖？噢……塵。是你。</value>
+		<value>靖？噢……塵，是你。</value>
 	</data>
 	<data name="010_020" xml:space="preserve">
 		<value>是的，是我。妳還好嗎？</value>
 	</data>
 	<data name="010_030" xml:space="preserve">
-		<value>我很好。只是有很多事要想一想。</value>
+		<value>我很好，只是有很多事要想一想。</value>
 	</data>
 	<data name="010_Option_0" xml:space="preserve">
 		<value>塵和靖。</value>
@@ -325,13 +325,13 @@
 		<value>他是什麼樣的人？</value>
 	</data>
 	<data name="011_030" xml:space="preserve">
-		<value>他是個善良的人。善良到無可救藥。</value>
+		<value>他是個善良的人，善良到無可救藥。</value>
 	</data>
 	<data name="011_040" xml:space="preserve">
 		<value>我開始喜歡他了。</value>
 	</data>
 	<data name="011_050" xml:space="preserve">
-		<value>是的，他的善良影響了許多人。我願意相信，就是那份善良使你為極光村和泥潭村做了那麼多的好事。</value>
+		<value>是的，他的善良影響了許多人。我相信就是那份善良使你為極光村和泥潭村做了那麼多好事。</value>
 	</data>
 	<data name="011_Option1" xml:space="preserve">
 		<value>我的選擇是我自己的決定。</value>
@@ -346,7 +346,7 @@
 		<value>不，我才要對不起。我無法想像妳在澤普林奇村所經歷的悲痛……想著我可能是妳的哥哥。</value>
 	</data>
 	<data name="014_030" xml:space="preserve">
-		<value>你確實擁有他的眼睛。他的樣貌。這太……奇怪了。你可能真的是他。</value>
+		<value>你擁有他的眼睛、他的樣貌，這太……太奇怪了。你可能真的是他。</value>
 	</data>
 	<data name="014_Option_1" xml:space="preserve">
 		<value>不可能。</value>
@@ -370,7 +370,7 @@
 		<value>很抱歉事情會變成這樣。</value>
 	</data>
 	<data name="017_050" xml:space="preserve">
-		<value>不，你沒錯。我們都選擇了自己的路。靖選擇了他的，看看現在的你，看看你做的事，我認為他作了正確的選擇。</value>
+		<value>不，你沒錯。我們都選擇了自己的道路。靖選擇了他的，看看現在的你，看看你做的事，我認為他作出了正確的選擇。</value>
 	</data>
 	<data name="017_060" xml:space="preserve">
 		<value>我也這麼認為，娟潔。</value>
@@ -400,7 +400,7 @@
 		<value>我確信靖也參與了這些。</value>
 	</data>
 	<data name="013_000" xml:space="preserve">
-		<value>阿拉總是在考驗我。每當我作出決定，它都會告訴我是不是正確的選擇。無論我選擇接受靖或是卡西厄斯。我相信他們都在試圖影響我的行為。</value>
+		<value>阿拉總是在考驗我。每當我作出決定，它都會告訴我是不是正確的選擇。無論我選擇接受靖或是卡西厄斯，我相信他們都在試圖影響我的行為。</value>
 	</data>
 	<data name="013_010" xml:space="preserve">
 		<value>而你接受了靖。</value>
@@ -409,16 +409,16 @@
 		<value>是的……他是個難以忽視的人。</value>
 	</data>
 	<data name="013_030" xml:space="preserve">
-		<value>他現在是，是嗎？</value>
+		<value>他現在還是，是嗎？</value>
 	</data>
 	<data name="013_040" xml:space="preserve">
 		<value>或者……至少他曾經是。</value>
 	</data>
 	<data name="013_Option_0" xml:space="preserve">
-		<value>他仍然是。</value>
+		<value>他現在還是。</value>
 	</data>
 	<data name="013_Option_1" xml:space="preserve">
-		<value>他已經走了，娟潔。</value>
+		<value>他已經不在了，娟潔。</value>
 	</data>
 	<data name="015_000" xml:space="preserve">
 		<value>不，娟潔，我想妳前面那句是對的。我認為靖透過我的行動持續活著。他引導我，讓我不偏離正道。</value>
@@ -427,19 +427,19 @@
 		<value>但你的另一半呢？卡西厄斯殺了我的家人，塵。他摧毀了我的村莊，殺害我的朋友。你怎麼有辦法控制如此可怕的存在？</value>
 	</data>
 	<data name="015_020" xml:space="preserve">
-		<value>每當我揮動阿拉之劍，我都能感覺到他的存在。我相信長老說得對──沒有他，我早就被幹掉了，另一方面……靖也不停地阻止他奪得掌控權。</value>
+		<value>每當我揮動阿拉之劍時，我都能感覺到他的存在。我相信長老說得對──沒有他，我早就被幹掉了，但靖……靖也不停地阻止他奪得掌控權。</value>
 	</data>
 	<data name="015_030" xml:space="preserve">
-		<value>只要卡西厄斯活在你的體內，即使……總是有危險的。你很可能會被引入邪道的。</value>
+		<value>只要卡西厄斯一天活在你的體內……總是很危險，你很可能會被拉入邪道的。</value>
 	</data>
 	<data name="015_040" xml:space="preserve">
-		<value>我不會騙妳，我能感覺到他拉著我走上那條方便快捷的道路，拋棄弱者任其自生自滅，對那些阻礙我的東西毫不留情。</value>
+		<value>老實說吧，我能感覺到他拉著我走上那條方便快捷的道路，拋棄弱者任其自生自滅，對那些阻礙我的東西毫不留情。</value>
 	</data>
 	<data name="015_050" xml:space="preserve">
-		<value>也許有一天你能擺脫他這邪惡的存在。</value>
+		<value>也許有一天你能擺脫他那邪惡的存在。</value>
 	</data>
 	<data name="015_060" xml:space="preserve">
-		<value>也許……某天吧。目前我還需要他來擊敗蓋厄斯。沒有別的辦法了。</value>
+		<value>也許……某天吧。目前我還需要他來擊敗蓋厄斯，沒有別的辦法了。</value>
 	</data>
 	<data name="015_070" xml:space="preserve">
 		<value>我知道。不過，很高興能和你交談，塵。</value>
@@ -454,19 +454,19 @@
 		<value>娟潔，妳真的必須放下了。我希望我能代替他，我願意，但……</value>
 	</data>
 	<data name="016_010" xml:space="preserve">
-		<value>不，你說得對。我必須接受靖作了自己的選擇，並促使了此刻的我們。</value>
+		<value>不，你說得對。我必須接受靖作出了自己的選擇，並促成了此刻的我們。</value>
 	</data>
 	<data name="016_030" xml:space="preserve">
 		<value>聽起來你對自己是誰還有很多的疑問。</value>
 	</data>
 	<data name="016_020" xml:space="preserve">
-		<value>我只希望我能記得更多。有時我都不知道我的想法到底是靖的……還是卡西厄斯的……或者是我自己的。</value>
+		<value>我只希望我能記得更多。有時我都不知道我的想法是靖的……還是卡西厄斯的……或者是我自己的。</value>
 	</data>
 	<data name="016_050" xml:space="preserve">
 		<value>我想是吧。好了，我可能得出發了。</value>
 	</data>
 	<data name="016_060" xml:space="preserve">
-		<value>我明白了。祝你好運，塵。路上保重。</value>
+		<value>我明白了。祝你好運，塵。路上小心。</value>
 	</data>
 	<data name="018_030" xml:space="preserve">
 		<value>我也是，塵。你會很快回來嗎？</value>
@@ -481,6 +481,6 @@
 		<value>對不起，娟潔。但我不是。</value>
 	</data>
 	<data name="018_010" xml:space="preserve">
-		<value>沒關係，塵。我知道你不是。但知道他的一部分正在引導你去幫助那麼多的人……這讓我很高興。我想爸爸和媽媽也會高興的。</value>
+		<value>沒關係，塵。我知道你不是。但知道他的一部分正在引導你去幫助那麼多的人……這讓我很高興，我想爸爸和媽媽也會高興的。</value>
 	</data>
 </root>

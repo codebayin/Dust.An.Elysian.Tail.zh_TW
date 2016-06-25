@@ -118,10 +118,10 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="000_000" xml:space="preserve">
-		<value>啊，你來得正好，米斯拉林。我叫桑金──我就是所謂的……總工程師，我想是這個稱呼吧。</value>
+		<value>啊，你來得正好，米斯拉林。我叫桑金，我就是所謂的……總工程師，我想是這個稱呼吧。</value>
 	</data>
 	<data name="000_010" xml:space="preserve">
-		<value>長老有提到說你需要幫忙？</value>
+		<value>長老有提到說你需要幫助？</value>
 	</data>
 	<data name="000_020" xml:space="preserve">
 		<value>是的，沒錯。我們在下面洞穴設置了機器，來為營地提供電力和水。不幸的是，地震害那兩個系統停擺了，所以我們需要讓它們恢復運作。</value>
@@ -130,7 +130,7 @@
 		<value>沒問題，桑金。我會去看看的。</value>
 	</data>
 	<data name="000_030" xml:space="preserve">
-		<value>我比較專注於戰鬥的準備，如果你能下去檢查發電機，我會非常感激的。</value>
+		<value>我比較專注於戰鬥的準備，所以如果你能下去檢查機器的話，我會非常感激的。</value>
 	</data>
 	<data name="000_050" xml:space="preserve">
 		<value>謝謝你。你下去之後需要重啟發電機和抽水機。如果想要擊敗蓋厄斯將軍，我們就必須讓那兩個系統運作起來。</value>

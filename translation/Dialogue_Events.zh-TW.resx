@@ -1326,7 +1326,7 @@
 		<value>但我不記得詳情了！我記得這個地方，但感覺就像已經過去一年了！阿拉，這意味著什麼？</value>
 	</data>
 	<data name="490_060" xml:space="preserve">
-		<value>這意味著事情並不像表面看上去的那樣。繼續探索村莊，塵。讓我們看看它究竟隱藏了什麼祕密。</value>
+		<value>這意味著事情並不像表面看上去的那樣。繼續探索村莊，塵。讓我們看看它究竟埋藏了什麼祕密。</value>
 	</data>
 	<data name="495_000" xml:space="preserve">
 		<value>這棟房子……</value>
@@ -1435,7 +1435,7 @@
 		<value>沒錯，卡西厄斯是世上難得一見的頂尖戰士，而靖的純潔之心會引導我們的戰士拯救我們的種族。從他們陷落的靈魂中，你降生了。為拯救我們、拯救世界而生。</value>
 	</data>
 	<data name="503_000" xml:space="preserve">
-		<value>為什麼我現在才想起來？初遇娟潔的時候我甚至沒有認出她來……</value>
+		<value>為什麼我現在才想起來？初遇娟潔的時候我甚至沒認出她來……</value>
 	</data>
 	<data name="503_010" xml:space="preserve">
 		<value>儘管你有兩個獨立存在的靈魂，但你的身體和思想都是你自己的。你是被創造出來拯救這個世界的，所以我們覺得給你任何一方的記憶，只會使你無法專注於眼前的任務。</value>
@@ -1498,7 +1498,7 @@
 		<value>你還沒有回答我的問題。</value>
 	</data>
 	<data name="505_030" xml:space="preserve">
-		<value>一條我們月血族所持續遵循的道路。它是一種生存之道、思想之道，讓我們能使用一種既古老又強大的力量。沒有魔法的魔法。</value>
+		<value>一條我們月血族所持續遵循的道路。它是一種生存之道、思想之道，讓我們能善用一種既古老又強大的力量。沒有魔法的魔法。</value>
 	</data>
 	<data name="505_050" xml:space="preserve">
 		<value>作為靈蝠守劍者，想必妳已經學習了古老教義？妳要知道這把劍萬一被它真正的主人召喚，妳有義務追隨他。</value>
@@ -1546,7 +1546,7 @@
 		<value>唉，真是太棒了。</value>
 	</data>
 	<data name="506_060" xml:space="preserve">
-		<value>是的，有什麼地方比整個王國最不穩定的陸地更適合躲藏呢？</value>
+		<value>是的，有什麼地方比整個王國最不穩定的陸地更適合藏身呢？</value>
 	</data>
 	<data name="506_070" xml:space="preserve">
 		<value>哦，我知道！平靜的草原如何？或是寧靜的森林？或是其它不會每十分鐘就爆炸的地方！？</value>
@@ -1600,7 +1600,7 @@
 		<value>我只是……如果我將跟著你到世界的盡頭，我得知道我跟隨的是誰，還有跟隨的理由。</value>
 	</data>
 	<data name="507_050" xml:space="preserve">
-		<value>但是我能。小煩，這整個旅途上妳都在塵的身旁，妳目睹了他拯救這個世界，妳怎麼還能繼續質疑下去呢？</value>
+		<value>但是我能。小煩，這整個旅途上妳都在塵的身旁。妳目睹了他拯救這個世界，妳怎麼還能繼續質疑下去呢？</value>
 	</data>
 	<data name="507_060" xml:space="preserve">
 		<value>我只是不明白。我根本不在乎他認為自己是誰──他就是塵，這就是他，這就是我認識的他。</value>
@@ -1651,13 +1651,13 @@
 		<value>卡西厄斯，我的老朋友……只要你還活著，我便會盡我所能地拯救你崩壞的心靈。我保證。</value>
 	</data>
 	<data name="510_000" xml:space="preserve">
-		<value>站住！是誰！噢，是你啊！抱歉，米斯拉林。請進吧。</value>
+		<value>站住！是誰！噢，是你！抱歉，米斯拉林，請進。</value>
 	</data>
 	<data name="550_000" xml:space="preserve">
 		<value>很好，發電機在那裡。看看有什麼辦法能讓它恢復運作吧。</value>
 	</data>
 	<data name="550_010" xml:space="preserve">
-		<value>我感覺到這個裝置沒有能量散發出來，塵。或許有讓它恢復發電的辦法？</value>
+		<value>我感覺這個裝置沒有運作的動能，塵。或許能用什麼辦法讓它再次閃起電光？</value>
 	</data>
 	<data name="551_000" xml:space="preserve">
 		<value>做得好，小煩，營地現在應該有電了。</value>
@@ -1672,19 +1672,19 @@
 		<value>也許還會在極光村外的山裡兜圈子吧。</value>
 	</data>
 	<data name="551_040" xml:space="preserve">
-		<value>哈哈哈！我想說的是，別擔心這個！</value>
+		<value>哈哈！我想說的是，別擔心這個！</value>
 	</data>
 	<data name="552_000" xml:space="preserve">
-		<value>嗯，這就是抽水機。哦！難怪它會停擺！上面都長滿了藤蔓。</value>
+		<value>這就是抽水機吧。噢！難怪它會停擺！上面都長滿藤蔓了。</value>
 	</data>
 	<data name="552_010" xml:space="preserve">
-		<value>我不想冒著弄壞抽水機的風險砍掉藤蔓。或許我們能想辦法燒掉它們？</value>
+		<value>我不想冒著弄壞抽水機的風險砍掉藤蔓。或許我們能用什麼辦法燒掉它們？</value>
 	</data>
 	<data name="553_000" xml:space="preserve">
 		<value>太好了，似乎是修好了！幹得好，小煩！</value>
 	</data>
 	<data name="553_010" xml:space="preserve">
-		<value>噢，別說了。你說得我臉都紅了！</value>
+		<value>噢，別說了，你說得我臉都紅了！</value>
 	</data>
 	<data name="554_000" xml:space="preserve">
 		<value>好了，發電機和抽水機都恢復運作了。我們回去找桑金吧。</value>
@@ -1696,7 +1696,7 @@
 		<value>噢不……塵，你看！</value>
 	</data>
 	<data name="540_010" xml:space="preserve">
-		<value>是那個失蹤的哨兵。這裡發生什麼事了？</value>
+		<value>是那個失蹤的偵察兵。這裡發生什麼事了？</value>
 	</data>
 	<data name="540_020" xml:space="preserve">
 		<value>啊！塵，小心！</value>

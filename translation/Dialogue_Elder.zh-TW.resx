@@ -118,10 +118,10 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="000_000" xml:space="preserve">
-		<value>歡迎你的到來，聖．米斯拉林。戰爭的準備即將完成。</value>
+		<value>歡迎到來，聖．米斯拉林。戰爭的準備即將完成。</value>
 	</data>
 	<data name="000_Option_0" xml:space="preserve">
-		<value>這就是你們僅存的所有人？</value>
+		<value>這些就是你們僅存的所有人？</value>
 	</data>
 	<data name="000_Option_1" xml:space="preserve">
 		<value>我們在這裡安全嗎？</value>
@@ -139,19 +139,20 @@
 		<value>想必你們的士兵不止這些……</value>
 	</data>
 	<data name="001_010" xml:space="preserve">
-		<value>蓋厄斯將軍行事徹底。他的軍隊已經消滅了這片土地上大部分的月血族人。我們就是僅存的所有人。</value>
+		<value>蓋厄斯將軍的行事徹底，他的軍隊已經消滅了大部分的月血族人。我們就是僅存的所有人了。</value>
 	</data>
 	<data name="001_020" xml:space="preserve">
-		<value>你們怎麼能期望這麼少的士兵能贏？</value>
+		<value>你們怎麼會期望這麼少的士兵能贏？</value>
 	</data>
 	<data name="001_030" xml:space="preserve">
-		<value>我們不能。這就是為什麼我們創造了聖．米斯拉林。你，塵，即將扭轉局勢。</value>
+		<value>我們不能。所以我們才創造了聖．米斯拉林。
+你，塵，即將扭轉局勢。</value>
 	</data>
 	<data name="001_040" xml:space="preserve">
-		<value>呃，好吧。毫無壓力。</value>
+		<value>呃，好吧，毫無壓力。</value>
 	</data>
 	<data name="001_050" xml:space="preserve">
-		<value>是……</value>
+		<value>是啊……</value>
 	</data>
 	<data name="002_000" xml:space="preserve">
 		<value>蓋厄斯將軍知道這個地方嗎？</value>
@@ -163,22 +164,22 @@
 		<value>什麼？怎麼知道的！？</value>
 	</data>
 	<data name="002_030" xml:space="preserve">
-		<value>我們之中有一人從你們的旅程開始就一直注意著你們。商人，錫雷斯。</value>
+		<value>我們之中有一個人從你們旅程的開始就一直在注意你們。野外商人，錫雷斯。</value>
 	</data>
 	<data name="002_040" xml:space="preserve">
 		<value>啊哈！我就知道那詭異的商人是你們的人！</value>
 	</data>
 	<data name="002_050" xml:space="preserve">
-		<value>月血族人是怎麼自由地在外頭經營生意的？</value>
+		<value>月血族人怎麼能自由地在外面經營生意？</value>
 	</data>
 	<data name="002_060" xml:space="preserve">
-		<value>他是個聰明的生意人。在所有重要的地點做買賣。蓋厄斯的士兵為了免費獲得商品，都對他睜一隻眼閉一隻眼。不過，多少錢都無法掩蓋錫雷斯幫助你找到我們的事實。</value>
+		<value>他是個聰明的生意人，在所有重要的地點做買賣。蓋厄斯的士兵為了免費獲得商品，都對他睜一隻眼閉一隻眼。不過，多少錢都無法掩蓋錫雷斯幫助你找到我們的事實。</value>
 	</data>
 	<data name="002_070" xml:space="preserve">
 		<value>原來是這樣被蓋厄斯發現的。你認為我們需要多少時間準備？</value>
 	</data>
 	<data name="002_080" xml:space="preserve">
-		<value>恐怕不長。蓋厄斯發動戰爭的目的就是要把我們從這個世界上剷除。一旦他知道我們最後的據點，他必定傾盡全軍之力……滅了我們。</value>
+		<value>恐怕不多。蓋厄斯發動戰爭的目的就是要把我們從這個世上剷除。一旦他知道我們最後的據點，他必定傾盡全軍之力……殺光我們。</value>
 	</data>
 	<data name="003_000" xml:space="preserve">
 		<value>我看到這裡各式各樣的燈，但都沒有火。這就是無火之光之道嗎？</value>
@@ -190,76 +191,76 @@
 		<value>坐吧，塵。這可能會聽上一段時間。</value>
 	</data>
 	<data name="003_030" xml:space="preserve">
-		<value>我們辛薩克利用的能力世上前所未見。我們建造了精密裝置，例如這些燈，能夠穿透黑暗，不使用一絲星火。</value>
+		<value>我們辛薩克掌控的力量世上前所未見。我們建造了精密裝置，例如這些燈，能夠穿透黑暗，不使用一絲星火。</value>
 	</data>
 	<data name="003_040" xml:space="preserve">
 		<value>是嗎，顯然出了什麼差錯，因為每次塵要拿出地圖時，我們還是得生火。</value>
 	</data>
 	<data name="003_050" xml:space="preserve">
-		<value>不幸的是，古籍上並沒有記載辛薩克是怎麼覆滅的。那些知識已經失傳了──或許是故意的。我們只知道我們這些都是遺族們製造，世世代代傳承下來的。</value>
+		<value>不幸的是，古籍上沒有記載辛薩克是怎麼覆滅的。那些知識已經失傳了──或許是故意的。我們只知道這些都是遺族們製造，世世代代傳承下來的。</value>
 	</data>
 	<data name="003_060" xml:space="preserve">
 		<value>長久以來，我們以為月血族是唯一知道無火之光之道的殘存者……但我們錯了。</value>
 	</data>
 	<data name="003_110" xml:space="preserve">
-		<value>我並沒有說那會很容易。</value>
+		<value>我沒有說過那會很容易。</value>
 	</data>
 	<data name="003_120" xml:space="preserve">
-		<value>從來沒有人做過。</value>
+		<value>沒有人說過吧。</value>
 	</data>
 	<data name="003_130" xml:space="preserve">
-		<value>我做過一次，還記得嗎？</value>
+		<value>我說過啊，還記得嗎？</value>
 	</data>
 	<data name="003_140" xml:space="preserve">
-		<value>是啊，然後就做錯了。</value>
+		<value>是啊，那你就大錯特錯了。</value>
 	</data>
 	<data name="003_070" xml:space="preserve">
-		<value>當蓋厄斯將軍開始了他的血洗，他們的武器也有自己的故事，精密裝置的故事似乎是蔑視自然世界的。那些武器聽起來與辛薩克最古老的傳說相同。</value>
+		<value>當蓋厄斯將軍開始了他的血洗，傳聞他們使用的武器和裝置似乎是違反自然界法則的。那些武器聽起來與辛薩克最古老的傳說一模一樣。</value>
 	</data>
 	<data name="003_080" xml:space="preserve">
-		<value>我們在說的是什麼樣的武器？</value>
+		<value>我們正在說的是什麼樣的武器？</value>
 	</data>
 	<data name="003_090" xml:space="preserve">
 		<value>由光製成的箭，像鳥一樣飛翔的機器……</value>
 	</data>
 	<data name="003_100" xml:space="preserve">
-		<value>我們得用你的……燈，和那樣的東西戰鬥？</value>
+		<value>我們得和那樣的東西戰鬥？用你的……燈？</value>
 	</data>
 	<data name="004_000" xml:space="preserve">
-		<value>好了，我來了，有什麼我能幫忙的嗎？</value>
+		<value>好了，有什麼我能幫忙的嗎？</value>
 	</data>
 	<data name="004_010" xml:space="preserve">
 		<value>我們缺乏人手。我們的總工程師，桑金，在本營地的補給系統上遇到了麻煩。你可以去找他談談，我相信他會再詳細說明的。</value>
 	</data>
 	<data name="004_020" xml:space="preserve">
-		<value>還有一件事，關於我們的偵察兵，奇爾。他已經好幾個小時沒有簽到了，但因為戰爭準備，我們無法調動適當的搜索隊伍。他去營地的東邊巡邏了，麻煩你找到他。</value>
+		<value>還有一件事，關於我們的偵察兵奇爾，他已經好幾個小時沒有來簽到了，但因為戰爭的準備，我們無法調動適當的隊伍搜索。他去營地的東邊巡邏了，麻煩你找到他。</value>
 	</data>
 	<data name="007_000" xml:space="preserve">
-		<value>長老，恐怕有個壞消息。我們發現了奇爾，但他已被蓋厄斯的士兵伏擊了。他完全沒有活命的機會。</value>
+		<value>長老，恐怕有個壞消息。我們找到了奇爾，但他已被蓋厄斯的士兵伏擊了，完全沒有生還的機會。</value>
 	</data>
 	<data name="007_010" xml:space="preserve">
-		<value>也就是說戰爭已經開打了。塵，我們幾乎沒有時間了。請協助桑金讓我們營地的補給系統恢復運作。沒有它們，我們很難展開有效的防禦。</value>
+		<value>那就是說已經開打了。塵，我們幾乎沒有時間了。請幫助桑金讓我們營地的補給系統恢復運作。沒有它們，我們很難展開有效的防禦。</value>
 	</data>
 	<data name="008_000" xml:space="preserve">
-		<value>桑金似乎成功讓抽水機和發電機恢復運作了。</value>
+		<value>抽水機和發電機似乎順利恢復運作了。</value>
 	</data>
 	<data name="008_010" xml:space="preserve">
-		<value>毫無疑問要感謝你的協助。有了電力和水通過我們的營地，我們將有更充分的準備來對付敵人，和照料傷兵。</value>
+		<value>毫無疑問要感謝你的幫助。有了電力和水通過我們的營地，我們將會有更充分的準備來對付敵人，和妥善地照顧傷兵。</value>
 	</data>
 	<data name="008_020" xml:space="preserve">
-		<value>謝謝你，塵。我相信我們已經竭盡全力準備了。敵人就在門口，我們別無選擇，只能開始我們的進攻了。</value>
+		<value>謝謝你，塵。我相信我們已經竭盡全力準備了。敵人就在門口，我們別無選擇，只能展開反擊了。</value>
 	</data>
 	<data name="008_030" xml:space="preserve">
-		<value>我們的戰士集結在營地的邊緣，正等著你去帶領他們。把這顆黃色共鳴石帶著吧，塵。用它來開啟共鳴門。</value>
+		<value>我們的戰士集結在營地的邊緣，正等著你去帶領他們。把這顆黃色共鳴石帶著，塵，用它來開啟共鳴門吧。</value>
 	</data>
 	<data name="008_040" xml:space="preserve">
 		<value>謝謝你所做的一切，長老。</value>
 	</data>
 	<data name="008_050" xml:space="preserve">
-		<value>無論發生什麼，聖．米斯拉林，你要知道，站在你的面前是我的榮幸。月血族人將誓死追隨你。去吧。還有，塵……祝你好運。</value>
+		<value>無論發生什麼，聖．米斯拉林，你要知道，站在你的面前是我的榮幸。月血族將誓死追隨你。去吧！還有，塵……祝你好運。</value>
 	</data>
 	<data name="006_000" xml:space="preserve">
-		<value>米斯拉林，你還需要什麼嗎？</value>
+		<value>米斯拉林，你還想知道什麼嗎？</value>
 	</data>
 	<data name="005_000" xml:space="preserve">
 		<value>謝謝你，長老，但我得出發了。</value>
