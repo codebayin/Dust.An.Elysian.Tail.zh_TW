@@ -193,7 +193,7 @@
 按 [MAP] 查看地圖。</value>
 	</data>
 	<data name="pcunlocking" xml:space="preserve">
-		<value>在時間結束前用 [LTHUMB] 輸入方向順序以開鎖。</value>
+		<value>在時間結束前用 [LTHUMB] 輸入一連串方向以解鎖。</value>
 	</data>
 	<data name="parry" xml:space="preserve">
 		<value>按住 [X] 用自己的劍格擋襲來的攻擊。
@@ -348,7 +348,7 @@
 		<value>做得好！獲取能力球以提升能力！</value>
 	</data>
 	<data name="unlocking" xml:space="preserve">
-		<value>在時間結束前輸入按鈕順序以開鎖。</value>
+		<value>在時間結束前輸入一連串按鈕以解鎖。</value>
 	</data>
 	<data name="upgrade14" xml:space="preserve">
 		<value>習得滑鏟踢！

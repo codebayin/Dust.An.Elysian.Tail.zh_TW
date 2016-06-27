@@ -634,10 +634,10 @@
 		<value>這液體摻入了可怕的瘟疫。</value>
 	</data>
 	<data name="139_Desc" xml:space="preserve">
-		<value>傳說中的靈石，被月血長老召喚出來的。</value>
+		<value>傳說中的靈石，由月血長老召喚出來的。</value>
 	</data>
 	<data name="138_Desc" xml:space="preserve">
-		<value>國王士兵所用的軍用祕藥。</value>
+		<value>國王士兵所用的軍用調製品。</value>
 	</data>
 	<data name="137_Desc" xml:space="preserve">
 		<value>能強化任何金屬的質量，就連造出阿拉的神祕礦石也不例外。</value>
@@ -769,7 +769,7 @@
 		<value>極其堅韌的護甲，蓋厄斯軍團的最高階士兵所穿之物。</value>
 	</data>
 	<data name="205_Desc" xml:space="preserve">
-		<value>專為聖．米斯拉林製作，為了激戰時穿的特殊長袍。</value>
+		<value>專為聖．米斯拉林製作，用以在激戰時穿的特殊長袍。</value>
 	</data>
 	<data name="241_Desc" xml:space="preserve">
 		<value>價值低廉的普通戒指。</value>

@@ -433,13 +433,13 @@
 		<value>與集結在營地東邊的月血戰士們會合。</value>
 	</data>
 	<data name="000_025" xml:space="preserve">
-		<value>近來的火山活動阻斷了道路。為月血戰士們開路。</value>
+		<value>近來的火山活動堵住了道路。為月血戰士們開路。</value>
 	</data>
 	<data name="000_026" xml:space="preserve">
 		<value>向蓋厄斯將軍發動進攻，帶領月血戰士們投入戰鬥。</value>
 	</data>
 	<data name="000_027" xml:space="preserve">
-		<value>敵方的炮火阻斷了你的道路。想摧毀大炮，就必須從側翼進攻。</value>
+		<value>敵人的炮火阻斷了你的道路。要摧毀大炮，你必須從側後突襲。</value>
 	</data>
 	<data name="000_028" xml:space="preserve">
 		<value>完成你的使命，擊敗你的老戰友「蓋厄斯將軍」。</value>
